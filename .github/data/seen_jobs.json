@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-registered-behavior-technician-multiple-cities",
-  "cleaveland-clinic-registered-dietitan-cleveland-clinic-main-campus",
   "cleaveland-clinic-registered-dietitian-ii-center-for-gut-rehab-and-transplant-cleveland-clinic-main-campus",
   "cleaveland-clinic-registered-dietitian-ii-gi-and-nutrition-support-cleveland-clinic-in-campus",
   "cleaveland-clinic-registered-dietitian-inpatient-mercy-hospital",
@@ -75,6 +73,7 @@
   "cleaveland-clinic-registered-nurse-labor-delivery-ft-nights-vuh-nashville",
   "cleaveland-clinic-registered-nurse-labor-delivery-prn-nights-tullahoma-tullahoma",
   "cleaveland-clinic-registered-nurse-main-or-cardiac-surgery-vuh-nashville",
+  "cleaveland-clinic-registered-nurse-med-surg-full-time-nights-lebanon-lebanon",
   "cleaveland-clinic-registered-nurse-med-surg-stepdown-float-pool-prn-nights-vuh-nashville",
   "cleaveland-clinic-registered-nurse-medical-center-east-recovery-night-shift-6p-6a-nashville",
   "cleaveland-clinic-registered-nurse-medical-cvicu-cardiac-progressive-care-step-down-ft-days-vuh-nashville",
@@ -340,6 +339,7 @@
   "cleaveland-clinic-rn-cardiovascular-surgery-stepdown-cleveland-clinic-in-campus",
   "cleaveland-clinic-rn-cardiovascular-telemetry-unit-cleveland-clinic-main-campus",
   "cleaveland-clinic-rn-circulator-cole-eye-cleveland-clinic-in-campus",
+  "cleaveland-clinic-rn-circulator-or-full-time-days-shelbyville-shelbyville",
   "cleaveland-clinic-rn-clinical-adjunct-faculty-internal-medicine-and-ent-plastics-cleveland-clinic-in-campus",
   "cleaveland-clinic-rn-clinical-adjunct-faculty-internal-medicine-and-ent-plastics-cleveland-clinic-main-campus",
   "cleaveland-clinic-rn-clinical-adjunct-faculty-internal-medicine-and-telemetry-cleveland-clinic-in-campus",
