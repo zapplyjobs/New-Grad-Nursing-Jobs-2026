@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-rn-float-pool-euclid-hospital",
-  "cleaveland-clinic-rn-float-pool-florida-weston-hospital",
   "cleaveland-clinic-rn-float-pool-indian-river-hospital",
   "cleaveland-clinic-rn-float-pool-lutheran-hospital",
   "cleaveland-clinic-rn-float-pool-mercy-hospital",
@@ -4703,6 +4701,7 @@
   "intermountain-health-patient-access-acute-representative-prn-platte-valley-hospital",
   "intermountain-health-patient-access-acute-representative-prn-saint-joseph-hospital",
   "intermountain-health-patient-access-acute-representative-prn-st-james-hospital",
+  "intermountain-health-patient-access-acute-representative-prn-st-rys-regional-hospital",
   "intermountain-health-patient-access-acute-representative-st-rys-regional-hospital",
   "intermountain-health-patient-access-associate-prn-good-samaritan-hospital",
   "intermountain-health-patient-account-associate-claims-and-edi-peaks-regional-office",
@@ -4745,6 +4744,7 @@
   "intermountain-health-patient-care-tech-cna-medical-endocrine-intermountain-health-intermountain-medical-center",
   "intermountain-health-patient-care-tech-cna-medical-oncology-intermountain-health-intermountain-medical-center",
   "intermountain-health-patient-care-tech-cna-medical-telemetry-intermountain-health-lds-hospital",
+  "intermountain-health-patient-care-tech-cna-nicu-st-rys-regional-hospital",
   "intermountain-health-patient-care-tech-cna-ortho-plastics-intermountain-health-intermountain-medical-center",
   "intermountain-health-patient-care-tech-cna-ortho-surgical-lutheran-medical-center",
   "intermountain-health-patient-care-tech-cna-orthopedics-intermountain-health-utah-valley-hospital",
