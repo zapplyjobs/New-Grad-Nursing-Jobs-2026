@@ -6604,5 +6604,17 @@
     "job_title": "RN - Diagnostic Imaging",
     "company": "Endeavor Health",
     "first_seen": "2025-11-25T20:40:06.287Z"
+  },
+  "cleaveland-clinic-nurse-asst-prn-(wilson-med/surg)-lebanon": {
+    "assigned_date": "2025-11-25T20:58:31.028Z",
+    "job_title": "Nurse Asst PRN (Wilson Med/Surg)",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-25T20:58:31.028Z"
+  },
+  "cleaveland-clinic-care-partner-(wilson-med/surg-nights)-lebanon": {
+    "assigned_date": "2025-11-25T20:58:31.028Z",
+    "job_title": "Care Partner (Wilson Med/Surg Nights)",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-25T20:58:31.028Z"
   }
 }
