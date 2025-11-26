@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-rn-hospital-float-mercy-hospital",
-  "cleaveland-clinic-rn-hospital-medina-hospital",
   "cleaveland-clinic-rn-hospital-nurse-cardiology-stepdown-cleveland-clinic-in-campus",
   "cleaveland-clinic-rn-hospital-post-anesthesia-care-unit-pacu-adult-cleveland-clinic-in-campus",
   "cleaveland-clinic-rn-hospital-post-anesthesia-care-unit-pacu-adult-cleveland-clinic-main-campus",
@@ -4480,6 +4478,7 @@
   "intermountain-health-medical-assistant-oncology-la-canada-oncology",
   "intermountain-health-medical-assistant-ortho-specialty-group-tosh",
   "intermountain-health-medical-assistant-orthopedic-clinic-prn-intermountain-health-cassia-regional-hospital",
+  "intermountain-health-medical-assistant-orthopedic-specialty-group-tosh",
   "intermountain-health-medical-assistant-orthopedic-urgent-care-intermountain-health-st-george-regional-hospital",
   "intermountain-health-medical-assistant-orthopedics-budge-clinic",
   "intermountain-health-medical-assistant-orthopedics-clinic-rocky-mountain-orthopedics",
@@ -4510,6 +4509,7 @@
   "intermountain-health-medical-assistant-psychiatry-and-counseling-park-city-clinic-intermountain-health-park-city-hospital",
   "intermountain-health-medical-assistant-pulmonary-intermountain-health-mckay-dee-hospital",
   "intermountain-health-medical-assistant-red-lodge-family-medicine-red-lodge-clinic-family-medicine",
+  "intermountain-health-medical-assistant-scribe-dermatology-intermountain-health-mckay-dee-hospital",
   "intermountain-health-medical-assistant-scribe-orthopedics-cedar-city-orthopedics-and-sports-medicine-clinic-orthopedics",
   "intermountain-health-medical-assistant-sleep-center-intermountain-health-st-george-regional-hospital",
   "intermountain-health-medical-assistant-sleep-clinic-intermountain-health-lds-hospital",
