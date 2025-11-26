@@ -1,6 +1,4 @@
 [
-  "cleaveland-clinic-rn-hops-endoscopy-cleveland-clinic-main-campus",
-  "cleaveland-clinic-rn-hops-endoscopy-digestive-disease-institute-cleveland-clinic-in-campus",
   "cleaveland-clinic-rn-hops-endoscopy-digestive-disease-institute-cleveland-clinic-main-campus",
   "cleaveland-clinic-rn-hops-ne-imaging-cleveland-clinic-in-campus",
   "cleaveland-clinic-rn-hops-outpatient-pediatric-pacu-cleveland-clinic-main-campus",
@@ -334,6 +332,7 @@
   "cleaveland-clinic-virtual-tech-telemetry-virtual-care-onsite-nights-nashville",
   "cleaveland-clinic-virtual-tech-telemetry-virtual-care-onsite-part-time-nashville",
   "cleaveland-clinic-vis-full-time-sonographer-vanderbilt-imaging-services-evenings-franklin",
+  "cleaveland-clinic-vis-sonographer-full-time-days-cool-springs-franklin",
   "cleaveland-clinic-visual-field-technician-hillcrest-hospital",
   "cleaveland-clinic-visual-field-technician-i-beachwood-cole-eye-beachwood-cole-eye",
   "cleaveland-clinic-vmg-clinical-genetics-nurse-practitioner-nashville",
@@ -4764,6 +4763,7 @@
   "intermountain-health-patient-service-representative-alta-view-clinic",
   "intermountain-health-patient-service-representative-alta-view-specialty-clinic",
   "intermountain-health-patient-service-representative-at-west-valley-specialties-west-valley-clinic",
+  "intermountain-health-patient-service-representative-billings-downtown-clinic",
   "intermountain-health-patient-service-representative-bountiful-clinic",
   "intermountain-health-patient-service-representative-bozeman-midtown-clinic",
   "intermountain-health-patient-service-representative-broomfield-clinic",
