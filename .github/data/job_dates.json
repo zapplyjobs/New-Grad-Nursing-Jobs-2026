@@ -6724,5 +6724,11 @@
     "job_title": "Scheduling Template Analyst",
     "company": "Endeavor Health",
     "first_seen": "2025-11-26T15:00:19.520Z"
+  },
+  "cleaveland-clinic-phlebotomy-nashville": {
+    "assigned_date": "2025-11-26T15:25:50.230Z",
+    "job_title": "Phlebotomy",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-26T15:25:50.230Z"
   }
 }
