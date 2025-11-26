@@ -6796,5 +6796,17 @@
     "job_title": "Certified Surgical First Assist, PRN - Shelbyville",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-11-26T19:07:16.319Z"
+  },
+  "cleaveland-clinic-nurse-asst-(wilson-county-stepdown---days)-lebanon": {
+    "assigned_date": "2025-11-26T19:29:18.282Z",
+    "job_title": "Nurse Asst (Wilson County Stepdown - Days)",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-26T19:29:18.282Z"
+  },
+  "cleaveland-clinic-nurse-asst-nights-(wilson-county-stepdown---nights)-lebanon": {
+    "assigned_date": "2025-11-26T19:29:18.282Z",
+    "job_title": "Nurse Asst Nights (Wilson County Stepdown - Nights)",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-26T19:29:18.282Z"
   }
 }
