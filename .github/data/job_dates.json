@@ -6706,5 +6706,17 @@
     "job_title": "Medical Laboratory Scientist (MLS)",
     "company": "Endeavor Health",
     "first_seen": "2025-11-26T14:41:16.825Z"
+  },
+  "cleaveland-clinic-physical-therapist-–-nicu-nashville": {
+    "assigned_date": "2025-11-26T14:52:12.437Z",
+    "job_title": "Physical Therapist – NICU",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-26T14:52:12.437Z"
+  },
+  "cleaveland-clinic-medical-lab-scientist-2--microbiology-nashville": {
+    "assigned_date": "2025-11-26T14:52:12.437Z",
+    "job_title": "Medical Lab Scientist 2- Microbiology",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-11-26T14:52:12.437Z"
   }
 }
