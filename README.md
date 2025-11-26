@@ -118,18 +118,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Alcohol Drug Rehab Counselor 🏠 | Summit Medical Office Building | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Summit-Medical-Office-Building/Alcohol-Drug-Rehab-Counselor_321392) | 1d |
 | Audiologist – Adult Hearing Care 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Audiologist---Adult-Otology---Vestibular-Focus_R-49890-1) | 16h |
 | Occupational Therapist – Pediatric CHT (OTR/L) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist---Pediatric-CHT--OTR-L-_R-49290-1) | 4d |
-| Care Partner - VAD & Heart Transplant (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---VAD---Heart-Transplant--Nights-_R-50317-1) | 2h |
-| Interventional Technologist - $10k Signing Bonus - FT – DAYS - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Interventional-Technologist----10k-Signing-Bonus---FT---DAYS---VUH_R-50419-1) | 2h |
-| Medical Assistant - GI Clinic - Franklin 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/Medical-Assistant---GI-Clinic---Franklin_R-50730-1) | 2h |
-| Medical Receptionist - Cardiac Progressive Care (Evenings) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist---Cardiac-Progressive-Care--Evenings-_R-49181-1) | 2h |
-| Patient Service Specicalist - Vanderbilt Lung Institute - One Hundred Oaks 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Patient-Service-Specicalist---Vanderbilt-Lung-Institute---One-Hundred-Oaks_R-50647-1) | 2h |
-| VIS Sonographer - Full Time Days - Cool Springs 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/VIS-Sonographer---Full-Time-Days---Cool-Springs_R-50621) | 2h |
+| Care Partner - VAD & Heart Transplant (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---VAD---Heart-Transplant--Nights-_R-50317-1) | 3h |
+| Interventional Technologist - $10k Signing Bonus - FT – DAYS - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Interventional-Technologist----10k-Signing-Bonus---FT---DAYS---VUH_R-50419-1) | 3h |
+| Medical Assistant - GI Clinic - Franklin 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/Medical-Assistant---GI-Clinic---Franklin_R-50730-1) | 3h |
+| Medical Receptionist - Cardiac Progressive Care (Evenings) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Receptionist---Cardiac-Progressive-Care--Evenings-_R-49181-1) | 3h |
+| Patient Service Specicalist - Vanderbilt Lung Institute - One Hundred Oaks 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Patient-Service-Specicalist---Vanderbilt-Lung-Institute---One-Hundred-Oaks_R-50647-1) | 3h |
+| VIS Sonographer - Full Time Days - Cool Springs 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/VIS-Sonographer---Full-Time-Days---Cool-Springs_R-50621) | 3h |
 | Nurse Asst PRN (Wilson Med/Surg) | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Nurse-Asst-PRN--Wilson-Med-Surg-_R-47098) | 12h |
 | Care Partner (Wilson Med/Surg Nights) | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Care-Partner--Wilson-Med-Surg-Nights-_R-48597-1) | 12h |
 | TempForce Environmental Tech | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/TempForce-Environmental-Tech_R-44799-1) | 12h |
 | Care Partner (Pediatrics HR/PACU) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--Pediatrics-HR-PACU-_R-49773) | 15h |
 | Medical Assistant PRN - Radiation Oncology | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant-PRN---Radiology-Oncology_R-46682-1) | 15h |
-| Rep Family/Guest Services PRN | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Rep-Family-Guest-Services-PRN_R-50565-1) | 15h |
+| Rep Family/Guest Services PRN | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Rep-Family-Guest-Services-PRN_R-50565-1) | 16h |
 | Physical Therapy Assistant (PTA) PRN 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Physical-Therapy-Assistant--PTA--PRN_R-47977-1) | 16h |
 | Charge RN - Ear, Nose & Throat (ENT) Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-Charge_R-47578) | 16h |
 | Certified Surgical Tech OR, Tullahoma 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Certified-Surgical-Tech-OR--Tullahoma_R-47955-1) | 19h |
@@ -218,10 +218,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (96 positions)
+### ✝️ **Faith-Based Health Systems** (99 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (42 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (45 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -267,6 +267,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse (RN) - ED, IMCU, ICU, or CVICU | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN----ED--IMCU--ICU--or-CVICU_R1033648) | 5d |
 | Registered Nurse (RN)/ Nurse Extern II – May/Summer 2026 New Graduates | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN---Nurse-Extern-II---May-Summer-2026-New-Graduates_R1033645-1) | 5d |
 | Registered Nurse (RN) - Intensive Care (ICU) & Medical/Surgical (Med/Surg) | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Registered-Nurse--RN----Intensive-Care--ICU----Medical-Surgical--Med-Surg-_R1033643) | 5d |
+| Health Clerk | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Health-Clerk_R1030012) | 6d |
+| Emergency Technician | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Emergency-Technician_R1031459) | 6d |
+| Registered Nurse (RN) ICU | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Registered-Nurse--RN--ICU_R1033527) | 6d |
 
 </details>
 
@@ -332,10 +335,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### 🎓 **Academic Medical Centers** (61 positions)
+### 🎓 **Academic Medical Centers** (58 positions)
 
 <details>
-<summary><h4>📚 <strong>University of Rochester Medical Center</strong> (53 positions)</h4></summary>
+<summary><h4>📚 <strong>University of Rochester Medical Center</strong> (50 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -389,9 +392,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Respiratory Extern Program | Strong Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Respiratory-Extern-Program_R262277?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Respiratory Therapist 2, Inpatient | Strong Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Respiratory-Therapist-2--Inpatient_R262278?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | SSC - Strong Surgical Center 2nd Floor - LPN 2, Outpatient | Strong Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/SSC---Strong-Surgical-Center-2nd-Floor----LPN-2--Outpatient_R264467?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
-| Second Floor Operating Room – Surgical Technologist | Strong Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Second-Floor-Operating-Room---Surgical-Technologist_R264334?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
-| Transition to Emergency Medicine Practice Program - FNP/PA | Strong Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Transition-to-Emergency-Medicine-Practice-Program---FNP-PA_R264772-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
-| UR Medicine Adult Pelvic Health & Continence Care – LPN | Strong Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/UR-Medicine-Adult-Pelvic-Health---Continence-Care---LPN_R263498?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 
 </details>
 
@@ -484,7 +484,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
-📚 **[University of Rochester Medical Center](https://rochester.wd5.myworkdayjobs.com/UR_Nursing)** (53 positions) • 🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (8)
+📚 **[University of Rochester Medical Center](https://rochester.wd5.myworkdayjobs.com/UR_Nursing)** (50 positions) • 🏥 **[VCU Health](https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers)** (8)
 
 
 #### 🔗 **Regional Health Networks** (1 company)
@@ -503,14 +503,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 ### 🌍 **Top Locations**
-- **Strong Memorial Hospital**: 33 positions
+- **Strong Memorial Hospital**: 30 positions
 - **Nashville, TN**: 18 positions
 - **Green Bay, WI**: 14 positions
 - **O'Fallon, IL**: 10 positions
 - **NYP/Weill Cornell Medical Center**: 9 positions
 - **Cleveland Clinic in Campus**: 8 positions
+- **Springfield, IL**: 8 positions
 - **Abbott Northwestern Hospital**: 8 positions
-- **Multiple Cities**: 7 positions
 
 ---
 
