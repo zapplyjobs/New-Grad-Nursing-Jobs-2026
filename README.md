@@ -161,6 +161,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Mental Health Worker - Psychiatry/Medicine - 11N - Nights | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Mental-Health-Worker---Psychiatry-Medicine---11N---Nights_00872550) | 1d |
 | Information Technology Analyst | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Information-Technology-Analyst-II_00874075) | 1d |
 | Clinical Nurse I - RN - Cardiac Medicine SD Nights | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Clinical-Nurse-I---RN---Cardiac-Medicine-SD-Nights_00874588-1) | 1d |
 | Surgical Technician - Perioperative Services – Full-time – 11:00AM-9:30PM | NYP/Brooklyn Methodist Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Surgical-Technician---Perioperative-Services---Full-time---Days--7AM-5-30PM-_00870266-1) | 1d |
@@ -171,7 +172,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Laboratory Technologist - Full Time - Microbiology - Evenings - Competitive Sign On Bonus | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Laboratory-Technologist---Full-Time---Microbiology---Evenings---Competitive-Sign-On-Bonus_00874294-1) | 1d |
 | Laboratory Technologist - Automated Lab (Chemistry) - Evenings - Competitive Sign-On Bonus and New Rates | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Laboratory-Technologist---Automated-Lab--Chemistry----Evenings---Competitive-Sign-On-Bonus-and-New-Rates_00874292-1) | 1d |
 | Laboratory Technologist - Automated Lab (Chemistry) - Days - Competitive Sign-On Bonus and New Rates | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Laboratory-Technologist---Automated-Lab--Chemistry----Days---Competitive-Sign-On-Bonus-and-New-Rates_00874293-1) | 1d |
-| Equipment Technician -Periop- Full time -Mid shift | NYP/Lower nhattan Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPLower-Manhattan-Hospital/Equipment-Technician--Periop--Full-time--Mid-shift_00873204-1) | 1d |
 | Waste Disposal Attendant - CUIMC - Part-Time - Rotating Shift w/Weekends and Holidays Schedule | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Waste-Disposal-Attendant---CUIMC---Part-Time---Rotating-Shift-w-Weekends-and-Holidays-Schedule_00870247-2) | 1d |
 | Waxer Stripper - CUIMC - Full-Time - Night Shift - 11:00 pm - 7:00 am (Weekends and Holidays Schedules) | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Waxer-Stripper---CUIMC---Full-Time---Night-Shift---11-00-pm---7-00-am--Weekends-and-Holidays-Schedules-_00870902-2) | 1d |
 | Laundry Worker II - CUIMC - Part-Time - Rotating Shifts - (weekends and holidays schedules) | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Laundry-Worker-II---CUIMC---Part-Time---Rotating-Shifts----weekends-and-holidays-schedules-_00872867-2) | 1d |
@@ -531,7 +531,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Springfield, IL**: 18 positions
 - **Richmond, VA**: 14 positions
 - **Multiple Cities**: 12 positions
-- **NYP/Weill Cornell Medical Center**: 10 positions
+- **NYP/Weill Cornell Medical Center**: 11 positions
 - **Abbott Northwestern Hospital**: 9 positions
 
 ---
