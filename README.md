@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-329-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-330-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 329+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 330+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 329 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 330 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** November 29, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -72,7 +72,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (118 positions)
+### ⭐ **Elite Medical Centers** (119 positions)
 
 <details>
 <summary><h4>⭐ <strong>Cleveland Clinic</strong> (56 positions)</h4></summary>
@@ -112,9 +112,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Ambulatory Clinics - Licensed Practical Nurse | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Ambulatory-Clinics_R-51029-1) | 2d |
 | Physical Therapist – NICU | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Phyical-Therapist---NICU-Monroe-Carell-Jr-Children-s-Hospital-at-Vanderbilt_R-50183-1) | 2d |
 | Audiologist – Adult Hearing Care | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Audiologist---Adult-Otology---Vestibular-Focus_R-49890-1) | 3d |
-| Paramedic PRN - Clarksville | Clarksville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Clarksville-TN/Paramedic-PRN---Clarksville_R-50592-1) | 3h |
-| Part Time Research Assistant 1 - Hematology/Oncology (Term Position) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Part-Time-Research-Assistant-1---Hematology-Oncology--Term-Position-_R-50562-1) | 3h |
-| RN, Registered Nurse 2 Pediatric Heart Institute | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2_R-49473-1) | 3h |
+| Paramedic PRN - Clarksville | Clarksville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Clarksville-TN/Paramedic-PRN---Clarksville_R-50592-1) | 4h |
+| Part Time Research Assistant 1 - Hematology/Oncology (Term Position) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Part-Time-Research-Assistant-1---Hematology-Oncology--Term-Position-_R-50562-1) | 4h |
+| RN, Registered Nurse 2 Pediatric Heart Institute | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2_R-49473-1) | 4h |
 | Licensed Practical Nurse Procedural - Dermatology Mohs Clinic - OHO | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse-Procedural---Dermatology-Mohs-Clinic---OHO_R-49857) | 1d |
 | Section Clinical Trials Collaborative Research Nurse | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Section-Clinical-Trials-Collaborative-Research-Nurse---Hybrid_R-50260-1) | 1d |
 | PRN Medical Assistant | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/PRN-Medical-Assistant_R-50207-1) | 2d |
@@ -139,10 +139,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>🗽 <strong>New York Presbyterian</strong> (42 positions)</h4></summary>
+<summary><h4>🗽 <strong>New York Presbyterian</strong> (43 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Nursing Attendant I - Float Pool - PT - Nights | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Nursing-Attendant-I---Float-Pool---PT---Nights_00874324-1) | 1d |
 | Pharmacy Technician | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Pharmacy-Technician_00873607-1) | 1d |
 | Mental Health Worker - Psychiatry/Medicine - 11N - Nights | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Mental-Health-Worker---Psychiatry-Medicine---11N---Nights_00872550) | 2d |
 | Information Technology Analyst | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Information-Technology-Analyst-II_00874075) | 2d |
@@ -467,7 +468,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| Infection Preventionist-Days 🏠 | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Infection-Preventionist-Days_R36545?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 12h |
+| Infection Preventionist-Days 🏠 | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Infection-Preventionist-Days_R36545?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
 | Registered Nurse Utilization Review-Days 🏠 | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Registered-Nurse-Utilization-Review-Days_R36417?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 12h |
 | Applications Analyst 🏠 | NCO 3040 Salt Creek Ln Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCO-3040-Salt-Creek-Ln-Arlington-Heights/Applications-Analyst-III_R36551-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 15h |
 | Coding Educator 🏠 | NSO Corporate Office Skokie | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-4901-Searle-Parkway-Corporate-Office-Skokie/Coding-Educator_R31709?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 17h |
@@ -483,7 +484,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (42 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (20) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (48)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (43 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (20) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (48)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -500,8 +501,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 68 | 21% | No or minimal experience |
-| 🟡 Beginner & Early Career | 147 | 45% | 1-2 years of experience |
-| 🔴 Manager     | 114 | 35% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 163 | 49% | 1-2 years of experience |
+| 🔴 Manager     | 99 | 30% | 2+ years of experience |
 
 ---
 
@@ -512,14 +513,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Richmond, VA**: 13 positions
 - **Multiple Cities**: 11 positions
 - **NYP/Weill Cornell Medical Center**: 11 positions
+- **NYP/Columbia University Irving Medical Center**: 10 positions
 - **Intermountain Health Intermountain Medical Center**: 9 positions
-- **Mercy Hospital**: 9 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 329+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 330+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -707,7 +708,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **329 current opportunities from 9 elite companies.**
+🎯 **330 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
