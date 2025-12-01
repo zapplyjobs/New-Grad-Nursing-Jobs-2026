@@ -7078,5 +7078,11 @@
     "job_title": "Patient Care Technician-Cardiac/Stroke-Day/Evening",
     "company": "Endeavor Health",
     "first_seen": "2025-12-01T13:46:13.117Z"
+  },
+  "endeavor-health-patient-care-technician-cardiac/stroke-days-evh-evanston-hospital": {
+    "assigned_date": "2025-12-01T13:58:03.261Z",
+    "job_title": "Patient Care Technician-Cardiac/Stroke-Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-01T13:58:03.261Z"
   }
 }
