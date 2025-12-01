@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-323-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-318-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 323+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 318+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 323 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 318 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 1, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -115,20 +115,20 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Physical Therapist – NICU | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Phyical-Therapist---NICU-Monroe-Carell-Jr-Children-s-Hospital-at-Vanderbilt_R-50183-1) | 4d |
 | Audiologist – Adult Hearing Care | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Audiologist---Adult-Otology---Vestibular-Focus_R-49890-1) | 5d |
 | Nurse Residency Program Winter | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nurse-Residency-Program-Winter-2026_R-44374-1) | 1mo |
-| AEMT PRN - LifeFlight Event Medicine - Nashville | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/AEMT-PRN---LifeFlight-Event-Medicine----Nashville_R-51033-1) | 1h |
-| Care Partner - 5RW Palliative Care Unit FT Days and Nights Available | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---5RW-Palliative-Care-Unit-FT_R-49743-1) | 1h |
+| AEMT PRN - LifeFlight Event Medicine - Nashville | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/AEMT-PRN---LifeFlight-Event-Medicine----Nashville_R-51033-1) | 2h |
+| Care Partner - 5RW Palliative Care Unit FT Days and Nights Available | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---5RW-Palliative-Care-Unit-FT_R-49743-1) | 2h |
 | Care Partner - VAD & Heart Transplant (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---VAD---Heart-Transplant--Nights-_R-50536-1) | 5d |
-| Care Partner PRN - Adult Emergency Services - Night Shift 18:45 - 07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner-PRN---Adult-Emergency-Services---Night-Shift-18-45---07-15_R-50600-1) | 1h |
+| Care Partner PRN - Adult Emergency Services - Night Shift 18:45 - 07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner-PRN---Adult-Emergency-Services---Night-Shift-18-45---07-15_R-50600-1) | 2h |
 | Certified Pharmacy Technician - Vanderbilt University Hospital | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Vanderbilt-University-Hospital_R-50548-2) | 4d |
-| Certified Surgical Tech, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-Surgical-Tech--Lebanon----20k-Bonus_R-50533-2) | 1h |
-| Clinical Athletic Trainer | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Mount-Juliet-TN/Clinical-Athletic-Trainer_R-49762-1) | 1h |
-| MRI Tech 2 I Pediatrics I Weekend shift I $10k sign on | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/MRI-Tech-2-I-Pediatrics-I-Weekend-shift-I--10k-sign-on_R-50678-1) | 1h |
-| Medical Assistant - Hi-Rise Clinic | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant---Hi-Rise-Clinic_R-50408-1) | 1h |
-| Paramedic PRN - LifeFlight Event Medicine - Nashville | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Paramedic-PRN---LifeFlight-Event-Medicine---Nashville_R-51032-2) | 1h |
-| Physical Therapist – Pediatric Outpatient Rehab | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Pediatric-Outpatient-Rehab_R-50556-2) | 1h |
-| Radiologic Technologist PRN - Vanderbilt Children's Hospital | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Radiologic-Technologist-PRN---Vanderbilt-Children-s-Hospital_R-50852) | 1h |
-| TempForce Certified Surgical First Assist - Shelbyville | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/TempForce-Certified-Surgical-First-Assist---Shelbyville_R-50657-1) | 1h |
-| TempForce Surgical Tech, Lebanon | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/TempForce-Surgical-Tech--Lebanon_R-50786-1) | 1h |
+| Certified Surgical Tech, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-Surgical-Tech--Lebanon----20k-Bonus_R-50533-2) | 2h |
+| Clinical Athletic Trainer | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Mount-Juliet-TN/Clinical-Athletic-Trainer_R-49762-1) | 2h |
+| MRI Tech 2 I Pediatrics I Weekend shift I $10k sign on | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/MRI-Tech-2-I-Pediatrics-I-Weekend-shift-I--10k-sign-on_R-50678-1) | 2h |
+| Medical Assistant - Hi-Rise Clinic | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant---Hi-Rise-Clinic_R-50408-1) | 2h |
+| Paramedic PRN - LifeFlight Event Medicine - Nashville | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Paramedic-PRN---LifeFlight-Event-Medicine---Nashville_R-51032-2) | 2h |
+| Physical Therapist – Pediatric Outpatient Rehab | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Pediatric-Outpatient-Rehab_R-50556-2) | 2h |
+| Radiologic Technologist PRN - Vanderbilt Children's Hospital | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Radiologic-Technologist-PRN---Vanderbilt-Children-s-Hospital_R-50852) | 2h |
+| TempForce Certified Surgical First Assist - Shelbyville | Shelbyville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/TempForce-Certified-Surgical-First-Assist---Shelbyville_R-50657-1) | 2h |
+| TempForce Surgical Tech, Lebanon | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/TempForce-Surgical-Tech--Lebanon_R-50786-1) | 2h |
 | Care Partner - Cardiac Stepdown (Days) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Cardiac-Stepdown--Days-_R-45383-1) | 1d |
 | Sterile Processing Tech- 2nd Shift- VCCOC- $5,000 Sign-On Bonus | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Central-Sterile-Processing-Tech--2nd-Shift--VCCOC---5-000-Sign-On-Bonus_R-50804-1) | 1d |
 | NP Nurse Practitioner / PA Physician Assistant - Interventional Cardiology/Cath Lab | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/NP-Nurse-Practitioner---PA-Physician-Assistant---Interventional-Cardiology-Cath-Lab_R-35902-1) | 1d |
@@ -213,7 +213,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (102 positions)
+### ✝️ **Faith-Based Health Systems** (97 positions)
 
 <details>
 <summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (49 positions)</h4></summary>
@@ -273,7 +273,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>⛰️ <strong>Intermountain Health</strong> (53 positions)</h4></summary>
+<summary><h4>⛰️ <strong>Intermountain Health</strong> (48 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -296,11 +296,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Patient Service Representative | MGBL West End MOB - Billings | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/MGBL-West-End-MOB---Billings/Patient-Service-Representative_R157312) | 3d |
 | Radiology Technologist $5000 Bonus | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Radiology-Technologist--5000-Bonus_R157477) | 3d |
 | Medical Assistant Heart Failure and Transplant | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Medical-Assistant-Heart-Failure-and-Transplant_R157263) | 3d |
-| Registered Nurse Emergency Department 🏠 | Intermountain Health Layton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Layton-Hospital/Registered-Nurse-Emergency-Department_R156811) | 3d |
-| Medical Assistant Oncology 🏠 | Intermountain Health McKay-Dee Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-McKay-Dee-Hospital/Medical-Assistant-Oncology_R157394) | 3d |
-| CT Technologist Nights $7500 Bonus 🏠 | Intermountain Health Primary Childrens Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/CT-Technologist-Nights--7500-Bonus_R157476-1) | 3d |
-| Registered Nurse Emergency Department 🏠 | Good Samaritan Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Good-Samaritan-Hospital/Registered-Nurse-Emergency-Department_R155999) | 3d |
-| CT Technologist Nights $7500 Bonus 🏠 | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/CT-Technologist-Nights--7500-Bonus_R157474) | 3d |
 | Patient Service Representative 🏠 | Jerry and Kathleen Grundhofer Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Jerry-and-Kathleen-Grundhofer-Clinic/Patient-Service-Representative_R155882) | 3d |
 | Interventional Radiologist in Training $2500 Bonus 🏠 | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Interventional-Radiologist-in-Training--2500-Bonus_R157473) | 3d |
 | Angio Interventionalist $2500 Bonus 🏠 | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Angio-Interventionalist--2500-Bonus_R157472) | 3d |
@@ -313,12 +308,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Patient Service Rep--Spanish Fork Phys Med & Rehab 🏠 | Intermountain Health Spanish Fork Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Spanish-Fork-Hospital/Patient-Service-Rep--Spanish-Fork-Phys-Med---Rehab_R157369) | 3d |
 | Registered Nurse Interventional Radiology 🏠 | Saint Joseph Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Saint-Joseph-Hospital/Registered-Nurse-Interventional-Radiology_R153637) | 3d |
 | Patient Service Representative - Urology 🏠 | Intermountain Health St George Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Patient-Service-Representative---Urology_R156735) | 3d |
-| Registered Respiratory Therapist | Holy Rosary Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Holy-Rosary-Hospital/Registered-Respiratory-Therapist_R134238) | 3d |
-| Physical Therapist Outpatient | Holy Rosary Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Holy-Rosary-Hospital/Physical-Therapist_R128889) | 3d |
-| Pediatric Physical Therapist | Holy Rosary Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Holy-Rosary-Hospital/Physical-Therapist_R108677) | 3d |
-| Patient Service Representative | Intermountain Health St George Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Patient-Service-Representative_R154126) | 3d |
-| Patient Service Representative | Intermountain Health Garfield Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Garfield-Memorial-Hospital/Patient-Service-Representative_R155286) | 3d |
-| Patient Service Representative PRN | Intermountain Health Garfield Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Garfield-Memorial-Hospital/Patient-Service-Representative-PRN_R155287) | 3d |
+| Registered Respiratory Therapist 🏠 | Holy Rosary Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Holy-Rosary-Hospital/Registered-Respiratory-Therapist_R134238) | 3d |
+| Physical Therapist Outpatient 🏠 | Holy Rosary Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Holy-Rosary-Hospital/Physical-Therapist_R128889) | 3d |
+| Pediatric Physical Therapist 🏠 | Holy Rosary Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Holy-Rosary-Hospital/Physical-Therapist_R108677) | 3d |
+| Patient Service Representative 🏠 | Intermountain Health St George Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Patient-Service-Representative_R154126) | 3d |
+| Patient Service Representative 🏠 | Intermountain Health Garfield Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Garfield-Memorial-Hospital/Patient-Service-Representative_R155286) | 3d |
+| Patient Service Representative PRN 🏠 | Intermountain Health Garfield Memorial Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Garfield-Memorial-Hospital/Patient-Service-Representative-PRN_R155287) | 3d |
 | Patient Service Representative | Patterson Primary Care Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Patterson-Primary-Care-Clinic/Patient-Service-Representative_R157421) | 3d |
 | Environmental Services Tech Housekeeping | St. rys Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/St-Marys-Regional-Hospital/Environmental-Services-Tech--Housekeeping_R156997-1) | 3d |
 | Line Cook | Intermountain Health St George Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Line-Cook_R157200) | 3d |
@@ -477,7 +472,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (33 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (19) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (53)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (33 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (19) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (48)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -493,9 +488,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 85 | 26% | No or minimal experience |
-| 🟡 Beginner & Early Career | 118 | 37% | 1-2 years of experience |
-| 🔴 Manager     | 120 | 37% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 85 | 27% | No or minimal experience |
+| 🟡 Beginner & Early Career | 112 | 35% | 1-2 years of experience |
+| 🔴 Manager     | 121 | 38% | 2+ years of experience |
 
 ---
 
@@ -507,13 +502,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **NYP/Weill Cornell Medical Center**: 12 positions
 - **Mercy Hospital**: 11 positions
 - **EDH in Hospital Naperville**: 10 positions
-- **Intermountain Health Intermountain Medical Center**: 9 positions
+- **Intermountain Health Intermountain Medical Center**: 8 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 323+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 318+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -715,7 +710,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **323 current opportunities from 9 elite companies.**
+🎯 **318 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
