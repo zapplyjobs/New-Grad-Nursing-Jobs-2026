@@ -7054,5 +7054,29 @@
     "job_title": "TempForce Surgical Tech, Lebanon",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-12-01T06:17:15.517Z"
+  },
+  "cleaveland-clinic-medical-assistant---float-pool-nashville": {
+    "assigned_date": "2025-12-01T13:46:13.116Z",
+    "job_title": "Medical Assistant - Float Pool",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-01T13:46:13.116Z"
+  },
+  "endeavor-health-registered-nurse-cardiac/stroke-day/evening-evh-evanston-hospital": {
+    "assigned_date": "2025-12-01T13:46:13.117Z",
+    "job_title": "Registered Nurse-Cardiac/Stroke-Day/Evening",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-01T13:46:13.117Z"
+  },
+  "endeavor-health-patient-care-technician-cardiac/stroke-evenings-evh-evanston-hospital": {
+    "assigned_date": "2025-12-01T13:46:13.117Z",
+    "job_title": "Patient Care Technician-Cardiac/Stroke-Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-01T13:46:13.117Z"
+  },
+  "endeavor-health-patient-care-technician-cardiac/stroke-day/evening-evh-evanston-hospital": {
+    "assigned_date": "2025-12-01T13:46:13.117Z",
+    "job_title": "Patient Care Technician-Cardiac/Stroke-Day/Evening",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-01T13:46:13.117Z"
   }
 }
