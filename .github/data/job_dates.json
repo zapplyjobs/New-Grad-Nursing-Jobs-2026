@@ -7318,5 +7318,17 @@
     "job_title": "Sterile Processing Technician Certified - Surgery - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-12-02T16:46:02.026Z"
+  },
+  "endeavor-health-pre-admission-medical-assistant---surgery---days-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-02T17:14:06.140Z",
+    "job_title": "Pre-Admission Medical Assistant - Surgery - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-02T17:14:06.140Z"
+  },
+  "endeavor-health-physician--urologist,/urologic-oncologist--elmhurst-emh-center-for-health-building-elmhurst": {
+    "assigned_date": "2025-12-02T17:14:06.140Z",
+    "job_title": "Physician- Urologist,/Urologic Oncologist- Elmhurst",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-02T17:14:06.140Z"
   }
 }
