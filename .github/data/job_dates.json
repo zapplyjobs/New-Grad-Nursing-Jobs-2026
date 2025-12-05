@@ -8020,5 +8020,17 @@
     "job_title": "Medical Assistant - Occupational Health - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-12-05T19:08:34.474Z"
+  },
+  "endeavor-health-rn---endoscopy---days-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-05T19:41:09.446Z",
+    "job_title": "RN - Endoscopy - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-05T19:41:09.446Z"
+  },
+  "endeavor-health-registered-nurse---gi-lab-evh-evanston-hospital": {
+    "assigned_date": "2025-12-05T19:41:09.446Z",
+    "job_title": "Registered Nurse - GI Lab",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-05T19:41:09.446Z"
   }
 }
