@@ -8032,5 +8032,17 @@
     "job_title": "Registered Nurse - GI Lab",
     "company": "Endeavor Health",
     "first_seen": "2025-12-05T19:41:09.446Z"
+  },
+  "cleaveland-clinic-medical-lab-tech-prn-tullahoma": {
+    "assigned_date": "2025-12-05T20:40:09.903Z",
+    "job_title": "Medical Lab Tech PRN",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-05T20:40:09.903Z"
+  },
+  "endeavor-health-phlebotomist-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-05T20:40:09.903Z",
+    "job_title": "Phlebotomist",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-05T20:40:09.903Z"
   }
 }
