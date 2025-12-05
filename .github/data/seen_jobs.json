@@ -1,6 +1,4 @@
 [
-  "databricks-sr-engineering-manager-backend-bengaluru",
-  "databricks-sr-engineering-manager-infrastructure-mountain-view",
   "databricks-sr-engineering-manager-lakeflow-pipeline-mountain-view",
   "databricks-sr-engineering-manager-mountain-view",
   "databricks-sr-engineering-manager-photon-team-san-francisco-san-francisco",
@@ -220,6 +218,7 @@
   "endeavor-health-department-support-assistant-i-maternal-fetal-medicine-days-emh-in-hospital-elmhurst",
   "endeavor-health-department-support-assistant-i-mother-baby-days-emh-in-hospital-elmhurst",
   "endeavor-health-department-support-assistant-i-mother-baby-nights-edh-in-hospital-naperville",
+  "endeavor-health-department-support-assistant-ii-sleep-lab-days-multiple-cities",
   "endeavor-health-department-support-assistant-mother-baby-nights-edh-in-hospital-naperville",
   "endeavor-health-dermatologist-multiple-cities",
   "endeavor-health-diagnostic-imaging-assistant-ct-department-nights-edh-main-hospital-naperville",
@@ -3680,6 +3679,7 @@
   "intermountain-health-denials-analyst-peaks-regional-office",
   "intermountain-health-dermatologist-heber-valley-clinic",
   "intermountain-health-dermatologist-taylorsville-clinic",
+  "intermountain-health-device-technician-grand-junction-cardiothorasic",
   "intermountain-health-device-technician-lutheran-clinic",
   "intermountain-health-dialysis-technician-utah-dialysis-center",
   "intermountain-health-diet-aide-prn-st-james-hospital",
