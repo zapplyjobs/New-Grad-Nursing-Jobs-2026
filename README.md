@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-50-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-46-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 1+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 50+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 1+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 46+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 50 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 46 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 1 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 6, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -72,10 +72,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ✝️ **Faith-Based Health Systems** (50 positions)
+### ✝️ **Faith-Based Health Systems** (46 positions)
 
 <details>
-<summary><h4>⛰️ <strong>Intermountain Health</strong> (50 positions)</h4></summary>
+<summary><h4>⛰️ <strong>Intermountain Health</strong> (46 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -112,23 +112,19 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Medical Assistant OBGYN 🏠 | Platte Valley Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Platte-Valley-Hospital/Medical-Assistant-OBGYN_R157451) | 1d |
 | Neonatal Rehab Therapist 🏠 | Intermountain Health Utah Valley Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Utah-Valley-Hospital/Neonatal-Rehab-Therapist_R157749) | 1d |
 | Registered Nurse Emergency Department 🏠 | Saint Joseph Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Saint-Joseph-Hospital/Registered-Nurse-Emergency-Department_R157903) | 1d |
-| Registered Nurse Medical Surgical 🏠 | Intermountain Health Heber Valley Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Heber-Valley-Hospital/Registered-Nurse-Medical-Surgical_R155561) | 1d |
-| Exercise Physiologist 🏠 | Intermountain Health McKay-Dee Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-McKay-Dee-Hospital/Exercise-Physiologist_R157866) | 1d |
-| New Grad RN Med Surg 🏠 | St. rys Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/St-Marys-Regional-Hospital/New-Grad-RN-Med-Surg_R105499) | 1d |
-| Physical Therapist Homecare 🏠 | Central Office - Las Vegas | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Central-Office---Las-Vegas/Physical-Therapist-Homecare_R156483) | 1d |
-| Environmental Services Tech Housekeeping Emergency Department Nights 🏠 | Intermountain Health Cedar City Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Cedar-City-Hospital/Environmental-Services-Tech-Housekeeping--Emergency-Department-Nights_R157486) | 1d |
-| Registered Nurse Orthopedics and Plastics 🏠 | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Registered-Nurse-Orthopedics-and-Plastics_R140149) | 1d |
-| PRN Neurosurgery Nurse Practitioner or Physician Assistant 🏠 | Advanced Medical Pavilion | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Advanced-Medical-Pavilion/PRN-Neurosurgery-Nurse-Practitioner-or-Physician-Assistant_R144152) | 1d |
-| Registered Nurse Med Surg 🏠 | Saint Joseph Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Saint-Joseph-Hospital/RN-COFR_R155099) | 1d |
-| Registered Nurse Mom Baby Postpartum PRN 🏠 | Saint Joseph Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Saint-Joseph-Hospital/Registered-Nurse-Mom-Baby-Postpartum-PRN_R156626) | 1d |
-| Minimally Invasive Gynecologic Surgeon (MIGS) 🏠 | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Minimally-Invasive-Gynecologic-Surgeon--MIGS-_R157594-1) | 1d |
-| Patient Care Tech (C.N.A) - Emergency PRN 🏠 | Intermountain Health Utah Valley Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Utah-Valley-Hospital/Patient-Care-Tech--CNA----Emergency-PRN_R157859-1) | 1d |
-| Patient Care Tech CNA Critical Care 🏠 | Intermountain Health Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Patient-Care-Tech-CNA-Critical-Care_R157133) | 1d |
-| Nutrition Care Associate 🏠 | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Nutrition-Care-Associate_R157192) | 1d |
-| Vascular Sonographer 🏠 | Good Samaritan Medical Office Pavilion | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Good-Samaritan-Medical-Office-Pavilion/Vascular-Sonographer_R156753) | 1d |
-| Vascular Sonographer 🏠 | Platte Valley Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Platte-Valley-Clinic/Vascular-Sonographer_R155663) | 1d |
-| HVAC Technician 🏠 | Primary Childrens at Lehi | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Primary-Childrens-at-Lehi/HVAC-Technician_R155319) | 1d |
-| EVS Technician 🏠 | Intermountain Health Riverton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/EVS-Technician_R156864) | 1d |
+| Pediatric Occupational Therapist 🏠 | Layton Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Layton-Clinic/Pediatric-Occupational-Therapist_R156683) | 1d |
+| Registered Respiratory Therapist PRN 🏠 | Intermountain Health Riverton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Registered-Respiratory-Therapist-PRN_R149938) | 1d |
+| Registered Respiratory Therapist Nights 🏠 | Intermountain Health Riverton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Registered-Respiratory-Therapist-Nights_R135400-1) | 1d |
+| Critical Care Tech (C.N.A)- Intensive Care 🏠 | Intermountain Health Logan Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Logan-Regional-Hospital/Critical-Care-Tech--CNA---Intensive-Care_R157515) | 1d |
+| Psych Tech 🏠 | Intermountain Health McKay-Dee Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-McKay-Dee-Hospital/Psych-Tech_R157628) | 1d |
+| Clinical Documentation Integrity Registered Nurse 🏠 | Nevada Central Office | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Nevada-Central-Office/Clinical-Documentation-Integrity-Registered-Nurse_R157824) | 1d |
+| Imaging Scheduler 🏠 | TOSH | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/TOSH/Imaging-Scheduler_R153507) | 1d |
+| Associate Chaplain - PRN 🏠 | St James Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/St-James-Hospital/Associate-Chaplain---PRN_R157202-1) | 1d |
+| Licensed Psychologist 🏠 | Intermountain Health St George Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Licensed-Psychologist_R147526-1) | 1d |
+| HCC Coding Analyst 🏠 | Employee Service Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Employee-Service-Center/HCC-Coding-Analyst-I_R157174) | 1d |
+| Medical Assistant Oncology 🏠 | Clinic Oncology - Tenaya | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Clinic-Oncology---Tenaya/Medical-Assistant-Oncology_R156782) | 1d |
+| PRN Certified Nurse Midwife 🏠 | Intermountain Health Layton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Layton-Hospital/PRN-Certified-Nurse-Midwife_R157615) | 1d |
+| Occupational Therapist 🏠 | St. rys Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/St-Marys-Regional-Hospital/Occupational-Therapist_R157751) | 1d |
 
 </details>
 
@@ -140,7 +136,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (1 company)
-⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (50 positions)
+⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (46 positions)
 
 
 #### 🎓 **Academic Medical Centers** (0 companies)
@@ -156,27 +152,27 @@ No companies available
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 17 | 34% | No or minimal experience |
-| 🟡 Beginner & Early Career | 16 | 32% | 1-2 years of experience |
-| 🔴 Manager     | 17 | 34% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 0 | 0% | No or minimal experience |
+| 🟡 Beginner & Early Career | 16 | 35% | 1-2 years of experience |
+| 🔴 Manager     | 30 | 65% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Saint Joseph Hospital**: 5 positions
+- **Intermountain Health Riverton Hospital**: 5 positions
 - **Intermountain Health McKay-Dee Hospital**: 4 positions
-- **Intermountain Health Riverton Hospital**: 4 positions
-- **Intermountain Health Intermountain Medical Center**: 4 positions
-- **Intermountain Health Lutheran Hospital**: 4 positions
+- **Intermountain Health Lutheran Hospital**: 3 positions
+- **Saint Joseph Hospital**: 3 positions
 - **Intermountain Health LDS Hospital**: 3 positions
 - **Platte Valley Hospital**: 2 positions
 - **Intermountain Health Alta View Hospital**: 2 positions
+- **Intermountain Health St George Regional Hospital**: 2 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 50+ verified hospital and pharma roles from 1 elite organizations.
+✅ **100% Real Jobs:** 46+ verified hospital and pharma roles from 1 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -226,7 +222,7 @@ No companies available
 
 ---
 
-🎯 **50 current opportunities from 1 elite companies.**
+🎯 **46 current opportunities from 1 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
