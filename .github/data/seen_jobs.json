@@ -1,6 +1,4 @@
 [
-  "databricks-sr-solutions-engineer-united-states",
-  "databricks-sr-staff-designated-support-engineer-san-francisco",
   "databricks-sr-staff-engineer-incident-response-san-francisco",
   "databricks-sr-staff-product-security-engineer-bengaluru",
   "databricks-sr-staff-software-engineer-backend-bengaluru",
@@ -360,6 +358,7 @@
   "endeavor-health-medical-lab-scientist-core-lab-nights-edh-in-hospital-naperville",
   "endeavor-health-medical-lab-scientist-multiple-campuses-multiple-cities",
   "endeavor-health-medical-laboratory-scientist-mls-core-lab-evh-evanston-hospital",
+  "endeavor-health-medical-laboratory-scientist-mls-evh-evanston-hospital",
   "endeavor-health-medical-laboratory-scientist-mls-gbh-glenbrook-hospital-glenview",
   "endeavor-health-medical-laboratory-scientist-mls-microbiology-nch-800-w-central-rd-arlington-heights",
   "endeavor-health-medical-laboratory-scientist-mls-nch-800-w-central-rd-arlington-heights",
@@ -771,6 +770,7 @@
   "endeavor-health-registered-nurse-orthopedic-spine-unit-skokie-hospital-nights-skh-skokie-hospital",
   "endeavor-health-registered-nurse-orthopedic-unit-days-nch-800-w-central-rd-arlington-heights",
   "endeavor-health-registered-nurse-pacu-evh-evanston-hospital",
+  "endeavor-health-registered-nurse-pacu-per-diem-emh-in-hospital-elmhurst",
   "endeavor-health-registered-nurse-pediatric-acute-care-center-nights-nch-800-w-central-rd-arlington-heights",
   "endeavor-health-registered-nurse-pediatric-acute-care-center-nights-per-diem-nch-800-w-central-rd-arlington-heights",
   "endeavor-health-registered-nurse-pediatric-acute-care-center-per-diem-nch-800-w-central-rd-arlington-heights",
