@@ -8452,5 +8452,17 @@
     "job_title": "Registered Nurse, ICU Float Pool, Night Shift, Temp Force - VUH",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-12-08T19:22:14.639Z"
+  },
+  "cleaveland-clinic-research-assistant-term-nashville": {
+    "assigned_date": "2025-12-08T19:32:35.291Z",
+    "job_title": "Research Assistant Term",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-08T19:32:35.291Z"
+  },
+  "cleaveland-clinic-registered-nurse,-stepdown-float-pool,-night-shift,-temp-force---vuh-nashville": {
+    "assigned_date": "2025-12-08T19:32:35.291Z",
+    "job_title": "Registered Nurse, Stepdown Float Pool, Night Shift, Temp Force - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-08T19:32:35.291Z"
   }
 }
