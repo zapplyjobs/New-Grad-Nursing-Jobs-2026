@@ -8518,5 +8518,11 @@
     "job_title": "Registered Nurse- Radiology",
     "company": "Endeavor Health",
     "first_seen": "2025-12-08T21:23:52.423Z"
+  },
+  "endeavor-health-radiologist-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-12-08T21:55:54.190Z",
+    "job_title": "Radiologist",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-08T21:55:54.190Z"
   }
 }
