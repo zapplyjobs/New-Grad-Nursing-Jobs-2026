@@ -228,7 +228,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | RLF- Specialty Pharmacy Service Representative 🏠 | Faber - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/2465-Faber---PALO-ALTO/RLF--Specialty-Pharmacy-Service-Representative_R2551701) | 3d |
 | Pharmacy Resident - PGY-1 Transitions of Care Focus (Full-Time, 8-Hour Rotating Shifts) 🏠 | 300P Hospital - C Phase One 300/400 - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/300P-Hospital---C-Phase-One-300400---PALO-ALTO/Pharmacy-Resident---PGY-1-Transitions-of-Care-Focus--Full-Time--8-Hour-Rotating-Shifts-_R2550052) | 3d |
 | Pharmacy Specialty Resident - PGY-2 Cardiology Focus (Full-Time, 8-Hour Rotating Shifts) 🏠 | 300P Hospital - C Phase One 300/400 - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/300P-Hospital---C-Phase-One-300400---PALO-ALTO/Pharmacy-Specialty-Resident---PGY-2-Cardiology-Focus--Full-Time--8-Hour-Rotating-Shifts-_R2550059) | 3d |
-| Pharmacy Specialty Resident - PGY-2 Hematology and Oncology Focus (Full-Time, 8-Hour Rotating Shifts) | 300P Hospital - C Phase One 300/400 - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/300P-Hospital---C-Phase-One-300400---PALO-ALTO/Pharmacy-Specialty-Resident---PGY-2-Hematology-and-Oncology-Focus--Full-Time--8-Hour-Rotating-Shifts-_R2550054-1) | 3d |
 | Pharmacy Resident - PGY-1 Acute Care Focus (Full-Time, 8-Hour Rotating Shifts) | 300P Hospital - C Phase One 300/400 - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/300P-Hospital---C-Phase-One-300400---PALO-ALTO/Pharmacy-Resident---PGY-1-Acute-Care-Focus--Full-Time--8-Hour-Rotating-Shifts-_R2550050) | 3d |
 | Pharmacy Resident - PGY-1 Ambulatory Care Focus (Full-Time, 8-Hour Rotating Shifts) | 300P Hospital - C Phase One 300/400 - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/300P-Hospital---C-Phase-One-300400---PALO-ALTO/Pharmacy-Resident---PGY-1-Ambulatory-Care-Focus--Full-Time--8-Hour-Rotating-Shifts-_R2550051) | 3d |
 | Pharmacy Specialty Resident - PGY-2 Critical Care Focus (Full-Time, 8-Hour Rotating Shifts) | 300P Hospital - C Phase One 300/400 - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/300P-Hospital---C-Phase-One-300400---PALO-ALTO/Pharmacy-Specialty-Resident---PGY-2-Critical-Care-Focus--Full-Time--8-Hour-Rotating-Shifts-_R2550058) | 3d |
@@ -241,6 +240,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Clinical Nurse/Scrub Nurse (RN) - CVOR (0.90 FTE, 12-Hour Rotating Shifts, On-Call Required) | 500P Hospital - J/K/L/M Patient - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Clinical-Nurse-Scrub-Nurse--RN----CVOR--090-FTE--12-Hour-Rotating-Shifts--On-Call-Required-_R2551488-1) | 4d |
 | Cardiac Surgery APP- Stanford Health Care-Tri Valley (NP/PA) | W. Las Positas Blvd. - PLEASANTON | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/5555-W-Las-Positas-Blvd---PLEASANTON/Physician-Assistant-II--Cardiothoracic-Surgery_R2551754-1) | 4d |
 | Patient Flow RN - 0.75 FTE, 12-hr, Evening Shift | 300P Hospital - B/C Patient West Pavilion - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/300P-Hospital---BC-Patient-West-Pavilion---PALO-ALTO/Patient-Flow-RN---075-FTE-12-hr-Evenings_R2550298) | 5d |
+| Relief Anesthesia Tech - (Per Diem/Relief, 8-Hour Rotating Shifts, SEIU Union) | 500P Hospital - J/K/L/M Patient - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Anesthesia-Tech---Relief_R2551069) | 5d |
 
 </details>
 
@@ -574,7 +574,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Strong Memorial Hospital**: 14 positions
 - **NYP/Columbia University Irving Medical Center**: 9 positions
 - **NYP/Morgan Stanley Children's Hospital**: 9 positions
-- **300P Hospital - C Phase One 300/400 - PALO ALTO**: 9 positions
+- **Green Bay, WI**: 9 positions
 
 ---
 
