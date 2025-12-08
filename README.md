@@ -72,20 +72,23 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (153 positions)
+### ⭐ **Elite Medical Centers** (151 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (80 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (78 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
-| New Grad RN Resident - Post Surgical Unit | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/RN-Resident-Marymount-Hospital-MedSurg-Post-Surgical-Unit---DAY-NIGHT-ROTATION--_168235) | 1d |
+| RN - ED Observation Unit | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---ED-Observation-Unit_321068-1) | 1d |
+| New Grad RN Resident - Post Surgical Unit | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/RN-Resident-Marymount-Hospital-MedSurg-Post-Surgical-Unit---DAY-NIGHT-ROTATION--_166244-1) | 1d |
+| New Grad RN Resident - Neuro | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/RN-Hospital-Resident-I_125206-1) | 1d |
+| RN | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/RN-Neuro-Medsurg_154076) | 1d |
+| New Grad RN Resident - Telemetry | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/New-Grad-RN-Resident_297095) | 1d |
 | RN – Emergency Department (ED) | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/RN---Emergency-Department--ED-_311239) | 1d |
 | RN - Emergency Department | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/RN---Emergency-Department_297220) | 1d |
 | Registered Radiology Technologist | Union Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Union-Hospital/Registered-Radiology-Technologist_301213) | 1d |
 | PRN RN – Emergency Department (ED) | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/PRN-RN---Emergency-Department--ED-_316708) | 1d |
 | New Grad RN Resident | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/New-Grad-RN-Resident_308620) | 1d |
-| New Grad RN Resident - Telemetry | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/RN-Resident---Telemetry-Unit_290927) | 1d |
 | New Grad RN Resident – Med/Surg & Telemetry Unit | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/New-Grad-RN-Resident---Med-Surg---Telemetry-Unit_317679) | 1d |
 | RN - Telemetry | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/RN---Telemetry_297922-1) | 1d |
 | Anesthesia Technician | Hillcrest Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/Anesthesia-Technician_322707) | 1d |
@@ -107,31 +110,26 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Non-Certified CS/SPD Technician | Indian River Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Indian-River-Hospital/CS-SPD-Non-Certified-Technician_319031-1) | 2d |
 | RN – Surgery | South Pointe Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/South-Pointe-Hospital/RN---Surgery_318371) | 2d |
 | RN - Endoscopy | South Pointe Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/South-Pointe-Hospital/RN_318366) | 2d |
-| Patient Care Nurse Assistant (PCNA) - Med/Surg & Stroke Care 🏠 | Fairview Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg---Stroke-Care_323167) | 2d |
-| PRN Phlebotomy Lab Tech - PT 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-Phlebotomy-Lab-Tech---PT_323233) | 3d |
-| Certified Athletic Trainer - Kent State University 🏠 | Stow Health and Wellness | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Stow-Health-and-Wellness/Certified-Athletic-Trainer---Kent-State-University_312197-1) | 3d |
-| RN – Pre-Op/ PACU 🏠 | South Pointe Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/South-Pointe-Hospital/RN---Pre-Op--PACU_322722) | 3d |
-| Medical Assistant - Family Medicine 🏠 | Union Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Union-Hospital/Medical-Assistant---Family-Medicine_322214) | 3d |
-| LPN Ambulatory - WorkWell 🏠 | North Dover Family Medicine | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/North-Dover-Family-Medicine/Medical-Assistant_313201) | 3d |
-| RN - Pre- and Post-Operative Care Unit (PACU) 🏠 | rtin Health North | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Martin-Health-North/RN---Pre--and-Post-Operative-Care-Unit--PACU-_320788) | 3d |
-| Pharmacy Intern 🏠 | Fairview Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Fairview-Hospital/Pharmacy-Intern_322569-1) | 3d |
-| Behavioral Health Outpatient Therapist - PRN 🏠 | th Health and Wellness | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Bath-Health-and-Wellness/Behavioral-Health-Outpatient-Therapist---PRN_321753) | 3d |
-| Behavioral Health Technician 🏠 | Indian River Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Indian-River-Hospital/Behavioral-Health-Technician_323639) | 3d |
-| Plant Operator 🏠 | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Mercy-Hospital/Plant-Operator_316063) | 3d |
-| Intern Administrative High School 🏠 | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Remote-Location/Intern-Administrative-High-School_319577) | 3d |
+| Patient Care Nurse Assistant (PCNA) - Med/Surg & Stroke Care | Fairview Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg---Stroke-Care_323167) | 2d |
+| PRN Phlebotomy Lab Tech - PT | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/PRN-Phlebotomy-Lab-Tech---PT_323233) | 3d |
+| Certified Athletic Trainer - Kent State University | Stow Health and Wellness | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Stow-Health-and-Wellness/Certified-Athletic-Trainer---Kent-State-University_312197-1) | 3d |
+| RN – Pre-Op/ PACU | South Pointe Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/South-Pointe-Hospital/RN---Pre-Op--PACU_322722) | 3d |
+| Medical Assistant - Family Medicine | Union Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Union-Hospital/Medical-Assistant---Family-Medicine_322214) | 3d |
+| LPN Ambulatory - WorkWell | North Dover Family Medicine | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/North-Dover-Family-Medicine/Medical-Assistant_313201) | 3d |
+| RN - Pre- and Post-Operative Care Unit (PACU) | rtin Health North | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Martin-Health-North/RN---Pre--and-Post-Operative-Care-Unit--PACU-_320788) | 3d |
 | Occupational Therapist – Pediatric Certified Hand Therapist | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist---Pediatric-CHT--OTR-L-_R-49290-1) | 2d |
 | Physical Therapist – Acute Care Inpatient PRN | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient-PRN_R-48084-1) | 4d |
 | Nurse Residency Program Winter | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nurse-Residency-Program-Winter-2026_R-44374-1) | 1mo |
-| Budget/Accounting Analyst | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Budget-Accounting-Analyst_R-49777-1) | 7h |
-| Care Partner - 4RW Adult Acute Medicine Unit FT Nights 18:45 - 07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---4RW-Adult-Acute-Medicine-Unit-FT-Nights-18-45---07-15_R-50894) | 7h |
-| Care Partner - Pulmonary ICU Part-Time Nights 18:45 - 07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Pulmonary-ICU-Part-Time-Nights-18-45---07-15_R-50830-1) | 7h |
-| Care Partner -3RW Vanderbilt Interdisciplinary Care Program (VICP) - FT Days 06:45 - 19:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--3RW-Vanderbilt-Interdisciplinary-Care-Program--VICP----FT-Days-06-45---19-15_R-50694) | 7h |
-| Care Partner, 9S Surgical Specialties - FT Days 06:45 - 19:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--9S-Surgical-Specialties---FT-Days-06-45---19-15_R-50706-1) | 7h |
-| Certified Pharmacy Technician - Pediatric Outpatient - Part Time | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Pediatric-Outpatient---Part-Time_R-50492-2) | 7h |
-| Certified Pharmacy Technician - Pediatric Outpatient | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Pediatric-Outpatient_R-50491-2) | 7h |
-| Heart Station EKG Tech PRN - Rotating Shift - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Heart-Station-EKG-Tech-PRN---Rotating-Shift---VUH_R-50714-1) | 7h |
-| Monitored Transport Nurse Float Pool - Days - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Monitored-Transport-Nurse-Float-Pool---Days---VUH_R-51139-1) | 7h |
-| Nurse Practitioner/Physician Assistant - Vascular Surgery (Outpatient) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-Physician-Assistant---Vascular-Surgery--Outpatient-_R-50216-1) | 7h |
+| Budget/Accounting Analyst | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Budget-Accounting-Analyst_R-49777-1) | 8h |
+| Care Partner - 4RW Adult Acute Medicine Unit FT Nights 18:45 - 07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---4RW-Adult-Acute-Medicine-Unit-FT-Nights-18-45---07-15_R-50894) | 8h |
+| Care Partner - Pulmonary ICU Part-Time Nights 18:45 - 07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Pulmonary-ICU-Part-Time-Nights-18-45---07-15_R-50830-1) | 8h |
+| Care Partner -3RW Vanderbilt Interdisciplinary Care Program (VICP) - FT Days 06:45 - 19:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--3RW-Vanderbilt-Interdisciplinary-Care-Program--VICP----FT-Days-06-45---19-15_R-50694) | 8h |
+| Care Partner, 9S Surgical Specialties - FT Days 06:45 - 19:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--9S-Surgical-Specialties---FT-Days-06-45---19-15_R-50706-1) | 8h |
+| Certified Pharmacy Technician - Pediatric Outpatient - Part Time | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Pediatric-Outpatient---Part-Time_R-50492-2) | 8h |
+| Certified Pharmacy Technician - Pediatric Outpatient | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Pediatric-Outpatient_R-50491-2) | 8h |
+| Heart Station EKG Tech PRN - Rotating Shift - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Heart-Station-EKG-Tech-PRN---Rotating-Shift---VUH_R-50714-1) | 8h |
+| Monitored Transport Nurse Float Pool - Days - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Monitored-Transport-Nurse-Float-Pool---Days---VUH_R-51139-1) | 8h |
+| Nurse Practitioner/Physician Assistant - Vascular Surgery (Outpatient) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-Physician-Assistant---Vascular-Surgery--Outpatient-_R-50216-1) | 8h |
 | Physician Assistant - Otolaryngology | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physician-Assistant---Otolaryngology_R-50926-1) | 7h |
 | Sterile Process Tech 2- 2nd Shift- VUH- $5,000 Sign-On Bonus | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Sterile-Process-Tech-2--2nd-Shift--VUH---5-000-Sign-On-Bonus_R-50900-1) | 7h |
 | Sterile Processing Tech (Endo)- 3rd Shift, VUH- $5,000 Sign-On Bonus | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Sterile-Processing-Tech--Endo---3rd-Shift--VUH---5-000-Sign-On-Bonus_R-50892-1) | 7h |
@@ -251,7 +249,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (84 positions)
+### ✝️ **Faith-Based Health Systems** (86 positions)
 
 <details>
 <summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (40 positions)</h4></summary>
@@ -302,10 +300,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>⛰️ <strong>Intermountain Health</strong> (44 positions)</h4></summary>
+<summary><h4>⛰️ <strong>Intermountain Health</strong> (46 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Patient Access Acute Representative 🏠 | St James Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/St-James-Hospital/Patient-Access-Acute-Representative_R157912) | 1d |
+| Certified Nursing Assistant Telemetry 🏠 | St James Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/St-James-Hospital/Certified-Nursing-Assistant-Telemetry_R150572-1) | 1d |
 | Pre-Access Central Scheduler Bilingual PRN 🏠 | Peaks Regional Office | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Peaks-Regional-Office/Pre-Access-Central-Scheduler-Bilingual-PRN_R157389-1) | 1d |
 | Patient Access Acute Representative PRN 🏠 | Good Samaritan Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Good-Samaritan-Hospital/Patient-Access-Acute-Representative-PRN_R157136) | 1d |
 | Inpatient Registered Clinical Dietitian - Adults/NICU PRN 🏠 | Intermountain Health American Fork Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-American-Fork-Hospital/Inpatient-Registered-Clinical-Dietitian---Adults-NICU-PRN_R157680) | 1d |
@@ -522,7 +522,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (45 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (28) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (44)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (45 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (28) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (46)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -538,9 +538,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 137 | 38% | No or minimal experience |
-| 🟡 Beginner & Early Career | 72 | 20% | 1-2 years of experience |
-| 🔴 Manager     | 156 | 43% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 134 | 37% | No or minimal experience |
+| 🟡 Beginner & Early Career | 57 | 16% | 1-2 years of experience |
+| 🔴 Manager     | 174 | 48% | 2+ years of experience |
 
 ---
 
@@ -548,7 +548,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Nashville, TN**: 36 positions
 - **Multiple Cities**: 31 positions
 - **Richmond, VA**: 20 positions
-- **rymount Hospital**: 10 positions
+- **rymount Hospital**: 12 positions
 - **NYP/Columbia University Irving Medical Center**: 9 positions
 - **NYP/Morgan Stanley Children's Hospital**: 9 positions
 - **300P Hospital - C Phase One 300/400 - PALO ALTO**: 9 positions
