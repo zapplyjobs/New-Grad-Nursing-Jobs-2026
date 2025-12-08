@@ -1,6 +1,4 @@
 [
-  "dell-technical-staff-network-architect-santa-clara",
-  "detroit-defense-software-test-engineer-troy",
   "directv-it-software-engineer-1-el-segundo",
   "directv-it-software-engineer-1-locations-el-segundo",
   "directv-it-software-engineer-1-remote-in-usa",
@@ -614,6 +612,7 @@
   "endeavor-health-radiologist-1-swh-swedish-hospital-chicago",
   "endeavor-health-radiologist-physician-9-swh-swedish-hospital-chicago",
   "endeavor-health-radiologist-physician-swh-swedish-hospital-chicago",
+  "endeavor-health-radiologist-swh-swedish-hospital-chicago",
   "endeavor-health-radiology-resource-physician-evh-evanston-hospital",
   "endeavor-health-radiology-tech-iii-surgery-days-emh-in-hospital-elmhurst",
   "endeavor-health-radiology-technologist-cardiac-cath-lab-multiple-cities",
@@ -3745,6 +3744,7 @@
   "intermountain-health-imaging-scheduler-prn-intermountain-health-riverton-hospital",
   "intermountain-health-imaging-scheduler-prn-intermountain-health-utah-valley-hospital",
   "intermountain-health-imaging-scheduler-tosh",
+  "intermountain-health-imaging-tech-st-james-hospital",
   "intermountain-health-infant-feeding-prep-tech-intermountain-health-primary-childrens-hospital",
   "intermountain-health-infant-feeding-preparation-technician-prn-intermountain-health-intermountain-medical-center",
   "intermountain-health-infant-formula-prep-tech-prn-intermountain-health-primary-childrens-hospital",
