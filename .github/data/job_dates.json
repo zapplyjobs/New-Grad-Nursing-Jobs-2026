@@ -8464,5 +8464,23 @@
     "job_title": "Registered Nurse, Stepdown Float Pool, Night Shift, Temp Force - VUH",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-12-08T19:32:35.291Z"
+  },
+  "cleaveland-clinic-registered-nurse-nashville": {
+    "assigned_date": "2025-12-08T19:45:49.111Z",
+    "job_title": "Registered Nurse",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-08T19:45:49.111Z"
+  },
+  "endeavor-health-phlebotomist-ii---per-diem-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-08T19:45:49.112Z",
+    "job_title": "Phlebotomist II - Per Diem",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-08T19:45:49.112Z"
+  },
+  "endeavor-health-rn---cardiac-rehab---part-time-evh-evanston-hospital": {
+    "assigned_date": "2025-12-08T19:45:49.112Z",
+    "job_title": "RN - Cardiac Rehab - Part-Time",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-08T19:45:49.112Z"
   }
 }
