@@ -8674,5 +8674,59 @@
     "job_title": "VMG Nurse Practitioner (NP) or Physician Assistant (PA) - General Neurology",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-12-09T19:20:48.575Z"
+  },
+  "cleaveland-clinic-home-care-licensed-practical-nurse---intermittent-care---williamson-county-nashville": {
+    "assigned_date": "2025-12-09T21:07:46.535Z",
+    "job_title": "Home Care Licensed Practical Nurse - Intermittent Care - Williamson County",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-09T21:07:46.535Z"
+  },
+  "endeavor-health-rn---surgical/oncology---nights-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-09T21:07:46.535Z",
+    "job_title": "RN - Surgical/Oncology - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-09T21:07:46.535Z"
+  },
+  "endeavor-health-rn---med/surg---nights-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-09T21:07:46.535Z",
+    "job_title": "RN - Med/Surg - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-09T21:07:46.535Z"
+  },
+  "endeavor-health-rn---medical/surgical-unit---nights-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-09T21:07:46.535Z",
+    "job_title": "RN - Medical/Surgical Unit - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-09T21:07:46.535Z"
+  },
+  "endeavor-health-rn---med/surg-unit---days-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-09T21:07:46.535Z",
+    "job_title": "RN - Med/Surg Unit - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-09T21:07:46.535Z"
+  },
+  "endeavor-health-rn---pulmonary-medicine-unit---nights-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-09T21:07:46.535Z",
+    "job_title": "RN - Pulmonary Medicine Unit - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-09T21:07:46.535Z"
+  },
+  "endeavor-health-rn---pulmonary-medicine-unit---days-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-09T21:07:46.535Z",
+    "job_title": "RN - Pulmonary Medicine Unit - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-09T21:07:46.535Z"
+  },
+  "endeavor-health-patient-service-rep---gastroenterology-emh-center-for-health-building-elmhurst": {
+    "assigned_date": "2025-12-09T21:07:46.535Z",
+    "job_title": "Patient Service Rep - Gastroenterology",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-09T21:07:46.535Z"
+  },
+  "endeavor-health-rn-triage---gastro-emh-center-for-health-building-elmhurst": {
+    "assigned_date": "2025-12-09T21:07:46.535Z",
+    "job_title": "RN Triage - Gastro",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-09T21:07:46.535Z"
   }
 }
