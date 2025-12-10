@@ -8824,5 +8824,17 @@
     "job_title": "Registered Nurse - Surgery - Part time",
     "company": "Endeavor Health",
     "first_seen": "2025-12-10T15:33:38.912Z"
+  },
+  "cleaveland-clinic-registered-nurse,-cardiac-medicine-stepdown,-night-shift---vuh-nashville": {
+    "assigned_date": "2025-12-10T15:48:56.475Z",
+    "job_title": "Registered Nurse, Cardiac Medicine Stepdown, Night Shift - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-10T15:48:56.475Z"
+  },
+  "cleaveland-clinic-nurse-practitioner/physician-assistant---interventional-pain-clinic-nashville": {
+    "assigned_date": "2025-12-10T15:48:56.475Z",
+    "job_title": "Nurse Practitioner/Physician Assistant - Interventional Pain Clinic",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-10T15:48:56.475Z"
   }
 }
