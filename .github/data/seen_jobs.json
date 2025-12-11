@@ -1,6 +1,4 @@
 [
-  "endeavor-health-medical-assistant-patient-support-assistant-ma-psa-immediate-care-northfield-20-hours-nso-northfield",
-  "endeavor-health-medical-assistant-patient-support-assistant-ma-psa-immediate-care-northfield-prn-multiple-cities",
   "endeavor-health-medical-assistant-patient-support-assistant-ma-psa-immediate-care-skokie-multiple-cities",
   "endeavor-health-medical-assistant-patient-support-assistant-ma-psa-immediate-care-skokie-nso-skokie",
   "endeavor-health-medical-assistant-patient-support-assistant-ma-psa-internal-medicine-skokie-skh-skokie-ambulatory-care-center",
@@ -4710,6 +4708,7 @@
   "intermountain-health-registered-nurse-observation-unit-intermountain-health-lutheran-hospital",
   "intermountain-health-registered-nurse-observation-unit-intermountain-health-st-george-regional-hospital",
   "intermountain-health-registered-nurse-obstetrics-st-james-hospital",
+  "intermountain-health-registered-nurse-oncology-infusion-prn-intermountain-health-mckay-dee-hospital",
   "intermountain-health-registered-nurse-oncology-infusion-st-george-cancer-center",
   "intermountain-health-registered-nurse-oncology-infusion-therapy-intermountain-health-st-george-regional-hospital",
   "intermountain-health-registered-nurse-operating-room-circulator-holy-rosary-hospital",
@@ -9288,6 +9287,7 @@
   "vcu-health-patient-care-technician-pct-peri-surgical-unit-rotating-richmond",
   "vcu-health-patient-care-technician-pediatric-emergency-department-rotating-prn-richmond",
   "vcu-health-patient-care-technician-pediatric-emergency-department-rotating-richmond",
+  "vcu-health-patient-care-technician-picu-multiple-cities",
   "vcu-health-patient-concierge-representative-adult-outpatient-pavilion-days-richmond",
   "vcu-health-patient-concierge-representative-ambulatory-days-henrico",
   "vcu-health-patient-concierge-representative-liver-transplant-days-richmond",
