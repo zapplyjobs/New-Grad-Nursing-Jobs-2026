@@ -147,7 +147,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>🗽 <strong>New York Presbyterian</strong> (47 positions)</h4></summary>
+<summary><h4>🗽 <strong>New York Presbyterian</strong> (48 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -167,6 +167,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Mental Health Worker - Psychiatry/Medicine - 11N - Evenings | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Mental-Health-Worker---Psychiatry-Medicine---11N---Nights_00872550) | 1d |
 | Blood Bank Technologist - Transfusion Medicine - Full Time - Nights - Competitive Sign On & Night Bonus Plus Specialty Differential | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Blood-Bank-Technologist---Transfusion-Medicine---Full-Time---Nights---Competitive-Sign-On---Night-Bonus-Plus-Specialty-Differential_00872250) | 1d |
 | Dietetic Technician - Clinical Nutrition - Alexandra Cohen Hospital for Women, and Newborns - Part Time | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Dietetic-Technician---Clinical-Nutrition---Alexandra-Cohen-Hospital-for-Women--and-Newborns---Part-Time_00874998-1) | 1d |
+| Patient Assistant - WC - Ambulatory Surgery OR - Full Time - Evenings | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Patient-Assistant---WC---Ambulatory-Surgery-Recovery---Full-Time---Evenings_00873756) | 1d |
 | HVAC/Refrigeration Mechanic | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/HVAC-Refrigeration-Mechanic_00872108-1) | 1d |
 | Human Resources Business Partner - Brooklyn Methodist Hospital | NYP/Brooklyn Methodist Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Human-Resources-Business-Partner---Brooklyn-Methodist-Hospital_00874804-1) | 1d |
 | Environmental Aide - Environmental Services - Evening Shift Including All Weekends and Holidays | NYP/Brooklyn Methodist Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Environmental-Aide---Environmental-Services---Evening-Shift-Including-All-Weekends-and-Holidays_00871566) | 1d |
@@ -202,7 +203,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>🎓 <strong>Stanford Health Care</strong> (26 positions)</h4></summary>
+<summary><h4>🎓 <strong>Stanford Health Care</strong> (25 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -222,7 +223,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Pharmacy Technician I - Medication History (Part-Time, 8-Hour Rotating Shifts) | 500P Hospital - J/K/L/M Patient - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Pharmacy-Technician-I---Medication-History--Part-Time--8-Hour-Rotating-Shifts-_R2552094) | 2d |
 | Clinical Nurse (RN) - Byers Eye Surgery Center/Operating Room (0.8 FTE, Part-Time, 8-Hour Rotating Shifts) | PALO ALTO, CA | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/2452-Watson-Ct---PALO-ALTO/Clinical-Nurse--RN----Byers-Eye-Surgery-Center-Operating-Room--08-FTE--Part-Time--8-Hour-Rotating-Shifts-_R2552084) | 2d |
 | Per Diem/Relief Pharmacy Technician I - Sterile Compounding | 500P Hospital - J/K/L/M Patient - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Per-Diem-Relief-Pharmacy-Technician-I---Sterile-Compounding_R2552057) | 2d |
-| Pharmacy Technician I - Medication History (Full-Time, 8-Hour Rotating Shifts) 🏠 | 500P Hospital - J/K/L/M Patient - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Pharmacy-Technician-I---Medication-History--Full-Time--8-Hour-Rotating-Shifts-_R2552056) | 2d |
 | Sterile Processing Tech II - (Full-Time, 8-Hour Evening Shifts, SEIU Union) 🏠 | 500P Hospital - J/K/L/M Patient - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Sterile-Processing-Tech-II----Full-Time--8-Hour-Evening-Shifts--SEIU-Union-_R2551566) | 2d |
 | Relief Food Service Worker (multiple openings & shifts) 🏠 | 500P Hospital - J/K/L/M Patient - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Relief-Food-Service-Worker--multiple-openings---shifts-_R2549276) | 2d |
 | Revenue Integrity Charge Auditor (Remote) 🏠 | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/Remote---USA/Revenue-Integrity-Charge-Auditor--Remote-_R2552114) | 3d |
@@ -495,7 +495,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (47 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (26) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (41)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (48 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (25) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (41)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
