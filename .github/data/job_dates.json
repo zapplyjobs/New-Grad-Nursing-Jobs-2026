@@ -9172,5 +9172,23 @@
     "job_title": "Medical Assistant",
     "company": "Endeavor Health",
     "first_seen": "2025-12-11T23:56:41.403Z"
+  },
+  "endeavor-health-registered-nurse,-orthopedic-spine,-skokie,-nights-skh-skokie-hospital": {
+    "assigned_date": "2025-12-12T04:59:33.348Z",
+    "job_title": "Registered Nurse, Orthopedic Spine, Skokie, Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-12T04:59:33.348Z"
+  },
+  "endeavor-health-patient-care-technician,-cardiovascular-surgical-medical-telemetry,-evening-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-12-12T04:59:33.348Z",
+    "job_title": "Patient Care Technician, Cardiovascular Surgical Medical Telemetry, Evening",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-12T04:59:33.348Z"
+  },
+  "endeavor-health-registered-nurse,-cardiovascular-surgical-medical-telemetry,-evening-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-12-12T04:59:33.348Z",
+    "job_title": "Registered Nurse, Cardiovascular Surgical Medical Telemetry, Evening",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-12T04:59:33.348Z"
   }
 }
