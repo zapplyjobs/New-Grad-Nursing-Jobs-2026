@@ -1,5 +1,4 @@
 [
-  "endeavor-health-patient-access-representative-ii-oncology-days-nco-3060-salt-creek-ln-arlington-heights",
   "endeavor-health-patient-access-representative-ii-overnights-skh-skokie-hospital",
   "endeavor-health-patient-access-representative-ii-per-diem-nch-800-w-central-rd-arlington-heights",
   "endeavor-health-patient-access-representative-ii-surgery-days-emh-in-hospital-elmhurst",
@@ -540,6 +539,7 @@
   "endeavor-health-sterile-processing-tech-days-swh-swedish-hospital-chicago",
   "endeavor-health-sterile-processing-tech-evenings-emh-in-hospital-elmhurst",
   "endeavor-health-sterile-processing-tech-evenings-nch-800-w-central-rd-arlington-heights",
+  "endeavor-health-sterile-processing-tech-weekends-nch-800-w-central-rd-arlington-heights",
   "endeavor-health-sterile-processing-technician-certified-surgery-days-emh-in-hospital-elmhurst",
   "endeavor-health-surgery-scheduler-obgyn-multiple-cities",
   "endeavor-health-surgical-first-assistant-neurosurgery-nch-800-w-central-rd-arlington-heights",
