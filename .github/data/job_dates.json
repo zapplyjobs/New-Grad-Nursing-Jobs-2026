@@ -9430,5 +9430,23 @@
     "job_title": "Switchboard Operator (Wilson Communications)",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-12-15T06:17:21.460Z"
+  },
+  "endeavor-health-public-safety-officer,-northwest-community-hospital,-nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-15T14:52:09.485Z",
+    "job_title": "Public Safety Officer, Northwest Community Hospital, Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-15T14:52:09.485Z"
+  },
+  "endeavor-health-public-safety-officer,-northwest-community-hospital,-days-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-15T14:52:09.485Z",
+    "job_title": "Public Safety Officer, Northwest Community Hospital, Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-15T14:52:09.485Z"
+  },
+  "endeavor-health-public-safety-officer,-northwest-community-officer-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-15T14:52:09.485Z",
+    "job_title": "Public Safety Officer, Northwest Community Officer",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-15T14:52:09.485Z"
   }
 }
