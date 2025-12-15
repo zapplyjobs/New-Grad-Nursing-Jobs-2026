@@ -4,13 +4,13 @@
 <img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Nursing Jobs" width="200">
 
 <h3>💼 New Grad Nursing Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from 9</em></p>
+<p><em>Real-time job opportunities from 8</em></p>
 
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-345-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-299-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
 
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 345+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 8+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 299+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,8 +61,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 345 hot healthcare and medical jobs
-- 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
+- 🔥 **Current Positions:** 299 hot healthcare and medical jobs
+- 🏢 **Top Companies:** 8 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 15, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
 - 📁 **Archived Healthcare Jobs:** 89 (older than 1 week)
@@ -238,61 +238,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (95 positions)
-
-<details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (46 positions)</h4></summary>
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Cytotechnologist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Cytotechnologist_R1034003) | 4d |
-| Medical Assistant (MA)-Family Medicine | Highland, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Medical-Assistant--MA--Family-Medicine_R1031708) | 3d |
-| Phlebotomist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Phlebotomist-I_R1033880) | 3d |
-| Sonographer I-Vascular | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Sonographer-I-Vascular_R1034050) | 3d |
-| HR Business Partner | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/HR-Business-Partner_R1034019) | 3d |
-| MRI Tech-Weekend Option | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/MRI-Tech-Weekend-Option_R1033838) | 3d |
-| Registered Nurse-Home Health | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Registered-Nurse-Home-Health_R1033835) | 3d |
-| Academic Faculty-Adjunct | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Academic-Faculty-Adjunct_R1033813) | 3d |
-| Athletic Trainer-PRN | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/ATC-PRN_R1033804) | 3d |
-| Nurse Extern | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Nurse-Extern-I_R1030600) | 3d |
-| Patient Care Assistant (PCA)- Medical/Surgical (Med Surg) | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Patient-Care-Assistant--PCA---Medical-Surgical--Med-Surg-_R1034048) | 3d |
-| Supply Chain Technician - Evening Shift | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Supply-Chain-Technician---Evening-Shift_R1033854) | 3d |
-| Registered Nurse (RN), Emergency Department, WEO | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Emergency-Department--WEO_R1033762) | 4d |
-| Registered Nurse (RN), Emergency Department | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Emergency-Department_R1033757) | 4d |
-| Imaging Opportunities | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Imaging---Sonography-Opportunities_R1033670) | 4d |
-| Medical Assistant (MA)-Family Medicine | Shiloh, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shiloh-IL/Medical-Assistant--MA--Family-Medicine_R1033984) | 4d |
-| Registered Nurse (RN) - Medical/Surgical (Med Surg) | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN----Medical-Surgical--Med-Surg-_R1032559) | 4d |
-| Patient Care Assistant (CNA) | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant--CNA-_R1033833) | 4d |
-| PCA | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/PCA_R1033725) | 4d |
-| Registered Nurse (RN) ICU | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Registered-Nurse--RN--ICU_R1033882) | 4d |
-| Registered Nurse (RN) HSHS Home Care | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Registered-Nurse--RN--HSHS-Home-Care_R1033895) | 4d |
-| Lab Assistant | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Lab-Assistant-I_R1033877) | 4d |
-| MLT/MLS | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/MLT-MLS_R1033857) | 4d |
-| Nuclear Medicine Technologist | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Nuclear-Medicine-Technologist-II_R1029888) | 4d |
-| MLT/MLS - Core Lab | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Laboratory-Technician_R1032794) | 4d |
-| Physician - Primary Care | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Physician---Primary-Care_R1033992) | 5d |
-| Physician - Primary Care | Chatham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Chatham-IL/Physician---Primary-Care_R1033994) | 5d |
-| Physician - Primary Care | Mt. Zion, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Mt-Zion-IL/Physician---Primary-Care_R1033996) | 5d |
-| Physician - FM or IM Geriatrics | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Physician---FM-or-IM-Geriatrics_R1033936) | 5d |
-| Physician - Primary Care | Rochester, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Rochester-IL/Physician---Primary-Care_R1033937) | 5d |
-| Physician - Family Medicine | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Physician---Family-Medicine_R1033966) | 5d |
-| Physician - Primary Care | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Physician---Primary-Care_R1033993) | 5d |
-| Experienced APRN/PA - Primary Care | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Experienced-APRN-PA---Primary-Care_R1033987) | 5d |
-| Physician - Primary Care | Shelbyville, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shelbyville-IL/Physician---Primary-Care_R1033931) | 5d |
-| Physician - Primary Care | Mattoon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Mattoon-IL/Physician---Primary-Care_R1034002) | 5d |
-| CT Tech-Days; Weekend Option | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/CT-Technologist--Full-time_R1032445) | 5d |
-| Registered Nurse (RN), Interventional Radiology | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---Pain-Management_R1033847) | 5d |
-| Histotechnologist/Histotechnician | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Laboratory-Technician---Histology_R1032617-1) | 5d |
-| Registered Nurse (RN), ICU | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Registered-Nurse--RN---ICU_R1033866-1) | 5d |
-| Registered Nurse (RN) - Intensive Care Unit (ICU) | Sheboygan, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Sheboygan-WI/Registered-Nurse--RN----Intensive-Care-Unit--ICU-_R1032051) | 5d |
-| Certified Respiratory Therapist (CRT) | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Certified-Respiratory-Therapist--CRT-_R1030621) | 5d |
-| Registered Nurse (RN) - Critical Care - Cath Lab | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/R1022848-Registered-Nurse--RN----Critical-Care---Cath-Lab_R1032774) | 6d |
-| Surgical Technologist First Assist - CVOR | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Surgical-Technologist-First-Assist---CVOR_R1034010) | 6d |
-| Radiation Therapist PRN | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Radiation-Therapist-PRN_R1033613) | 6d |
-| Registered Nurse (RN) - Medical/Surgical (Med/Surg) | Oconto Falls, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Oconto-Falls-WI/Registered-Nurse--RN----Medical-Surgical--Med-Surg-_R1034005) | 6d |
-| Physician - Primary Care | Shiloh, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shiloh-IL/Physician---Primary-Care_R1033995) | 6d |
-
-</details>
+### ✝️ **Faith-Based Health Systems** (49 positions)
 
 <details>
 <summary><h4>⛰️ <strong>Intermountain Health</strong> (49 positions)</h4></summary>
@@ -515,27 +461,27 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 105 | 30% | No or minimal experience |
-| 🟡 Beginner & Early Career | 60 | 17% | 1-2 years of experience |
-| 🔴 Manager     | 180 | 52% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 105 | 35% | No or minimal experience |
+| 🟡 Beginner & Early Career | 32 | 11% | 1-2 years of experience |
+| 🔴 Manager     | 162 | 54% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
 - **Multiple Cities**: 31 positions
 - **Nashville, TN**: 23 positions
-- **Springfield, IL**: 14 positions
 - **Richmond, VA**: 12 positions
 - **NYP/Columbia University Irving Medical Center**: 11 positions
-- **O'Fallon, IL**: 8 positions
 - **EDH in Hospital Naperville**: 8 positions
 - **Indian River Hospital**: 7 positions
+- **US - Remote 🏠**: 7 positions
+- **NYP/Weill Cornell Medical Center**: 7 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 345+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 299+ verified hospital and pharma roles from 8 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -589,7 +535,7 @@ Either still hiring or useful for research.
 ### **Archived Job Stats**
 
 📁 **Total Jobs:** 89 positions
-🏢 **Companies:** 9 companies
+🏢 **Companies:** 8 companies
 
 
 ### ⭐ **Elite Medical Centers** (17 positions)
@@ -724,7 +670,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **345 current opportunities from 9 elite companies.**
+🎯 **299 current opportunities from 8 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
