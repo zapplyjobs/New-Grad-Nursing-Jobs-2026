@@ -9706,5 +9706,23 @@
     "job_title": "Registered Nurse, Emergency Department-Night",
     "company": "Endeavor Health",
     "first_seen": "2025-12-16T16:34:22.614Z"
+  },
+  "cleaveland-clinic-nurse-practitioner/physician-assistant---emergency-general-surgery-(trach/peg)-nashville": {
+    "assigned_date": "2025-12-16T16:52:48.374Z",
+    "job_title": "Nurse Practitioner/Physician Assistant - Emergency General Surgery (Trach/PEG)",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-16T16:52:48.374Z"
+  },
+  "cleaveland-clinic-dietitian-nutrition-support-nashville": {
+    "assigned_date": "2025-12-16T16:52:48.374Z",
+    "job_title": "Dietitian Nutrition Support",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-16T16:52:48.374Z"
+  },
+  "cleaveland-clinic-nurse-practitioner-np-/-physician-assistant-pa-trauma-icu-nashville": {
+    "assigned_date": "2025-12-16T16:52:48.374Z",
+    "job_title": "Nurse Practitioner NP / Physician Assistant PA Trauma ICU",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-16T16:52:48.374Z"
   }
 }
