@@ -9598,5 +9598,29 @@
     "job_title": "Registered Nurse - Medical Observation Unit - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-12-16T00:30:05.170Z"
+  },
+  "endeavor-health-registered-nurse,-medical-stroke-telemetry,-nights-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-12-16T01:37:00.171Z",
+    "job_title": "Registered Nurse, Medical Stroke Telemetry, Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-16T01:37:00.171Z"
+  },
+  "endeavor-health-patient-care-technician---medical-stroke-telemetry,-nights-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-12-16T01:37:00.171Z",
+    "job_title": "Patient Care Technician - Medical Stroke Telemetry, Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-16T01:37:00.171Z"
+  },
+  "endeavor-health-patient-care-technician,-cardiac-medical-telemetry,-nights/rational-shift-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-12-16T01:37:00.171Z",
+    "job_title": "Patient Care Technician, Cardiac Medical Telemetry, Nights/Rational Shift",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-16T01:37:00.171Z"
+  },
+  "endeavor-health-patient-care-technician,-cardiac-post-procedural-medical-telemetry,-days-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-12-16T01:37:00.171Z",
+    "job_title": "Patient Care Technician, Cardiac Post Procedural Medical Telemetry, Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-16T01:37:00.171Z"
   }
 }
