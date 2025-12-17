@@ -9832,5 +9832,53 @@
     "job_title": "Lab Associate 3 Clinical",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-12-17T14:24:49.833Z"
+  },
+  "endeavor-health-surgical-services-support-technician--evenings-edh-in-hospital-naperville": {
+    "assigned_date": "2025-12-17T17:00:50.188Z",
+    "job_title": "Surgical Services Support Technician -Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-17T17:00:50.188Z"
+  },
+  "endeavor-health-neurophysiology-technician---shift-varies-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-17T17:00:50.188Z",
+    "job_title": "Neurophysiology Technician - Shift Varies",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-17T17:00:50.188Z"
+  },
+  "endeavor-health-neurophysiology-technician---shift-varies-multiple-cities": {
+    "assigned_date": "2025-12-17T17:00:50.188Z",
+    "job_title": "Neurophysiology Technician - Shift Varies",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-17T17:00:50.188Z"
+  },
+  "endeavor-health-medical-office-receptionist-3-nch-880-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-17T17:00:50.188Z",
+    "job_title": "Medical Office Receptionist-3",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-17T17:00:50.188Z"
+  },
+  "endeavor-health-opthalmic-technician-nch-880-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-17T17:00:50.188Z",
+    "job_title": "Opthalmic Technician",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-17T17:00:50.188Z"
+  },
+  "endeavor-health-rn---recovery-room-swh-swedish-hospital-chicago": {
+    "assigned_date": "2025-12-17T17:00:50.188Z",
+    "job_title": "RN - Recovery Room",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-17T17:00:50.188Z"
+  },
+  "endeavor-health-pct---ctu-3/med-surg---nights-edh-in-hospital-naperville": {
+    "assigned_date": "2025-12-17T17:00:50.188Z",
+    "job_title": "PCT - CTU 3/Med Surg - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-17T17:00:50.188Z"
+  },
+  "endeavor-health-pct---ctu-3/med-surg---days-edh-in-hospital-naperville": {
+    "assigned_date": "2025-12-17T17:00:50.188Z",
+    "job_title": "PCT - CTU 3/Med Surg - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-17T17:00:50.188Z"
   }
 }
