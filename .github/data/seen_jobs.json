@@ -1,6 +1,4 @@
 [
-  "endeavor-health-public-safety-officer-glenbrook-hospital-days-gbh-glenbrook-hospital-glenview",
-  "endeavor-health-public-safety-officer-glenbrook-hospital-evenings-gbh-glenbrook-hospital-glenview",
   "endeavor-health-public-safety-officer-glenbrook-hospital-nights-gbh-glenbrook-hospital-glenview",
   "endeavor-health-public-safety-officer-highland-park-hospital-days-hph-highland-park-hospital",
   "endeavor-health-public-safety-officer-northwest-community-hospital-days-nch-800-w-central-rd-arlington-heights",
@@ -2051,6 +2049,7 @@
   "hshs-ortho-registered-nurse-rn-springfield",
   "hshs-orthopedics-registered-nurse-rn-springfield",
   "hshs-outpatient-radiologic-technologist-springfield",
+  "hshs-pacu-registered-nurse-critical-care-w-springfield",
   "hshs-patient-care-assistant-breese",
   "hshs-patient-care-assistant-cna-green-bay",
   "hshs-patient-care-assistant-cna-icu-green-bay",
@@ -6602,6 +6601,7 @@
   "new-york-presbyterian-chaplain-spiritual-care-and-chaplaincy-nyp-westchester-per-diem-nyp-westchester",
   "new-york-presbyterian-chaplain-spiritual-care-and-chaplaincy-westchester-behavioral-health-center-per-diem-nyp-westchester-behavioral-health-center",
   "new-york-presbyterian-clerk-stock-distribution-nyp-weill-cornell-medical-center",
+  "new-york-presbyterian-clerk-unit-pulmonary-medicine-sdu-full-time-evenings-nyp-weill-cornell-medical-center",
   "new-york-presbyterian-clinical-dietitian-clinical-nutrition-day-shift-nyp-brooklyn-methodist-hospital",
   "new-york-presbyterian-clinical-dietitian-rd-cornell-inpatient-units-full-time-day-shift-nyp-weill-cornell-medical-center",
   "new-york-presbyterian-clinical-laboratory-technologist-hematology-evenings-competitive-sign-on-bonus-new-rates-nyp-columbia-university-irving-medical-center",
