@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-319-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-317-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 319+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 317+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 319 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 317 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 17, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -72,13 +72,17 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (129 positions)
+### ⭐ **Elite Medical Centers** (127 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (76 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (74 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Patient Care Nurse Assistant - Cardiovascular Telemetry Unit | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant---Cardiovascular-Telemetry-Unit_319072) | 1d |
+| RN - Med Surg | Medina Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Medina-Hospital/RN----Med-Surg_305042) | 1d |
+| Patient Care Nurse Assistant - General Medicine/Telemetry Unit | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant---General-Medicine-Telemetry-Unit_316009) | 1d |
+| Certified Ophthalmic Assistant | Avon Lake Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Avon-Lake-Family-Health-Center/Certified-Ophthalmic-Assistant-I_321502) | 1d |
 | PCNA - Float Pool | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/PCNA---Float-Pool_275762) | 1d |
 | Patient Care Nurse Assistant - Float | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant---Float_313581) | 1d |
 | Patient Care Nurse Assistant - Urology | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant---Urology_313450) | 1d |
@@ -105,37 +109,31 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Research Student | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Research-Student-II_324222) | 1d |
 | Registered Dietitian - Outpatient (Sign-On Bonus Eligible) | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Registered-Dietitian_307134) | 1d |
 | Medical Assistant - Outpatient Otolaryngology Clinic | Indian River Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Indian-River-Hospital/Medical-Assistant---Outpatient-Otolaryngology-Clinic_322540) | 1d |
-| Patient Access Representative 🏠 | Fairview Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Access-Representative-I_321185) | 1d |
-| Alcohol Drug Outpatient Counselor 🏠 | Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/Alcohol-Drug-Outpatient-Counselor_323752) | 1d |
-| Environmental Services Floor Technician 🏠 | Tradition Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Tradition-Hospital/Environmental-Services-Floor-Technician_322537) | 1d |
-| Experienced RN - Operating Room, 1.0 FTE, 7a-3:30pm, Vary Start w/Call 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Experienced-RN---Operating-Room--10-FTE--7a-3-30pm--Vary-Start-w-Call_320631-1) | 1d |
-| Experienced RN - Operating Room 🏠 | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Experienced-RN---Operating-Room---06-FTE---6pm-6-30am---vary-start_311682-1) | 1d |
-| Certified Ophthalmic Assistant 🏠 | Elyria Family Health and Surgery Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Elyria-Family-Health-and-Surgery-Center/Certified-Ophthalmic--Assistant-I_322819-1) | 1d |
-| Patient Care Nurse Assistant- Marymount 🏠 | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Care-Nurse-Assistant--Marymount_319825) | 1d |
-| Environmental Services Area Cleaner 🏠 | Union Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Union-Hospital/Environmental-Services-Area-Cleaner_313355-1) | 1d |
-| Speech Language Pathologist 🏠 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Martin-Hospital-South/Speech-Language-Pathologist_301858) | 1d |
-| Behavioral Health Outpatient Therapist - Women's Behavioral Health 🏠 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Behavioral-Health-Outpatient-Therapist---LISW-or-LISWS_312288) | 1d |
-| Behavioral Health Outpatient Therapist - PRN 🏠 | th Health and Wellness | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Bath-Health-and-Wellness/Behavioral-Health-Outpatient-Therapist---PRN_321753) | 1d |
-| Medical Assistant - OB/GYN 🏠 | Tradition Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Tradition-Hospital/Medical-Assistant---OB-GYN_324559) | 1d |
-| Caregiver Support Coach 🏠 | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Caregiver-Support-Coach_323193) | 1d |
-| Interventional Radiology Coder 🏠 | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Remote-Location/Interventional-Radiology-Coder_318289) | 1d |
-| Social Worker - GI Cancer Center 🏠 | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Social-Worker---Cancer-Center_315276) | 1d |
-| PRN Social Worker 🏠 | South Pointe Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/South-Pointe-Hospital/PRN-Social-Worker_307784) | 1d |
-| Patient Care Nurse Assistant - Med/Surg & Telemetry 🏠 | Fairview Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant---Med-Surg---Telemetry_322254) | 1d |
-| Physical Therapist – Acute Care 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient_R-49220) | 19h |
-| Occupational Therapist – Acute Care 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist---Acute-Care-Inpatient_R-49219) | 19h |
-| Physical Therapist – Acute Care PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient-PRN_R-48084-1) | 19h |
+| Patient Access Representative | Fairview Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Access-Representative-I_321185) | 1d |
+| Alcohol Drug Outpatient Counselor | Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/Alcohol-Drug-Outpatient-Counselor_323752) | 1d |
+| Environmental Services Floor Technician | Tradition Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Tradition-Hospital/Environmental-Services-Floor-Technician_322537) | 1d |
+| Experienced RN - Operating Room, 1.0 FTE, 7a-3:30pm, Vary Start w/Call | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Experienced-RN---Operating-Room--10-FTE--7a-3-30pm--Vary-Start-w-Call_320631-1) | 1d |
+| Experienced RN - Operating Room | Akron General Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Experienced-RN---Operating-Room---06-FTE---6pm-6-30am---vary-start_311682-1) | 1d |
+| Certified Ophthalmic Assistant | Elyria Family Health and Surgery Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Elyria-Family-Health-and-Surgery-Center/Certified-Ophthalmic--Assistant-I_322819-1) | 1d |
+| Patient Care Nurse Assistant- Marymount | rymount Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Care-Nurse-Assistant--Marymount_319825) | 1d |
+| Environmental Services Area Cleaner | Union Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Union-Hospital/Environmental-Services-Area-Cleaner_313355-1) | 1d |
+| Speech Language Pathologist | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Martin-Hospital-South/Speech-Language-Pathologist_301858) | 1d |
+| Behavioral Health Outpatient Therapist - Women's Behavioral Health | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Behavioral-Health-Outpatient-Therapist---LISW-or-LISWS_312288) | 1d |
+| Behavioral Health Outpatient Therapist - PRN | th Health and Wellness | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Bath-Health-and-Wellness/Behavioral-Health-Outpatient-Therapist---PRN_321753) | 1d |
+| Physical Therapist – Acute Care 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient_R-49220) | 20h |
+| Occupational Therapist – Acute Care 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist---Acute-Care-Inpatient_R-49219) | 20h |
+| Physical Therapist – Acute Care PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient-PRN_R-48084-1) | 20h |
 | Nurse Residency Program Winter 🏠 | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nurse-Residency-Program-Winter-2026_R-44374-1) | 1mo |
-| Behavioral Analyst-1 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Behavioral-Analyst-1_R-51097-1) | 5h |
-| Care Partner - Cardiac & Vascular Stepdown (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Cardiac---Vascular-Stepdown--Nights-_R-50972-1) | 5h |
-| Care Partner - Transplant/Surgical Stepdown FT Day Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Transplant-Surgical-Stepdown-FT-Day-Shift_R-51003-1) | 5h |
-| Compensation Analyst 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Compensation-Analyst---Remote_R-51058-1) | 5h |
-| Nurse Assistant PRN (Med/Surg - Tullahoma) 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Nurse-Assistant-PRN--Med-Surg---Tullahoma-_R-51400-1) | 5h |
-| RN, Labor and Delivery/Mother Baby, Full Time nights, Tullahoma 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/RN--Labor-and-Delivery-Mother-Baby--Full-Time-nights--Tullahoma_R-51295-2) | 5h |
+| Behavioral Analyst-1 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Behavioral-Analyst-1_R-51097-1) | 6h |
+| Care Partner - Cardiac & Vascular Stepdown (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Cardiac---Vascular-Stepdown--Nights-_R-50972-1) | 6h |
+| Care Partner - Transplant/Surgical Stepdown FT Day Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Transplant-Surgical-Stepdown-FT-Day-Shift_R-51003-1) | 6h |
+| Compensation Analyst 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Compensation-Analyst---Remote_R-51058-1) | 6h |
+| Nurse Assistant PRN (Med/Surg - Tullahoma) 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Nurse-Assistant-PRN--Med-Surg---Tullahoma-_R-51400-1) | 6h |
+| RN, Labor and Delivery/Mother Baby, Full Time nights, Tullahoma 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/RN--Labor-and-Delivery-Mother-Baby--Full-Time-nights--Tullahoma_R-51295-2) | 6h |
 | Registered Nurse, Medical Infusion and Brachytherapy, Full time Days, Lebanon 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Registered-Nurse--Medical-Infusion-and-Brachytherapy--Full-time-Days--Lebanon_R-51374-1) | 5h |
 | Patient Care Attendant (NIGHT SHIFT, 24 or 36 Hours per Week) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Patient-Care-Attendant--NIGHT-SHIFT--24-or-36-Hours-per-Week-_R-51800-2) | 1mo |
-| Medical Lab Scientist 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Lab-Scientist-2_R-48028-1) | 13h |
-| Paramedic 2 - LifeFlight Ground, Part-Time - Wilson Co. 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Paramedic-2---LifeFlight-Ground---10000-Sign-on-bonus----Wilson-Co_R-49581-1) | 15h |
+| Medical Lab Scientist 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Lab-Scientist-2_R-48028-1) | 14h |
+| Paramedic 2 - LifeFlight Ground, Part-Time - Wilson Co. 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Paramedic-2---LifeFlight-Ground---10000-Sign-on-bonus----Wilson-Co_R-49581-1) | 16h |
 | Medical Assistant -Infectious Disease/Comprehensive Care Clinic - One Hundred Oaks 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant---Medical-Specialties-Clinic---One-Hundred-Oaks_R-51126-2) | 16h |
 | Virtual Tech (Telemetry) - Virtual Care ONSITE (Days) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Virtual-Monitor-Tech---Virtual-Care-ONSITE_R-50021-2) | 1mo |
 | Research Assistant I (part-time, one-year term) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Research-Assistant-I--part-time--one-year-term-_R-51468-1) | 17h |
@@ -145,7 +143,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Dietitian Nutrition Support 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Dietitian-Nutrition-Support_R-49592-1) | 19h |
 | Nurse Practitioner NP / Physician Assistant PA Trauma ICU 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-NP---Physician-Assistant-PA-Trauma-ICU_R-51771) | 19h |
 | Registered Nurse, Adult Emergency Department, Nights, VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Emergency-Services--Nights--VUH_R-44294-1) | 4d |
-| Certified Pharmacy Technician - Day Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Day-Shift---Medical-Center-East_R-50782-2) | 20h |
+| Certified Pharmacy Technician - Day Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Day-Shift---Medical-Center-East_R-50782-2) | 21h |
 | Certified Pharmacy Technician - Inpatient Evening Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Vanderbilt-University-Hospital_R-49886-1) | 1mo |
 | Basic Scientist Assistant 1 - Diabetes/Endocrinology 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Basic-Scientist-Assistant-1---Diabetes-Endocrinology_R-51286-1) | 1d |
 | Histotechnologist Clinical 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Histotechnologist-Clinical_R-51228-1) | 1d |
@@ -492,9 +490,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 147 | 46% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 143 | 45% | No or minimal experience |
 | 🟡 Beginner & Early Career | 39 | 12% | 1-2 years of experience |
-| 🔴 Manager     | 133 | 42% | 2+ years of experience |
+| 🔴 Manager     | 135 | 43% | 2+ years of experience |
 
 ---
 
@@ -512,7 +510,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 319+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 317+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -685,7 +683,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **319 current opportunities from 9 elite companies.**
+🎯 **317 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
