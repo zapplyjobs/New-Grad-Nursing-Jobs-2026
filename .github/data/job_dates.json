@@ -10228,5 +10228,11 @@
     "job_title": "Registered Nurse-Emergency Department-Night",
     "company": "Endeavor Health",
     "first_seen": "2025-12-18T23:09:01.306Z"
+  },
+  "endeavor-health-gastroenterologist/ibd-multiple-cities": {
+    "assigned_date": "2025-12-18T23:47:25.595Z",
+    "job_title": "Gastroenterologist/IBD",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-18T23:47:25.595Z"
   }
 }
