@@ -1,6 +1,4 @@
 [
-  "endeavor-health-registered-nurse-gi-lab-evh-evanston-hospital",
-  "endeavor-health-registered-nurse-gi-lab-hph-highland-park-hospital",
   "endeavor-health-registered-nurse-gi-lab-multiple-cities",
   "endeavor-health-registered-nurse-gi-lab-nch-800-w-central-rd-arlington-heights",
   "endeavor-health-registered-nurse-gi-lab-skh-skokie-hospital",
@@ -7048,6 +7046,7 @@
   "new-york-presbyterian-social-worker-emergency-department-full-time-night-nyp-queens-nyp-queens",
   "new-york-presbyterian-social-worker-heart-transplant-inpatient-columbia-days-nyp-columbia-university-irving-medical-center",
   "new-york-presbyterian-social-worker-inpatient-cpep-per-diem-nyp-weill-cornell-medical-center",
+  "new-york-presbyterian-social-worker-inpatient-float-medical-units-days-weekends-3x12-nyp-columbia-university-irving-medical-center",
   "new-york-presbyterian-social-worker-inpatient-oncology-hematology-bmt-chony-days-nyp-morgan-stanley-children-s-hospital",
   "new-york-presbyterian-social-worker-lmsw-emergency-department-full-time-nyp-weill-cornell-medical-center",
   "new-york-presbyterian-social-worker-nyp-weill-cornell-medical-center",
@@ -8431,6 +8430,7 @@
   "stanford-health-care-logistics-associate-full-time-evenings-2-00pm-10-30pm-08-hr-300p-hospital-d-e-f-diag-testing-500-600-palo-alto",
   "stanford-health-care-logistics-associate-relief-days-6-30am-3-00pm-08-hr-non-benefited-300p-hospital-d-e-f-diag-testing-500-600-palo-alto",
   "stanford-health-care-logistics-associate-relief-evenings-2-00pm-10-30pm-08-hr-non-benefited-300p-hospital-d-e-f-diag-testing-500-600-palo-alto",
+  "stanford-health-care-mammography-technologist-days-08hr-multiple-cities",
   "stanford-health-care-materials-assistant-i-dock-services-1-0-fte-days-08-hr-multiple-cities",
   "stanford-health-care-medical-scribe-oncology-relief-multiple-cities",
   "stanford-health-care-medical-spanish-interpreter-translator-multiple-cities",
