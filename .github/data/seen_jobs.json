@@ -1,6 +1,4 @@
 [
-  "endeavor-health-registered-nurse-radiology-evh-evanston-hospital",
-  "endeavor-health-registered-nurse-radiology-oncology-days-multiple-cities",
   "endeavor-health-registered-nurse-resource-team-nights-edh-main-hospital-naperville",
   "endeavor-health-registered-nurse-sane-adult-emergency-department-per-diem-edh-in-hospital-naperville",
   "endeavor-health-registered-nurse-sane-adult-emergency-department-per-diem-emh-in-hospital-elmhurst",
@@ -143,6 +141,7 @@
   "endeavor-health-rn-short-stay-obv-days-swh-swedish-hospital-chicago",
   "endeavor-health-rn-short-stay-obv-nights-swh-swedish-hospital-chicago",
   "endeavor-health-rn-surgical-oncology-nights-emh-in-hospital-elmhurst",
+  "endeavor-health-rn-surgical-oncology-per-diem-nights-emh-in-hospital-elmhurst",
   "endeavor-health-rn-surgical-oncology-unit-days-emh-in-hospital-elmhurst",
   "endeavor-health-rn-surgical-oncology-unit-nights-emh-in-hospital-elmhurst",
   "endeavor-health-rn-transitional-care-navigator-chronic-and-complex-care-management-nco-3040-salt-creek-ln-arlington-heights",
@@ -3230,6 +3229,7 @@
   "intermountain-health-laundry-worker-st-james-hospital",
   "intermountain-health-lehi-gastroeneterology-medical-assistant-saratoga-springs-clinic",
   "intermountain-health-licensed-clinical-social-worker-avenues-physician-tower",
+  "intermountain-health-licensed-clinical-social-worker-intermountain-health-intermountain-medical-center",
   "intermountain-health-licensed-plumber-intermountain-health-logan-regional-hospital",
   "intermountain-health-licensed-practical-nurse-broadwater-family-medicine-broadwater-clinic",
   "intermountain-health-licensed-practical-nurse-burnham-springs-symptom-management-team-burnham-springs-clinic",
