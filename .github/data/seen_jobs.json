@@ -1,6 +1,4 @@
 [
-  "endeavor-health-registered-nurse-surgery-per-diem-emh-in-hospital-elmhurst",
-  "endeavor-health-registered-nurse-surgery-prn-emh-in-hospital-elmhurst",
   "endeavor-health-registered-nurse-surgical-stepdown-day-noc-evh-evanston-hospital",
   "endeavor-health-registered-nurse-surgical-stepdown-day-pm-evh-evanston-hospital",
   "endeavor-health-registered-nurse-triage-cardiology-nch-800-w-central-rd-arlington-heights",
@@ -2044,6 +2042,7 @@
   "hshs-registered-nurse-rn-icu-prn-o-fallon",
   "hshs-registered-nurse-rn-icu-weekend-option-o-fallon",
   "hshs-registered-nurse-rn-il-regional-float-springfield",
+  "hshs-registered-nurse-rn-imcu-icu-or-cvicu-green-bay",
   "hshs-registered-nurse-rn-in-house-float-o-fallon",
   "hshs-registered-nurse-rn-in-house-float-pool-weekend-option-o-fallon",
   "hshs-registered-nurse-rn-inpatient-med-surg-highland",
@@ -2820,6 +2819,7 @@
   "intermountain-health-athletic-trainer-rocky-mountain-orthopedics",
   "intermountain-health-athletic-trainer-school-based-float-tosh",
   "intermountain-health-athletic-trainer-school-based-intermountain-health-american-fork-hospital",
+  "intermountain-health-athletic-trainer-school-based-intermountain-health-lds-hospital",
   "intermountain-health-athletic-trainer-school-based-intermountain-health-utah-valley-hospital",
   "intermountain-health-athletic-trainer-school-based-prn-bountiful-sports-med",
   "intermountain-health-athletic-trainer-school-based-prn-tosh",
