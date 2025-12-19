@@ -1,6 +1,4 @@
 [
-  "endeavor-health-rn-7e-cardiac-tele-days-swh-swedish-hospital-chicago",
-  "endeavor-health-rn-ambulatory-care-unit-skh-skokie-hospital",
   "endeavor-health-rn-ambulatory-surgery-pacu-days-multiple-cities",
   "endeavor-health-rn-ambulatory-surgical-pacu-days-multiple-cities",
   "endeavor-health-rn-ap4-med-surg-tele-days-swh-swedish-hospital-chicago",
@@ -3520,6 +3518,7 @@
   "intermountain-health-medical-lab-scientist-intermountain-health-st-george-regional-hospital",
   "intermountain-health-medical-lab-scientist-intermountain-health-utah-valley-hospital",
   "intermountain-health-medical-lab-scientist-microbiology-saint-joseph-hospital",
+  "intermountain-health-medical-lab-scientist-northglenn-healthcare-pavilion",
   "intermountain-health-medical-lab-scientist-platte-valley-hospital",
   "intermountain-health-medical-lab-scientist-prn-saint-joseph-hospital",
   "intermountain-health-medical-lab-scientist-st-james-hospital",
@@ -4471,6 +4470,7 @@
   "intermountain-health-registered-nurse-operating-room-circulator-holy-rosary-hospital",
   "intermountain-health-registered-nurse-operating-room-circulator-intermountain-health-intermountain-medical-center",
   "intermountain-health-registered-nurse-operating-room-intermountain-health-american-fork-hospital",
+  "intermountain-health-registered-nurse-operating-room-intermountain-health-heber-valley-hospital",
   "intermountain-health-registered-nurse-operating-room-intermountain-health-lds-hospital",
   "intermountain-health-registered-nurse-operating-room-intermountain-health-logan-regional-hospital",
   "intermountain-health-registered-nurse-operating-room-intermountain-health-lutheran-hospital",
