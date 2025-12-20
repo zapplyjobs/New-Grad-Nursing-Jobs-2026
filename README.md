@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-345-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-348-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 345+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 348+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,21 +61,21 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 345 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 348 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 20, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Healthcare Jobs:** 74 (older than 1 week)
+- 📁 **Archived Healthcare Jobs:** 71 (older than 1 week)
 
 
 ---
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (130 positions)
+### ⭐ **Elite Medical Centers** (128 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (63 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (61 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -125,8 +125,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Clinical Trials Associate 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Trials-Associate-I_R-51708-2) | 1h |
 | Registered Nurse, NICU, Day & Night Shifts Available, Temp Force - MCJCHV 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--NICU--Day---Night-Shifts-Available--Temp-Force---MCJCHV_R-51953) | 7h |
 | RN, Registered Nurse 2 Clinic Float Pool 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/RN--Registered-Nurse-2-Clinic-Float-Pool_R-50720-1) | 8h |
-| Research Assistant 1 (Psychiatry-Psychology) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Research-Assistant-1--Psychiatry-Psychology-_R-51461-2) | 8h |
-| Certified Pharmacy Technician - Inpatient Day Shift 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Vanderbilt-University-Hospital_R-50548-2) | 11h |
+| Research Assistant 1 (Psychiatry-Psychology) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Research-Assistant-1--Psychiatry-Psychology-_R-51461-2) | 9h |
 | Medical Lab Scientist 2- Blood Bank | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Lab-Scientist-2--Blood-Bank_R-51322-1) | 1d |
 | Medical Laboratory Scientist 2 , Blood Bank | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Laboratory-Scientist-2---Blood-Bank--Day-Shift_R-51365-1) | 1d |
 | Nurse Practitioner NP or Physician Assistant PA Medical Progressive Care Unit Nights | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-NP-or-Physician-Assistant-PA-Medical-Progressive-Care-Unit-Nights_R-51865-1) | 1d |
@@ -141,7 +140,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Licensed Practical Nurse, IV Cubby, Days - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse--IV-Therapy--Days----VUH_R-44784-1) | 1d |
 | Pediatric Cleft and Craniofacial (Outpatient) - Nurse Practitioner or Physician Assistant | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Cleft-and-Craniofacial--Outpatient----Nurse-Practitioner-or-Physician-Assistant_R-51633-1) | 2d |
 | Physical Therapist - Pediatric Home Health PRN | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist-Pediatric-Home-Health-PRN_R-46635-1) | 2d |
-| Speech-Language Pathologist – PRN | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Speech-Language-Pathologist--SLP----PRN_R-50343-1) | 2d |
 
 </details>
 
@@ -383,7 +381,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### 🔗 **Integrated Health Networks** (93 positions)
+### 🔗 **Integrated Health Networks** (98 positions)
 
 <details>
 <summary><h4>💙 <strong>Allina Health</strong> (44 positions)</h4></summary>
@@ -438,7 +436,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>🏨 <strong>Endeavor Health</strong> (49 positions)</h4></summary>
+<summary><h4>🏨 <strong>Endeavor Health</strong> (54 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -482,15 +480,20 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse-Emergency Department-Nights | HPH Highland Park Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Registered-Nurse-Emergency-Department-Nights_R28361?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Occupational Therapist I - Inpatient/Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist--Inpatient-Outpatient--Multiple-Locations_R23823?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Physical Therapist Assistant- Inpatient and Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Physical-Therapist-Assistant--Inpatient-and-Outpatient--Multiple-Locations_R23769?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
-| Gastroenterologist/IBD | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Gastroenterologist_R16846?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Gastroenterologist | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Gastroenterologist_R31966-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
-| General Gastroenterologist | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/General-Gastroenterologist_R36100-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
-| Registered Nurse - GI Lab - Days | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Registered-Nurse---GI-Lab---Days_R17868?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| RN Triage - Centralized Triage | O Corporate Center Warrenville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SRO-Corporate-Center-Warrenville-4201-Winfield-Road/RN-Triage---Centralized-Triage_R36606?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| RN Triage - Central Triage | O Corporate Center Warrenville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SRO-Corporate-Center-Warrenville-4201-Winfield-Road/RN-Triage---Central-Triage_R36607?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
-| Registered Nurse-Emergency Department-Night | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/RN---EDW-ED---Days_R21848?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| RN Triage - Neurology | EDH MOB 2 Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-MOB-2-Naperville-120-Spalding-Drive/RN-Triage---Neurology_R34514?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
-| Patient Care Tech - Pulmonary Medicine Unit - Nights | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Patient-Care-Tech---Pulmonary-Medicine-Unit---Nights_R35782?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Sterile Processing Tech - Per Diem | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Sterile-Processing-Tech---Per-Diem_R37066?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6h |
+| Phlebotomist | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Phlebotomist-II_R35066?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
+| Rehabilitation Technician | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Rehabilitation-Technician_R37301?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6h |
+| Certified Sterile Processing Tech - Midshift | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Certified-Sterile-Processing-Tech---Midshift_R37303?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6h |
+| Physical Therapist - Per Diem –Outpatient – Days/evenings | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Physical-Therapist---Per-Diem--Outpatient---Days-evenings_R36933?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 7h |
+| Rehabilitation Technician - Per Diem | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Rehabilitation-Technician---Per-Diem_R37327-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 7h |
+| Physical Therapist | EMH Center For Health Building Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Center-For-Health-Building-Elmhurst/Physical-Therapist-II---Therapy---Rehabilitation_CR_913?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 7h |
+| Dental Assistant - Days - Per Diem | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Dental-Assistant---Days---Per-Diem_R36964?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 7h |
+| Medical Assistant/Patient Support Assistant (MA/PSA) - Medical Group Urology, Highland Park | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Ambulatory-Care-Center-Glenview/Medical-Assistant-Patient-Support-Associate--MA-PSA----Urology--Highland-Park--Full-Time-_R33704?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 7h |
+| Patient Care Technician Unit Secretary - Peds Picu - Days | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Patient-Care-Technician-Unit-Secretary---Peds-Picu---Days_R36993?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 7h |
+| Mental Health Clinical Therapist II-LOMG Addison | EMO Addison 303 W Lake Street | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMO-Addison-303-W-Lake-Street/Mental-Health-Clinical-Therapist-II-LOMG-Addison_R36888?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 8h |
+| Radiologic Technologist II - Mid/Evenings | EMO Lombard 130 S in Street | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMO-Lombard-130-S-Main-Street/Radiologic-Technologist-II---Mid-Evenings_R37127?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 8h |
+| Radiologic Technologist | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Radiologic-Technologist-III_R37125?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 8h |
+| Mental Health Clinical Therapist II-Days-LOH Anxiety/Outpatient Mill Street | LOO Naperville 1335 N Mill Street | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/LOO-Naperville-1335-N-Mill-Street/Mental-Health-Clinical-Therapist-II-Days-LOH-Anxiety-Outpatient-Mill-Street_R36762-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 7h |
 
 </details>
 
@@ -510,7 +513,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 #### 🔗 **Regional Health Networks** (1 company)
-🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (49 positions)
+🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (54 positions)
 
 ---
 
@@ -518,15 +521,15 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 117 | 34% | No or minimal experience |
-| 🟡 Beginner & Early Career | 111 | 32% | 1-2 years of experience |
-| 🔴 Manager     | 117 | 34% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 116 | 33% | No or minimal experience |
+| 🟡 Beginner & Early Career | 116 | 33% | 1-2 years of experience |
+| 🔴 Manager     | 116 | 33% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Multiple Cities**: 30 positions
-- **Nashville, TN**: 25 positions
+- **Multiple Cities**: 28 positions
+- **Nashville, TN**: 23 positions
 - **Cleveland Clinic in Campus**: 14 positions
 - **Richmond, VA**: 13 positions
 - **NYP/Weill Cornell Medical Center**: 10 positions
@@ -538,7 +541,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 345+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 348+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -585,19 +588,19 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 74 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 71 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 74 positions
+📁 **Total Jobs:** 71 positions
 🏢 **Companies:** 9 companies
 
 
-### ⭐ **Elite Medical Centers** (15 positions)
+### ⭐ **Elite Medical Centers** (13 positions)
 
-#### ⭐ **Cleveland Clinic** (12 positions)
+#### ⭐ **Cleveland Clinic** (10 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -605,14 +608,12 @@ Either still hiring or useful for research.
 | Physical Therapist – NICU 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Phyical-Therapist---NICU-Monroe-Carell-Jr-Children-s-Hospital-at-Vanderbilt_R-50183-1) | 3w |
 | Audiologist – Adult Hearing Care 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Audiologist---Adult-Otology---Vestibular-Focus_R-49890-1) | 3w |
 | Ambulatory Clinics - Licensed Practical Nurse 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Ambulatory-Clinics_R-51029-1) | 3w |
-| Certified Pharmacy Technician - Day Shift - Medical Center East 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Day-Shift---Medical-Center-East_R-50782-2) | 1w |
 | Certified Surgical Tech, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-Surgical-Tech--Lebanon----20k-Bonus_R-50534-2) | 2w |
 | Registered Nurse. Medicine Stepdown, Nights (Premium Pay)- VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-Medicine-Stepdown--Nights--Premium-Pay---VUH_R-49129-1) | 2w |
 | Care Partner - Myelosuppression/Stem Cell Transplant Unit - FT Nights 18:45 - 07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Myelosuppression-Stem-Cell-Transplant-Unit---FT-Nights-18-45---07-15_R-51019-1) | 2w |
 | Nurse Practitioner/Physician Assistant - Vascular Surgery (Outpatient) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Nurse-Practitioner-Physician-Assistant---Vascular-Surgery--Outpatient-_R-50216-1) | 1w |
 | Graduate Practical Nurse - Home Care Academy - Private Duty | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse---Boot-Camp_R-39325) | 1w |
 | Music Therapist - FT - M-F (8a-4:30p) - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Music-Therapist---FT---M-F--8a-4-30p----VUH_R-47705-1) | 2w |
-| Speech-Language Pathologist – Pediatric – PRN | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Speech-Language-Pathologist--SLP----PRN_R-47905-2) | 3w |
 
 #### 🎓 **Stanford Health Care** (3 positions)
 
@@ -704,7 +705,7 @@ Either still hiring or useful for research.
 
 </details>
 
-### 🔗 **Integrated Health Networks** (2 positions)
+### 🔗 **Integrated Health Networks** (1 position)
 
 #### 💙 **Allina Health** (1 position)
 
@@ -712,19 +713,13 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | RN New Graduate 🏠 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/RN-New-Graduate_R-0065794) | 1w |
 
-#### 🏨 **Endeavor Health** (1 position)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Medical Assistant - Endo | EDH MOB 1 Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-MOB-1-Naperville-100-Spalding-Drive/Medical-Assistant---Endo_R36761?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-
 
 
 </details>
 
 ---
 
-🎯 **345 current opportunities from 9 elite companies.**
+🎯 **348 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
