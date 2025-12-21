@@ -10558,5 +10558,17 @@
     "job_title": "Virtual Tech (Telemetry) - ONSITE (Nights)",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-12-21T06:13:10.165Z"
+  },
+  "endeavor-health-registered-nurse-neurology/urology-nights-evh-evanston-hospital": {
+    "assigned_date": "2025-12-21T16:41:41.253Z",
+    "job_title": "Registered Nurse-Neurology/Urology-Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-21T16:41:41.253Z"
+  },
+  "endeavor-health-patient-care-technician-surgical-stepdown-nights-evh-evanston-hospital": {
+    "assigned_date": "2025-12-21T16:41:41.253Z",
+    "job_title": "Patient Care Technician-Surgical Stepdown-Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-21T16:41:41.253Z"
   }
 }
