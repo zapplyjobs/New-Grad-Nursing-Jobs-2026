@@ -10570,5 +10570,11 @@
     "job_title": "Patient Care Technician-Surgical Stepdown-Nights",
     "company": "Endeavor Health",
     "first_seen": "2025-12-21T16:41:41.253Z"
+  },
+  "endeavor-health-registered-nurse-med/surg/overflow-nights-evh-evanston-hospital": {
+    "assigned_date": "2025-12-21T17:07:16.310Z",
+    "job_title": "Registered Nurse-Med/Surg/Overflow-Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-21T17:07:16.310Z"
   }
 }
