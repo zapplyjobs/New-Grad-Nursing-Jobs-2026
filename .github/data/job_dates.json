@@ -10576,5 +10576,29 @@
     "job_title": "Registered Nurse-Med/Surg/Overflow-Nights",
     "company": "Endeavor Health",
     "first_seen": "2025-12-21T17:07:16.310Z"
+  },
+  "endeavor-health-patient-care-technician-neurology/urology-day/evenings-evh-evanston-hospital": {
+    "assigned_date": "2025-12-21T17:20:05.524Z",
+    "job_title": "Patient Care Technician-Neurology/Urology-Day/Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-21T17:20:05.524Z"
+  },
+  "endeavor-health-patient-care-technician-cardiac/stroke-nights-evh-evanston-hospital": {
+    "assigned_date": "2025-12-21T17:20:05.524Z",
+    "job_title": "Patient Care Technician-Cardiac/Stroke-Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-21T17:20:05.524Z"
+  },
+  "endeavor-health-patient-care-tech-cardiac/stroke-evenings-evh-evanston-hospital": {
+    "assigned_date": "2025-12-21T17:20:05.524Z",
+    "job_title": "Patient Care Tech-Cardiac/Stroke-Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-21T17:20:05.524Z"
+  },
+  "endeavor-health-patient-care-technician-cardiac/stroke-day/evenings-evh-evanston-hospital": {
+    "assigned_date": "2025-12-21T17:20:05.524Z",
+    "job_title": "Patient Care Technician-Cardiac/Stroke-Day/Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-21T17:20:05.524Z"
   }
 }
