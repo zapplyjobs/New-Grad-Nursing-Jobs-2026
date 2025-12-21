@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-363-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-362-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 363+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 362+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 363 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 362 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 21, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -244,10 +244,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (91 positions)
+### ✝️ **Faith-Based Health Systems** (90 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (44 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (43 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -276,6 +276,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Surgical Tech | O'Fallon - St. Elizabeth's Hospital | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon---St-Elizabeths-Hospital/Surgical-Tech_R1033714) | 3d |
 | Nurse Extern | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Nurse-Extern-I_R1030597) | 3d |
 | APP General Cardiology | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/APP--General-Cardiology_R1033922-1) | 3d |
+| Experienced APRN/PA - Primary Care | Breese, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Breese-IL/Experienced-APRN-PA---Primary-Care_R1033987) | 3d |
 | Neonatal Nurse Practitioner (NNP) | Effingham, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Neonatal-Nurse-Practitioner--NNP-_R1033983) | 3d |
 | Physician - ENT | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Physician---ENT_R1033912) | 3d |
 | Physician - FM or IM Geriatrics | Springfield, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Physician---FM-or-IM-Geriatrics_R1033936) | 3d |
@@ -293,8 +294,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Physician - Primary Care | Mattoon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Mattoon-IL/Physician---Primary-Care_R1034002) | 3d |
 | Physician - Pulmonologist | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Physician---Pulmonologist_R1033946) | 3d |
 | Physician- ENT | O'Fallon, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Physician--ENT_R1033918) | 3d |
-| Physician- Neurology | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Physician--Neurology_R1033920) | 3d |
-| Physician Assistant / Nurse Practitioner General Cardiology- General Cardiology | Decatur, IL | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Physician-Assistant---Nurse-Practitioner-General-Cardiology--General-Cardiology_R1033973) | 3d |
 
 </details>
 
@@ -497,7 +496,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Rehabilitation Technician | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Rehabilitation-Technician_R37301?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Certified Sterile Processing Tech - Midshift | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Certified-Sterile-Processing-Tech---Midshift_R37303?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Physical Therapist - Per Diem –Outpatient – Days/evenings | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Physical-Therapist---Per-Diem--Outpatient---Days-evenings_R36933?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
-| Rehabilitation Technician - Per Diem | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Rehabilitation-Technician---Per-Diem_R37327-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Rehabilitation Technician - Per Diem | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Rehabilitation-Technician---Per-Diem_R37327-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Physical Therapist | EMH Center For Health Building Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Center-For-Health-Building-Elmhurst/Physical-Therapist-II---Therapy---Rehabilitation_CR_913?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Dental Assistant - Days - Per Diem | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Dental-Assistant---Days---Per-Diem_R36964?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Medical Assistant/Patient Support Assistant (MA/PSA) - Medical Group Urology, Highland Park | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Ambulatory-Care-Center-Glenview/Medical-Assistant-Patient-Support-Associate--MA-PSA----Urology--Highland-Park--Full-Time-_R33704?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
@@ -534,7 +533,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 122 | 34% | No or minimal experience |
-| 🟡 Beginner & Early Career | 103 | 28% | 1-2 years of experience |
+| 🟡 Beginner & Early Career | 102 | 28% | 1-2 years of experience |
 | 🔴 Manager     | 138 | 38% | 2+ years of experience |
 
 ---
@@ -553,7 +552,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 363+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 362+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -726,7 +725,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **363 current opportunities from 9 elite companies.**
+🎯 **362 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
