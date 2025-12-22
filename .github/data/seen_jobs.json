@@ -1,6 +1,4 @@
 [
-  "endeavor-health-rn-diagnostic-imaging-emh-in-hospital-elmhurst",
-  "endeavor-health-rn-edw-ed-evenings-edh-in-hospital-naperville",
   "endeavor-health-rn-edw-ed-evenings-edh-main-hospital-naperville",
   "endeavor-health-rn-edw-ed-nights-edh-in-hospital-naperville",
   "endeavor-health-rn-edw-ed-nights-edh-main-hospital-naperville",
@@ -1992,6 +1990,7 @@
   "hshs-registered-nurse-rn-intensive-care-icu-sheboygan",
   "hshs-registered-nurse-rn-intensive-care-unit-icu-sheboygan",
   "hshs-registered-nurse-rn-intermediate-care-unit-green-bay",
+  "hshs-registered-nurse-rn-interventional-radiology-green-bay",
   "hshs-registered-nurse-rn-interventional-radiology-multiple-cities",
   "hshs-registered-nurse-rn-interventional-radiology-o-fallon",
   "hshs-registered-nurse-rn-med-surg-breese",
@@ -2114,6 +2113,7 @@
   "hshs-speech-language-pathologist-effingham",
   "hshs-speech-language-pathologist-ii-home-care-sheboygan",
   "hshs-speech-language-pathologist-ii-slp-hshs-home-care-springfield",
+  "hshs-speech-language-pathologist-inpatient-acute-care-prn-green-bay",
   "hshs-speech-language-pathologist-springfield",
   "hshs-spiritual-care-minister-green-bay",
   "hshs-spiritual-care-minister-springfield",
