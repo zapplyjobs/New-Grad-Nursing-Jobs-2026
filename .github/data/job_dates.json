@@ -10630,5 +10630,41 @@
     "job_title": "Surgery Scheduler II - General Surgery",
     "company": "Endeavor Health",
     "first_seen": "2025-12-22T04:23:33.786Z"
+  },
+  "cleaveland-clinic-apc-clarksville": {
+    "assigned_date": "2025-12-22T06:15:26.579Z",
+    "job_title": "APC",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-22T06:15:26.579Z"
+  },
+  "cleaveland-clinic-dental-assistant---village-at-vanderbilt-nashville": {
+    "assigned_date": "2025-12-22T06:15:26.579Z",
+    "job_title": "Dental Assistant - Village at Vanderbilt",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-22T06:15:26.579Z"
+  },
+  "cleaveland-clinic-radiology-technical-assistant---ft---weekdays---vuh-nashville": {
+    "assigned_date": "2025-12-22T06:15:26.579Z",
+    "job_title": "Radiology Technical Assistant - FT - Weekdays - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-22T06:15:26.579Z"
+  },
+  "cleaveland-clinic-registered-nurse--surgical-cvicu-(cvicu-experience-required),-prn--vuh-nashville": {
+    "assigned_date": "2025-12-22T06:15:26.579Z",
+    "job_title": "Registered Nurse- Surgical CVICU (CVICU experience required), PRN- VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-22T06:15:26.579Z"
+  },
+  "cleaveland-clinic-registered-nurse-prn-nashville": {
+    "assigned_date": "2025-12-22T06:15:26.579Z",
+    "job_title": "Registered Nurse PRN",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-22T06:15:26.579Z"
+  },
+  "cleaveland-clinic-research-assistant-2,-core---onsite,-nashville-tn-nashville": {
+    "assigned_date": "2025-12-22T06:15:26.579Z",
+    "job_title": "Research Assistant 2, Core - Onsite, Nashville TN",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-22T06:15:26.579Z"
   }
 }
