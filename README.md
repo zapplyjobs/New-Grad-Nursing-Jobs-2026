@@ -115,7 +115,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Certified Athletic Trainer - Kent State University | Stow Health and Wellness | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Stow-Health-and-Wellness/Certified-Athletic-Trainer---Kent-State-University_323947) | 3d |
 | MRI Technologist | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Elyria-Family-Health-and-Surgery-Center/MRI-Technologist-I-PRN_243382-1) | 3d |
 | Physical Therapist - Inpatient - Acute | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Lutheran-Hospital/Physical-Therapist---Inpatient---Acute_323490) | 3d |
-| New Grad RN Resident - Neuro Med Surg | Fairview Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Fairview-Hospital/New-Grad-RN-Resident---Neuro---Med-Surg_306484) | 3d |
 | Occupational Therapist – Home Health PRN 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1mo |
 | Occupational Therapy Assistant – Home Health 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1mo |
 | Physical Therapist – Acute Care 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient_R-49220) | 5d |
@@ -144,6 +143,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Radiation Therapist 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Radiation-Therapist_R-51732-2) | 2d |
 | Radiologic Technologist - Full time Weekdays 🏠 | Franklin, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Franklin-TN/Radiologic-Technologist---Full-time-Weekdays_R-51549-1) | 2d |
 | Registered Nurse, Acute Care of Elderly, Nights (Premium Pay) - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Acute-Care-of-Elderly--Nights--Premium-Pay----VUH_R-48289-1) | 1mo |
+| Registered Nurse, Acute Care of the Elderly, Days - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Acute-Care-of-the-Elderly--Days---VUH_R-49627-1) | 1mo |
 | Registered Nurse, Burn (Premium Pay) - Nights - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Burn--Premium-Pay----Nights---VUH_R-49334) | 1mo |
 | Registered Nurse, Ortho/Ortho Trauma - Nights, VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Ortho-Ortho-Trauma---Nights--VUH_R-50532-1) | 1mo |
 | Registered Nurse CC PRN - Radiation Oncology Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-CC-PRN---Radiation-Oncology-Clinic_R-51434-1) | 2d |
@@ -499,7 +499,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Patient Care Technician-Cardiac/Stroke-Day/Evenings | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Patient-Care-Technician-Cardiac-Stroke-Day-Evenings_R36990?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 18h |
 | Registered Nurse-Neurology/Urology-Nights | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Registered-Nurse-Neurology-Urology-Nights_R37220?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 19h |
 | Registered Nurse-Cardiac/Stroke-Nights | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Registered-Nurse-Cardiac-Stroke-Nights_R36860-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
-| Registered Nurse-Med/Surg/Overflow-Nights | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Registered-Nurse-Med-Surg-Overflow-Nights_R36848?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 18h |
+| Registered Nurse-Med/Surg/Overflow-Nights | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Registered-Nurse-Med-Surg-Overflow-Nights_R36848?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 19h |
 | Patient Care Technician-Surgical Stepdown-Nights | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Patient-Care-Technician-Stepdown-Nights_R31420?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 19h |
 
 </details>
@@ -528,15 +528,15 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 135 | 38% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 120 | 34% | No or minimal experience |
 | 🟡 Beginner & Early Career | 88 | 25% | 1-2 years of experience |
-| 🔴 Manager     | 135 | 38% | 2+ years of experience |
+| 🔴 Manager     | 150 | 42% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
+- **Nashville, TN**: 29 positions
 - **Multiple Cities**: 28 positions
-- **Nashville, TN**: 28 positions
 - **Cleveland Clinic in Campus**: 20 positions
 - **EVH Evanston Hospital**: 13 positions
 - **NYP/Brooklyn Methodist Hospital**: 11 positions
