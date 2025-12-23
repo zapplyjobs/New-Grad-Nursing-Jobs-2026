@@ -1,6 +1,4 @@
 [
-  "endeavor-health-sterile-processing-tech-days-emh-in-hospital-elmhurst",
-  "endeavor-health-sterile-processing-tech-days-swh-swedish-hospital-chicago",
   "endeavor-health-sterile-processing-tech-evenings-emh-in-hospital-elmhurst",
   "endeavor-health-sterile-processing-tech-evenings-nch-800-w-central-rd-arlington-heights",
   "endeavor-health-sterile-processing-tech-gbh-glenbrook-hospital-glenview",
@@ -6604,6 +6602,7 @@
   "new-york-presbyterian-housekeeping-aide-cornell-part-time-day-shift-nyp-weill-cornell-medical-center",
   "new-york-presbyterian-housekeeping-aide-cornell-part-time-evening-shift-nyp-weill-cornell-medical-center",
   "new-york-presbyterian-housekeeping-aide-pt-environmental-services-evening-flex-nyp-westchester",
+  "new-york-presbyterian-housekeeping-worker-part-time-nights-weekends-holidays-lower-manhattan-nyp-lower-nhattan-hospital",
   "new-york-presbyterian-human-resources-business-partner-brooklyn-methodist-hospital-nyp-brooklyn-methodist-hospital",
   "new-york-presbyterian-hvac-refrigeration-mechanic-nyp-weill-cornell-medical-center",
   "new-york-presbyterian-icu-technician-hospitalist-pt-evenings-nyp-columbia-university-irving-medical-center",
@@ -9053,6 +9052,7 @@
   "vcu-health-enterprise-analytics-data-engineer-richmond",
   "vcu-health-environmental-services-aide-children-s-pavilion-on-brook-road-days-richmond",
   "vcu-health-environmental-services-aide-evenings-part-time-south-hill",
+  "vcu-health-environmental-services-aide-evs-evenings-south-hill",
   "vcu-health-environmental-services-aide-south-hill",
   "vcu-health-environmental-services-aide-tappahannock-days-tappahannock",
   "vcu-health-environmental-services-aide-tappahannock-hospital-days-tappahannock",
