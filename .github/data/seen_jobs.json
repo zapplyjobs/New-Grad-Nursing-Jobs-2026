@@ -1,6 +1,4 @@
 [
-  "endeavor-health-rn-weekender-cnicu-days-edh-main-hospital-naperville",
-  "endeavor-health-rn-weekender-icu-days-edh-main-hospital-naperville",
   "endeavor-health-rn-weekender-surgery-days-evenings-edh-in-hospital-naperville",
   "endeavor-health-rn-women-and-infants-per-diem-nights-nch-800-w-central-rd-arlington-heights",
   "endeavor-health-rn-wound-care-days-swh-swedish-hospital-chicago",
@@ -3021,6 +3019,7 @@
   "intermountain-health-gastroenterologist-southridge-clinic-at-riverton",
   "intermountain-health-general-non-invasive-cardiologist-denver-area-intermountain-health-heart-vascular-wheat-ridge",
   "intermountain-health-general-orthopedic-surgeon-butte-clinic",
+  "intermountain-health-general-orthopedic-surgeon-prn-platte-valley-hospital",
   "intermountain-health-general-surgeon-prn-holy-rosary-hospital",
   "intermountain-health-gift-shop-associate-intermountain-health-intermountain-medical-center",
   "intermountain-health-graduate-nurse-inpatient-rehabilitation-unit-st-rys-regional-hospital",
@@ -3433,6 +3432,7 @@
   "intermountain-health-medical-lab-scientist-intermountain-health-layton-hospital",
   "intermountain-health-medical-lab-scientist-intermountain-health-lds-hospital",
   "intermountain-health-medical-lab-scientist-intermountain-health-lutheran-hospital",
+  "intermountain-health-medical-lab-scientist-intermountain-health-mckay-dee-hospital",
   "intermountain-health-medical-lab-scientist-intermountain-health-sanpete-valley-hospital",
   "intermountain-health-medical-lab-scientist-intermountain-health-st-george-regional-hospital",
   "intermountain-health-medical-lab-scientist-intermountain-health-utah-valley-hospital",
