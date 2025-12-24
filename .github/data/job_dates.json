@@ -11170,5 +11170,23 @@
     "job_title": "Clinical Nurse Educator - RQI - Days",
     "company": "Endeavor Health",
     "first_seen": "2025-12-24T15:49:43.553Z"
+  },
+  "endeavor-health-physician--radiologist--elmhurst-r3-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-24T16:12:00.916Z",
+    "job_title": "Physician- Radiologist- Elmhurst-R3",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-24T16:12:00.916Z"
+  },
+  "endeavor-health-physician--radiologist--elmhurst--r2-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-24T16:12:00.916Z",
+    "job_title": "Physician- Radiologist- Elmhurst- R2",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-24T16:12:00.916Z"
+  },
+  "endeavor-health-physician--radiologist--elmhurst--r1-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-24T16:12:00.916Z",
+    "job_title": "Physician- Radiologist- Elmhurst- R1",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-24T16:12:00.916Z"
   }
 }
