@@ -65,7 +65,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 25, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Healthcare Jobs:** 84 (older than 1 week)
+- 📁 **Archived Healthcare Jobs:** 83 (older than 1 week)
 
 
 ---
@@ -118,18 +118,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Occupational Therapist – Home Health PRN | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapist-Home-Health-PRN_R-47698-1) | 1mo |
 | Occupational Therapy Assistant – Home Health | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Occupational-Therapy-Assistant--OTA-_R-47687-1) | 1mo |
 | Nurse Residency Program Winter | US - Remote 🏠 | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nurse-Residency-Program-Winter-2026_R-44374-1) | 1mo |
-| Care Partner - Main OR - PACU (Monday - Thursday, Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Main-OR---PACU--Monday---Thursday--Nights-_R-50452) | 23h |
-| Certified First Assist, OB & OR, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR--Lebanon----20k-Bonus_R-51557-1) | 23h |
-| Certified First Assist, OB & OR Call Team, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR-Call-Team--Lebanon----20k-Bonus_R-51560-1) | 23h |
-| Certified First Assist, OB & OR Weekend Call Team, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR-Weekend-Call-Team--Lebanon----20k-Bonus_R-51559-1) | 23h |
-| Certified Pharmacy Technician - Enterprise Support Services Pharmacy | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Enterprise-Support-Services-Pharmacy_R-53158-2) | 23h |
-| OR Technical Assistant - Monroe Carell Jr. Children's Hospital at Vanderbilt 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/OR-Technical-Assistant---Monroe-Carell-Jr-Children-s-Hospital-at-Vanderbilt_R-51117-2) | 1mo |
-| RN Circulator, OR, Full time Days, Tullahoma 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/RN-Circulator--OR--Full-time-Days--Tullahoma_R-51137) | 23h |
-| Registered Nurse 2 OR-1 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-OR-1_R-51161-2) | 23h |
-| TempForce Surgical Tech, Lebanon ASC 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/TempForce-Surgical-Tech--Lebanon-ASC_R-51956-1) | 23h |
+| Care Partner - Main OR - PACU (Monday - Thursday, Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Main-OR---PACU--Monday---Thursday--Nights-_R-50452) | 1d |
+| Certified First Assist, OB & OR, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR--Lebanon----20k-Bonus_R-51557-1) | 1d |
+| Certified First Assist, OB & OR Call Team, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR-Call-Team--Lebanon----20k-Bonus_R-51560-1) | 1d |
+| Certified First Assist, OB & OR Weekend Call Team, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR-Weekend-Call-Team--Lebanon----20k-Bonus_R-51559-1) | 1d |
+| Certified Pharmacy Technician - Enterprise Support Services Pharmacy | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Enterprise-Support-Services-Pharmacy_R-53158-2) | 1d |
+| RN Circulator, OR, Full time Days, Tullahoma 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/RN-Circulator--OR--Full-time-Days--Tullahoma_R-51137) | 1d |
+| Registered Nurse 2 OR-1 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-OR-1_R-51161-2) | 1d |
+| TempForce Surgical Tech, Lebanon ASC 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/TempForce-Surgical-Tech--Lebanon-ASC_R-51956-1) | 1d |
 | Research Assistant 1 (Term Position) - Moberly Lab 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Research-Assistant---Term---Moberly-Lab_R-50449-1) | 1d |
 | Cook 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Cook_R-52045) | 1d |
 | LifeFlight Clinical Tech Van Transport, Part-Time, 1 day a week, 7A-7P 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Tech-Van-Transport_R-42531-1) | 1d |
+| Medical Assistant - Pediatric Urology Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant---Pediatric-Urology-Clinic_R-50251) | 1mo |
 | Phlebotomist 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Phlebotomist-2_R-53020-1) | 1mo |
 | Clinical Lab Associate 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Lab-Associate-2_R-53015-1) | 6d |
 | Surgical Tech II, OR- $20k Sign-on Bonus 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Surgical-Tech-II--OR---20k-Sign-on-Bonus_R-52033-1) | 1mo |
@@ -139,11 +139,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse, NICU, Night Shift, Temp Force - VTHH | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Registered-Nurse--NICU--Night-Shift--Temp-Force---VTHH_R-52024) | 1mo |
 | RN, Registered Nurse Weekend PRN - Pediatric Infusion Clinic | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Weekend-PRN---Pediatric-Infusion-Clinic_R-51287) | 1d |
 | Medical Lab Scientist 2- Blood Bank | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Lab-Scientist-2--Blood-Bank_R-53013-1) | 6d |
-| CT Technologist - Outpatient - 4 X 10s | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/CT-Technologist---Outpatient---4-X-10s_R-51906-1) | 1d |
-| Certified Surgical Tech, Lebanon ASC - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-Surgical-Tech--Lebanon-ASC----20k-Bonus_R-51903-1) | 1d |
-| Cytotechnologist | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Cytotechnologist-2_R-51330-2) | 1d |
-| Dietetic Technician (PEDS, M-F) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Dietetic-Technician--PEDS--M-F-_R-51501-1) | 1d |
-| Mammography Tech PRN - Breast Center Clinic - One Hundred Oaks | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Mammography-Tech-PRN---Breast-Center-Clinic---One-Hundred-Oaks_R-51551-1) | 1d |
+| CT Technologist - Outpatient - 4 X 10s | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/CT-Technologist---Outpatient---4-X-10s_R-51906-1) | 2d |
+| Certified Surgical Tech, Lebanon ASC - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-Surgical-Tech--Lebanon-ASC----20k-Bonus_R-51903-1) | 2d |
+| Cytotechnologist | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Cytotechnologist-2_R-51330-2) | 2d |
+| Dietetic Technician (PEDS, M-F) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Dietetic-Technician--PEDS--M-F-_R-51501-1) | 2d |
+| Mammography Tech PRN - Breast Center Clinic - One Hundred Oaks | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Mammography-Tech-PRN---Breast-Center-Clinic---One-Hundred-Oaks_R-51551-1) | 2d |
 
 </details>
 
@@ -569,19 +569,19 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 84 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 83 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 84 positions
+📁 **Total Jobs:** 83 positions
 🏢 **Companies:** 9 companies
 
 
-### ⭐ **Elite Medical Centers** (17 positions)
+### ⭐ **Elite Medical Centers** (16 positions)
 
-#### ⭐ **Cleveland Clinic** (14 positions)
+#### ⭐ **Cleveland Clinic** (13 positions)
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -595,7 +595,6 @@ Either still hiring or useful for research.
 | Care Partner - Neuro ICU (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Neuro-ICU--Nights-_R-47029-1) | 3w |
 | Kitchen Associate 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Kitchen-Associate_R-53032) | 3w |
 | Certified Surgical Tech, Tullahoma - $20k Bonus 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Certified-Surgical-Tech-OR--Tullahoma_R-47955-1) | 2w |
-| Medical Assistant - Pediatric Urology Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant---Pediatric-Urology-Clinic_R-50251) | 4w |
 | Medical Assistant PRN - Cancer Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant-PRN---Cancer-Clinic_R-50259-1) | 2w |
 | Medical Lab Scientist | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Lab-Scientist-2_R-53018) | 1w |
 | Registered Nurse, ICU Float Pool, Night Shift, Temp Force - VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--ICU-Float-Pool--Night-Shift--Temp-Force---VUH_R-51397) | 2w |
