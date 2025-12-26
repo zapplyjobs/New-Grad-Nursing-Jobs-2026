@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-317-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-324-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 317+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 324+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 317 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 324 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 26, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -72,13 +72,14 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (122 positions)
+### ⭐ **Elite Medical Centers** (128 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (62 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (68 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Certified Sterile Processing Technician | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Certified-Sterile-Processing-Technician_325176) | 1d |
 | LPN Ambulatory - Dermatology | Independence Family Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Independence-Family-Health-Center/LPN-Ambulatory---Dermatology_325252-1) | 1d |
 | New Grad RN Resident - Med Surg | Hillcrest Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/RN----Medical-Surgical_307335) | 1d |
 | Ophthalmic Assistant Non Certified | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Ophthalmic-Assistant-Non-Certified-II_311235) | 1d |
@@ -93,6 +94,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Patient Companion | Indian River Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Indian-River-Hospital/Patient-Companion_304465-1) | 1d |
 | RN Ambulatory - Oncology Infusion | The Richard Jacobs Health Center | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/The-Richard-Jacobs-Health-Center/RN-Ambulatory---Oncology-Infusion_325135) | 1d |
 | New Grad RN Resident – Coronary Care Unit | Hillcrest Hospital | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/New-Grad-RN-Resident---Coronary-Care-Unit_325116) | 1d |
+| RN Surgery - Cole Eye | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Ambulatory-Surgery-Center--ASC----Cole-Eye--Main-Campus_316498) | 2d |
 | RN - Post-Anesthesia Care Unit (PACU) | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Post-Anesthesia-Care-Unit--PACU-_312700) | 2d |
 | RN Ambulatory - Thoracic Surgery | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Ambulatory---Thoracic-Surgery_321227) | 2d |
 | RN Ambulatory - Vascular Surgery | Cleveland Clinic in Campus | [<img src="./image.png" width="100" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Ambulatory---Vascular-Surgery_320522-1) | 2d |
@@ -125,15 +127,19 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Care Partner - Myelosuppression/Stem Cell Transplant Unit - FT Days and Nights Available | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Myelosuppression-Stem-Cell-Transplant-Unit---FT-Nights-18-45---07-15_R-51019-1) | 11h |
 | Care Partner - Pulmonary Stepdown Unit - FT Night Shift 18:45 - 07:15 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Pulmonary-Stepdown-Unit---FT-Night-Shift-18-45---07-15_R-51258) | 3d |
 | Care Partner - Trauma Stepdown Unit FT Day Shift and Night Shift Available | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Trauma-Stepdown-Unit-FT-Day-Shift-and-Night-Shift-Available_R-51955-1) | 11h |
-| Certified First Assist, OB & OR, Lebanon - $20k Bonus 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR--Lebanon----20k-Bonus_R-51557-1) | 2d |
-| Certified First Assist, OB & OR Call Team, Lebanon - $20k Bonus 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR-Call-Team--Lebanon----20k-Bonus_R-51560-1) | 2d |
-| Certified First Assist, OB & OR Weekend Call Team, Lebanon - $20k Bonus 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR-Weekend-Call-Team--Lebanon----20k-Bonus_R-51559-1) | 2d |
-| Certified Pharmacy Technician - Enterprise Support Services Pharmacy 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Enterprise-Support-Services-Pharmacy_R-53158-2) | 2d |
-| OR Technical Assistant - Monroe Carell Jr. Children's Hospital at Vanderbilt 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/OR-Technical-Assistant---Monroe-Carell-Jr-Children-s-Hospital-at-Vanderbilt_R-51117-2) | 1mo |
-| RN Circulator, OR, Full time Days, Tullahoma 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/RN-Circulator--OR--Full-time-Days--Tullahoma_R-51137) | 2d |
-| Registered Nurse 2 OR-1 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-OR-1_R-51161-2) | 2d |
-| TempForce Surgical Tech, Lebanon ASC 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/TempForce-Surgical-Tech--Lebanon-ASC_R-51956-1) | 2d |
-| Research Assistant 1 (Term Position) - Moberly Lab 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Research-Assistant---Term---Moberly-Lab_R-50449-1) | 2d |
+| Care Partner, Acute Surgical Care Stepdown Unit - Full-Time (Day Shift and Night Shift Available) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--Acute-Surgical-Care-Stepdown---Full-Time_R-49164-1) | 1mo |
+| Registered Nurse (Transfer)- Vanderbilt Heart and Vascular Institute Access Center, Days PRN- VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Transfer---Vanderbilt-Heart-and-Vascular-Institute-Access-Center--Days-PRN--VUH_R-51537-1) | 11h |
+| Registered Nurse CC PRN Pediatric PACU-Murfreesboro | Murfreesboro, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Murfreesboro-TN/Registered-Nurse-CC-PRN-Pediatric-PACU-Murfreesboro_R-51547-1) | 11h |
+| Care Partner - Main OR - PACU (Monday - Thursday, Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Main-OR---PACU--Monday---Thursday--Nights-_R-50452) | 2d |
+| Certified First Assist, OB & OR, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR--Lebanon----20k-Bonus_R-51557-1) | 2d |
+| Certified First Assist, OB & OR Call Team, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR-Call-Team--Lebanon----20k-Bonus_R-51560-1) | 2d |
+| Certified First Assist, OB & OR Weekend Call Team, Lebanon - $20k Bonus | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR-Weekend-Call-Team--Lebanon----20k-Bonus_R-51559-1) | 2d |
+| Certified Pharmacy Technician - Enterprise Support Services Pharmacy | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Enterprise-Support-Services-Pharmacy_R-53158-2) | 2d |
+| OR Technical Assistant - Monroe Carell Jr. Children's Hospital at Vanderbilt | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/OR-Technical-Assistant---Monroe-Carell-Jr-Children-s-Hospital-at-Vanderbilt_R-51117-2) | 1mo |
+| RN Circulator, OR, Full time Days, Tullahoma | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/RN-Circulator--OR--Full-time-Days--Tullahoma_R-51137) | 2d |
+| Registered Nurse 2 OR-1 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse-2-OR-1_R-51161-2) | 2d |
+| TempForce Surgical Tech, Lebanon ASC | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/TempForce-Surgical-Tech--Lebanon-ASC_R-51956-1) | 2d |
+| Research Assistant 1 (Term Position) - Moberly Lab | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Research-Assistant---Term---Moberly-Lab_R-50449-1) | 2d |
 | Cook 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Cook_R-52045) | 2d |
 | LifeFlight Clinical Tech Van Transport, Part-Time, 1 day a week, 7A-7P 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Tech-Van-Transport_R-42531-1) | 2d |
 | Medical Assistant - Pediatric Urology Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant---Pediatric-Urology-Clinic_R-50251) | 1mo |
@@ -354,13 +360,15 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Imaging Care Technician - PRN - Tappahannock | LOC100217 Tappahannock Hospital | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/LOC100217-Tappahannock-Hospital/Imaging-Care-Technician---PRN---Tappahannock_R40850-1) | 3d |
 | ED Technician II - Adult Emergency Department - Rotating | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/ED-Technician-II---Adult-Emergency-Department---Rotating_R41042-1) | 3d |
 
-### 🔗 **Integrated Health Networks** (91 positions)
+### 🔗 **Integrated Health Networks** (92 positions)
 
 <details>
-<summary><h4>💙 <strong>Allina Health</strong> (39 positions)</h4></summary>
+<summary><h4>💙 <strong>Allina Health</strong> (40 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
+| Sterile Processing Technician 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Sterile-Processing-Technician_R-0068411) | 1d |
+| RN Medical Surgical 🏠 | Mercy Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/RN-Medical-Surgical_R-0066479-1) | 1d |
 | Patient Access Representative Associate 🏠 | Buffalo Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Buffalo-Hospital/Patient-Access-Representative-Associate_R-0068382-1) | 1d |
 | Surgical Technologist 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Surgical-Technologist_R-0068409) | 1d |
 | Nursing Assistant Mother Baby 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Nursing-Assistant-Mother-Baby_R-0068408) | 1d |
@@ -372,8 +380,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Medical Laboratory Scientist 🏠 | AH Faribault Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Faribault-Medical-Center/Medical-Laboratory-Scientist_R-0068399) | 2d |
 | Ophthalmic Assistant 🏠 | Allina Health Cottage Grove Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Cottage-Grove-Clinic/Ophthalmic-Assistant_R-0068397) | 2d |
 | Physical Therapist - Ortho 🏠 | Courage Kenny Sports and Physical Therapy Coon Rapids Mercy Specialty Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-Coon-Rapids-Mercy-Specialty-Center/Physical-Therapist_R-0067481) | 2d |
-| Occupational Therapist, Casual 🏠 | Courage Kenny Rehabilitation Institute Forest Lake | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Rehabilitation-Institute-Forest-Lake/Occupational-Therapist_R-0064913) | 2d |
-| Physical Therapist 🏠 | Courage Kenny Sports and Physical Therapy St Paul | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-St-Paul/Physical-Therapist_R-0068123) | 2d |
 | Physical Therapist - Sports 🏠 | Courage Kenny Sports and Physical Therapy Richfield | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-Richfield/Physical-Therapist_R-0066329) | 2d |
 | Occupational Therapist-Hand 🏠 | Courage Kenny Sports and Physical Therapy St Paul | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-St-Paul/Occupational-Therapist-Hand_R-0068120) | 2d |
 | Physical Therapist - Orthopedics 🏠 | Courage Kenny Sports and Physical Therapy Fridley | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-Fridley/Physical-Therapist-Orthopedics-CKSPT-Fridley_R-0060807-1) | 2d |
@@ -391,15 +397,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Casual CRNA - Shakopee, MN 🏠 | St Francis Regional Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Regional-Medical-Center/Casual-CRNA---St-Francis--MN_R-0066209) | 2d |
 | Assistant Head Nurse 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Assistant-Head-Nurse_R-0068375) | 2d |
 | Inpatient Pharmacy Technician 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Inpatient-Pharmacy-Technician_R-0068384) | 2d |
-| Nursing Assistant Neuro Spine 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Nursing-Assistant-Neuro-Spine_R-0068377) | 2d |
+| Respiratory Therapist 🏠 | Owatonna Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Owatonna-Hospital/Respiratory-Therapist_R-0065607-1) | 2d |
+| Physical Therapist 🏠 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Faribault-Medical-Center/Physical-Therapist_R-0067477) | 2d |
+| Nursing Assistant Neuro Spine 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Nursing-Assistant-Neuro-Spine_R-0068380) | 2d |
+| Physical Therapist 🏠 | Courage Kenny Sports and Physical Therapy Apple Valley | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-Apple-Valley/Physical-Therapist_R-0068154) | 2d |
+| Physical Therapist - Cancer Rehab and Lymphedema 🏠 | Courage Kenny Sports and Physical Therapy Woodbury | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-Woodbury/Physical-Therapist_R-0067937) | 2d |
+| RN Primary Care - Shakopee 🏠 | Allina Health Shakopee Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Shakopee-Clinic/RN-Primary-Care---Shakopee_R-0068376) | 2d |
 | Registered Nurse-Clinic 🏠 | Allina Health Imaging Center Edina | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Imaging-Center-Edina/Registered-Nurse-Clinic_R-0068086) | 2d |
 | Surgical Technologist 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Surgical-Technologist_R-0068373) | 2d |
 | RN Medical Surgical 🏠 | United Hospital - Hastings Regina Campus | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital---Hastings-Regina-Campus/Registered-Nurse-Medical-Surgical_R-0068365) | 3d |
 | Laser and Navigation Technician 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Laser-and-Navigation-Technician_R-0068372) | 3d |
-| Licensed Practical Nurse Primary Care AH Plymouth Clinic 🏠 | AH Plymouth Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Plymouth-Clinic/Licensed-Practical-Nurse-Primary-Care-AH-Plymouth-Clinic_R-0068367) | 3d |
-| Diagnostic Sonographer 🏠 | Cambridge Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Cambridge-Medical-Center/Diagnostic-Sonographer_R-0068356) | 3d |
-| Perinatal Psychologist or Therapist / LICSW 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Perinatal-Psychologist-or-Therapist---LICSW_R-0068362-1) | 3d |
-| RN Emergency Department 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/RN-Emergency-Department_R-0068358) | 3d |
 
 </details>
 
@@ -487,27 +494,27 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 87 | 27% | No or minimal experience |
-| 🟡 Beginner & Early Career | 54 | 17% | 1-2 years of experience |
-| 🔴 Manager     | 176 | 56% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 101 | 31% | No or minimal experience |
+| 🟡 Beginner & Early Career | 53 | 16% | 1-2 years of experience |
+| 🔴 Manager     | 170 | 52% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
-- **Multiple Cities**: 26 positions
-- **Nashville, TN**: 21 positions
-- **Cleveland Clinic in Campus**: 15 positions
+- **Multiple Cities**: 27 positions
+- **Nashville, TN**: 24 positions
+- **Cleveland Clinic in Campus**: 17 positions
 - **Green Bay, WI**: 14 positions
-- **Abbott Northwestern Hospital**: 9 positions
 - **Richmond, VA**: 9 positions
 - **500P Hospital - J/K/L/M Patient - PALO ALTO**: 8 positions
 - **O'Fallon, IL**: 8 positions
+- **Abbott Northwestern Hospital**: 8 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 317+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 324+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -576,7 +583,7 @@ Either still hiring or useful for research.
 | Physical Therapist – Acute Care PRN | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Acute-Care-Inpatient-PRN_R-48084-1) | 1w |
 | Sterile Processing Tech (Endo)- 3rd Shift, VUH- $5,000 Sign-On Bonus | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Sterile-Processing-Tech--Endo---3rd-Shift--VUH---5-000-Sign-On-Bonus_R-50892-1) | 2w |
 | Care Partner - Transitional Care Unit/Stepdown - FT Night Shift | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Transitional-Care-Unit-Stepdown---FT-Night-Shift_R-50689-1) | 2w |
-| Care Partner - Neuro ICU (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Neuro-ICU--Nights-_R-47029-1) | 3w |
+| Care Partner - Neuro ICU (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Neuro-ICU--Nights-_R-47029-1) | 3w |
 | Kitchen Associate 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Kitchen-Associate_R-53032) | 3w |
 | Certified Surgical Tech, Tullahoma - $20k Bonus 🏠 | Tullahoma, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Certified-Surgical-Tech-OR--Tullahoma_R-47955-1) | 2w |
 | Medical Assistant PRN - Cancer Clinic 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Assistant-PRN---Cancer-Clinic_R-50259-1) | 2w |
@@ -706,7 +713,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **317 current opportunities from 9 elite companies.**
+🎯 **324 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
