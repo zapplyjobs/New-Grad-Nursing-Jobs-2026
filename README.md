@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-329-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-333-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 329+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 333+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,18 +61,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 329 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 333 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 27, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Healthcare Jobs:** 96 (older than 1 week)
+- 📁 **Archived Healthcare Jobs:** 93 (older than 1 week)
 
 
 ---
 
 ## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
 
-### ⭐ **Elite Medical Centers** (121 positions)
+### ⭐ **Elite Medical Centers** (125 positions)
 
 <details>
 <summary><h4>⭐ <strong>Cleveland Clinic</strong> (65 positions)</h4></summary>
@@ -148,7 +148,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>🗽 <strong>New York Presbyterian</strong> (32 positions)</h4></summary>
+<summary><h4>🗽 <strong>New York Presbyterian</strong> (35 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -176,23 +176,27 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Per Diem-Physical Therapist - NYP-CUIMC and Allen Hospital | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Per-Diem-Physical-Therapist---NYP-CUIMC-and-Allen-Hospital_00875423) | 3d |
 | Physician Assistant –SICU/Liver Transplant -Per Diem - Night Coverage - Cornell Campus | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Physician-Assistant--SICU-Liver-Transplant--Per-Diem---Night-Coverage---Cornell-Campus_00874667) | 3d |
 | Physician Assistant - Inpatient General Pediatrics - Nights - Cornell Campus | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Physician-Assistant---Inpatient-General-Pediatrics---Nights---Cornell-Campus_00875330) | 3d |
+| Nurse Administrator – Psychiatry – Per Diem – All Shifts | NYP/Westchester Behavioral Health Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWestchester-Behavioral-Health-Center/Nurse-Administrator---Psychiatry---Per-Diem---All-Shifts-_00874867) | 3d |
+| Mental Health Worker - Behavioral Health Inpatient Units - Per Diem | NYP/Westchester Behavioral Health Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWestchester-Behavioral-Health-Center/Mental-Health-Worker---Behavioral-Health-Inpatient-Units---Per-Diem_00874883) | 3d |
+| Per Diem Wound Ostomy Continence Nurse - Days | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Per-Diem-Wound-Ostomy-Continence-Nurse---Days_00865220) | 3d |
+| Nurse Practitioner - NP - Orthopedic Surgery - Bay Ridge - Days | NYP/Brooklyn Medical Group | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Medical-Group/Nurse-Practitioner---NP---Orthopedic-Surgery---Bay-Ridge---Days_00875497) | 3d |
+| Third Cook - Part Time - CHONY - Rotating Shifts | NYP/Morgan Stanley Children's Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPMorgan-Stanley-Childrens-Hospital/Third-Cook---Part-Time---CHONY---Rotating-Shifts_00874640-2) | 3d |
+| Per Diem Transporters- Hudson Valley | NYP/Hudson Valley | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPHudson-Valley/Per-Diem-Transporters--Hudson-Valley_00874946) | 4d |
+| Per Diem Physician Assistant - General Surgery - Brooklyn Campus | NYP/Brooklyn Methodist Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Per-Diem-Physician-Assistant---General-Surgery---Brooklyn-Campus_00873488) | 4d |
 | Patient Registrar - Internal Medicine - Westchester Medical Group - Bronxville, NY | NYP/Westchester Medical Group | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWestchester-Medical-Group/Patient-Registrar---Internal-Medicine---Westchester-Medical-Group---Bronxville--NY_00874389-1) | 4d |
 | Licensed Practical Nurse /Medical Practical Nurse - Urology - Queens Medical Group | NYP/Queens Medical Group | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPQueens-Medical-Group/Licensed-Practical-Nurse--Medical-Practical-Nurse---Urology---Queens-Medical-Group_00870624) | 4d |
 | Per Diem Exercise Physiologist– Cardiac Rehabilitation – Day | NYP/Hudson Valley | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPHudson-Valley/Per-Diem-Exercise-Physiologist--Cardiac-Rehabilitation---Day_00875041) | 4d |
 | Physical Therapist – Full Time - NYP/Och Spine/Spiral Building | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Physical-Therapist---Full-Time---NYP-Och-Spine-Spiral-Building_00873421) | 4d |
-| Nursing Attendant I - Float Pool - FT - Days | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/Nursing-Attendant-I---Float-Pool---FT---Days_00874814-1) | 5d |
-| ICU Technician - HP11 BMT - PT - Days | NYP/Columbia University Irving Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPColumbia-University-Irving-Medical-Center/ICU-Technician---HP11-BMT---PT---Days_00873293-2) | 5d |
-| Security Officer - Security - Night Shift Including Holidays and Rotating Weekends | NYP/Brooklyn Methodist Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPBrooklyn-Methodist-Hospital/Security-Officer---Security---Night-Shift-Including-Holidays-and-Rotating-Weekends_00872066) | 5d |
-| Credentialing Analyst I – Central Billing Office Days(9am - 5pm) | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Credentialing-Analyst-I---Central-Billing-Office--Days-9am---5pm-_00873678) | 5d |
 
 </details>
 
 <details>
-<summary><h4>🎓 <strong>Stanford Health Care</strong> (24 positions)</h4></summary>
+<summary><h4>🎓 <strong>Stanford Health Care</strong> (25 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
 | Clinical Lab Scientist HLA Lab - Day Shift | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/3373-Hillview---Blood-Ctr---PALO-ALTO/Clinical-Lab-Scientist-HLA---Day-Shift_R2552118) | 3d |
+| Relief Social Work Clinician - Emergency Department 🏠 | 500P Hospital - J/K/L/M Patient - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/500P-Hospital---JKLM-Patient---PALO-ALTO/Relief-Social-Work-Clinician---Emergency-Department_R2552197) | 1d |
 | Lab Assistant III-P - Clin Lab Pre Analytic Svcs Multi Site - Full Time, Day - 08 hrs 🏠 | 300P Hospital - D/E/F Diag&Testing 500/600 - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/300P-Hospital---DEF-DiagTesting-500600---PALO-ALTO/Lab-Assistant-III-P---Clin-Lab-Pre-Analytic-Svcs-Multi-Site---Full-Time--Day---08-hrs_R2552211) | 2d |
 | Lab Assistant III-P - Clin Lab Pre Analytic Svcs Multi Site - Part Time, Day - 08 hrs 🏠 | 300P Hospital - D/E/F Diag&Testing 500/600 - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/300P-Hospital---DEF-DiagTesting-500600---PALO-ALTO/Lab-Assistant-III-P---Clin-Lab-Pre-Analytic-Svcs-Multi-Site---Part-Time--Day---08-hrs_R2552210) | 2d |
 | Outreach Lab Assistant III-P - Clin Lab Offsite PSCS Multi Site - Part Time, Day - 08 hrs 🏠 | S. y Cancer Cntr - SAN JOSE | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/2589-Samaritan-Dr---S-Bay-Cancer-Cntr---SAN-JOSE/Outreach-Lab-Assistant-III-P---Clin-Lab-Offsite-PSCS-Multi-Site---Part-Time--Day---08-hrs_R2552153) | 2d |
@@ -457,8 +461,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Physical Therapist Assistant- Inpatient and Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Physical-Therapist-Assistant--Inpatient-and-Outpatient--Multiple-Locations_R23769?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Medical Assistant, Wellness Shoppe, Days | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Medical-Assistant--Wellness-Shoppe--Days_R36779?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5h |
 | Medical Assistant / Patient Support Associate, Wellness Shoppe, Days | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Medical-Assistant---Patient-Support-Associate--Wellness-Shoppe--Days_R36776?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5h |
-| Physical Therapist I – Outpatient – Days/evenings | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Physical-Therapist-I---Outpatient---Days-evenings_R36832?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5h |
-| Sterile Core Technician - Mid Shift | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Sterile-Core-Technician_R37331?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 5h |
+| Physical Therapist I – Outpatient – Days/evenings | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Physical-Therapist-I---Outpatient---Days-evenings_R36832?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6h |
+| Sterile Core Technician - Mid Shift | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Sterile-Core-Technician_R37331?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6h |
 | Occupational Therapist II – Outpatient Physical Rehab Services - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Occupational-Therapist-II---Outpatient-Physical-Rehab-Services---Days_R37058?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6h |
 | Medical Assistant - Primary Care | EMO Hinsdale 8 Salt Creek Lane | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMO-Hinsdale-8-Salt-Creek-Lane/Medical-Assistant---Primary-Care_R37207-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Physical Therapist I – Inpatient Physical Rehab Services - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Physical-Therapist-I---Inpatient-Physical-Rehab-Services---Days_R37429?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 7h |
@@ -483,7 +487,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (32 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (24) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (53)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (35 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (25) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (53)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -500,8 +504,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 112 | 34% | No or minimal experience |
-| 🟡 Beginner & Early Career | 57 | 17% | 1-2 years of experience |
-| 🔴 Manager     | 160 | 49% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 58 | 17% | 1-2 years of experience |
+| 🔴 Manager     | 163 | 49% | 2+ years of experience |
 
 ---
 
@@ -509,17 +513,17 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 - **Multiple Cities**: 29 positions
 - **Nashville, TN**: 24 positions
 - **Green Bay, WI**: 14 positions
+- **500P Hospital - J/K/L/M Patient - PALO ALTO**: 9 positions
 - **Abbott Northwestern Hospital**: 9 positions
 - **Cleveland Clinic in Campus**: 8 positions
 - **Indian River Hospital**: 8 positions
-- **500P Hospital - J/K/L/M Patient - PALO ALTO**: 8 positions
 - **O'Fallon, IL**: 8 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 329+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 333+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -566,17 +570,17 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 96 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 93 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 96 positions
+📁 **Total Jobs:** 93 positions
 🏢 **Companies:** 9 companies
 
 
-### ⭐ **Elite Medical Centers** (20 positions)
+### ⭐ **Elite Medical Centers** (17 positions)
 
 #### ⭐ **Cleveland Clinic** (14 positions)
 
@@ -596,14 +600,6 @@ Either still hiring or useful for research.
 | Clinical Lab Associate 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Lab-Associate-2_R-53015-1) | 1w |
 | Medical Lab Scientist 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Medical-Lab-Scientist-2_R-53018) | 1w |
 | Registered Nurse, ICU Float Pool, Night Shift, Temp Force - VUH 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--ICU-Float-Pool--Night-Shift--Temp-Force---VUH_R-51397) | 2w |
-
-#### 🗽 **New York Presbyterian** (3 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Nursing Assistant – Float – Full Time - Nights | NYP/Westchester | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWestchester/Nursing-Assistant---Float---Full-Time---Nights_00873593-1) | 1w |
-| Pathology Technician - Gross Room - Mid-Shift | NYP/Weill Cornell Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPWeill-Cornell-Medical-Center/Pathology-Technician---Gross-Room---Mid-Shift_00875077) | 1w |
-| Registered Nurse - RN - Hudson Valley - NICU - Per Diem - Nights | NYP/Hudson Valley | [<img src="./image.png" width="100" alt="Apply">](https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPHudson-Valley/Registered-Nurse---RN---Hudson-Valley---NICU---Per-Diem---Nights_00874794) | 1w |
 
 #### 🎓 **Stanford Health Care** (3 positions)
 
@@ -727,7 +723,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **329 current opportunities from 9 elite companies.**
+🎯 **333 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
