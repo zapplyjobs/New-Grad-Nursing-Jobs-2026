@@ -460,8 +460,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Physical Therapist Assistant- Inpatient and Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Physical-Therapist-Assistant--Inpatient-and-Outpatient--Multiple-Locations_R23769?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Medical Assistant, Wellness Shoppe, Days | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Medical-Assistant--Wellness-Shoppe--Days_R36779?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6h |
 | Medical Assistant / Patient Support Associate, Wellness Shoppe, Days | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Medical-Assistant---Patient-Support-Associate--Wellness-Shoppe--Days_R36776?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6h |
-| Physical Therapist I – Outpatient – Days/evenings | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Physical-Therapist-I---Outpatient---Days-evenings_R36832?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6h |
-| Sterile Core Technician - Mid Shift | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Sterile-Core-Technician_R37331?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 6h |
+| Physical Therapist I – Outpatient – Days/evenings | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Physical-Therapist-I---Outpatient---Days-evenings_R36832?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 7h |
+| Sterile Core Technician - Mid Shift | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Sterile-Core-Technician_R37331?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 7h |
 | Occupational Therapist II – Outpatient Physical Rehab Services - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Occupational-Therapist-II---Outpatient-Physical-Rehab-Services---Days_R37058?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 7h |
 | Medical Assistant - Primary Care | EMO Hinsdale 8 Salt Creek Lane | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMO-Hinsdale-8-Salt-Creek-Lane/Medical-Assistant---Primary-Care_R37207-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Physical Therapist I – Inpatient Physical Rehab Services - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Physical-Therapist-I---Inpatient-Physical-Rehab-Services---Days_R37429?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 8h |
@@ -503,8 +503,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
 | 🟢 Entry Level & New Grad | 112 | 34% | No or minimal experience |
-| 🟡 Beginner & Early Career | 58 | 17% | 1-2 years of experience |
-| 🔴 Manager     | 162 | 49% | 2+ years of experience |
+| 🟡 Beginner & Early Career | 57 | 17% | 1-2 years of experience |
+| 🔴 Manager     | 163 | 49% | 2+ years of experience |
 
 ---
 
