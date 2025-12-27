@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-313-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-334-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 313+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 334+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,11 +61,11 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 313 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 334 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 27, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Healthcare Jobs:** 96 (older than 1 week)
+- 📁 **Archived Healthcare Jobs:** 85 (older than 1 week)
 
 
 ---
@@ -360,10 +360,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Ambulatory Divisional Nurse - Children's Pavilion Pediatric Rheumatology - Days | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Ambulatory-Divisional-Nurse---Children-s-Pavilion-Pediatric-Rheumatology---Days_R39190-1) | 3d |
 | MRI Technologist - WIP - Radiology MRI | Richmond, VA | [<img src="./image.png" width="100" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/MRI-Technologist---WIP---Radiology-MRI_R40853-2) | 4d |
 
-### 🔗 **Integrated Health Networks** (81 positions)
+### 🔗 **Integrated Health Networks** (102 positions)
 
 <details>
-<summary><h4>💙 <strong>Allina Health</strong> (41 positions)</h4></summary>
+<summary><h4>💙 <strong>Allina Health</strong> (45 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -398,21 +398,25 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Outpatient Physical Therapist | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Physical-Therapist_R-0065167) | 3d |
 | Physical Therapist | Courage Kenny Sports and Physical Therapy Edina | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-Edina/Physical-Therapist_R-0068153) | 3d |
 | Team Care Provider | Allina Health Faribault Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Faribault-Clinic/Team-Care-Provider_R-0068390) | 3d |
-| RN Primary Care - Shakopee 🏠 | Allina Health Shakopee Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Shakopee-Clinic/RN-Primary-Care---Shakopee_R-0068376) | 3d |
-| Nursing Assistant Neuro Spine 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Nursing-Assistant-Neuro-Spine_R-0068377) | 3d |
-| Registered Nurse-Clinic 🏠 | Allina Health Imaging Center Edina | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Imaging-Center-Edina/Registered-Nurse-Clinic_R-0068086) | 3d |
-| Surgical Technologist 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Surgical-Technologist_R-0068373) | 3d |
-| RN Medical Surgical 🏠 | United Hospital - Hastings Regina Campus | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital---Hastings-Regina-Campus/Registered-Nurse-Medical-Surgical_R-0068365) | 4d |
-| Laser and Navigation Technician 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Laser-and-Navigation-Technician_R-0068372) | 4d |
-| Licensed Practical Nurse Primary Care AH Plymouth Clinic 🏠 | AH Plymouth Clinic | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Plymouth-Clinic/Licensed-Practical-Nurse-Primary-Care-AH-Plymouth-Clinic_R-0068367) | 4d |
-| Diagnostic Sonographer 🏠 | Cambridge Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Cambridge-Medical-Center/Diagnostic-Sonographer_R-0068356) | 4d |
-| Perinatal Psychologist or Therapist / LICSW 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Perinatal-Psychologist-or-Therapist---LICSW_R-0068362-1) | 4d |
-| RN Emergency Department 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/RN-Emergency-Department_R-0068358) | 4d |
+| Physical Therapy Assistant 🏠 | Courage Kenny Sports and Physical Therapy Edina | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-Edina/Physical-Therapy-Assistant_R-0068155) | 3d |
+| RN Medical Surgical 🏠 | St Francis Regional Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Regional-Medical-Center/RN-Medical-Surgical_R-0068389) | 3d |
+| Physical Therapist - Ortho 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Physical-Therapist_R-0067905) | 3d |
+| RN Cardiac 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/RN-Cardiac_R-0068388) | 3d |
+| RN Triage 🏠 | Allina Commons | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Commons/Registered-Nurse-Central-Nursing-Services_R-0068383-1) | 3d |
+| Physical Therapist 🏠 | Courage Kenny Rehabilitation Associates Plymouth | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Rehabilitation-Associates-Plymouth/Physical-Therapist_R-0066921) | 3d |
+| Casual CRNA - Shakopee, MN 🏠 | St Francis Regional Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Regional-Medical-Center/Casual-CRNA---St-Francis--MN_R-0066209) | 3d |
+| Assistant Head Nurse 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Assistant-Head-Nurse_R-0068375) | 3d |
+| Inpatient Pharmacy Technician 🏠 | Abbott Northwestern Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Inpatient-Pharmacy-Technician_R-0068384) | 3d |
+| Respiratory Therapist 🏠 | Owatonna Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Owatonna-Hospital/Respiratory-Therapist_R-0065607-1) | 3d |
+| Physical Therapist 🏠 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/AH-Faribault-Medical-Center/Physical-Therapist_R-0067477) | 3d |
+| Nursing Assistant Neuro Spine 🏠 | United Hospital | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Nursing-Assistant-Neuro-Spine_R-0068380) | 3d |
+| Physical Therapist 🏠 | Courage Kenny Sports and Physical Therapy Apple Valley | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-Apple-Valley/Physical-Therapist_R-0068154) | 3d |
+| Physical Therapist - Cancer Rehab and Lymphedema 🏠 | Courage Kenny Sports and Physical Therapy Woodbury | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-Woodbury/Physical-Therapist_R-0067937) | 3d |
 
 </details>
 
 <details>
-<summary><h4>🏨 <strong>Endeavor Health</strong> (40 positions)</h4></summary>
+<summary><h4>🏨 <strong>Endeavor Health</strong> (57 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -434,6 +438,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Cardiac Sonographer | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Cardiac-Sonographer_R3015?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Interventional Procedures Technologist- IR | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Interventional-Procedures-Technologist--IR_R31315?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Radiology Technologist- Cardiac Cath Lab | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Interventional-Procedures-Technologist_R18922?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
+| Mammography Technologist | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Mammography-Technologist_R4838?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Radiologic Technologist I - Chicago and North Suburbs | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Radiologic-Technologist-I---Chicago-and-North-Suburbs_R33447?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Radiologic Technologist I (Northwestern Suburbs) | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Radiologic-Technologist-I--Northwestern-Suburbs-_R33445?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Radiologic Technologist I (Western Suburbs) | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Radiologic-Technologist-II_R894?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
@@ -455,7 +460,23 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse-Emergency Department-Nights | HPH Highland Park Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Registered-Nurse-Emergency-Department-Nights_R28361?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Occupational Therapist I - Inpatient/Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist--Inpatient-Outpatient--Multiple-Locations_R23823?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Physical Therapist Assistant- Inpatient and Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Physical-Therapist-Assistant--Inpatient-and-Outpatient--Multiple-Locations_R23769?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
-| Phlebotomist | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Phlebotomist-II_R35066?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
+| Medical Assistant, Wellness Shoppe, Days | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Medical-Assistant--Wellness-Shoppe--Days_R36779?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 21h |
+| Medical Assistant / Patient Support Associate, Wellness Shoppe, Days | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Medical-Assistant---Patient-Support-Associate--Wellness-Shoppe--Days_R36776?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 21h |
+| Physical Therapist I – Outpatient – Days/evenings | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Physical-Therapist-I---Outpatient---Days-evenings_R36832?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 21h |
+| Sterile Core Technician - Mid Shift | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Sterile-Core-Technician_R37331?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 21h |
+| Occupational Therapist II – Outpatient Physical Rehab Services - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Occupational-Therapist-II---Outpatient-Physical-Rehab-Services---Days_R37058?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 22h |
+| Medical Assistant - Primary Care | EMO Hinsdale 8 Salt Creek Lane | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMO-Hinsdale-8-Salt-Creek-Lane/Medical-Assistant---Primary-Care_R37207-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3d |
+| Physical Therapist I – Inpatient Physical Rehab Services - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Physical-Therapist-I---Inpatient-Physical-Rehab-Services---Days_R37429?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 23h |
+| RN - AP5 Med/Surg/Tele/Oncology/OBV - Nights | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/RN---AP5-Med-Surg-Tele-Oncology-OBV---Nights_R35522?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
+| RN - AP4 Med/Surg/Tele - Nights | SWH Swedish Hospital Chicago | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/RN---AP4-Med-Surg-Tele---Nights_R34096?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
+| Occupational Therapist I – Inpatient Physical Rehab Services - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Occupational-Therapist-I---Inpatient-Physical-Rehab-Services---Days_R37425?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 23h |
+| Audiologist - ENT | EMH Center For Health Building Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Center-For-Health-Building-Elmhurst/Audiologist---ENT_R36624?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Body Imaging Radiologist | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Body-Imaging-Radiologist_R31480?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| CRNA | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/CRNA_R31200?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
+| CRNA | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Advanced-Practice-Provider---CRNA-3_R33301?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
+| CRNA - Northwest Community Hospital | NCH 880 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-880-W-Central-Rd-Arlington-Heights/CRNA---Northwest-Community-Hospital_R33306?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
+| Mental Health Associate - LOH Chem Dependency - Night Shift | LOH Naperville in Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/LOH-Naperville-Main-Hospital/Mental-Health-Associate---LOH-Chem-Dependency---Night-Shift_R35947?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| Mental Health Technician : Linden Oaks Hospital/Eating Disorders - Night Shift | LOH Naperville in Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/LOH-Naperville-Main-Hospital/Mental-Health-Technician---Linden-Oaks-Hospital-Eating-Disorders---PM-Shifts_R36320?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 
 </details>
 
@@ -475,7 +496,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 
 #### 🔗 **Regional Health Networks** (1 company)
-🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (40 positions)
+🏨 **[Endeavor Health](https://nshs.wd1.myworkdayjobs.com/ns-eeh)** (57 positions)
 
 ---
 
@@ -483,27 +504,27 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 95 | 30% | No or minimal experience |
-| 🟡 Beginner & Early Career | 60 | 19% | 1-2 years of experience |
-| 🔴 Manager     | 158 | 50% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 129 | 39% | No or minimal experience |
+| 🟡 Beginner & Early Career | 57 | 17% | 1-2 years of experience |
+| 🔴 Manager     | 148 | 44% | 2+ years of experience |
 
 ---
 
 ### 🌍 **Top Locations**
+- **Multiple Cities**: 28 positions
 - **Nashville, TN**: 25 positions
-- **Multiple Cities**: 25 positions
 - **Green Bay, WI**: 14 positions
 - **Cleveland Clinic in Campus**: 9 positions
 - **500P Hospital - J/K/L/M Patient - PALO ALTO**: 9 positions
+- **Abbott Northwestern Hospital**: 9 positions
 - **O'Fallon, IL**: 8 positions
-- **Abbott Northwestern Hospital**: 8 positions
 - **Richmond, VA**: 8 positions
 
 ---
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 313+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 334+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -550,13 +571,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 96 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 85 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 96 positions
+📁 **Total Jobs:** 85 positions
 🏢 **Companies:** 9 companies
 
 
@@ -681,7 +702,7 @@ Either still hiring or useful for research.
 
 </details>
 
-### 🔗 **Integrated Health Networks** (12 positions)
+### 🔗 **Integrated Health Networks** (1 position)
 
 #### 💙 **Allina Health** (1 position)
 
@@ -689,29 +710,13 @@ Either still hiring or useful for research.
 |------|----------|-----------|-----|
 | RN New Graduate 🏠 | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/RN-New-Graduate_R-0065794) | 2w |
 
-#### 🏨 **Endeavor Health** (11 positions)
-
-| Role | Location | Apply Now | Age |
-|------|----------|-----------|-----|
-| Sterile Processing Tech - Per Diem | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Sterile-Processing-Tech---Per-Diem_R37066?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Rehabilitation Technician | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Rehabilitation-Technician_R37301?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Certified Sterile Processing Tech - Midshift | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Certified-Sterile-Processing-Tech---Midshift_R37303?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Physical Therapist - Per Diem –Outpatient – Days/evenings | GBH Glenbrook Hospital Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Physical-Therapist---Per-Diem--Outpatient---Days-evenings_R36933?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Rehabilitation Technician - Per Diem | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Rehabilitation-Technician---Per-Diem_R37327-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Physical Therapist | EMH Center For Health Building Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Center-For-Health-Building-Elmhurst/Physical-Therapist-II---Therapy---Rehabilitation_CR_913?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Dental Assistant - Days - Per Diem | EVH Evanston Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Dental-Assistant---Days---Per-Diem_R36964?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Patient Care Technician Unit Secretary - Peds Picu - Days | EDH in Hospital Naperville | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EDH-Main-Hospital-Naperville/Patient-Care-Technician-Unit-Secretary---Peds-Picu---Days_R36993?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Radiologic Technologist II - Mid/Evenings | EMO Lombard 130 S in Street | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMO-Lombard-130-S-Main-Street/Radiologic-Technologist-II---Mid-Evenings_R37127?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Radiologic Technologist | EMH in Hospital Elmhurst | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Radiologic-Technologist-III_R37125?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Mental Health Clinical Therapist II-Days-LOH Anxiety/Outpatient Mill Street | LOO Naperville 1335 N Mill Street | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/LOO-Naperville-1335-N-Mill-Street/Mental-Health-Clinical-Therapist-II-Days-LOH-Anxiety-Outpatient-Mill-Street_R36762-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-
 
 
 </details>
 
 ---
 
-🎯 **313 current opportunities from 9 elite companies.**
+🎯 **334 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
