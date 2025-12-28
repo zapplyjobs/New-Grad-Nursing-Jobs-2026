@@ -11356,5 +11356,29 @@
     "job_title": "Pharmacy Technician - Day Shift - Medical Center East",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-12-28T06:13:22.001Z"
+  },
+  "endeavor-health-patient-care-technician---3es-medical-surgical-unit---nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-28T19:39:58.376Z",
+    "job_title": "Patient Care Technician - 3ES Medical Surgical Unit - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-28T19:39:58.376Z"
+  },
+  "endeavor-health-patient-care-technician---intermediate-care-3en--nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-28T19:39:58.376Z",
+    "job_title": "Patient Care Technician - Intermediate Care 3EN- Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-28T19:39:58.376Z"
+  },
+  "endeavor-health-registered-nurse---3es-medical-surgical-unit---days-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-28T19:39:58.376Z",
+    "job_title": "Registered Nurse - 3ES Medical Surgical Unit - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-28T19:39:58.376Z"
+  },
+  "endeavor-health-registered-nurse--3en-intermediate-care-unit---nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-28T19:39:58.376Z",
+    "job_title": "Registered Nurse- 3EN Intermediate Care Unit - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-28T19:39:58.376Z"
   }
 }
