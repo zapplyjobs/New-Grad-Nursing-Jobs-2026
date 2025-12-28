@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-331-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-330-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 331+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 330+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 331 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 330 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 28, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -133,7 +133,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Care Partner, Acute Surgical Care Stepdown Unit - Full-Time (Day Shift and Night Shift Available) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--Acute-Surgical-Care-Stepdown---Full-Time_R-49164-1) | 1mo |
 | Registered Nurse (Transfer)- Vanderbilt Heart and Vascular Institute Access Center, Days PRN- VUH | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--Transfer---Vanderbilt-Heart-and-Vascular-Institute-Access-Center--Days-PRN--VUH_R-51537-1) | 2d |
 | Registered Nurse CC PRN Pediatric PACU-Murfreesboro | Murfreesboro, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Murfreesboro-TN/Registered-Nurse-CC-PRN-Pediatric-PACU-Murfreesboro_R-51547-1) | 2d |
-| Care Partner - Main OR - PACU (Monday - Thursday, Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Main-OR---PACU--Monday---Thursday--Nights-_R-50452) | 4d |
+| Care Partner - Main OR - PACU (Monday - Thursday, Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Main-OR---PACU--Monday---Thursday--Nights-_R-50452) | 4d |
 | Certified First Assist, OB & OR, Lebanon - $20k Bonus 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR--Lebanon----20k-Bonus_R-51557-1) | 4d |
 | Certified First Assist, OB & OR Call Team, Lebanon - $20k Bonus 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR-Call-Team--Lebanon----20k-Bonus_R-51560-1) | 4d |
 | Certified First Assist, OB & OR Weekend Call Team, Lebanon - $20k Bonus 🏠 | Lebanon, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Certified-First-Assist--OB---OR-Weekend-Call-Team--Lebanon----20k-Bonus_R-51559-1) | 4d |
@@ -224,7 +224,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (88 positions)
+### ✝️ **Faith-Based Health Systems** (87 positions)
 
 <details>
 <summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (35 positions)</h4></summary>
@@ -270,7 +270,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 </details>
 
 <details>
-<summary><h4>⛰️ <strong>Intermountain Health</strong> (53 positions)</h4></summary>
+<summary><h4>⛰️ <strong>Intermountain Health</strong> (52 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -291,7 +291,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Medical Assistant Butte Orthopedic Clinic | Rocky Mountain Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Rocky-Mountain-Clinic/Medical-Assistant-Butte-Orthopedic-Clinic_R156608) | 2d |
 | Medical Assistant Bozeman Midtown Clinic | Bozeman Midtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Bozeman-Midtown-Clinic/Medical-Assistant-Bozeman-Midtown-Clinic_R152899) | 2d |
 | Medical Assistant Neurology Clinic | Grand Junction Neurology Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Grand-Junction-Neurology-Clinic/Medical-Assistant-Neurology-Clinic_R154596) | 2d |
-| Medical Assistant Infectious Disease Clinic | Billings Downtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Billings-Downtown-Clinic/Medical-Assistant-Infectious-Disease-Clinic_R150682) | 2d |
 | Medical Assistant Gynecological Oncology Clinic | MGBL West End MOB - Billings | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/MGBL-West-End-MOB---Billings/Medical-Assistant-Gynecological-Oncology-Clinic_R156784) | 2d |
 | Medical Assistant Urology PRN | Billings Downtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Billings-Downtown-Clinic/Medical-Assistant-Urology-PRN_R155188-1) | 2d |
 | Medical Assistant Urology | Billings Downtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Billings-Downtown-Clinic/Medical-Assistant-Urology_R157301) | 2d |
@@ -311,7 +310,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse Cardiac Telemetry | Intermountain Health St Vincent Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-Vincent-Regional-Hospital/Registered-Nurse-Cardiac-Telemetry_R159270) | 2d |
 | Registered Clinical Dietitian PRN | Intermountain Health Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Registered-Clinical-Dietitian-PRN_R158442) | 2d |
 | Medical Assistant ENT | Alta View Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Alta-View-Clinic/Medical-Assistant-ENT_R157713) | 2d |
-| Medical Assistant Medical Oncology 🏠 | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Medical-Assistant-Medical-Oncology_R159097) | 2d |
+| Medical Assistant Medical Oncology | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Medical-Assistant-Medical-Oncology_R159097) | 2d |
 | Medical Assistant Wound Care 🏠 | Intermountain Health Riverton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Medical-Assistant-Wound-Care_R159131) | 2d |
 | Pediatric Certified Occupational Therapist Assistant 🏠 | Primary Childrens at Summit Day Progra | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Primary-Childrens-at-Summit-Day-Programs/Pediatric-Certified-Occupational-Therapist-Assistant_R159349) | 2d |
 | Medical Assistant Pediatrics 🏠 | Bountiful Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Bountiful-Clinic/Medical-Assistant-Pediatrics_R158625) | 2d |
@@ -485,7 +484,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (35 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (25) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (53)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (35 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (25) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (52)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -501,7 +500,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 127 | 38% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 126 | 38% | No or minimal experience |
 | 🟡 Beginner & Early Career | 56 | 17% | 1-2 years of experience |
 | 🔴 Manager     | 148 | 45% | 2+ years of experience |
 
@@ -521,7 +520,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 331+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 330+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -591,7 +590,7 @@ Either still hiring or useful for research.
 | Sterile Process Tech 2- 2nd Shift- VUH- $5,000 Sign-On Bonus | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Sterile-Process-Tech-2--2nd-Shift--VUH---5-000-Sign-On-Bonus_R-50900-1) | 2w |
 | Sterile Processing Tech (Endo)- 3rd Shift, VUH- $5,000 Sign-On Bonus | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Sterile-Processing-Tech--Endo---3rd-Shift--VUH---5-000-Sign-On-Bonus_R-50892-1) | 2w |
 | Care Partner - Transitional Care Unit/Stepdown - FT Night Shift | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Transitional-Care-Unit-Stepdown---FT-Night-Shift_R-50689-1) | 2w |
-| Care Partner - Neuro ICU (Nights) | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Neuro-ICU--Nights-_R-47029-1) | 3w |
+| Care Partner - Neuro ICU (Nights) 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Neuro-ICU--Nights-_R-47029-1) | 3w |
 | Kitchen Associate 🏠 | Nashville, TN | [<img src="./image.png" width="100" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Kitchen-Associate_R-53032) | 3w |
 
 #### 🎓 **Stanford Health Care** (3 positions)
@@ -718,7 +717,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **331 current opportunities from 9 elite companies.**
+🎯 **330 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
