@@ -9,7 +9,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-296-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-300-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -39,7 +39,7 @@
  
  # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 296+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ **🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 300+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
 
 **🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
 
@@ -61,7 +61,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 ## 📊 **Live Stats**
 
-- 🔥 **Current Positions:** 296 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 300 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** December 29, 2025
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -214,7 +214,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | ServiceNow Developer 🏠 | Embarcadero - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/1830-Embarcadero---PALO-ALTO/ServiceNow-Developer--Possible-Remote-_R2547510) | 6d |
 | Epic Cupid Clinical Analyst (Hybrid Schedule) 🏠 | 300P Hospital - C Phase One 300/400 - PALO ALTO | [<img src="./image.png" width="100" alt="Apply">](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site/job/300P-Hospital---C-Phase-One-300400---PALO-ALTO/Epic-Cupid-Clinical-Analyst--Hybrid-Schedule-_R2552299) | 6d |
 
-### ✝️ **Faith-Based Health Systems** (60 positions)
+### ✝️ **Faith-Based Health Systems** (64 positions)
 
 #### ✝️ **Hospital Sisters Health System** (10 positions)
 
@@ -232,7 +232,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse (RN) - Women & Infant Services (WIC) | Green Bay, WI | [<img src="./image.png" width="100" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN----Women---Infant-Services--WIC-_R1030779) | 6d |
 
 <details>
-<summary><h4>⛰️ <strong>Intermountain Health</strong> (50 positions)</h4></summary>
+<summary><h4>⛰️ <strong>Intermountain Health</strong> (54 positions)</h4></summary>
 
 | Role | Location | Apply Now | Age |
 |------|----------|-----------|-----|
@@ -251,6 +251,18 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Patient Service Representative 🏠 | Avenues Womens Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Avenues-Womens-Center/Patient-Service-Representative_R159396) | 3d |
 | Special Education Teacher 🏠 | Mount St Vincent Home | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Mount-St-Vincent-Home/Special-Education-Teacher_R153488) | 3d |
 | Fulfillment Center Material handler 🏠 | Home Services - Salt Lake City | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Home-Services---Salt-Lake-City/Fulfillment-Center-Material-handler_R158999) | 3d |
+| Medical Assistant Broadwater Family Medicine | Broadwater Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Broadwater-Clinic/Medical-Assistant-Broadwater-Family-Medicine_R132653) | 3d |
+| Medical Assistant Pediatrics | Heber Valley Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Heber-Valley-Clinic/Medical-Assistant-Pediatrics_R158984) | 3d |
+| Medical Assistant Cardiology Clinic | Rocky Mountain Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Rocky-Mountain-Clinic/Medical-Assistant-Cardiology-Clinic_R152076) | 3d |
+| Medical Assistant Pediatric Clinic | Butte Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Butte-Clinic/Medical-Assistant-Pediatric-Clinic_R152079) | 3d |
+| Medical Assistant Limited Scope | Lewistown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Lewistown-Clinic/Medical-Assistant-Limited-Scope_R151770) | 3d |
+| Medical Assistant Wellington Lung and Sleep Clinic | Wellington Lung and Sleep Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Wellington-Lung-and-Sleep-Clinic/Medical-Assistant-Wellington-Lung-and-Sleep-Clinic_R156105) | 3d |
+| Medical Assistant Cardiology Clinic | Intermountain Health Heart and Vascular-West Park Cardiology | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Heart-and-Vascular-West-Park-Cardiology/Medical-Assistant-Cardiology-Clinic_R156535-1) | 3d |
+| Medical Assistant Patterson Primary Care Clinic | Patterson Primary Care Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Patterson-Primary-Care-Clinic/Medical-Assistant-Patterson-Primary-Care-Clinic_R155744) | 3d |
+| Medical Assistant Butte Orthopedic Clinic | Rocky Mountain Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Rocky-Mountain-Clinic/Medical-Assistant-Butte-Orthopedic-Clinic_R156608) | 3d |
+| Medical Assistant Bozeman Midtown Clinic | Bozeman Midtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Bozeman-Midtown-Clinic/Medical-Assistant-Bozeman-Midtown-Clinic_R152899) | 3d |
+| Medical Assistant Neurology Clinic | Grand Junction Neurology Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Grand-Junction-Neurology-Clinic/Medical-Assistant-Neurology-Clinic_R154596) | 3d |
+| Medical Assistant Infectious Disease Clinic | Billings Downtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Billings-Downtown-Clinic/Medical-Assistant-Infectious-Disease-Clinic_R150682) | 3d |
 | Medical Assistant Gynecological Oncology Clinic | MGBL West End MOB - Billings | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/MGBL-West-End-MOB---Billings/Medical-Assistant-Gynecological-Oncology-Clinic_R156784) | 3d |
 | Medical Assistant Urology PRN | Billings Downtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Billings-Downtown-Clinic/Medical-Assistant-Urology-PRN_R155188-1) | 3d |
 | Medical Assistant Urology | Billings Downtown Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Billings-Downtown-Clinic/Medical-Assistant-Urology_R157301) | 3d |
@@ -271,21 +283,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Clinical Dietitian PRN | Intermountain Health Lutheran Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Lutheran-Hospital/Registered-Clinical-Dietitian-PRN_R158442) | 3d |
 | Medical Assistant ENT | Alta View Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Alta-View-Clinic/Medical-Assistant-ENT_R157713) | 3d |
 | Medical Assistant Medical Oncology | Intermountain Health Intermountain Medical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Medical-Assistant-Medical-Oncology_R159097) | 3d |
-| Medical Assistant Wound Care 🏠 | Intermountain Health Riverton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Medical-Assistant-Wound-Care_R159131) | 3d |
-| Pediatric Certified Occupational Therapist Assistant 🏠 | Primary Childrens at Summit Day Progra | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Primary-Childrens-at-Summit-Day-Programs/Pediatric-Certified-Occupational-Therapist-Assistant_R159349) | 3d |
-| Medical Assistant Pediatrics 🏠 | Bountiful Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Bountiful-Clinic/Medical-Assistant-Pediatrics_R158625) | 3d |
-| Medical Assistant Orthopedics and Sports Medicine 🏠 | McKay-Dee Surgical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/McKay-Dee-Surgical-Center/Medical-Assistant-Orthopedics-and-Sports-Medicine_R158968) | 3d |
-| Pharmacy Technician 🏠 | Intermountain Health Primary Childrens Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/Pharmacy-Technician_R159168) | 6d |
-| Cook 🏠 | Intermountain Health Utah Valley Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Utah-Valley-Hospital/Cook_R155885-1) | 6d |
-| Registered Nurse iFlex Internal Travel Team Emergency Department 🏠 | Intermountain Health Park City Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Park-City-Hospital/Registered-Nurse-iFlex-Internal-Travel-Team-Emergency-Department_R158835) | 6d |
-| Environmental Services Technician 🏠 | Intermountain Health McKay-Dee Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-McKay-Dee-Hospital/Environmental-Services-Technician_R157258) | 6d |
-| Environmental Services Technician PRN 🏠 | Intermountain Health Layton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Layton-Hospital/Environmental-Services-Technician-PRN_R158459) | 6d |
-| Associate - Mindshare 🏠 | Transformation Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Transformation-Center/Associate---Mindshare_R159250) | 6d |
-| Medical Assistant Primary Care Float 🏠 | Pahrump Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Central-Office---Las-Vegas/Medical-Assistant-Primary-Care-Float_R158278) | 6d |
-| Medical Assistant Anticoagulation 🏠 | Intermountain Health St George Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Medical-Assistant-Anticoagulation_R157187) | 6d |
-| Medical Assistant 🏠 | Pahrump Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Pahrump-Clinic/Medical-Assistant_R150558) | 6d |
-| Medical Assistant Orthopedics and Sports Med 🏠 | Intermountain Health St George Regional Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-St-George-Regional-Hospital/Medical-Assistant-Orthopedics-and-Sports-Med_R157405) | 6d |
-| Medical Assistant / Scribe Orthopedics 🏠 | Cedar City Orthopedics and Sports Medicine Clinic - Orthopedics | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Cedar-City-Orthopedics-and-Sports-Medicine-Clinic---Orthopedics/Medical-Assistant---Scribe-Orthopedics_R155234) | 6d |
+| Medical Assistant Wound Care | Intermountain Health Riverton Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Riverton-Hospital/Medical-Assistant-Wound-Care_R159131) | 3d |
+| Pediatric Certified Occupational Therapist Assistant | Primary Childrens at Summit Day Progra | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Primary-Childrens-at-Summit-Day-Programs/Pediatric-Certified-Occupational-Therapist-Assistant_R159349) | 3d |
+| Medical Assistant Pediatrics | Bountiful Clinic | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Bountiful-Clinic/Medical-Assistant-Pediatrics_R158625) | 3d |
+| Medical Assistant Orthopedics and Sports Medicine | McKay-Dee Surgical Center | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/McKay-Dee-Surgical-Center/Medical-Assistant-Orthopedics-and-Sports-Medicine_R158968) | 3d |
+| Pharmacy Technician | Intermountain Health Primary Childrens Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Primary-Childrens-Hospital/Pharmacy-Technician_R159168) | 6d |
+| Cook | Intermountain Health Utah Valley Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Utah-Valley-Hospital/Cook_R155885-1) | 6d |
+| Registered Nurse iFlex Internal Travel Team Emergency Department | Intermountain Health Park City Hospital | [<img src="./image.png" width="100" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Park-City-Hospital/Registered-Nurse-iFlex-Internal-Travel-Team-Emergency-Department_R158835) | 6d |
 
 </details>
 
@@ -415,10 +419,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Registered Nurse-Emergency Department-Nights | HPH Highland Park Hospital | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Registered-Nurse-Emergency-Department-Nights_R28361?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Occupational Therapist I - Inpatient/Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist--Inpatient-Outpatient--Multiple-Locations_R23823?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 | Physical Therapist Assistant- Inpatient and Outpatient- Multiple Locations | Multiple Cities | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Physical-Therapist-Assistant--Inpatient-and-Outpatient--Multiple-Locations_R23769?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
-| Patient Care Technician - 3ES Medical Surgical Unit - Nights | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Patient-Care-Technician---3ES-Medical-Surgical-Unit---Nights_R37133?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 12h |
-| Patient Care Technician - Intermediate Care 3EN- Nights | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Patient-Care-Technician---Intermediate-Care-3EN--Nights_R37130?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 12h |
-| Registered Nurse - 3ES Medical Surgical Unit - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Registered-Nurse---3ES-Medical-Surgical-Unit---Days_R37136?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 12h |
-| Registered Nurse- 3EN Intermediate Care Unit - Nights | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Registered-Nurse---3EN-Intermediate-Care-Unit---Nights_R37137?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 12h |
+| Patient Care Technician - 3ES Medical Surgical Unit - Nights | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Patient-Care-Technician---3ES-Medical-Surgical-Unit---Nights_R37133?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
+| Patient Care Technician - Intermediate Care 3EN- Nights | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Patient-Care-Technician---Intermediate-Care-3EN--Nights_R37130?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
+| Registered Nurse - 3ES Medical Surgical Unit - Days | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Registered-Nurse---3ES-Medical-Surgical-Unit---Days_R37136?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
+| Registered Nurse- 3EN Intermediate Care Unit - Nights | NCH 800 W Central Rd Arlington Heights | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Registered-Nurse---3EN-Intermediate-Care-Unit---Nights_R37137?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
 | Medical Assistant, Wellness Shoppe, Days | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Medical-Assistant--Wellness-Shoppe--Days_R36779?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Medical Assistant / Patient Support Associate, Wellness Shoppe, Days | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Medical-Assistant---Patient-Support-Associate--Wellness-Shoppe--Days_R36776?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Physical Therapist I – Outpatient – Days/evenings | NSO Park Center Building Glenview | [<img src="./image.png" width="100" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Physical-Therapist-I---Outpatient---Days-evenings_R36832?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
@@ -444,7 +448,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ### 🏢 **Top Companies**
 
 #### ⭐ **Top Healthcare Systems** (3 companies)
-🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (28 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (9) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (50)
+🗽 **[New York Presbyterian](https://nyp.wd1.myworkdayjobs.com/nypcareers)** (28 positions) • 🎓 **[Stanford Health Care](https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site)** (9) • ⛰️ **[Intermountain Health](https://imh.wd108.myworkdayjobs.com/IntermountainCareers)** (54)
 
 
 #### 🎓 **Academic Medical Centers** (2 companies)
@@ -460,9 +464,9 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 112 | 38% | No or minimal experience |
+| 🟢 Entry Level & New Grad | 131 | 44% | No or minimal experience |
 | 🟡 Beginner & Early Career | 38 | 13% | 1-2 years of experience |
-| 🔴 Manager     | 146 | 49% | 2+ years of experience |
+| 🔴 Manager     | 131 | 44% | 2+ years of experience |
 
 ---
 
@@ -480,7 +484,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 296+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 300+ verified hospital and pharma roles from 9 elite organizations.
 
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 
@@ -737,7 +741,7 @@ Either still hiring or useful for research.
 
 ---
 
-🎯 **296 current opportunities from 9 elite companies.**
+🎯 **300 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
