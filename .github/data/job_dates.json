@@ -11506,5 +11506,17 @@
     "job_title": "Medical Assistant Float PRN",
     "company": "Cleaveland Clinic",
     "first_seen": "2025-12-29T20:11:51.690Z"
+  },
+  "endeavor-health-registered-nurse---orthopedic-spine-medical-surgical---days---skh-skokie-hospital": {
+    "assigned_date": "2025-12-29T21:47:38.048Z",
+    "job_title": "Registered Nurse - Orthopedic Spine Medical Surgical - Days -",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-29T21:47:38.048Z"
+  },
+  "endeavor-health-patient-care-technician---medical-telemetry---evenings-hph-highland-park-hospital": {
+    "assigned_date": "2025-12-29T21:47:38.048Z",
+    "job_title": "Patient Care Technician - Medical Telemetry - Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-29T21:47:38.048Z"
   }
 }
