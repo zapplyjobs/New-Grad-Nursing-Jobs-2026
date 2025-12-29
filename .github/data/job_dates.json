@@ -11398,5 +11398,23 @@
     "job_title": "Registered Nurse - Medical Surgical Telemetry - Nights",
     "company": "Endeavor Health",
     "first_seen": "2025-12-29T13:46:58.641Z"
+  },
+  "cleaveland-clinic-nurse-practitioner/physician-assistant---general-cardiology---clarksville-clarksville": {
+    "assigned_date": "2025-12-29T14:12:04.462Z",
+    "job_title": "Nurse Practitioner/Physician Assistant - General Cardiology - Clarksville",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-29T14:12:04.462Z"
+  },
+  "endeavor-health-patient-care-technician,-cardiac-post-procedural-telemetry---evening-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-12-29T14:12:04.462Z",
+    "job_title": "Patient Care Technician, Cardiac Post Procedural Telemetry - Evening",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-29T14:12:04.462Z"
+  },
+  "endeavor-health-patient-care-technician--surgical-medical-telemetry---nights-hph-highland-park-hospital": {
+    "assigned_date": "2025-12-29T14:12:04.462Z",
+    "job_title": "Patient Care Technician -Surgical Medical Telemetry - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-29T14:12:04.462Z"
   }
 }
