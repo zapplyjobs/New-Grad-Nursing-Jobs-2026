@@ -450,21 +450,28 @@ ${companies?.regional_health_networks?.filter(c => currentJobs.filter(job => job
 
 ### 📈 Experience Breakdown
 
-| Level        | Count | Percentage | Top Companies           |
+${(() => {
+  // Calculate level breakdown from displayed jobs only
+  const levelCounts = { 'Entry-Level': 0, 'Mid-Level': 0, 'Senior': 0 };
+  displayedJobs.forEach(job => {
+    const level = getExperienceLevel(job.job_title, job.job_description);
+    if (levelCounts[level] !== undefined) {
+      levelCounts[level]++;
+    }
+  });
+  
+  const total = displayedJobCount || 1; // Avoid division by zero
+  const entryPct = Math.round((levelCounts['Entry-Level'] / total) * 100);
+  const midPct = Math.round((levelCounts['Mid-Level'] / total) * 100);
+  // Make Senior percentage fill the remainder to ensure 100%
+  const seniorPct = 100 - entryPct - midPct;
+  
+  return `| Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | ${stats?.byLevel["Entry-Level"] || 0} | ${
-  stats
-   ? Math.round((stats.byLevel["Entry-Level"] / currentJobs.length) * 100)
-   : 0
- }% | No or minimal experience |
-| 🟡 Beginner & Early Career | ${stats?.byLevel["Mid-Level"] || 0} | ${
-  stats
-   ? Math.round((stats.byLevel["Mid-Level"] / currentJobs.length) * 100)
-   : 0
- }% | 1-2 years of experience |
-| 🔴 Manager     | ${stats?.byLevel["Senior"] || 0} | ${
-  stats ? Math.round((stats.byLevel["Senior"] / currentJobs.length) * 100) : 0
- }% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | ${levelCounts['Entry-Level']} | ${entryPct}% | No or minimal experience |
+| 🟡 Beginner & Early Career | ${levelCounts['Mid-Level']} | ${midPct}% | 1-2 years of experience |
+| 🔴 Manager     | ${levelCounts['Senior']} | ${seniorPct}% | 2+ years of experience |`;
+})()}
 
 ---
 
