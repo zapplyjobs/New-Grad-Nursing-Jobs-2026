@@ -259,10 +259,9 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
  return `<div align="center">
 
 <!-- Banner -->
-<img src="jobboard/public/mega-zapply.png" alt="Zapply - New Grad Nursing Jobs" width="200">
+<img src="images/nsj-heading.png" alt="Nursing Jobs 2026 - Illustration of people working in nursing.">
 
-<h3>💼 New Grad Nursing Jobs 2025-2026</h3>
-<p><em>Real-time job opportunities from ${totalCompanies}</em></p>
+# Nursing Jobs 2026
 
 <br>
 
@@ -294,46 +293,64 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 </div>
 
 ---
- 
- # 🏥 Healthcare & Nursing Jobs 2026 by Zapply
 
- **🚀 Real-time nursing, healthcare, and medical job listings from ${totalCompanies}+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for new graduates in registered nursing, allied health, and pharma**.
+ <p align="center">🚀 Real-time nursing, healthcare, and medical job listings from ${totalCompanies}+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.</p>
 
-**🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital**.
+<p align="center">🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital.</p>
 
 **🛠 Help us grow! Add new jobs by submitting an issue! View contributing steps [here](CONTRIBUTING-GUIDE.md)**.
 
----
-## **Join Community**
-
-Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
-
-
-<div align="center">
- <a href="https://discord.gg/yKWw28q7Yq" target="_blank">
-  <img src="./discord-button.png" width="400" alt="Join Discord - Job Finder & Career Hub by Zapply">
- </a>
-</div>
-
+> [!TIP]
+> 🛠  Help us grow! Add new jobs by submitting an issue! View [contributing steps](CONTRIBUTING.md) here.
 
 ---
-## 📊 **Live Stats**
+
+## Join Community
+
+<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
+
+Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of new grads and students navigating their career journey together!
+
+<p align="center">
+  <a href="https://discord.gg/EXR6rWnd"><img src="images/discord.png" alt="Join Our Discord" width="235"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.reddit.com/r/Zapply/"><img src="images/reddit.png" alt="Join Our Reddit" width="200"></a>
+</p>
+
+---
+
+## Alerts
+
+<img src="images/alerts.png" alt="Watch, fork, and star the repo to get alerts on new jobs.">
+
+**Don't miss new opportunities!**  
+- 🌟 **Star this repo** to get updates on your GitHub dashboard.
+- 👁️ **Watch** for instant notifications on new jobs.
+- 🔔 **Turn on notifications** to never miss FAANG+ postings.
+
+---
+
+## Live Stats
+
+<img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
 - 🔥 **Current Positions:** ${currentJobs.length} hot healthcare and medical jobs
 - 🏢 **Top Companies:** ${totalCompanies} elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** ${currentDate}
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
-- 📁 **Archived Healthcare Jobs:** ${archivedJobs.length} (older than 1 week)
-
 
 ---
 
-## 🎯 **Fresh Nursing Job Listings 2026 (under 1 week)**
+## Fresh Nursing Jobs 2026
+
+<img src="images/ngj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 ${generateJobTable(currentJobs)}
 
 ---
-## **✨ Insights on the Repo**
+## Insights on the Repo
+
+<img src="images/insights.png" alt="Insights pulled from current listings.">
 
 ### 🏢 **Top Companies**
 
@@ -389,7 +406,7 @@ ${companies?.regional_health_networks?.filter(c => currentJobs.filter(job => job
 
 ---
 
-### 📈 **Experience Breakdown**
+### 📈 Experience Breakdown
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
@@ -409,7 +426,7 @@ ${companies?.regional_health_networks?.filter(c => currentJobs.filter(job => job
 
 ---
 
-### 🌍 **Top Locations**
+### 🌍 Top Locations
 ${
  stats
   ? Object.entries(stats.byLocation)
@@ -422,23 +439,25 @@ ${
 
 ---
 
-## 🔮 Why Nursing Grads Choose Our Job Board
+### 🔮 Why Nursing Grads Choose Our Job Board
 
 ✅ **100% Real Jobs:** ${currentJobs.length}+ verified hospital and pharma roles from ${totalCompanies} elite organizations.
-
+<br>
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
-
+<br>
 ✅ **Entry-Level Focused:** Smart filtering for internships and entry-level roles.
-
+<br>
 ✅ **Intern-to-FTE Pipeline:** Track internships that convert into full-time healthcare careers.
-
+<br>
 ✅ **Direct Applications:** Skip recruiters – apply straight to company career pages.
-
+<br>
 ✅ **Mobile-Optimized:** Perfect mobile experience for students between clinical shifts or class.
 
 ---
 
-## 🚀 Job Hunt Tips That Actually Work
+## Job Hunt Tips That Actually Work
+
+<img src="images/tips.png" alt="No fluff — just strategies that help.">
 
 ### 🔍 **Research Before Applying**
 - **Find the hiring manager**: Search "[Company] [Team] engineering manager" on LinkedIn.
@@ -458,21 +477,52 @@ ${
 - **Mention tools**: "As a daily Slack user, I've noticed..." proves genuine interest
 - [Review this comprehensive interview guide on common behavioral, technical, and curveball questions](https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0)
 
----
-
-## 📬 **Stay Updated**
-
-- ⭐ **Star this repo** to bookmark and check daily.
-- 👀 **Watch** to get notified of new data postings.
-- 📱 **Bookmark on your phone** for quick job hunting.
-- 🤝 **Become a contributor** and add new jobs! Visit our contributing guide [here](CONTRIBUTING-GUIDE.md).
-
+<p align="center">
+  <a href="https://docs.google.com/document/d/1EcP_vX-vTTblCe1hYSJn9apwrop0Df7h/export?format=docx"><img src="images/sample-resume.png" alt="A sample format of a software engineering resume." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1H6ljywqVnxONdYUD304V1QRayYxr0D1e"><img src="images/tweaking-resume.png" alt="A guide on tweaking your resume with keywords." width="250"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://drive.google.com/uc?export=download&id=1MGRv7ANu9zEnnQJv4sstshsmc_Nj0Tl0"><img src="images/interview-guide.png" alt="The most common interview questions and how to answer them." width="250"></a>
+</p>
 
 ---
+
+## Become a Contributor
+
+<img src="images/contributor.png" alt="Add roles, report issues, or suggest improvements.">
+
+Add new jobs! See the [contributing guide](CONTRIBUTING.md).
+
+### Contributing Guide
+#### 🎯 Roles We Accept
+- Located in the US, Canada, or Remote.
+- Not already in our database.
+- Currently accepting applications.
+
+#### 🚀 How to Add Jobs
+1. Create a new issue.
+2. Select the "New Job" template.
+3. Fill out and submit the form.
+   > Submit separate issues for each position, even from the same company.
+
+#### ✏️ How to Update Jobs
+1. Copy the job URL to edit.
+2. Create a new issue.
+3. Select the "Edit Job" template.
+4. Paste the URL and describe changes.
+
+#### ⚡ What Happens Next
+- Our team reviews within 24-48 hours.
+- Approved jobs are added to the main list.
+- The README updates automatically via script.
+- Contributions go live at the next daily refresh (9 AM UTC).
+- Questions? Create a miscellaneous issue, and we’ll assist! 🙏
 
 ${archivedSection}
 
 ---
+
+<div align="center">
 
 🎯 **${currentJobs.length} current opportunities from ${totalCompanies} elite companies.**
 
@@ -480,7 +530,7 @@ ${archivedSection}
 
 *Not affiliated with any companies listed. All applications redirect to official career pages.*
 
-**Last Updated:** ${currentDate} • **Next Update:** Daily at 9 AM UTC`;
+**Last Updated:** ${currentDate} • **Next Update:** Daily at 9 AM UTC </div>`;
 }
 
 async function updateReadme(currentJobs, archivedJobs, internshipData, stats) {
