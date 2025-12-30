@@ -1,22 +1,4 @@
 {
-  "endeavor-health-sterile-processing-tech---days-emh-in-hospital-elmhurst": {
-    "assigned_date": "2025-10-31T22:55:52.017Z",
-    "job_title": "Sterile Processing Tech - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-10-31T22:55:52.017Z"
-  },
-  "endeavor-health-sterile-processing-tech---evenings-emh-in-hospital-elmhurst": {
-    "assigned_date": "2025-10-31T22:55:52.017Z",
-    "job_title": "Sterile Processing Tech - Evenings",
-    "company": "Endeavor Health",
-    "first_seen": "2025-10-31T22:55:52.017Z"
-  },
-  "endeavor-health-certified-sterile-processing-tech---evenings-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-10-31T22:55:52.017Z",
-    "job_title": "Certified Sterile Processing Tech - Evenings",
-    "company": "Endeavor Health",
-    "first_seen": "2025-10-31T22:55:52.017Z"
-  },
   "cleaveland-clinic-respiratory-therapist-reg---nights-$15k-sign-on-bonus-lebanon": {
     "assigned_date": "2025-11-01T01:36:19.530Z",
     "job_title": "Respiratory Therapist Reg - Nights $15K SIGN ON BONUS",
@@ -11200,5 +11182,11 @@
     "job_title": "Neonatal Pediatric Hospitalist",
     "company": "Endeavor Health",
     "first_seen": "2025-12-30T22:21:27.315Z"
+  },
+  "endeavor-health-workforce-optimization-analyst--skokie,-il-nso-corporate-office-skokie": {
+    "assigned_date": "2025-12-30T22:56:12.165Z",
+    "job_title": "Workforce Optimization Analyst- Skokie, IL",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T22:56:12.165Z"
   }
 }
