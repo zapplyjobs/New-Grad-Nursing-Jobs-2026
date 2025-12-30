@@ -1,58 +1,4 @@
 {
-  "cleaveland-clinic-registered-nurse,-rn-charge---ent-clinic-nashville": {
-    "assigned_date": "2025-10-31T19:46:15.156Z",
-    "job_title": "Registered Nurse, RN Charge - ENT Clinic",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-10-31T19:46:15.156Z"
-  },
-  "cleaveland-clinic-echocardiography-technologist-2-pediatric-$10k-sign-on-bonus-nashville": {
-    "assigned_date": "2025-10-31T19:46:15.156Z",
-    "job_title": "Echocardiography Technologist 2 Pediatric $10K SIGN ON BONUS",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-10-31T19:46:15.156Z"
-  },
-  "cleaveland-clinic-registered-nurse-cc---vhvi---murfreesboro-murfreesboro": {
-    "assigned_date": "2025-10-31T19:46:15.156Z",
-    "job_title": "Registered Nurse CC - VHVI - Murfreesboro",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-10-31T19:46:15.156Z"
-  },
-  "cleaveland-clinic-care-partner---5rw-palliative-care-unit-ft-nashville": {
-    "assigned_date": "2025-10-31T19:46:15.156Z",
-    "job_title": "Care Partner - 5RW Palliative Care Unit FT",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-10-31T19:46:15.156Z"
-  },
-  "cleaveland-clinic-care-partner---tvc-2-obs-stepdown-unit---full-time-day-shift-nashville": {
-    "assigned_date": "2025-10-31T19:46:15.156Z",
-    "job_title": "Care Partner - TVC 2 Obs Stepdown Unit - Full-Time Day Shift",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-10-31T19:46:15.156Z"
-  },
-  "cleaveland-clinic-care-partner---neurosciences/epilepsy-(days)-nashville": {
-    "assigned_date": "2025-10-31T19:46:15.156Z",
-    "job_title": "Care Partner - Neurosciences/Epilepsy (Days)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-10-31T19:46:15.156Z"
-  },
-  "cleaveland-clinic-care-partner---neurosciences/epilepsy-(nights)-nashville": {
-    "assigned_date": "2025-10-31T19:46:15.156Z",
-    "job_title": "Care Partner - Neurosciences/Epilepsy (Nights)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-10-31T19:46:15.156Z"
-  },
-  "endeavor-health-occupational-therapist-fr-multiple-cities": {
-    "assigned_date": "2025-10-31T20:22:54.705Z",
-    "job_title": "Occupational Therapist FR",
-    "company": "Endeavor Health",
-    "first_seen": "2025-10-31T20:22:54.705Z"
-  },
-  "endeavor-health-physical-therapist-(per-diem)-–-inpatient-–-days/evenings-multiple-cities": {
-    "assigned_date": "2025-10-31T20:22:54.705Z",
-    "job_title": "Physical Therapist (per diem) – Inpatient – Days/Evenings",
-    "company": "Endeavor Health",
-    "first_seen": "2025-10-31T20:22:54.705Z"
-  },
   "endeavor-health-clinical-dietitian-per-diem-loh-eating-disorders-loh-naperville-in-hospital": {
     "assigned_date": "2025-10-31T20:55:43.880Z",
     "job_title": "Clinical Dietitian-Per Diem-LOH Eating Disorders",
@@ -11194,5 +11140,23 @@
     "job_title": "RN - Cardiac Neuro ICU - Nights",
     "company": "Endeavor Health",
     "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "cleaveland-clinic-certified-pharmacy-technician---inpatient-central-pharmacy---day-shift-nashville": {
+    "assigned_date": "2025-12-30T20:23:05.292Z",
+    "job_title": "Certified Pharmacy Technician - Inpatient Central Pharmacy - Day Shift",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-30T20:23:05.292Z"
+  },
+  "endeavor-health-registered-nurse---pediatric-acute-care-center---days---per-diem-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-30T20:23:05.292Z",
+    "job_title": "Registered Nurse - Pediatric Acute Care Center - Days - Per Diem",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T20:23:05.292Z"
+  },
+  "endeavor-health-registered-nurse---nicu---days---per-diem-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-30T20:23:05.292Z",
+    "job_title": "Registered Nurse - NICU - Days - Per Diem",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T20:23:05.292Z"
   }
 }
