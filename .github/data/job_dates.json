@@ -1,10 +1,4 @@
 {
-  "endeavor-health-registered-nurse---nicu---nights-edh-in-hospital-naperville": {
-    "assigned_date": "2025-10-31T21:07:35.415Z",
-    "job_title": "Registered Nurse - NICU - Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-10-31T21:07:35.415Z"
-  },
   "endeavor-health-sterile-processing-tech---days-emh-in-hospital-elmhurst": {
     "assigned_date": "2025-10-31T22:55:52.017Z",
     "job_title": "Sterile Processing Tech - Days",
@@ -11152,5 +11146,11 @@
     "job_title": "OB Technician-2",
     "company": "Endeavor Health",
     "first_seen": "2025-12-30T20:59:07.324Z"
+  },
+  "cleaveland-clinic-transfer-registered-nurse,-bed-management-operations-control-ctr-,-nights---vuh-nashville": {
+    "assigned_date": "2025-12-30T21:38:29.046Z",
+    "job_title": "Transfer Registered Nurse, Bed Management Operations Control Ctr , Nights - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-30T21:38:29.046Z"
   }
 }
