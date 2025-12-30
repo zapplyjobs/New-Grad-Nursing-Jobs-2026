@@ -278,12 +278,26 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
   day: "numeric",
  });
 
- const totalCompanies = Object.keys(stats?.totalByCompany || {}).length;
- // The old FAANG logic that could crash is safely commented out or removed.
+ // Calculate actual displayed jobs (only from companies in nursing.json)
+ const companyNameMap = new Map();
+ Object.entries(companyCategory).forEach(([categoryKey, category]) => {
+   if (Array.isArray(category.companies)) {
+     category.companies.forEach((company) => {
+       companyNameMap.set(company.toLowerCase(), company);
+     });
+   }
+ });
+
+ const displayedJobs = currentJobs.filter(job => {
+   const normalizedName = normalizeCompanyName(job.employer_name);
+   return companyNameMap.has(normalizedName.toLowerCase());
+ });
+
+ const displayedJobCount = displayedJobs.length;
+ const totalCompanies = [...new Set(displayedJobs.map(j => normalizeCompanyName(j.employer_name)))].length;
 
  const jobTable = generateJobTable(currentJobs);
  const archivedSection = generateArchivedSection(archivedJobs, stats);
- 
 
  return `<div align="center">
 
@@ -295,7 +309,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-${currentJobs.length}-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-${displayedJobCount}-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-${totalCompanies}-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -323,7 +337,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 
 ---
 
- <p align="center">🚀 Real-time nursing, healthcare, and medical job listings from ${totalCompanies}+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with ${currentJobs.length}+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical job listings from ${totalCompanies}+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with ${displayedJobCount}+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.</p>
 
 <p align="center">🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital.</p>
 
@@ -469,7 +483,7 @@ ${
 
 ### 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** ${currentJobs.length}+ verified hospital and pharma roles from ${totalCompanies} elite organizations.
+✅ **100% Real Jobs:** ${displayedJobCount}+ verified hospital and pharma roles from ${totalCompanies} elite organizations.
 <br>
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 <br>
@@ -552,7 +566,7 @@ ${archivedSection}
 
 <div align="center">
 
-🎯 **${currentJobs.length} current opportunities from ${totalCompanies} elite companies.**
+🎯 **${displayedJobCount} current opportunities from ${totalCompanies} elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
