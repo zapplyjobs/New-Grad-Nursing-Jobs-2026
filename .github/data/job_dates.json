@@ -1,34 +1,4 @@
 {
-  "endeavor-health-medical-assistant-multiple-cities": {
-    "assigned_date": "2025-10-31T19:29:05.470Z",
-    "job_title": "Medical Assistant",
-    "company": "Endeavor Health",
-    "first_seen": "2025-10-31T19:29:05.470Z"
-  },
-  "endeavor-health-medical-assistant/patient-support-assistant--lake-bluff,-il-nso-71-waukegan-road-lake-bluff": {
-    "assigned_date": "2025-10-31T19:29:05.470Z",
-    "job_title": "Medical Assistant/Patient Support Assistant- Lake Bluff, IL",
-    "company": "Endeavor Health",
-    "first_seen": "2025-10-31T19:29:05.470Z"
-  },
-  "endeavor-health-phlebotomist-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-10-31T19:29:05.470Z",
-    "job_title": "Phlebotomist",
-    "company": "Endeavor Health",
-    "first_seen": "2025-10-31T19:29:05.470Z"
-  },
-  "endeavor-health-mammography-tech-evh-evanston-hospital": {
-    "assigned_date": "2025-10-31T19:29:05.470Z",
-    "job_title": "Mammography Tech",
-    "company": "Endeavor Health",
-    "first_seen": "2025-10-31T19:29:05.470Z"
-  },
-  "endeavor-health-mammography-technologist--per-diem-evh-evanston-hospital": {
-    "assigned_date": "2025-10-31T19:29:05.470Z",
-    "job_title": "Mammography Technologist- Per Diem",
-    "company": "Endeavor Health",
-    "first_seen": "2025-10-31T19:29:05.470Z"
-  },
   "cleaveland-clinic-registered-nurse,-rn-charge---ent-clinic-nashville": {
     "assigned_date": "2025-10-31T19:46:15.156Z",
     "job_title": "Registered Nurse, RN Charge - ENT Clinic",
@@ -11008,5 +10978,221 @@
     "job_title": "RN - OB Unit - Nights",
     "company": "Endeavor Health",
     "first_seen": "2025-12-30T19:23:39.254Z"
+  },
+  "cleaveland-clinic-nurse-residency-program-winter-us---remote": {
+    "assigned_date": "2025-12-30T19:36:33.689Z",
+    "job_title": "Nurse Residency Program Winter",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-30T19:36:33.689Z"
+  },
+  "cleaveland-clinic-licensed-practical-nurse---dermatology-clinic---oho-nashville": {
+    "assigned_date": "2025-12-30T19:36:33.689Z",
+    "job_title": "Licensed Practical Nurse - Dermatology Clinic - OHO",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2025-12-30T19:36:33.689Z"
+  },
+  "endeavor-health-patient-care-technician---inpatient-headache-unit---nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Patient Care Technician - Inpatient Headache Unit - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-rn---resource-team/float-pool---per-diem---nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "RN - Resource Team/Float Pool - Per Diem - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-respiratory-therapist-rrt---multiple-campuses-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Respiratory Therapist RRT - Multiple Campuses",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-respiratory-therapist---evenings/noc-swh-in-building-chicago": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Respiratory Therapist - Evenings/NOC",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-neonatal-nurse-practitioner-pt/ft-emh-in-hospital-elmhurst": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Neonatal Nurse Practitioner PT/FT",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-rn---critical-care---edward-hospital-edh-in-hospital-naperville": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "RN - Critical Care - Edward Hospital",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-rn-weekender---cnicu---days-edh-in-hospital-naperville": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "RN Weekender - CNICU - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-rn---ortho/spine---nights-edh-in-hospital-naperville": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "RN - Ortho/Spine - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-cardiac-sonographer-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Cardiac Sonographer",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-interventional-procedures-technologist--ir-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Interventional Procedures Technologist- IR",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-radiology-technologist--cardiac-cath-lab-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Radiology Technologist- Cardiac Cath Lab",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-mammography-technologist-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Mammography Technologist",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-radiologic-technologist-i---chicago-and-north-suburbs-evh-evanston-hospital": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Radiologic Technologist I - Chicago and North Suburbs",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-radiologic-technologist-i-(northwestern-suburbs)-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Radiologic Technologist I (Northwestern Suburbs)",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-radiologic-technologist-i-(western-suburbs)-edh-in-hospital-naperville": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Radiologic Technologist I (Western Suburbs)",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-mri-technologist-evh-evanston-hospital": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "MRI Technologist",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-ct-technologist-i---multiple-locations-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "CT Technologist I - Multiple Locations",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-surgical-technologist--multiple-campuses-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Surgical Technologist- Multiple Campuses",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-medical-lab-scientist---multiple-campuses-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Medical Lab Scientist - Multiple Campuses",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-registered-nurse---or---multiple-locations-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Registered Nurse - OR - Multiple Locations",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-registered-nurse---emergency-department---multiple-campuses---nights-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Registered Nurse - Emergency Department - Multiple Campuses - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-registered-nurse---multiple-locations-edh-in-hospital-naperville": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Registered Nurse - Multiple Locations",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-registered-nurse---multiple-locations-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Registered Nurse - Multiple Locations",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-medical-assistant-(northwestern-suburbs---multiple-locations)-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Medical Assistant (Northwestern Suburbs - Multiple Locations)",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-medical-assistant-(western-suburbs---multiple-locations)-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Medical Assistant (Western Suburbs - Multiple Locations)",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-physical-therapist-i-(outpatient--northwest-suburbs)-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Physical Therapist I (Outpatient- Northwest Suburbs)",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-physical-therapist-i-(outpatient---western-suburbs)-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Physical Therapist I (Outpatient - Western Suburbs)",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-physical-therapist-i---prn-(inpatient-and-outpatient---multiple-locations)-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Physical Therapist I - PRN (Inpatient and Outpatient - Multiple Locations)",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-rn---pmu---nights-edh-in-hospital-naperville": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "RN - PMU - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-registered-nurse-emergency-department-night-hph-highland-park-hospital": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Registered Nurse-Emergency Department-Night",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-registered-nurse-emergency-department-nights-hph-highland-park-hospital": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Registered Nurse-Emergency Department-Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-occupational-therapist-i---inpatient/outpatient--multiple-locations-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Occupational Therapist I - Inpatient/Outpatient- Multiple Locations",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-physical-therapist-assistant--inpatient-and-outpatient--multiple-locations-multiple-cities": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "Physical Therapist Assistant- Inpatient and Outpatient- Multiple Locations",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
+  },
+  "endeavor-health-rn---cardiac-neuro-icu---nights-edh-in-hospital-naperville": {
+    "assigned_date": "2025-12-30T19:36:33.690Z",
+    "job_title": "RN - Cardiac Neuro ICU - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2025-12-30T19:36:33.690Z"
   }
 }
