@@ -1,28 +1,4 @@
 {
-  "cleaveland-clinic-athletic-trainer-prn-–-vanderbilt-health-sports-medicine-nashville": {
-    "assigned_date": "2025-11-02T05:10:19.117Z",
-    "job_title": "Athletic Trainer PRN – Vanderbilt Health Sports Medicine",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-02T05:10:19.117Z"
-  },
-  "cleaveland-clinic-care-partner---medical-cardiovascular-intensive-care-unit-(nights)-nashville": {
-    "assigned_date": "2025-11-02T05:10:19.117Z",
-    "job_title": "Care Partner - Medical Cardiovascular Intensive Care Unit (Nights)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-02T05:10:19.117Z"
-  },
-  "cleaveland-clinic-ir-tech-2-i-$10k-sign-on-i-days-i-vuh-cath-lab-nashville": {
-    "assigned_date": "2025-11-02T05:10:19.117Z",
-    "job_title": "IR Tech 2 I $10K Sign on I Days I VUH Cath Lab",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-02T05:10:19.117Z"
-  },
-  "cleaveland-clinic-or-board-charge-nurse---schedule-w,t,f-6am-6pm-nashville": {
-    "assigned_date": "2025-11-02T05:10:19.117Z",
-    "job_title": "OR Board charge Nurse - Schedule W,T,F 6am-6pm",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-02T05:10:19.117Z"
-  },
   "endeavor-health-rn---cardiac-neuro-icu---cnicu---days-edh-in-hospital-naperville": {
     "assigned_date": "2025-11-02T20:08:27.039Z",
     "job_title": "RN - Cardiac Neuro ICU - CNICU - Days",
@@ -11284,5 +11260,17 @@
     "job_title": "Patient Service Representative and Insurance Verifier, Rehab Services - part-time",
     "company": "Endeavor Health",
     "first_seen": "2026-01-01T01:50:21.582Z"
+  },
+  "cleaveland-clinic-care-partner---pulmonary-icu---ft-days-06:45---19:15-nashville": {
+    "assigned_date": "2026-01-01T06:16:33.278Z",
+    "job_title": "Care Partner - Pulmonary ICU - FT Days 06:45 - 19:15",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-01T06:16:33.278Z"
+  },
+  "cleaveland-clinic-care-partner---vanderbilt-interdisciplinary-care-program-(vicp)---ft-night-shift-18:45---07:15-nashville": {
+    "assigned_date": "2026-01-01T06:16:33.278Z",
+    "job_title": "Care Partner - Vanderbilt Interdisciplinary Care Program (VICP) - FT Night Shift 18:45 - 07:15",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-01T06:16:33.278Z"
   }
 }
