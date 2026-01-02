@@ -1,10 +1,4 @@
 {
-  "cleaveland-clinic-physical-therapist-–-acute-&-outpatient-clinic-tullahoma": {
-    "assigned_date": "2025-11-03T16:57:28.533Z",
-    "job_title": "Physical Therapist – Acute & Outpatient Clinic",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-03T16:57:28.533Z"
-  },
   "cleaveland-clinic-lic-mental-health-prof-prn-nashville": {
     "assigned_date": "2025-11-03T17:46:54.869Z",
     "job_title": "Lic Mental Health Prof PRN",
@@ -11242,5 +11236,17 @@
     "job_title": "Nurse Intern – 2026 Summer Nursing Program",
     "company": "Endeavor Health",
     "first_seen": "2026-01-02T16:50:17.358Z"
+  },
+  "endeavor-health-registered-nurse---general-medical-unit---nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2026-01-02T17:11:32.252Z",
+    "job_title": "Registered Nurse - General Medical Unit - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-02T17:11:32.252Z"
+  },
+  "endeavor-health-patient-care-technician---resource-team---nights-swh-swedish-hospital-chicago": {
+    "assigned_date": "2026-01-02T17:11:32.252Z",
+    "job_title": "Patient Care Technician - Resource Team - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-02T17:11:32.252Z"
   }
 }
