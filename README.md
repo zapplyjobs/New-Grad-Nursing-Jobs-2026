@@ -367,6 +367,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| Transport Aide 🏠 | Abbott Northwestern Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Transport-Aide_R-0068369-1) | 1d |
 | RN-Medical Surgical Oncology 🏠 | Mercy Hospital Unity Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital-Unity-Campus/RN-Medical-Surgical-Oncology_R-0068489-1) | 1d |
 | EMT Cambridge 🏠 | Allina Health Emergency Medical Services Cambridge | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Emergency-Medical-Services-Cambridge/EMT-Metro_R-0068004-1) | 1d |
 | Licensed Therapist + LADC 🏠 | Unity Mental Health and Addiction Center | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Unity-Mental-Health-and-Addiction-Center/Dual-Licensed-Therapist---LPCC---LICSW---LMFT---LADC_R-0067463) | 1d |
@@ -379,7 +380,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | RN Medical Surgical 🏠 | United Hospital - Hastings Regina Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital---Hastings-Regina-Campus/Registered-Nurse-Medical-Surgical_R-0068365) | 1d |
 | RN Medical Surgical 🏠 | St Francis Regional Medical Center | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Regional-Medical-Center/RN-Medical-Surgical_R-0068350) | 1d |
 | Medical Assistant Functional Medicine Penny George Institute for Health and Healing 🏠 | Allina Health ndana Square Clinic | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Bandana-Square-Clinic/Medical-Assistant-Functional-Medicine-Penny-George-Institute-for-Health-and-Healing_R-0068481) | 2d |
-| RN Primary Care Faribault Clinic 🏠 | Allina Health Faribault Clinic | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Faribault-Clinic/RN-Primary-Care-Faribault-Clinic_R-0068480) | 2d |
+| RN Primary Care Faribault Clinic | Allina Health Faribault Clinic | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Faribault-Clinic/RN-Primary-Care-Faribault-Clinic_R-0068480) | 2d |
 | RN Urogynecology Eden Prairie | Allina Health Clinic Eden Prairie | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Clinic-Eden-Prairie/RN-Urogynecology-Eden-Prairie_R-0068479) | 2d |
 | Nuclear Medicine Technologist | Abbott Northwestern Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Nuclear-Medicine-Technologist_R-0068165) | 2d |
 | Physician Assistant or Nurse Practitioner - Hematology | Multiple Cities | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Cancer-Institute-Abbott-Northwestern-Minneapolis/Physician-Assistant-or-Nurse-Practitioner---Hematology_R-0068474) | 2d |
@@ -394,7 +395,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Cardiovascular Procedural Technologist | Mercy Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Cardiovascular-Procedural-Technologist_R-0068440) | 2d |
 | Dietary Aide | Mercy Hospital Unity Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital-Unity-Campus/Dietary-Aide_R-0067635-1) | 2d |
 | Medical Laboratory Scientist | Abbott Northwestern Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Medical-Lab-Scientist--Medical-Laboratory-Scientist_R-0068439) | 2d |
-| Nursing Assistant Float Pool | Mercy Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Nursing-Assistant-Float-Pool_R-0068447) | 2d |
+| Nursing Assistant Float Pool | Mercy Hospital | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Mercy-Hospital/Nursing-Assistant-Float-Pool_R-0068447) | 2d |
 | Physical Therapist - Home Care | Allina Health Homecare and Hospice-Owatonna | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Homecare-and-Hospice-Owatonna/Physical-Therapist-Owatonna-Home-Care-Casual_R-0064954) | 2d |
 | Nursing Assistant | Abbott Northwestern Hospital | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Nursing-Assistant_R-0068455-1) | 2d |
 | RN Primary Care Clinic | Allina Health Centennial Lakes Clinic Edina | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Centennial-Lakes-Clinic-Edina/Clinic-RN_R-0067780) | 2d |
@@ -405,7 +406,6 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | RN Special Care Unit/Intermediate Care | St Francis Regional Medical Center | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Regional-Medical-Center/RN-Special-Care-Unit-Intermediate-Care_R-0068024) | 2d |
 | RN Family Birth Place | St Francis Regional Medical Center | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/St-Francis-Regional-Medical-Center/RN-Family-Birth-Place_R-0067505) | 2d |
 | RN Mental Health | New Ulm Medical Center | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/New-Ulm-Medical-Center/RN-Mental-Health_R-0068290-1) | 2d |
-| OBGYN Diagnostic Sonographer - Clinic | Multiple Cities | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Womens-Health-Consultants-Downtown/Diagnostic-Sonographer-OBGYN_R-0066875) | 2d |
 
 </details>
 
@@ -492,7 +492,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 ---
 
 ### 🌍 Top Locations
-- **Multiple Cities**: 29 positions
+- **Multiple Cities**: 28 positions
 - **Nashville, TN**: 21 positions
 - **NYP/Brooklyn Methodist Hospital**: 14 positions
 - **Hillcrest Hospital**: 12 positions
