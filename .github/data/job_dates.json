@@ -11206,5 +11206,17 @@
     "job_title": "Phlebotomist",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-02T06:16:12.977Z"
+  },
+  "endeavor-health-patient-care-technician---day-surgery-center-para-surgery-nch-675-w-kirchoff-rd-arlington-heights": {
+    "assigned_date": "2026-01-02T06:34:45.074Z",
+    "job_title": "Patient Care Technician - Day Surgery Center Para Surgery",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-02T06:34:45.074Z"
+  },
+  "endeavor-health-rn---day-surgery-center-para-surgery-nch-675-w-kirchoff-rd-arlington-heights": {
+    "assigned_date": "2026-01-02T06:34:45.074Z",
+    "job_title": "RN - Day Surgery Center Para Surgery",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-02T06:34:45.074Z"
   }
 }
