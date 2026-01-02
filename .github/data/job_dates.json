@@ -1,22 +1,4 @@
 {
-  "endeavor-health-psychiatrist---outpatient---orland-park,-il-loo-mokena-9697-w-191st-street": {
-    "assigned_date": "2025-11-03T21:46:04.063Z",
-    "job_title": "Psychiatrist - Outpatient - Orland Park, IL",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-03T21:46:04.063Z"
-  },
-  "cleaveland-clinic-registered-nurse,-icu,-$20k-sign-on-bonus,-full-time-nights,-tullahoma-tullahoma": {
-    "assigned_date": "2025-11-03T22:34:33.775Z",
-    "job_title": "Registered Nurse, ICU, $20k sign-on bonus, Full-time Nights, Tullahoma",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-03T22:34:33.775Z"
-  },
-  "cleaveland-clinic-registered-nurse,-icu,-$20k-sign-on-bonus,-nights,-tullahoma-tullahoma": {
-    "assigned_date": "2025-11-03T22:34:33.775Z",
-    "job_title": "Registered Nurse, ICU, $20k sign-on bonus, Nights, Tullahoma",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-03T22:34:33.775Z"
-  },
   "cleaveland-clinic-radiation-therapist-–-arrt-certified-–-prn-nashville": {
     "assigned_date": "2025-11-03T22:56:10.326Z",
     "job_title": "Radiation Therapist – ARRT Certified – PRN",
@@ -11170,5 +11152,11 @@
     "job_title": "Care Partner PRN - Adult Emergency Department - PRN Night Shift",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-02T21:25:49.833Z"
+  },
+  "endeavor-health-medical-assistant--chronic-and-complex-care-management-nco-3040-salt-creek-ln-arlington-heights": {
+    "assigned_date": "2026-01-02T22:36:25.788Z",
+    "job_title": "Medical Assistant- Chronic and Complex Care Management",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-02T22:36:25.788Z"
   }
 }
