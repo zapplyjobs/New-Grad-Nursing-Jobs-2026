@@ -1,10 +1,4 @@
 {
-  "endeavor-health-patient-service-rep---family-practice-edo-naperville-1331-w-75th-street": {
-    "assigned_date": "2025-11-03T14:59:16.972Z",
-    "job_title": "Patient Service Rep - Family Practice",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-03T14:59:16.972Z"
-  },
   "endeavor-health-medical-assistant---float---western-suburbs-emo-addison-303-w-lake-street": {
     "assigned_date": "2025-11-03T15:39:40.403Z",
     "job_title": "Medical Assistant - Float - Western Suburbs",
@@ -11248,5 +11242,29 @@
     "job_title": "Care Partner - 5RW Palliative Care Unit FT Days 06:45 - 19:15",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-02T12:35:36.155Z"
+  },
+  "cleaveland-clinic-paramedic-prn---bedford-co.-shelbyville": {
+    "assigned_date": "2026-01-02T15:24:02.663Z",
+    "job_title": "Paramedic PRN - Bedford Co.",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-02T15:24:02.663Z"
+  },
+  "endeavor-health-medical-assistant-edo-naperville-2007-95th-street": {
+    "assigned_date": "2026-01-02T15:24:02.664Z",
+    "job_title": "Medical Assistant",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-02T15:24:02.664Z"
+  },
+  "endeavor-health-customer-service-representative-ii--warrenville,-il-o-corporate-center-warrenville": {
+    "assigned_date": "2026-01-02T15:24:02.664Z",
+    "job_title": "Customer Service Representative II- Warrenville, IL",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-02T15:24:02.664Z"
+  },
+  "endeavor-health-customer-service-representative-ii--main-hospital-elmhurst-emh-in-hospital-elmhurst": {
+    "assigned_date": "2026-01-02T15:24:02.664Z",
+    "job_title": "Customer Service Representative II- Main Hospital Elmhurst",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-02T15:24:02.664Z"
   }
 }
