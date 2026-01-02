@@ -1,22 +1,4 @@
 {
-  "endeavor-health-orthopedics-spine-physician-assistant-multiple-cities": {
-    "assigned_date": "2025-11-03T16:25:38.730Z",
-    "job_title": "Orthopedics-Spine Physician Assistant",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-03T16:25:38.730Z"
-  },
-  "endeavor-health-rn---edw-peds-ed---evenings-edh-in-hospital-naperville": {
-    "assigned_date": "2025-11-03T16:25:38.730Z",
-    "job_title": "RN - EDW PEDS ED - Evenings",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-03T16:25:38.730Z"
-  },
-  "cleaveland-clinic-ortho-dme-tech---pediatrics-nashville": {
-    "assigned_date": "2025-11-03T16:42:33.712Z",
-    "job_title": "Ortho DME Tech - Pediatrics",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-03T16:42:33.712Z"
-  },
   "cleaveland-clinic-physical-therapist-–-acute-&-outpatient-clinic-tullahoma": {
     "assigned_date": "2025-11-03T16:57:28.533Z",
     "job_title": "Physical Therapist – Acute & Outpatient Clinic",
@@ -11254,5 +11236,11 @@
     "job_title": "Patient Safety Observer-Emergency Department-Night",
     "company": "Endeavor Health",
     "first_seen": "2026-01-02T16:12:13.820Z"
+  },
+  "endeavor-health-nurse-intern-–-2026-summer-nursing-program-swh-swedish-hospital-chicago": {
+    "assigned_date": "2026-01-02T16:50:17.358Z",
+    "job_title": "Nurse Intern – 2026 Summer Nursing Program",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-02T16:50:17.358Z"
   }
 }
