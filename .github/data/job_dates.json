@@ -1,28 +1,4 @@
 {
-  "cleaveland-clinic-radiation-therapist-–-arrt-certified-–-prn-nashville": {
-    "assigned_date": "2025-11-03T22:56:10.326Z",
-    "job_title": "Radiation Therapist – ARRT Certified – PRN",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-03T22:56:10.326Z"
-  },
-  "endeavor-health-rn-residency-program-evanston-hospital-evh-evanston-hospital": {
-    "assigned_date": "2025-11-03T22:56:10.326Z",
-    "job_title": "RN Residency Program-Evanston Hospital",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-03T22:56:10.326Z"
-  },
-  "endeavor-health-patient-care-technician---ctu-2/8---day-shift-edh-in-hospital-naperville": {
-    "assigned_date": "2025-11-03T22:56:10.326Z",
-    "job_title": "Patient Care Technician - CTU 2/8 - Day Shift",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-03T22:56:10.326Z"
-  },
-  "endeavor-health-clinical-nurse-instructor---education-&-training---per-diem-multiple-cities": {
-    "assigned_date": "2025-11-03T22:56:10.326Z",
-    "job_title": "Clinical Nurse Instructor - Education & Training - Per Diem",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-03T22:56:10.326Z"
-  },
   "cleaveland-clinic-retail-service-aide-nashville": {
     "assigned_date": "2025-11-04T00:27:48.832Z",
     "job_title": "Retail Service Aide",
@@ -11164,5 +11140,17 @@
     "job_title": "Medical Assistant/Patient Support Associate (MA/PSA) - Maternal Fetal - Evanston",
     "company": "Endeavor Health",
     "first_seen": "2026-01-02T22:48:29.969Z"
+  },
+  "endeavor-health-emergency-services-care-assistant-unit-secretary-days-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2026-01-02T22:57:16.079Z",
+    "job_title": "Emergency Services Care Assistant-Unit Secretary-Days",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-02T22:57:16.079Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-assistant-(ma/psa)---internal-medicine---lake-forest-nso-915-s-waukegan-road-lake-forest": {
+    "assigned_date": "2026-01-02T22:57:16.079Z",
+    "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Internal Medicine - Lake Forest",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-02T22:57:16.079Z"
   }
 }
