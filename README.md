@@ -8,7 +8,7 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-310-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-306-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 ![License](https://img.shields.io/badge/License-CC--BY--NC--4.0-purple?style=flat&logo=creativecommons)
@@ -36,7 +36,7 @@
 
 ---
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 310+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 306+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.</p>
 
 <p align="center">🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital.</p>
 
@@ -74,7 +74,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/stats.png" alt="Real-time counts of roles and companies.">
 
-- 🔥 **Current Positions:** 310 hot healthcare and medical jobs
+- 🔥 **Current Positions:** 306 hot healthcare and medical jobs
 - 🏢 **Top Companies:** 9 elite tech including Mayo Clinic, CVS Health, Pfizer
 - 📅 **Last Updated:** January 3, 2026
 - 🤖 **Next Update:** Tomorrow at 9 AM UTC
@@ -85,10 +85,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### ⭐ **Elite Medical Centers** (119 positions)
+### ⭐ **Elite Medical Centers** (115 positions)
 
 <details>
-<summary><h4>⭐ <strong>Cleveland Clinic</strong> (64 positions)</h4></summary>
+<summary><h4>⭐ <strong>Cleveland Clinic</strong> (60 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -134,10 +134,10 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | RN – Surgery | South Pointe Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/South-Pointe-Hospital/RN---Surgery_318371) | 1d |
 | Nurse Residency Program Winter | US - Remote 🏠 | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nurse-Residency-Program-Winter-2026_R-44374-1) | 3d |
 | Clinical Trials Associate 1, Pediatric Neurology | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Clinical-Trials-Associate-1--Pediatric-Neurology_R-51225-1) | 22h |
-| Care Partner PRN - Adult Emergency Department - PRN Night Shift | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner-PRN---Adult-Emergency-Department---PRN-Night-Shift_R-50609-1) | 6h |
+| Care Partner PRN - Adult Emergency Department - PRN Night Shift | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner-PRN---Adult-Emergency-Department---PRN-Night-Shift_R-50609-1) | 7h |
 | Interventional Technologist - $10k Signing Bonus - FT – Weekdays (10-hour shifts) - VUH | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Interventional-Technologist---Weekdays--10-hour-shifts----VUH_R-51073-2) | 8h |
-| Paramedic PRN - Bedford Co. 🏠 | Shelbyville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/Paramedic-PRN---Bedford-Co_R-46345-2) | 12h |
-| Care Partner - 5RW Palliative Care Unit FT Days 06:45 - 19:15 🏠 | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---5RW-Palliative-Care-Unit-FT-Days-06-45---19-15_R-52269) | 15h |
+| Paramedic PRN - Bedford Co. 🏠 | Shelbyville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Shelbyville-TN/Paramedic-PRN---Bedford-Co_R-46345-2) | 13h |
+| Care Partner - 5RW Palliative Care Unit FT Days 06:45 - 19:15 🏠 | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---5RW-Palliative-Care-Unit-FT-Days-06-45---19-15_R-52269) | 16h |
 | Care Partner - 5RW Palliative Care Unit - FT Nights 18:45 - 07:15 🏠 | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---5RW-Palliative-Care-Unit---FT-Nights-18-45----07-15_R-48209) | 16h |
 | Care Partner - 9N Surgical Stepdown - FT Day Shift 06:45-19:15 🏠 | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---9N-Surgical-Stepdown---FT-Day-Shift-06-45-19-15_R-49540-1) | 16h |
 | Care Partner, Adult Medicine Stepdown, 14MC, FT Days 06:45 - 19:15 🏠 | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--Adult-Medicine-Stepdown--14MC--FT-Days-06-45---19-15_R-51070-1) | 16h |
@@ -145,17 +145,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Pharmacy Informatics Residency 🏠 | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pharmacy-Informatics-Residency_R-50566) | 22h |
 | Phlebotomist 🏠 | Tullahoma, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Phlebotomist_R-51758-1) | 22h |
 | Care Partner - Pulmonary ICU - FT Days 06:45 - 19:15 🏠 | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Pulmonary-ICU---FT-Days-06-45---19-15_R-51521-1) | 1d |
-| Care Partner - Vanderbilt Interdisciplinary Care Program (VICP) - FT Night Shift 18:45 - 07:15 | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Vanderbilt-Interdisciplinary-Care-Program--VICP----FT-Night-Shift-18-45---07-15_R-51669-2) | 1d |
-| Respiratory Therapist Reg Pediatric - $15K SIGN ON BONUS | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-Reg-Pediatric----15K-SIGN-ON-BONUS_R-48945-1) | 2d |
-| Respiratory Therapist Reg PRN | Tullahoma, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Respiratory-Therapist-Reg-PRN_R-48863-1) | 2d |
-| Respiratory Therapist 2 Reg - Adult $15K SIGN ON BONUS | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-2-Reg---Adult--15K-SIGN-ON-BONUS_R-49642-1) | 2d |
-| Respiratory Therapist Reg PRN - Adults | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-Reg-PRN---Adults_R-49649-1) | 2d |
-| Respiratory Therapist Reg 2 Neonatal Peds Transport - Nights $15K SIGN ON BONUS | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-Reg-2-Neonatal-Peds-Transport---Nights--15K-SIGN-ON-BONUS_R-48955-1) | 2d |
-| Respiratory Therapist 2 Reg $15K SIGN ON BONUS | Tullahoma, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Tullahoma-TN/Respiratory-Therapist-2-Reg--15K-SIGN-ON-BONUS_R-47949-1) | 2d |
-| Registered Nurse, TVC Obs Stepdown, FT Nights, VUH | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--TVC-Obs-Stepdown--FT-Nights--VUH_R-52253-1) | 2d |
-| Phone Triage RN – Pediatric Pulmonary & Sleep Medicine Clinic | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Registered-Nurse--RN----Pediatric-Pulmonary-Clinic_R-49533-1) | 2d |
-| Patient Care Attendant (24 or 36 Hours per Week) | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Patient-Care-Attendant--NIGHT-SHIFT--24-or-36-Hours-per-Week-_R-51800-2) | 2d |
-| Physician Assistant (PA) - Cardiac Surgery | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/VMG-PA-Cardiac_R-26070) | 2d |
+| Licensed Practical Nurse - Pediatric Primary Care Clinic | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Licensed-Practical-Nurse---Pediatric-Primary-Care-Clinic_R-51628-1) | 2d |
+| Speech Language Pathologist – Pediatric PRN | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pediatric-Speech-Language-Pathologist--SLP----PRN_R-47905-2) | 3d |
+| Physical Therapist – Orthopedic Outpatient | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Physical-Therapist---Orthopedic-Outpatient-Rehab_R-49347-1) | 3d |
+| Graduate Practical Nurse - Home Care Academy | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Graduate-Practical-Nurse---Home-Care-Academy_R-43636) | 3d |
+| Transfer Registered Nurse, Bed Management Operations Control Ctr , Nights - VUH | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Inpatient-Transfer-Registered-Nurse--Operations-Control-Center--Nights---VUH_R-50060-1) | 3d |
+| Certified Pharmacy Technician - Inpatient Central Pharmacy - Day Shift | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Certified-Pharmacy-Technician---Inpatient-Central-Pharmacy---Day-Shift_R-51383-1) | 3d |
+| Pathologist Asst Certified PRN | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Pathologist-Asst-Certified-PRN_R-51786-1) | 3d |
 
 </details>
 
@@ -460,8 +456,8 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 | Medical Assistant, Integrative Medicine, Days | NSO Park Center Building Glenview | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Medical-Assistant--Wellness-Shoppe--Days_R36779?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Medical Assistant / Patient Support Associate, Integrative Medicine, Days | NSO Park Center Building Glenview | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Medical-Assistant---Patient-Support-Associate--Wellness-Shoppe--Days_R36776?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 | Massage Therapist – Integrative Medicine - Days | NSO Park Center Building Glenview | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Park-Center-Building-Glenview/Massage-Therapist---Integrative-Medicine---Days_R36780?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
-| Patient Care Technician - Day Surgery Center Para Surgery | NCH 675 W Kirchoff Rd Arlington Heights | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/Patient-Care-Technician---Day-Surgery-Center-Para-Surgery_R35407?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 21h |
-| RN - Day Surgery Center Para Surgery | NCH 675 W Kirchoff Rd Arlington Heights | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/RN---Day-Surgery-Center-Operating-Room_R35214?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 21h |
+| Patient Care Technician - Day Surgery Center Para Surgery | NCH 675 W Kirchoff Rd Arlington Heights | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/Patient-Care-Technician---Day-Surgery-Center-Para-Surgery_R35407?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 22h |
+| RN - Day Surgery Center Para Surgery | NCH 675 W Kirchoff Rd Arlington Heights | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/RN---Day-Surgery-Center-Operating-Room_R35214?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 22h |
 | RN - Day Surgery Center Operating Room | NCH 675 W Kirchoff Rd Arlington Heights | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-675-W-Kirchoff-Rd-Arlington-Heights/RN---Day-Surgery-Center---Operating-Roo_R22686?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2d |
 
 </details>
@@ -493,16 +489,16 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Level        | Count | Percentage | Top Companies           |
 |---------------------|-------|------------|-----------------------------------|
-| 🟢 Entry Level & New Grad | 140 | 45% | No or minimal experience |
-| 🟡 Beginner & Early Career | 63 | 20% | 1-2 years of experience |
-| 🔴 Manager     | 107 | 35% | 2+ years of experience |
+| 🟢 Entry Level & New Grad | 129 | 42% | No or minimal experience |
+| 🟡 Beginner & Early Career | 63 | 21% | 1-2 years of experience |
+| 🔴 Manager     | 114 | 37% | 2+ years of experience |
 
 ---
 
 ### 🌍 Top Locations
 - **Multiple Cities**: 27 positions
-- **Nashville, TN**: 19 positions
 - **South Pointe Hospital**: 18 positions
+- **Nashville, TN**: 17 positions
 - **NYP/Brooklyn Methodist Hospital**: 15 positions
 - **Green Bay, WI**: 11 positions
 - **Platte Valley Hospital**: 9 positions
@@ -513,7 +509,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ### 🔮 Why Nursing Grads Choose Our Job Board
 
-✅ **100% Real Jobs:** 310+ verified hospital and pharma roles from 9 elite organizations.
+✅ **100% Real Jobs:** 306+ verified hospital and pharma roles from 9 elite organizations.
 <br>
 ✅ **Fresh Daily Updates:** Live company data refreshed every 24 hours automatically.
 <br>
@@ -626,10 +622,10 @@ Either still hiring or useful for research.
 | Care Partner - Trauma ICU FT Nights 18:45 - 07:15 🏠 | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Trauma-ICU-FT-Nights-18-45---07-15_R-52270-1) | 1mo |
 | Care Partner, 9N Surgical Stepdown, Night Shift 18:45-07:15 🏠 | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner--9N-Surgical-Stepdown--Night-Shift-18-45-07-15_R-49502-1) | 2w |
 | Care Partner - Transitional Care Unit/Stepdown - FT Night Shift 🏠 | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Transitional-Care-Unit-Stepdown---FT-Night-Shift_R-50689-1) | 3w |
-| Echo Tech PRN | Lebanon, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Echo-Tech-PRN_R-49325-1) | 1mo |
-| EchoVascular Technologist $10K SIGN ON BONUS | Lebanon, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/EchoVascular-Technologis--10K-SIGN-ON-BONUS_R-47928-1) | 1mo |
-| Respiratory Therapist 2 Reg - Pediatric $15K SIGN ON BONUS | Nashville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Respiratory-Therapist-2-Reg---Pediatric--15K-SIGN-ON-BONUS_R-47351) | 1mo |
-| Medical Assistant - Pediatric Specialties - Hendersonville (32 Hrs/Wk) | Hendersonville, TN | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Hendersonville-TN/Medical-Assistant---Pediatric-Specialties---Hendersonville--32-Hrs-Wk-_R-50802) | 3w |
+| Graduate Practical Nurse - Home Care Academy - Private Duty | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Graduate-Practical-Nurse-HC---LPN-Boot-Camp----12K-Signing-Bonus_R-36844-1) | 3w |
+| Registered Nurse, OR, Temp Force - VWCH | Lebanon, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Lebanon-TN/Registered-Nurse--OR--Temp-Force---VWCH_R-50915) | 1mo |
+| Care Partner - MCE Recovery (Days) | MCE PERIOPERATIVE | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/MCE-PERIOPERATIVE-STE-2003-LOC99600/Care-Partner---MCE-Recovery--Days-_R-47429-1) | 3w |
+| Care Partner - Ortho/Ortho Trauma Unit FT Nights 18:45 - 07:15 | Nashville, TN | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/en-US/vumccareers/job/Nashville-TN/Care-Partner---Ortho-Ortho-Trauma-Unit-FT-Nights-18-45---07-15_R-50800-2) | 3w |
 
 </details>
 
@@ -696,7 +692,7 @@ Either still hiring or useful for research.
 | Neurology-Neuropalliative - Nurse Practitioner/Physician Assistant | Strong Memorial Hospital | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Neurology-Neuropalliative---Nurse-Practitioner-Physician-Assistant_R267084?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Wilmot BMT at Strong – WCI BMT Apheresis – Registered Nurse, Level | James P. Wilmot Cancer Center | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/James-P-Wilmot-Cancer-Center/Wilmot-BMT-at-Strong---WCI-BMT-Apheresis---Registered-Nurse--Level-2_R267075?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Wilmot Cancer Institute at Interlakes Greece/Westside Level 2 Clinic/Triage RN | Multiple Cities | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/155-Bellwood-Drive/Wilmot-Cancer-Institute-at-Interlakes-Greece-Westside-Level-2-Clinic-Triage-RN_R267078?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
-| 49000 - Child & Adolescent Psychiatry – Registered Nurse 1 or 2, Inpatient | Strong Memorial Hospital | ![Mid](https://img.shields.io/badge/Mid-FFD600) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/XMLNAME-49000---Child---Adolescent-Psychiatry---Registered-Nurse-1-or-2--Inpatient_R267036?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
+| 49000 - Child & Adolescent Psychiatry – Registered Nurse 1 or 2, Inpatient | Strong Memorial Hospital | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/XMLNAME-49000---Child---Adolescent-Psychiatry---Registered-Nurse-1-or-2--Inpatient_R267036?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | 8-1200 - Neuromedicine ICU - Nurse Practitioner/Physician Assistant | Rochester - NY | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Rochester---NY/XMLNAME-8-1200---Neuromedicine-ICU---Nurse-Practitioner-Physician-Assistant_R266936-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Wound/Ostomy/Continence Program- WOC Nurse (WOCN) | Strong Memorial Hospital | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Wound-Ostomy-Continence-Program--WOC-Nurse--WOCN-_R266924?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
 | Adult Medical/Surgical Nursing Transitions in Care Unit (TCU) – RN | Strong Memorial Hospital | ![Senior](https://img.shields.io/badge/Senior-FF5252) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Adult-Medical-Surgical-Nursing-Transitions-in-Care-Unit--TCU----RN_R265023?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3w |
@@ -780,7 +776,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-🎯 **310 current opportunities from 9 elite companies.**
+🎯 **306 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
