@@ -1,16 +1,4 @@
 {
-  "cleaveland-clinic-retail-service-aide-nashville": {
-    "assigned_date": "2025-11-04T00:27:48.832Z",
-    "job_title": "Retail Service Aide",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T00:27:48.832Z"
-  },
-  "endeavor-health-patient-service-representative-edo-naperville": {
-    "assigned_date": "2025-11-04T00:27:48.833Z",
-    "job_title": "Patient Service Representative",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T00:27:48.833Z"
-  },
   "endeavor-health-rn---critical-care---nights-emh-in-hospital-elmhurst": {
     "assigned_date": "2025-11-04T01:36:18.052Z",
     "job_title": "RN - Critical Care - Nights",
@@ -11164,5 +11152,11 @@
     "job_title": "Medical Assistant (MA) - Family Medicine - Gurnee",
     "company": "Endeavor Health",
     "first_seen": "2026-01-02T23:21:20.297Z"
+  },
+  "endeavor-health-occupational-therapist-ii-–-inpatient-physical-rehab-services---days-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2026-01-03T00:54:00.295Z",
+    "job_title": "Occupational Therapist II – Inpatient Physical Rehab Services - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-03T00:54:00.295Z"
   }
 }
