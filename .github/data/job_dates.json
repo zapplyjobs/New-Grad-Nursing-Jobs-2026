@@ -1,10 +1,4 @@
 {
-  "cleaveland-clinic-care-partner---hem/onc-ft-days-06:45---19:15-nashville": {
-    "assigned_date": "2025-11-04T11:55:46.220Z",
-    "job_title": "Care Partner - Hem/Onc FT Days 06:45 - 19:15",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T11:55:46.220Z"
-  },
   "cleaveland-clinic-registered-nurse,-rn-pediatric-complex-care---outpatient-clinic-nashville": {
     "assigned_date": "2025-11-04T13:44:50.558Z",
     "job_title": "Registered Nurse, RN Pediatric Complex Care - Outpatient Clinic",
@@ -11086,5 +11080,17 @@
     "job_title": "Surgical First Assistant - Neurosurgery",
     "company": "Endeavor Health",
     "first_seen": "2026-01-03T09:56:52.531Z"
+  },
+  "cleaveland-clinic-care-partner---7rw-acute-care-of-the-elderly---full-time-nights-18:45---07:15-nashville": {
+    "assigned_date": "2026-01-03T12:35:26.993Z",
+    "job_title": "Care Partner - 7RW Acute Care of the Elderly - Full-Time Nights 18:45 - 07:15",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-03T12:35:26.993Z"
+  },
+  "cleaveland-clinic-care-partner---7rw-acute-care-of-the-elderly---ft-days-06:45---19:15-nashville": {
+    "assigned_date": "2026-01-03T12:35:26.993Z",
+    "job_title": "Care Partner - 7RW Acute Care of the Elderly - FT Days 06:45 - 19:15",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-03T12:35:26.993Z"
   }
 }
