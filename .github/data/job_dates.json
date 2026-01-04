@@ -1,316 +1,4 @@
 {
-  "cleaveland-clinic-registered-nurse,-rn-pediatric-complex-care---outpatient-clinic-nashville": {
-    "assigned_date": "2025-11-04T13:44:50.558Z",
-    "job_title": "Registered Nurse, RN Pediatric Complex Care - Outpatient Clinic",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T13:44:50.558Z"
-  },
-  "endeavor-health-gastroenterologist-emh-in-hospital-elmhurst": {
-    "assigned_date": "2025-11-04T14:22:41.845Z",
-    "job_title": "Gastroenterologist",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T14:22:41.845Z"
-  },
-  "cleaveland-clinic-infection-preventionist,-full-time-days,-wilson-county-lebanon": {
-    "assigned_date": "2025-11-04T16:33:56.717Z",
-    "job_title": "Infection Preventionist, Full time Days, Wilson County",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T16:33:56.717Z"
-  },
-  "endeavor-health-medical-assistant---vascular-surgery-nch-880-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-04T16:50:15.683Z",
-    "job_title": "Medical Assistant - Vascular Surgery",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T16:50:15.683Z"
-  },
-  "endeavor-health-medical-assistant---urology-multiple-cities": {
-    "assigned_date": "2025-11-04T16:50:15.683Z",
-    "job_title": "Medical Assistant - Urology",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T16:50:15.683Z"
-  },
-  "endeavor-health-patient-access-representative-evh-evanston-hospital": {
-    "assigned_date": "2025-11-04T16:50:15.683Z",
-    "job_title": "Patient Access Representative",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T16:50:15.683Z"
-  },
-  "endeavor-health-nurse-practioner-edo-naperville-1331-w-75th-street": {
-    "assigned_date": "2025-11-04T16:50:15.683Z",
-    "job_title": "Nurse Practioner",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T16:50:15.683Z"
-  },
-  "endeavor-health-medical-assistant/patient-support-assistant-(ma/psa)---909-davis---evanston-nso-evanston": {
-    "assigned_date": "2025-11-04T16:50:15.683Z",
-    "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - 909 Davis - Evanston",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T16:50:15.683Z"
-  },
-  "endeavor-health-public-safety-officer-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-04T17:24:42.458Z",
-    "job_title": "Public Safety Officer",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T17:24:42.458Z"
-  },
-  "cleaveland-clinic-medical-receptionist---nicu-(nights)-nashville": {
-    "assigned_date": "2025-11-04T17:47:40.533Z",
-    "job_title": "Medical Receptionist - NICU (Nights)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T17:47:40.533Z"
-  },
-  "endeavor-health-public-safety-officer--swedish-hospital---nights-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-04T18:11:02.071Z",
-    "job_title": "Public Safety Officer- Swedish Hospital - Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T18:11:02.071Z"
-  },
-  "endeavor-health-patient-service-representative-i---cancer-center---days-emh-cancer-center-elmhurst": {
-    "assigned_date": "2025-11-04T18:11:02.071Z",
-    "job_title": "Patient Service Representative I - Cancer Center - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T18:11:02.071Z"
-  },
-  "endeavor-health-medical-assistant/patient-support-associate-(ma/psa)---urology,-highland-park-(full-time)-multiple-cities": {
-    "assigned_date": "2025-11-04T18:11:02.071Z",
-    "job_title": "Medical Assistant/Patient Support Associate (MA/PSA) - Urology, Highland Park (Full Time)",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T18:11:02.071Z"
-  },
-  "endeavor-health-ct-technologist-nch-880-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-04T18:25:55.829Z",
-    "job_title": "CT Technologist",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T18:25:55.829Z"
-  },
-  "cleaveland-clinic-pathologist-assistant-certified---up-to-$15,000-sign-on-bonus-nashville": {
-    "assigned_date": "2025-11-04T18:44:15.434Z",
-    "job_title": "Pathologist Assistant Certified - Up to $15,000 sign on bonus",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T18:44:15.434Z"
-  },
-  "cleaveland-clinic-medical-assistant---cardiology-clinic-nashville": {
-    "assigned_date": "2025-11-04T18:44:15.435Z",
-    "job_title": "Medical Assistant - Cardiology Clinic",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T18:44:15.435Z"
-  },
-  "cleaveland-clinic-clinical-pharmacist---kidney-and-pancreas-transplant---$15,000-sign-on-bonus-+-relocation-assistance-nashville": {
-    "assigned_date": "2025-11-04T18:44:15.435Z",
-    "job_title": "Clinical Pharmacist - Kidney and Pancreas Transplant - $15,000 Sign on Bonus + Relocation Assistance",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T18:44:15.435Z"
-  },
-  "cleaveland-clinic-clinical-education-facilitator,-prn-days---monroe-carell-jr.-children's-hospital-at-vanderbilt-nashville": {
-    "assigned_date": "2025-11-04T18:44:15.435Z",
-    "job_title": "Clinical Education Facilitator, PRN Days - Monroe Carell Jr. Children's Hospital at Vanderbilt",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T18:44:15.435Z"
-  },
-  "endeavor-health-mri-technologist-ii---per-diem-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-04T18:44:15.435Z",
-    "job_title": "MRI Technologist II - Per Diem",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T18:44:15.435Z"
-  },
-  "endeavor-health-ct-technologist-ii---per-diem-nch-880-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-04T18:44:15.435Z",
-    "job_title": "CT Technologist II - Per Diem",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T18:44:15.435Z"
-  },
-  "endeavor-health-nuclear-medicine-technologist-edh-in-hospital-naperville": {
-    "assigned_date": "2025-11-04T18:44:15.435Z",
-    "job_title": "Nuclear Medicine Technologist",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T18:44:15.435Z"
-  },
-  "endeavor-health-cytotechnologist-multiple-cities": {
-    "assigned_date": "2025-11-04T19:07:44.210Z",
-    "job_title": "CYTOTECHNOLOGIST",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T19:07:44.210Z"
-  },
-  "endeavor-health-radiologic-technologist-ii---per-diem-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-04T19:20:28.181Z",
-    "job_title": "Radiologic Technologist II - Per Diem",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T19:20:28.181Z"
-  },
-  "endeavor-health-radiologic-technologist-ii---nights-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-04T19:20:28.181Z",
-    "job_title": "Radiologic Technologist II - Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T19:20:28.181Z"
-  },
-  "endeavor-health-patient-access-representative-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-04T19:30:25.239Z",
-    "job_title": "Patient Access Representative",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T19:30:25.239Z"
-  },
-  "endeavor-health-rn---critical-care-unit---days-and-nights-gbh-glenbrook-hospital-glenview": {
-    "assigned_date": "2025-11-04T19:55:59.734Z",
-    "job_title": "RN - Critical Care Unit - Days and Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T19:55:59.734Z"
-  },
-  "endeavor-health-physical-therapist-edo-yorkville-76-w-countryside-parkway": {
-    "assigned_date": "2025-11-04T19:55:59.734Z",
-    "job_title": "Physical Therapist",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T19:55:59.734Z"
-  },
-  "cleaveland-clinic-rep-family/guest-services-nashville": {
-    "assigned_date": "2025-11-04T20:09:18.549Z",
-    "job_title": "Rep Family/Guest Services",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T20:09:18.549Z"
-  },
-  "cleaveland-clinic-medical-assistant-float-nashville": {
-    "assigned_date": "2025-11-04T20:40:14.446Z",
-    "job_title": "Medical Assistant Float",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T20:40:14.446Z"
-  },
-  "cleaveland-clinic-nurse-practitioner/physician-assistant---ortho-(inpatient)-nashville": {
-    "assigned_date": "2025-11-04T20:40:14.446Z",
-    "job_title": "Nurse Practitioner/Physician Assistant - Ortho (Inpatient)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T20:40:14.446Z"
-  },
-  "endeavor-health-medical-technologist-(mls)---core-lab-evh-evanston-hospital": {
-    "assigned_date": "2025-11-04T20:58:52.056Z",
-    "job_title": "Medical Technologist (MLS) - Core Lab",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T20:58:52.056Z"
-  },
-  "cleaveland-clinic-care-partner,-acute-surgical-care-stepdown-unit---full-time-nashville": {
-    "assigned_date": "2025-11-04T21:23:51.058Z",
-    "job_title": "Care Partner, Acute Surgical Care Stepdown Unit - Full-Time",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T21:23:51.058Z"
-  },
-  "endeavor-health-physical-therapy-assistant-edh-in-hospital-naperville": {
-    "assigned_date": "2025-11-04T21:23:51.058Z",
-    "job_title": "Physical Therapy Assistant",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T21:23:51.058Z"
-  },
-  "endeavor-health-physician--obgyn,-naperville-edo-naperville": {
-    "assigned_date": "2025-11-04T21:45:53.427Z",
-    "job_title": "Physician -OBGYN, Naperville",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T21:45:53.427Z"
-  },
-  "cleaveland-clinic-registered-nurse---heart-failure-clinic-nashville": {
-    "assigned_date": "2025-11-04T22:21:12.222Z",
-    "job_title": "Registered Nurse - Heart Failure Clinic",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T22:21:12.222Z"
-  },
-  "endeavor-health-registered-nurse---nicu---nights--per-diem-edh-in-hospital-naperville": {
-    "assigned_date": "2025-11-04T22:34:12.890Z",
-    "job_title": "Registered Nurse - NICU - Nights -Per Diem",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T22:34:12.890Z"
-  },
-  "cleaveland-clinic-infection-preventionist-nashville": {
-    "assigned_date": "2025-11-04T22:47:10.817Z",
-    "job_title": "Infection Preventionist",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T22:47:10.817Z"
-  },
-  "cleaveland-clinic-heart-station-tech-nashville": {
-    "assigned_date": "2025-11-04T22:47:10.817Z",
-    "job_title": "Heart Station Tech",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-04T22:47:10.817Z"
-  },
-  "endeavor-health-medical-office-receptionist---medical-specialties-nch-880-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-04T22:56:11.331Z",
-    "job_title": "Medical Office Receptionist - Medical Specialties",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T22:56:11.331Z"
-  },
-  "endeavor-health-application-analyst-ii-(willow-ambulatory-analyst)-nso-corporate-office-skokie": {
-    "assigned_date": "2025-11-04T23:21:18.261Z",
-    "job_title": "Application Analyst II (Willow Ambulatory Analyst)",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-04T23:21:18.261Z"
-  },
-  "endeavor-health-patient-service-rep-&-medical-assistant---primary-care-edo-bolingbrook-130-n-weber-road": {
-    "assigned_date": "2025-11-05T00:54:03.624Z",
-    "job_title": "Patient Service Rep & Medical Assistant - Primary Care",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-05T00:54:03.624Z"
-  },
-  "cleaveland-clinic-associate-data-scientist---epidemiology-multiple-cities": {
-    "assigned_date": "2025-11-05T06:11:39.665Z",
-    "job_title": "Associate Data Scientist - Epidemiology",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-05T06:11:39.665Z"
-  },
-  "cleaveland-clinic-care-partner-trainee---neuro/epilepsy-(nights)-nashville": {
-    "assigned_date": "2025-11-05T06:11:39.666Z",
-    "job_title": "Care Partner Trainee - Neuro/Epilepsy (Nights)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-05T06:11:39.666Z"
-  },
-  "cleaveland-clinic-financial-counselor-1-nashville": {
-    "assigned_date": "2025-11-05T06:11:39.666Z",
-    "job_title": "Financial Counselor-1",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-05T06:11:39.666Z"
-  },
-  "cleaveland-clinic-medical-assistant---walk-in-clinic---spring-hill-spring-hill": {
-    "assigned_date": "2025-11-05T06:11:39.666Z",
-    "job_title": "Medical Assistant - Walk-In Clinic - Spring Hill",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-05T06:11:39.666Z"
-  },
-  "cleaveland-clinic-medical-assistant-prn---walk-in-clinic---spring-hill-spring-hill": {
-    "assigned_date": "2025-11-05T06:11:39.666Z",
-    "job_title": "Medical Assistant PRN - Walk-In Clinic - Spring Hill",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-05T06:11:39.666Z"
-  },
-  "cleaveland-clinic-nurse-practitioner-(np)-or-physician-assistant-(pa)---functional-medicine-inflammatory-bowel-disease-(ibd)-clinic-nashville": {
-    "assigned_date": "2025-11-05T06:11:39.666Z",
-    "job_title": "Nurse Practitioner (NP) or Physician Assistant (PA) - Functional Medicine Inflammatory Bowel Disease (IBD) Clinic",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-05T06:11:39.666Z"
-  },
-  "cleaveland-clinic-physician-assistant-(pa)---colon-and-rectal-surgery-nashville": {
-    "assigned_date": "2025-11-05T06:11:39.666Z",
-    "job_title": "Physician Assistant (PA) - Colon and Rectal Surgery",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-05T06:11:39.666Z"
-  },
-  "cleaveland-clinic-registered-nurse-2-hc-nashville": {
-    "assigned_date": "2025-11-05T06:11:39.666Z",
-    "job_title": "Registered Nurse 2 HC",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-05T06:11:39.666Z"
-  },
-  "cleaveland-clinic-scheduler-nashville": {
-    "assigned_date": "2025-11-05T06:11:39.666Z",
-    "job_title": "Scheduler",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-05T06:11:39.666Z"
-  },
-  "cleaveland-clinic-surgical-physician-assistant,-first-assist---surgical-oncology-&-endocrine-surgery-nashville": {
-    "assigned_date": "2025-11-05T06:11:39.666Z",
-    "job_title": "Surgical Physician Assistant, First Assist - Surgical Oncology & Endocrine Surgery",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-05T06:11:39.666Z"
-  },
-  "cleaveland-clinic-vip-prn-registered-nurse-clarksville": {
-    "assigned_date": "2025-11-05T06:11:39.666Z",
-    "job_title": "VIP PRN Registered Nurse",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-05T06:11:39.666Z"
-  },
   "cleaveland-clinic-lab-associate-2-clinical-nashville": {
     "assigned_date": "2025-11-05T13:52:01.534Z",
     "job_title": "Lab Associate 2 Clinical",
@@ -11092,5 +10780,41 @@
     "job_title": "Care Partner - 7RW Acute Care of the Elderly - FT Days 06:45 - 19:15",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-03T12:35:26.993Z"
+  },
+  "cleaveland-clinic-clinical-pharmacist-prn---specialty-pharmacy-nashville": {
+    "assigned_date": "2026-01-04T06:15:16.283Z",
+    "job_title": "Clinical Pharmacist PRN - Specialty Pharmacy",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-04T06:15:16.283Z"
+  },
+  "cleaveland-clinic-medical-assistant---neurosurgery-clinic-nashville": {
+    "assigned_date": "2026-01-04T06:15:16.283Z",
+    "job_title": "Medical Assistant - Neurosurgery Clinic",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-04T06:15:16.283Z"
+  },
+  "cleaveland-clinic-medical-assistant---primary-care-clinic---brentwood-brentwood": {
+    "assigned_date": "2026-01-04T06:15:16.283Z",
+    "job_title": "Medical Assistant - Primary Care Clinic - Brentwood",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-04T06:15:16.283Z"
+  },
+  "cleaveland-clinic-medical-assistant-care-team-1---ear,-nose,-and-throat-clinic-nashville": {
+    "assigned_date": "2026-01-04T06:15:16.283Z",
+    "job_title": "Medical Assistant Care Team 1 - Ear, Nose, and Throat Clinic",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-04T06:15:16.283Z"
+  },
+  "cleaveland-clinic-phone-triage-rn---pediatric-gi-clinic-nashville": {
+    "assigned_date": "2026-01-04T06:15:16.283Z",
+    "job_title": "Phone Triage RN - Pediatric GI Clinic",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-04T06:15:16.283Z"
+  },
+  "cleaveland-clinic-registered-nurse-prn---plastic-surgery-&-cosmetics-clinic-nashville": {
+    "assigned_date": "2026-01-04T06:15:16.283Z",
+    "job_title": "Registered Nurse PRN - Plastic Surgery & Cosmetics Clinic",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-04T06:15:16.283Z"
   }
 }
