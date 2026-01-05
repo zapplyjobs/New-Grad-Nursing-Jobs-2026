@@ -1,16 +1,4 @@
 {
-  "endeavor-health-barista---food-services---days-edh-in-hospital-naperville": {
-    "assigned_date": "2025-11-06T19:22:02.149Z",
-    "job_title": "Barista - Food Services - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T19:22:02.149Z"
-  },
-  "endeavor-health-cook---food-services---days/evenings-loh-naperville-in-hospital": {
-    "assigned_date": "2025-11-06T19:22:02.149Z",
-    "job_title": "Cook - Food Services - Days/Evenings",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T19:22:02.149Z"
-  },
   "endeavor-health-certified-sterile-processing-tech---days-nch-800-w-central-rd-arlington-heights": {
     "assigned_date": "2025-11-06T19:40:35.989Z",
     "job_title": "Certified Sterile Processing Tech - Days",
@@ -10384,5 +10372,11 @@
     "job_title": "Endoscopy Tech - Days",
     "company": "Endeavor Health",
     "first_seen": "2026-01-05T19:09:39.593Z"
+  },
+  "endeavor-health-ultrasound-technologist-evh-evanston-hospital": {
+    "assigned_date": "2026-01-05T19:23:02.800Z",
+    "job_title": "Ultrasound Technologist",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-05T19:23:02.800Z"
   }
 }
