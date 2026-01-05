@@ -1,10 +1,4 @@
 {
-  "endeavor-health-patient-care-technician---5e-neuro/stroke/tele---days-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-06T23:50:15.396Z",
-    "job_title": "Patient Care Technician - 5E Neuro/Stroke/Tele - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T23:50:15.396Z"
-  },
   "endeavor-health-medical-assistant---ent-edo-naperville-1948-three-far": {
     "assigned_date": "2025-11-07T00:36:18.769Z",
     "job_title": "Medical Assistant - ENT",
@@ -10360,5 +10354,11 @@
     "job_title": "Radiology Technologist",
     "company": "Endeavor Health",
     "first_seen": "2026-01-05T23:47:27.501Z"
+  },
+  "cleaveland-clinic-registered-nurse-discharge-planner,-peds-case-management,-prn-nashville": {
+    "assigned_date": "2026-01-05T23:55:57.979Z",
+    "job_title": "Registered Nurse Discharge Planner, Peds Case Management, PRN",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-05T23:55:57.979Z"
   }
 }
