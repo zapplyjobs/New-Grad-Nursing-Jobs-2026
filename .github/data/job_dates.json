@@ -10408,5 +10408,29 @@
     "job_title": "Patient Care Technician - Acute Rehab Unit - Nights",
     "company": "Endeavor Health",
     "first_seen": "2026-01-05T21:08:55.601Z"
+  },
+  "cleaveland-clinic-physical-therapist-assistant---home-health---full-time-nashville": {
+    "assigned_date": "2026-01-05T21:22:35.323Z",
+    "job_title": "Physical Therapist Assistant - Home Health - Full-Time",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-05T21:22:35.323Z"
+  },
+  "cleaveland-clinic-physical-therapist-assistant---home-health---prn-nashville": {
+    "assigned_date": "2026-01-05T21:22:35.324Z",
+    "job_title": "Physical Therapist Assistant - Home Health - PRN",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-05T21:22:35.324Z"
+  },
+  "endeavor-health-patient-care-technician---icu---nights-evh-evanston-hospital": {
+    "assigned_date": "2026-01-05T21:22:35.324Z",
+    "job_title": "Patient Care Technician - ICU - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-05T21:22:35.324Z"
+  },
+  "endeavor-health-rn---icu---days/nights-evh-evanston-hospital": {
+    "assigned_date": "2026-01-05T21:22:35.324Z",
+    "job_title": "RN - ICU - Days/Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-05T21:22:35.324Z"
   }
 }
