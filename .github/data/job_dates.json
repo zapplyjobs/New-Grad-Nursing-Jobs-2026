@@ -10384,5 +10384,29 @@
     "job_title": "Medical Assistant - Urology",
     "company": "Endeavor Health",
     "first_seen": "2026-01-05T20:52:41.444Z"
+  },
+  "cleaveland-clinic-occupational-therapist---home-health---prn---nashville": {
+    "assigned_date": "2026-01-05T21:08:55.600Z",
+    "job_title": "Occupational Therapist - Home Health - PRN -",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-05T21:08:55.600Z"
+  },
+  "cleaveland-clinic-care-partner---transplant/surgical-stepdown-ft-days-06:45---19:15-nashville": {
+    "assigned_date": "2026-01-05T21:08:55.601Z",
+    "job_title": "Care Partner - Transplant/Surgical Stepdown FT Days 06:45 - 19:15",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-05T21:08:55.601Z"
+  },
+  "cleaveland-clinic-administrative-assistant-(spiritual-care-and-clinical-pastoral-education-dept)---onsite-nashville": {
+    "assigned_date": "2026-01-05T21:08:55.601Z",
+    "job_title": "Administrative Assistant (Spiritual Care and Clinical Pastoral Education Dept) - ONSITE",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-05T21:08:55.601Z"
+  },
+  "endeavor-health-patient-care-technician---acute-rehab-unit---nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2026-01-05T21:08:55.601Z",
+    "job_title": "Patient Care Technician - Acute Rehab Unit - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-05T21:08:55.601Z"
   }
 }
