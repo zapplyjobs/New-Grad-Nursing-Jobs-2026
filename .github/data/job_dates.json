@@ -1,52 +1,4 @@
 {
-  "endeavor-health-clinical-trial-management-system-administrator-nso-1001-university-place-evanston": {
-    "assigned_date": "2025-11-06T16:34:07.347Z",
-    "job_title": "Clinical Trial Management System Administrator",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T16:34:07.347Z"
-  },
-  "cleaveland-clinic-bilingual-research-assistant-ii-nashville": {
-    "assigned_date": "2025-11-06T17:02:16.561Z",
-    "job_title": "Bilingual Research Assistant II",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-06T17:02:16.561Z"
-  },
-  "endeavor-health-telemetry-technician---ctu-2&8---nights-edh-in-hospital-naperville": {
-    "assigned_date": "2025-11-06T18:58:17.400Z",
-    "job_title": "Telemetry Technician - CTU 2&8 - Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T18:58:17.400Z"
-  },
-  "endeavor-health-financial-counselor-patient-financial-services-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-06T18:58:17.400Z",
-    "job_title": "Financial Counselor-Patient Financial Services",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T18:58:17.400Z"
-  },
-  "endeavor-health-pct---ctu-2&8---nights-edh-in-hospital-naperville": {
-    "assigned_date": "2025-11-06T18:58:17.400Z",
-    "job_title": "PCT - CTU 2&8 - Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T18:58:17.400Z"
-  },
-  "endeavor-health-clinical-therapist-mental-health-i-per-diem--loh-eating-disorders-loh-naperville-in-hospital": {
-    "assigned_date": "2025-11-06T18:58:17.400Z",
-    "job_title": "Clinical Therapist Mental Health I Per Diem--LOH Eating Disorders",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T18:58:17.400Z"
-  },
-  "endeavor-health-food-service-assistant-ii---food-and-nutrition-services---per-diem-edh-in-hospital-naperville": {
-    "assigned_date": "2025-11-06T19:09:27.341Z",
-    "job_title": "Food Service Assistant II - Food and Nutrition Services - Per Diem",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T19:09:27.341Z"
-  },
-  "endeavor-health-food-service-assistant-ii---food-and-nutrition-services---days-edh-in-hospital-naperville": {
-    "assigned_date": "2025-11-06T19:09:27.341Z",
-    "job_title": "Food Service Assistant II - Food and Nutrition Services - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T19:09:27.341Z"
-  },
   "endeavor-health-barista---food-services---days-edh-in-hospital-naperville": {
     "assigned_date": "2025-11-06T19:22:02.149Z",
     "job_title": "Barista - Food Services - Days",
@@ -10414,5 +10366,23 @@
     "job_title": "RN, Registered Nurse 2 - Surgical Clinic, Main Campus",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-05T16:34:03.308Z"
+  },
+  "endeavor-health-patient-support-assistant---behavioral-health/deerfield---day-shift-multiple-cities": {
+    "assigned_date": "2026-01-05T19:09:39.593Z",
+    "job_title": "Patient Support Assistant - Behavioral Health/Deerfield - Day Shift",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-05T19:09:39.593Z"
+  },
+  "endeavor-health-surgical-oncology-app-emh-center-for-health-building-elmhurst": {
+    "assigned_date": "2026-01-05T19:09:39.593Z",
+    "job_title": "Surgical Oncology APP",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-05T19:09:39.593Z"
+  },
+  "endeavor-health-endoscopy-tech---days-edh-in-hospital-naperville": {
+    "assigned_date": "2026-01-05T19:09:39.593Z",
+    "job_title": "Endoscopy Tech - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-05T19:09:39.593Z"
   }
 }
