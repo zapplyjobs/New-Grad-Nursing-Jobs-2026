@@ -1,40 +1,4 @@
 {
-  "cleaveland-clinic-central-sterile-process-tech-1--2nd-shift--vccoc--$5,000-sign-on-bonus-nashville": {
-    "assigned_date": "2025-11-06T15:26:11.491Z",
-    "job_title": "Central Sterile Process Tech 1- 2nd Shift- VCCOC- $5,000 Sign-On Bonus",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-06T15:26:11.491Z"
-  },
-  "cleaveland-clinic-care-partner---pediatric-acute-care-(nights)-nashville": {
-    "assigned_date": "2025-11-06T15:26:11.491Z",
-    "job_title": "Care Partner - Pediatric Acute Care (Nights)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-06T15:26:11.491Z"
-  },
-  "cleaveland-clinic-home-health-rn,-registered-nurse---williamson-&-rutherford-county-nashville": {
-    "assigned_date": "2025-11-06T15:26:11.491Z",
-    "job_title": "Home Health RN, Registered Nurse - Williamson & Rutherford County",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-06T15:26:11.491Z"
-  },
-  "endeavor-health-medical-assistant,-primary-care-nco-1051-w-rand-rd-arlington-heights": {
-    "assigned_date": "2025-11-06T15:51:21.620Z",
-    "job_title": "Medical Assistant, Primary Care",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T15:51:21.620Z"
-  },
-  "endeavor-health-patient-care-technician--per-diem-level-1---acute-rehab-unit---nights-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-06T15:51:21.620Z",
-    "job_title": "Patient Care Technician- Per Diem Level 1 - Acute Rehab Unit - Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T15:51:21.620Z"
-  },
-  "endeavor-health-public-safety-officer,-swedish-hospital,-days-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-06T15:51:21.620Z",
-    "job_title": "Public Safety Officer, Swedish Hospital, Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T15:51:21.620Z"
-  },
   "endeavor-health-clinical-trial-management-system-administrator-nso-1001-university-place-evanston": {
     "assigned_date": "2025-11-06T16:34:07.347Z",
     "job_title": "Clinical Trial Management System Administrator",
@@ -10438,5 +10402,11 @@
     "job_title": "Registered Nurse 2 CC - Pediatric ICU- Nights",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-05T15:13:35.919Z"
+  },
+  "endeavor-health-critical-care-pediatrician-edh-in-hospital-naperville": {
+    "assigned_date": "2026-01-05T15:59:51.629Z",
+    "job_title": "Critical Care Pediatrician",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-05T15:59:51.629Z"
   }
 }
