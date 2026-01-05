@@ -1,22 +1,4 @@
 {
-  "endeavor-health-certified-sterile-processing-tech---days-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-06T19:40:35.989Z",
-    "job_title": "Certified Sterile Processing Tech - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T19:40:35.989Z"
-  },
-  "endeavor-health-medical-assistant---neurology-edh-mob-2-naperville": {
-    "assigned_date": "2025-11-06T19:40:35.989Z",
-    "job_title": "Medical Assistant - Neurology",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-06T19:40:35.989Z"
-  },
-  "cleaveland-clinic-care-partner---cardiovascular-icu-(nights)-nashville": {
-    "assigned_date": "2025-11-06T20:23:20.152Z",
-    "job_title": "Care Partner - Cardiovascular ICU (Nights)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-06T20:23:20.152Z"
-  },
   "endeavor-health-patient-care-technician---mother-baby---days---per-diem-emh-in-hospital-elmhurst": {
     "assigned_date": "2025-11-06T21:23:14.360Z",
     "job_title": "Patient Care Technician - Mother Baby - Days - Per Diem",
@@ -10378,5 +10360,17 @@
     "job_title": "Ultrasound Technologist",
     "company": "Endeavor Health",
     "first_seen": "2026-01-05T19:23:02.800Z"
+  },
+  "endeavor-health-rn---cardiovascular-unit---night-shift-emh-in-hospital-elmhurst": {
+    "assigned_date": "2026-01-05T20:41:42.329Z",
+    "job_title": "RN - Cardiovascular Unit - Night Shift",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-05T20:41:42.329Z"
+  },
+  "endeavor-health-patient-care-technician,-cardiac-medical-telemetry,-nights-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2026-01-05T20:41:42.329Z",
+    "job_title": "Patient Care Technician, Cardiac Medical Telemetry, Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-05T20:41:42.329Z"
   }
 }
