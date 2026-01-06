@@ -1,22 +1,4 @@
 {
-  "endeavor-health-ct-technologist-iii---days/evenings-nch-880-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-07T18:25:23.996Z",
-    "job_title": "CT Technologist III - Days/Evenings",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T18:25:23.996Z"
-  },
-  "endeavor-health-radiologic-technologist-iii---days-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-07T18:25:23.996Z",
-    "job_title": "Radiologic Technologist III - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T18:25:23.996Z"
-  },
-  "endeavor-health-anesthesiologist-emh-in-hospital-elmhurst": {
-    "assigned_date": "2025-11-07T18:25:23.996Z",
-    "job_title": "Anesthesiologist",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T18:25:23.996Z"
-  },
   "endeavor-health-patient-service-representative-and-insurance-verifier---rehab-services-edo-naperville-1331-w-75th-street": {
     "assigned_date": "2025-11-07T18:55:44.148Z",
     "job_title": "Patient Service Representative and Insurance Verifier - Rehab Services",
@@ -10384,5 +10366,11 @@
     "job_title": "Medical Assistant – Pediatric Diabetes Clinic",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-06T18:11:56.080Z"
+  },
+  "cleaveland-clinic-registered-nurse--inpatient-virtual-support-(located-at-crystal-terrace),-icu-experience-preferred,-ft-(6p-330a)--vuh-nashville": {
+    "assigned_date": "2026-01-06T18:28:11.135Z",
+    "job_title": "Registered Nurse- Inpatient Virtual Support (Located at Crystal Terrace), ICU experience preferred, FT (6p-330a)- VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T18:28:11.135Z"
   }
 }
