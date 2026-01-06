@@ -1,40 +1,4 @@
 {
-  "endeavor-health-registered-nurse-surgical-stepdown-day/noc-evh-evanston-hospital": {
-    "assigned_date": "2025-11-07T21:28:50.743Z",
-    "job_title": "Registered Nurse-Surgical Stepdown-Day/NOC",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T21:28:50.743Z"
-  },
-  "cleaveland-clinic-er-medical-receptionist-prn-shelbyville": {
-    "assigned_date": "2025-11-07T21:46:23.431Z",
-    "job_title": "ER Medical Receptionist PRN",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-07T21:46:23.431Z"
-  },
-  "cleaveland-clinic-care-partner---emergency-services-(nights)-(wilson-county)-lebanon": {
-    "assigned_date": "2025-11-07T21:46:23.431Z",
-    "job_title": "Care Partner - Emergency Services (Nights) (Wilson County)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-07T21:46:23.431Z"
-  },
-  "cleaveland-clinic-care-partner---emergency-services-(prn)-(wilson-county)-lebanon": {
-    "assigned_date": "2025-11-07T21:46:23.431Z",
-    "job_title": "Care Partner - Emergency Services (PRN) (Wilson County)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-07T21:46:23.431Z"
-  },
-  "endeavor-health-environmental-services-technician-ii,-swedish-hospital,-evenings-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-07T21:46:23.431Z",
-    "job_title": "Environmental Services Technician II, Swedish Hospital, Evenings",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T21:46:23.431Z"
-  },
-  "endeavor-health-registered-nurse---radiation-oncology---days-multiple-cities": {
-    "assigned_date": "2025-11-07T21:46:23.431Z",
-    "job_title": "Registered Nurse - Radiation Oncology - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T21:46:23.431Z"
-  },
   "endeavor-health-administrative-assistant-skh-skokie-hospital": {
     "assigned_date": "2025-11-07T22:46:36.456Z",
     "job_title": "Administrative Assistant",
@@ -10270,5 +10234,11 @@
     "job_title": "Care Partner - 5RW Palliative Care Unit - FT Day Shift - 06:45 - 19:15",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-06T21:11:15.114Z"
+  },
+  "cleaveland-clinic-pediatric-speech-language-pathologist---home-care-–-prn-nashville": {
+    "assigned_date": "2026-01-06T21:49:30.417Z",
+    "job_title": "Pediatric Speech-Language Pathologist - Home Care – PRN",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T21:49:30.417Z"
   }
 }
