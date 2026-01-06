@@ -1,16 +1,4 @@
 {
-  "endeavor-health-medical-assistant---ent-edo-naperville-1948-three-far": {
-    "assigned_date": "2025-11-07T00:36:18.769Z",
-    "job_title": "Medical Assistant - ENT",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T00:36:18.769Z"
-  },
-  "endeavor-health-medical-assistant---endocrinology-nco-199-w-rand-rd-mount-prospect": {
-    "assigned_date": "2025-11-07T00:36:18.769Z",
-    "job_title": "Medical Assistant - Endocrinology",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T00:36:18.769Z"
-  },
   "cleaveland-clinic-radiology-tech-prn---interventional-pain-clinic-multiple-cities": {
     "assigned_date": "2025-11-07T06:12:57.973Z",
     "job_title": "Radiology Tech PRN - Interventional Pain Clinic",
@@ -10366,5 +10354,11 @@
     "job_title": "Research Analyst I - Neurosurgery",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-06T00:30:26.763Z"
+  },
+  "endeavor-health-medical-office-receptionist-nco-5999-new-wilke-rd-rolling-meadows": {
+    "assigned_date": "2026-01-06T02:28:41.686Z",
+    "job_title": "Medical Office Receptionist",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T02:28:41.686Z"
   }
 }
