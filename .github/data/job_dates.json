@@ -10366,5 +10366,17 @@
     "job_title": "Registered Nurse - GI Lab",
     "company": "Endeavor Health",
     "first_seen": "2026-01-06T17:41:42.597Z"
+  },
+  "cleaveland-clinic-registered-nurse,-icu,-nights,-tullahoma-tullahoma": {
+    "assigned_date": "2026-01-06T17:52:42.925Z",
+    "job_title": "Registered Nurse, ICU, Nights, Tullahoma",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T17:52:42.925Z"
+  },
+  "cleaveland-clinic-prn-pss-mount-juliet": {
+    "assigned_date": "2026-01-06T17:52:42.925Z",
+    "job_title": "PRN PSS",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T17:52:42.925Z"
   }
 }
