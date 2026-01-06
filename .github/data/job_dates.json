@@ -1,16 +1,4 @@
 {
-  "cleaveland-clinic-radiology-tech-prn---interventional-pain-clinic-multiple-cities": {
-    "assigned_date": "2025-11-07T06:12:57.973Z",
-    "job_title": "Radiology Tech PRN - Interventional Pain Clinic",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-07T06:12:57.973Z"
-  },
-  "endeavor-health-medical-office-receptionist-nch-880-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-07T11:23:04.735Z",
-    "job_title": "Medical Office Receptionist",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T11:23:04.735Z"
-  },
   "endeavor-health-phlebotomist-skh-skokie-hospital": {
     "assigned_date": "2025-11-07T14:35:07.759Z",
     "job_title": "Phlebotomist",
@@ -10360,5 +10348,11 @@
     "job_title": "Medical Office Receptionist",
     "company": "Endeavor Health",
     "first_seen": "2026-01-06T02:28:41.686Z"
+  },
+  "cleaveland-clinic-medical-assistant-care-team-1---pediatric-ear,-nose,-and-throat-clinic-nashville": {
+    "assigned_date": "2026-01-06T13:47:03.447Z",
+    "job_title": "Medical Assistant Care Team 1 - Pediatric Ear, Nose, and Throat Clinic",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T13:47:03.447Z"
   }
 }
