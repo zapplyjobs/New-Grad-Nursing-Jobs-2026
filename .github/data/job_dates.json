@@ -1,52 +1,4 @@
 {
-  "endeavor-health-patient-care-technician,-ambulatory-surgery-gbh-glenbrook-hospital-glenview": {
-    "assigned_date": "2025-11-07T20:46:15.073Z",
-    "job_title": "Patient Care Technician, Ambulatory Surgery",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T20:46:15.073Z"
-  },
-  "endeavor-health-pharmacy-technician-i---per-diem-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-07T20:46:15.073Z",
-    "job_title": "Pharmacy Technician I - Per Diem",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T20:46:15.073Z"
-  },
-  "endeavor-health-orthopedic-hand/upper-extremeity-surgeon-edo-plainfield-w-127th-street": {
-    "assigned_date": "2025-11-07T20:55:50.207Z",
-    "job_title": "Orthopedic Hand/Upper Extremeity Surgeon",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T20:55:50.207Z"
-  },
-  "endeavor-health-orthopedic-physician-nco-n-rand-rd-kildeer": {
-    "assigned_date": "2025-11-07T20:55:50.207Z",
-    "job_title": "Orthopedic Physician",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T20:55:50.207Z"
-  },
-  "endeavor-health-patient-care-technician-emergency-department-pm-skh-skokie-hospital": {
-    "assigned_date": "2025-11-07T20:55:50.207Z",
-    "job_title": "Patient Care Technician-Emergency Department-PM",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T20:55:50.207Z"
-  },
-  "endeavor-health-pediatric-orthopedic-physician-emh-in-hospital-elmhurst": {
-    "assigned_date": "2025-11-07T20:55:50.207Z",
-    "job_title": "Pediatric Orthopedic Physician",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T20:55:50.207Z"
-  },
-  "endeavor-health-gastroenterologist-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-07T20:55:50.207Z",
-    "job_title": "Gastroenterologist",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T20:55:50.207Z"
-  },
-  "endeavor-health-registered-nurse---highland-park-hospital-hph-highland-park-hospital": {
-    "assigned_date": "2025-11-07T21:07:03.602Z",
-    "job_title": "Registered Nurse - Highland Park Hospital",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T21:07:03.602Z"
-  },
   "endeavor-health-registered-nurse-surgical-stepdown-day/noc-evh-evanston-hospital": {
     "assigned_date": "2025-11-07T21:28:50.743Z",
     "job_title": "Registered Nurse-Surgical Stepdown-Day/NOC",
@@ -10312,5 +10264,11 @@
     "job_title": "Recovery Coach - Addiction Psychiatry",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-06T20:23:18.750Z"
+  },
+  "cleaveland-clinic-care-partner---5rw-palliative-care-unit---ft-day-shift---06:45---19:15-nashville": {
+    "assigned_date": "2026-01-06T21:11:15.114Z",
+    "job_title": "Care Partner - 5RW Palliative Care Unit - FT Day Shift - 06:45 - 19:15",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T21:11:15.114Z"
   }
 }
