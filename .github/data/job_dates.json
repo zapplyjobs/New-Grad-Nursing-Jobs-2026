@@ -1,10 +1,4 @@
 {
-  "endeavor-health-medical-assistant---immediate-care-edo-bolingbrook-130-n-weber-road": {
-    "assigned_date": "2025-11-07T17:38:20.999Z",
-    "job_title": "Medical Assistant - Immediate Care",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T17:38:20.999Z"
-  },
   "endeavor-health-ct-technologist-iii---days/evenings-nch-880-w-central-rd-arlington-heights": {
     "assigned_date": "2025-11-07T18:25:23.996Z",
     "job_title": "CT Technologist III - Days/Evenings",
@@ -10354,5 +10348,23 @@
     "job_title": "Billing Representative",
     "company": "Endeavor Health",
     "first_seen": "2026-01-06T17:25:09.891Z"
+  },
+  "cleaveland-clinic-registered-nurse,-medical-cvicu-(cardiac-progressive-care/step-down),-ft-nights--vuh-nashville": {
+    "assigned_date": "2026-01-06T17:41:42.596Z",
+    "job_title": "Registered Nurse, Medical CVICU (Cardiac Progressive Care/Step-Down), FT Nights- VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T17:41:42.596Z"
+  },
+  "cleaveland-clinic-registered-nurse,-medical-cvicu,-ft-nights--vuh-nashville": {
+    "assigned_date": "2026-01-06T17:41:42.596Z",
+    "job_title": "Registered Nurse, Medical CVICU, FT Nights- VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T17:41:42.596Z"
+  },
+  "endeavor-health-registered-nurse---gi-lab-multiple-cities": {
+    "assigned_date": "2026-01-06T17:41:42.597Z",
+    "job_title": "Registered Nurse - GI Lab",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T17:41:42.597Z"
   }
 }
