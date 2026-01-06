@@ -1,10 +1,4 @@
 {
-  "endeavor-health-rn---emergency-department---elmhurst-night-emh-in-hospital-elmhurst": {
-    "assigned_date": "2025-11-07T15:55:56.186Z",
-    "job_title": "RN - Emergency Department - Elmhurst-Night",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T15:55:56.186Z"
-  },
   "cleaveland-clinic-certified-anesthesia-technician,-cer.a.t.-–-vumc---$10k-signing-bonus-&-relocation-nashville": {
     "assigned_date": "2025-11-07T16:41:03.767Z",
     "job_title": "Certified Anesthesia Technician, Cer.A.T. – VUMC - $10k Signing Bonus & Relocation",
@@ -10378,5 +10372,11 @@
     "job_title": "Mental Health Technician PRN",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-06T15:48:56.342Z"
+  },
+  "endeavor-health-rn--infant-special-care-unit---nights-evh-evanston-hospital": {
+    "assigned_date": "2026-01-06T16:13:18.702Z",
+    "job_title": "RN -Infant Special Care Unit - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T16:13:18.702Z"
   }
 }
