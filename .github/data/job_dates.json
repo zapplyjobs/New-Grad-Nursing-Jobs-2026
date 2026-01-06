@@ -1,22 +1,4 @@
 {
-  "endeavor-health-administrative-assistant-skh-skokie-hospital": {
-    "assigned_date": "2025-11-07T22:46:36.456Z",
-    "job_title": "Administrative Assistant",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T22:46:36.456Z"
-  },
-  "endeavor-health-medical-assistant---neuroscience-multiple-cities": {
-    "assigned_date": "2025-11-07T22:46:36.456Z",
-    "job_title": "Medical Assistant - Neuroscience",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T22:46:36.456Z"
-  },
-  "endeavor-health-patient-care-technician-naperville-emergency-department---night-shift-edh-in-hospital-naperville": {
-    "assigned_date": "2025-11-07T22:46:36.456Z",
-    "job_title": "Patient Care Technician-Naperville Emergency Department - Night Shift",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T22:46:36.456Z"
-  },
   "endeavor-health-physical-therapist-i---outpatient---days/evenings-multiple-cities": {
     "assigned_date": "2025-11-07T23:20:42.057Z",
     "job_title": "Physical Therapist I - Outpatient - Days/Evenings",
@@ -10312,5 +10294,11 @@
     "job_title": "Medical Assistant - Heart and Vascular Institute",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-06T22:41:15.618Z"
+  },
+  "cleaveland-clinic-lifeflight-ground---paramedic-2,-part-time-(nashville)-nashville": {
+    "assigned_date": "2026-01-06T22:52:20.342Z",
+    "job_title": "LifeFlight Ground - Paramedic 2, Part-Time (Nashville)",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T22:52:20.342Z"
   }
 }
