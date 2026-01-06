@@ -1,46 +1,4 @@
 {
-  "cleaveland-clinic-certified-anesthesia-technician,-cer.a.t.-–-vumc---$10k-signing-bonus-&-relocation-nashville": {
-    "assigned_date": "2025-11-07T16:41:03.767Z",
-    "job_title": "Certified Anesthesia Technician, Cer.A.T. – VUMC - $10k Signing Bonus & Relocation",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-07T16:41:03.767Z"
-  },
-  "cleaveland-clinic-perioperative-support-tech---transporter-days-nashville": {
-    "assigned_date": "2025-11-07T16:41:03.767Z",
-    "job_title": "Perioperative Support Tech - Transporter Days",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-07T16:41:03.767Z"
-  },
-  "cleaveland-clinic-cashier-nashville": {
-    "assigned_date": "2025-11-07T16:52:06.962Z",
-    "job_title": "Cashier",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-07T16:52:06.962Z"
-  },
-  "endeavor-health-radiologist-physician--swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-07T17:00:16.623Z",
-    "job_title": "Radiologist-Physician-",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T17:00:16.623Z"
-  },
-  "endeavor-health-radiologist--physician-9-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-07T17:00:16.623Z",
-    "job_title": "Radiologist- Physician-9",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T17:00:16.623Z"
-  },
-  "endeavor-health-registered-nurse-plainfield-emergency-department-evening-edo-plainfield-w-127th-street": {
-    "assigned_date": "2025-11-07T17:00:16.623Z",
-    "job_title": "Registered Nurse-Plainfield Emergency Department-Evening",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T17:00:16.623Z"
-  },
-  "endeavor-health-registered-nurse---gi-lab-multiple-cities": {
-    "assigned_date": "2025-11-07T17:11:17.612Z",
-    "job_title": "Registered Nurse - GI Lab",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T17:11:17.612Z"
-  },
   "endeavor-health-medical-assistant---immediate-care-edo-bolingbrook-130-n-weber-road": {
     "assigned_date": "2025-11-07T17:38:20.999Z",
     "job_title": "Medical Assistant - Immediate Care",
@@ -10384,5 +10342,17 @@
     "job_title": "Phlebotomist",
     "company": "Endeavor Health",
     "first_seen": "2026-01-06T16:34:21.555Z"
+  },
+  "cleaveland-clinic-registered-nurse,-icu,-full-time-nights,-tullahoma-tullahoma": {
+    "assigned_date": "2026-01-06T17:25:09.890Z",
+    "job_title": "Registered Nurse, ICU, Full time Nights, Tullahoma",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T17:25:09.890Z"
+  },
+  "endeavor-health-billing-representative-o-corporate-center-warrenville": {
+    "assigned_date": "2026-01-06T17:25:09.891Z",
+    "job_title": "Billing Representative",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T17:25:09.891Z"
   }
 }
