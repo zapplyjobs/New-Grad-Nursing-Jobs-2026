@@ -1,10 +1,4 @@
 {
-  "endeavor-health-physical-therapist-i---outpatient---days/evenings-multiple-cities": {
-    "assigned_date": "2025-11-07T23:20:42.057Z",
-    "job_title": "Physical Therapist I - Outpatient - Days/Evenings",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T23:20:42.057Z"
-  },
   "cleaveland-clinic-care-partner---burn-center---ft-days-06:45---19:15-nashville": {
     "assigned_date": "2025-11-08T06:09:52.296Z",
     "job_title": "Care Partner - Burn Center - FT Days 06:45 - 19:15",
@@ -10306,5 +10300,11 @@
     "job_title": "Ophthalmic Photographer",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-06T23:08:42.628Z"
+  },
+  "cleaveland-clinic-radiology-technical-assistant-prn---vuh-nashville": {
+    "assigned_date": "2026-01-06T23:34:29.608Z",
+    "job_title": "Radiology Technical Assistant PRN - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T23:34:29.608Z"
   }
 }
