@@ -1,16 +1,4 @@
 {
-  "endeavor-health-phlebotomist-skh-skokie-hospital": {
-    "assigned_date": "2025-11-07T14:35:07.759Z",
-    "job_title": "Phlebotomist",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-07T14:35:07.759Z"
-  },
-  "cleaveland-clinic-care-partner---ortho/ortho-trauma-ft-days-06:45---19:15-nashville": {
-    "assigned_date": "2025-11-07T15:08:52.581Z",
-    "job_title": "Care Partner - Ortho/Ortho Trauma FT Days 06:45 - 19:15",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-07T15:08:52.581Z"
-  },
   "endeavor-health-rn---emergency-department---elmhurst-night-emh-in-hospital-elmhurst": {
     "assigned_date": "2025-11-07T15:55:56.186Z",
     "job_title": "RN - Emergency Department - Elmhurst-Night",
@@ -10372,5 +10360,17 @@
     "job_title": "Environmental Services Technician I - Linden Oaks Hospital",
     "company": "Endeavor Health",
     "first_seen": "2026-01-06T14:12:35.688Z"
+  },
+  "endeavor-health-phlebotomist---outpatient---days-edh-in-hospital-naperville": {
+    "assigned_date": "2026-01-06T15:12:11.174Z",
+    "job_title": "Phlebotomist - Outpatient - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T15:12:11.174Z"
+  },
+  "endeavor-health-patient-care-technician-oncology-nights-evh-evanston-hospital": {
+    "assigned_date": "2026-01-06T15:12:11.174Z",
+    "job_title": "Patient Care Technician-Oncology-Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T15:12:11.174Z"
   }
 }
