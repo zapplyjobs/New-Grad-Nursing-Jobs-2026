@@ -1,16 +1,4 @@
 {
-  "cleaveland-clinic-care-partner---medical/pulmonary-icu---full-time-days-06:45---19:15-nashville": {
-    "assigned_date": "2025-11-07T19:19:36.716Z",
-    "job_title": "Care Partner - Medical/Pulmonary ICU - Full Time Days 06:45 - 19:15",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-07T19:19:36.716Z"
-  },
-  "cleaveland-clinic-medical-assistant---interventional-pain-clinic---franklin-multiple-cities": {
-    "assigned_date": "2025-11-07T19:29:35.450Z",
-    "job_title": "Medical Assistant - Interventional Pain Clinic - Franklin",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-07T19:29:35.450Z"
-  },
   "endeavor-health-rn---ambulatory-care-unit-skh-skokie-hospital": {
     "assigned_date": "2025-11-07T19:46:51.481Z",
     "job_title": "RN - Ambulatory Care Unit",
@@ -10354,5 +10342,23 @@
     "job_title": "Physical Therapist - Pediatric Outpatient",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-06T19:09:45.661Z"
+  },
+  "endeavor-health-patient-access-representative-evh-evanston-hospital": {
+    "assigned_date": "2026-01-06T19:37:22.467Z",
+    "job_title": "Patient Access Representative",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T19:37:22.467Z"
+  },
+  "endeavor-health-physician---cardiology-hph-highland-park-hospital": {
+    "assigned_date": "2026-01-06T19:37:22.467Z",
+    "job_title": "Physician - Cardiology",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T19:37:22.467Z"
+  },
+  "endeavor-health-pharmacy-technician-i-retail-evh-evanston-hospital": {
+    "assigned_date": "2026-01-06T19:37:22.467Z",
+    "job_title": "Pharmacy Technician I-Retail",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T19:37:22.467Z"
   }
 }
