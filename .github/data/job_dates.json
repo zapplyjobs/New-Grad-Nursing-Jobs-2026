@@ -10246,5 +10246,65 @@
     "job_title": "Lab Associate 2 Clinical",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-06T22:10:24.038Z"
+  },
+  "cleaveland-clinic-physical-therapist---acute-care-–-prn-weekdays-nashville": {
+    "assigned_date": "2026-01-06T22:24:22.568Z",
+    "job_title": "Physical Therapist - Acute Care – PRN Weekdays",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T22:24:22.568Z"
+  },
+  "cleaveland-clinic-phlebotomist-franklin": {
+    "assigned_date": "2026-01-06T22:24:22.568Z",
+    "job_title": "Phlebotomist",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T22:24:22.568Z"
+  },
+  "cleaveland-clinic-histotechnologist-2-clinical-nashville": {
+    "assigned_date": "2026-01-06T22:24:22.568Z",
+    "job_title": "Histotechnologist 2 Clinical",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-06T22:24:22.568Z"
+  },
+  "endeavor-health-registered-nurse-emergency-department--nights-skh-skokie-hospital": {
+    "assigned_date": "2026-01-06T22:24:22.569Z",
+    "job_title": "Registered Nurse-Emergency Department- Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T22:24:22.569Z"
+  },
+  "endeavor-health-orthopedic-physician-nco-3060-salt-creek-ln-arlington-heights": {
+    "assigned_date": "2026-01-06T22:24:22.569Z",
+    "job_title": "Orthopedic Physician",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T22:24:22.569Z"
+  },
+  "endeavor-health-mental-health-clinical-therapist-i-days-loh-anxiety/outpatient-mill-street-loo-naperville-1335-n-mill-street": {
+    "assigned_date": "2026-01-06T22:24:22.569Z",
+    "job_title": "Mental Health Clinical Therapist I-Days-LOH Anxiety/Outpatient Mill Street",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T22:24:22.569Z"
+  },
+  "endeavor-health-ct-technologist-ii---nights-edo-plainfield-w-127th-street": {
+    "assigned_date": "2026-01-06T22:24:22.569Z",
+    "job_title": "CT Technologist II - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T22:24:22.569Z"
+  },
+  "endeavor-health-physical-therapist-resident-edo-naperville-2695-forgue": {
+    "assigned_date": "2026-01-06T22:24:22.569Z",
+    "job_title": "Physical Therapist Resident",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T22:24:22.569Z"
+  },
+  "endeavor-health-medical-assistant---ob/gyn-multiple-cities": {
+    "assigned_date": "2026-01-06T22:24:22.569Z",
+    "job_title": "Medical Assistant - OB/GYN",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T22:24:22.569Z"
+  },
+  "endeavor-health-physician--minimally-invasive-gynecological-surgeon-emh-center-for-health-building-elmhurst": {
+    "assigned_date": "2026-01-06T22:24:22.569Z",
+    "job_title": "Physician- Minimally Invasive Gynecological Surgeon",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-06T22:24:22.569Z"
   }
 }
