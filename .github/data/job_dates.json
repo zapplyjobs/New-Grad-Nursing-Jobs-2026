@@ -10294,5 +10294,35 @@
     "job_title": "Care Partner - Cardiovascular Progressive Care (Nights)",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-07T16:34:39.283Z"
+  },
+  "cleaveland-clinic-physical-therapist---nicu-nashville": {
+    "assigned_date": "2026-01-07T16:53:41.159Z",
+    "job_title": "Physical Therapist - NICU",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-07T16:53:41.159Z"
+  },
+  "endeavor-health-barista---starbucks---rotating-emh-in-hospital-elmhurst": {
+    "assigned_date": "2026-01-07T16:53:41.160Z",
+    "job_title": "Barista - Starbucks - Rotating",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-07T16:53:41.160Z"
+  },
+  "endeavor-health-surgical-technologist-certified---days-edh-in-hospital-naperville": {
+    "assigned_date": "2026-01-07T16:53:41.160Z",
+    "job_title": "Surgical Technologist Certified - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-07T16:53:41.160Z"
+  },
+  "endeavor-health-neuroimmunology-(multiple-sclerosis)-physician-nco-1051-w-rand-rd-arlington-heights": {
+    "assigned_date": "2026-01-07T16:53:41.160Z",
+    "job_title": "Neuroimmunology (Multiple Sclerosis) Physician",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-07T16:53:41.160Z"
+  },
+  "endeavor-health-physician--otolaryngologist--naperville-2-edo-naperville-1948-three-far": {
+    "assigned_date": "2026-01-07T16:53:41.160Z",
+    "job_title": "Physician- Otolaryngologist- Naperville-2",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-07T16:53:41.160Z"
   }
 }
