@@ -10408,5 +10408,29 @@
     "job_title": "Medical Assistant - OBGYN",
     "company": "Endeavor Health",
     "first_seen": "2026-01-07T21:22:10.331Z"
+  },
+  "endeavor-health-patient-transport---evenings-edh-in-hospital-naperville": {
+    "assigned_date": "2026-01-07T21:38:51.516Z",
+    "job_title": "Patient Transport - Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-07T21:38:51.516Z"
+  },
+  "endeavor-health-patient-transporter---per-diem---days-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2026-01-07T21:38:51.516Z",
+    "job_title": "Patient Transporter - Per Diem - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-07T21:38:51.516Z"
+  },
+  "endeavor-health-patient-transport---per-diem---evenings-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2026-01-07T21:38:51.516Z",
+    "job_title": "Patient Transport - Per Diem - Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-07T21:38:51.516Z"
+  },
+  "endeavor-health-medical-assistant---neurology-edh-mob-2-naperville": {
+    "assigned_date": "2026-01-07T21:38:51.516Z",
+    "job_title": "Medical Assistant - Neurology",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-07T21:38:51.516Z"
   }
 }
