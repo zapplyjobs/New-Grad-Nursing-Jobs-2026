@@ -10588,5 +10588,17 @@
     "job_title": "Medical Assistant - Family Practice",
     "company": "Endeavor Health",
     "first_seen": "2026-01-08T22:41:25.675Z"
+  },
+  "endeavor-health-rn---short-stay/obv---nights-swh-swedish-hospital-chicago": {
+    "assigned_date": "2026-01-08T23:55:42.461Z",
+    "job_title": "RN - Short Stay/OBV - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-08T23:55:42.461Z"
+  },
+  "endeavor-health-rn---short-stay/obv---days-swh-swedish-hospital-chicago": {
+    "assigned_date": "2026-01-08T23:55:42.461Z",
+    "job_title": "RN - Short Stay/OBV - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-08T23:55:42.461Z"
   }
 }
