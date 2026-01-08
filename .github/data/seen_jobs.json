@@ -1,6 +1,4 @@
 [
-  "google-chief-of-staff-new-york",
-  "google-child-safety-analyst-washington-d-c",
   "google-chipset-power-architect-mountain-view",
   "google-cloud-ai-developer-google-cloud-consulting-pso-austin",
   "google-cloud-close-and-reporting-lead-sunnyvale",
@@ -1196,6 +1194,7 @@
   "hshs-patient-care-assistant-pca-medical-surgical-med-surg-sheboygan",
   "hshs-patient-care-assistant-prn-med-surg-cardiac-decatur",
   "hshs-patient-care-assistant-springfield",
+  "hshs-patient-care-assistant-springfield-st-john-s-hospital",
   "hshs-patient-safety-assistant-prn-decatur",
   "hshs-patient-safety-assistant-shelbyville",
   "hshs-pca-effingham",
@@ -1321,6 +1320,7 @@
   "hshs-registered-nurse-rn-highland",
   "hshs-registered-nurse-rn-home-health-belleville",
   "hshs-registered-nurse-rn-hshs-home-care-decatur",
+  "hshs-registered-nurse-rn-hshs-home-care-effingham-st-anthony-s-hospital",
   "hshs-registered-nurse-rn-hshs-home-care-hospice-litchfield",
   "hshs-registered-nurse-rn-hshs-home-care-hospice-springfield",
   "hshs-registered-nurse-rn-hshs-home-care-litchfield",
