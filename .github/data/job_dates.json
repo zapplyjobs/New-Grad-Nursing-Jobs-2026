@@ -10558,5 +10558,23 @@
     "job_title": "Registered Nurse, Acute Surgical Care Stepdown, Days - VUH",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-08T22:10:35.415Z"
+  },
+  "cleaveland-clinic-registered-nurse,-acute-surgical-care-stepdown,-nights---vuh-nashville": {
+    "assigned_date": "2026-01-08T22:24:29.159Z",
+    "job_title": "Registered Nurse, Acute Surgical Care Stepdown, Nights - VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-08T22:24:29.159Z"
+  },
+  "endeavor-health-certified-surgical-tech---main-operating-room---neurosurgery---day-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2026-01-08T22:24:29.160Z",
+    "job_title": "Certified Surgical Tech - Main Operating Room - Neurosurgery - Day",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-08T22:24:29.160Z"
+  },
+  "endeavor-health-patient-care-tech---per-diem---night-shift-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2026-01-08T22:24:29.160Z",
+    "job_title": "Patient Care Tech - Per Diem - Night Shift",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-08T22:24:29.160Z"
   }
 }
