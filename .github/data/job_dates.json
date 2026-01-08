@@ -1,22 +1,4 @@
 {
-  "endeavor-health-patient-access-representative---emergency---days-emh-in-hospital-elmhurst": {
-    "assigned_date": "2025-11-09T02:22:25.787Z",
-    "job_title": "Patient Access Representative - Emergency - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-09T02:22:25.787Z"
-  },
-  "endeavor-health-patient-access-representative--bolingbrook,-il---(20-hours)-multiple-cities": {
-    "assigned_date": "2025-11-09T02:22:25.787Z",
-    "job_title": "Patient Access Representative- Bolingbrook, IL - (20 hours)",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-09T02:22:25.787Z"
-  },
-  "endeavor-health-patient-access-representative-north-naperville,-il-(part-time--20-hours)-multiple-cities": {
-    "assigned_date": "2025-11-09T02:22:25.787Z",
-    "job_title": "Patient Access Representative-North Naperville, IL (Part Time- 20 hours)",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-09T02:22:25.787Z"
-  },
   "cleaveland-clinic-care-partner-prn---adult-emergency-department-(mid-shift)-nashville": {
     "assigned_date": "2025-11-09T06:10:11.525Z",
     "job_title": "Care Partner PRN - Adult Emergency Department (Mid-Shift)",
@@ -10474,5 +10456,11 @@
     "job_title": "Surgical Technologist - Main Operating Room - Day",
     "company": "Endeavor Health",
     "first_seen": "2026-01-08T01:37:05.662Z"
+  },
+  "endeavor-health-clinical-imaging-assistant-hph-highland-park-hospital": {
+    "assigned_date": "2026-01-08T03:11:05.755Z",
+    "job_title": "Clinical Imaging Assistant",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-08T03:11:05.755Z"
   }
 }
