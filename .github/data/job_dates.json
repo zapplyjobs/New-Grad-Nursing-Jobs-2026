@@ -10408,5 +10408,23 @@
     "job_title": "Nurse Practitioner (NP) or Physician Assistant (PA)-GI General",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-08T14:02:22.991Z"
+  },
+  "cleaveland-clinic-prn-ct-technologist---outpatient---flexible-scheduling---oho-franklin": {
+    "assigned_date": "2026-01-08T14:52:33.846Z",
+    "job_title": "PRN CT Technologist - Outpatient - Flexible Scheduling - OHO",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-08T14:52:33.846Z"
+  },
+  "cleaveland-clinic-prn-ct-technologist---outpatient---flexible-scheduling-nashville": {
+    "assigned_date": "2026-01-08T14:52:33.846Z",
+    "job_title": "PRN CT Technologist - Outpatient - Flexible Scheduling",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-08T14:52:33.846Z"
+  },
+  "cleaveland-clinic-ct-technologist---outpatient---3-x12s-weekends---cool-springs-franklin": {
+    "assigned_date": "2026-01-08T14:52:33.846Z",
+    "job_title": "CT Technologist - Outpatient - 3 x12s Weekends - Cool Springs",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-08T14:52:33.846Z"
   }
 }
