@@ -1,10 +1,4 @@
 {
-  "endeavor-health-rn-patient-care-navigator---neuroscieces-nch-880-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-10T00:55:49.392Z",
-    "job_title": "RN Patient Care Navigator - Neuroscieces",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T00:55:49.392Z"
-  },
   "cleaveland-clinic-care-partner---9n-surgical-stepdown-unit---full-time-nashville": {
     "assigned_date": "2025-11-10T06:11:58.067Z",
     "job_title": "Care Partner - 9N Surgical Stepdown Unit - Full Time",
@@ -10600,5 +10594,11 @@
     "job_title": "RN - Short Stay/OBV - Days",
     "company": "Endeavor Health",
     "first_seen": "2026-01-08T23:55:42.461Z"
+  },
+  "cleaveland-clinic-medical-assistant-prn---endocrinology-eskind-diabetes-clinic-nashville": {
+    "assigned_date": "2026-01-09T02:29:07.084Z",
+    "job_title": "Medical Assistant PRN - Endocrinology Eskind Diabetes Clinic",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-09T02:29:07.084Z"
   }
 }
