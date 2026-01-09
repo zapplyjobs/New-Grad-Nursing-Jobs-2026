@@ -1,28 +1,4 @@
 {
-  "cleaveland-clinic-licensed-practical-nurse---asap-clinic---brentwood-nashville": {
-    "assigned_date": "2025-11-10T18:44:01.756Z",
-    "job_title": "Licensed Practical Nurse - ASAP Clinic - Brentwood",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T18:44:01.756Z"
-  },
-  "cleaveland-clinic-graduate-practical-nurse,-med/surg,-full-time-nights,-tullahoma-tullahoma": {
-    "assigned_date": "2025-11-10T18:56:19.988Z",
-    "job_title": "Graduate Practical Nurse, Med/Surg, Full time Nights, Tullahoma",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T18:56:19.988Z"
-  },
-  "cleaveland-clinic-new-grad-neonatal-nurse-practitioner---nicu-nashville": {
-    "assigned_date": "2025-11-10T18:56:19.988Z",
-    "job_title": "New Grad Neonatal Nurse Practitioner - NICU",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T18:56:19.988Z"
-  },
-  "cleaveland-clinic-licensed-practical-nurse---neuroscience-outpatient-clinic---oho-one-hundred-oaks": {
-    "assigned_date": "2025-11-10T19:07:34.029Z",
-    "job_title": "Licensed Practical Nurse - Neuroscience Outpatient Clinic - OHO",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T19:07:34.029Z"
-  },
   "cleaveland-clinic-clinic-rn,-registered-nurse---comprehensive-care-clinic-nashville": {
     "assigned_date": "2025-11-10T19:29:30.270Z",
     "job_title": "Clinic RN, Registered Nurse - Comprehensive Care Clinic",
@@ -10504,5 +10480,11 @@
     "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Medical Group Gastroenterology (GI)",
     "company": "Endeavor Health",
     "first_seen": "2026-01-09T18:34:44.948Z"
+  },
+  "cleaveland-clinic-care-partner-(neuro-icu---nights)-nashville": {
+    "assigned_date": "2026-01-09T19:09:19.025Z",
+    "job_title": "Care Partner (Neuro ICU - Nights)",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-09T19:09:19.025Z"
   }
 }
