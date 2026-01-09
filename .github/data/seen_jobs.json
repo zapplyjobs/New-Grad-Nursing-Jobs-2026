@@ -1,6 +1,4 @@
 [
-  "google-data-center-operations-manager-i-reston",
-  "google-data-center-operations-manager-moncks-corner",
   "google-data-center-operations-manager-reno",
   "google-data-center-technician-fort-wayne",
   "google-data-center-technician-houston",
@@ -1266,6 +1264,7 @@
   "hshs-registered-nurse-rn-emergency-room-highland",
   "hshs-registered-nurse-rn-emergency-room-prn-highland",
   "hshs-registered-nurse-rn-emergency-room-shelbyville",
+  "hshs-registered-nurse-rn-endo-gi-o-fallon",
   "hshs-registered-nurse-rn-endo-gi-prn-o-fallon",
   "hshs-registered-nurse-rn-endoscopy-gi-o-fallon",
   "hshs-registered-nurse-rn-foot-ankle-springfield",
@@ -4176,6 +4175,7 @@
   "intermountain-health-registered-nurse-surgical-trauma-intermountain-health-lutheran-hospital",
   "intermountain-health-registered-nurse-talent-share-float-pool-peaks-regional-office",
   "intermountain-health-registered-nurse-telemetry-good-samaritan-hospital",
+  "intermountain-health-registered-nurse-telemetry-saint-joseph-hospital",
   "intermountain-health-registered-nurse-telemetry-st-rys-regional-hospital",
   "intermountain-health-registered-nurse-thoracic-intensive-care-unit-intermountain-health-intermountain-medical-center",
   "intermountain-health-registered-nurse-tosh-orthopedic-clinic-tosh",
