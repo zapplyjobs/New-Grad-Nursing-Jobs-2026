@@ -10474,5 +10474,23 @@
     "job_title": "Patient Care Technician- Cardiac Medical Telemetry - Nights",
     "company": "Endeavor Health",
     "first_seen": "2026-01-09T16:45:28.637Z"
+  },
+  "endeavor-health-radiologic-technologist-nso-northfield": {
+    "assigned_date": "2026-01-09T17:33:33.132Z",
+    "job_title": "Radiologic Technologist",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T17:33:33.132Z"
+  },
+  "endeavor-health-medical-laboratory-scientist-(mls)---core-lab-evh-evanston-hospital": {
+    "assigned_date": "2026-01-09T17:33:33.132Z",
+    "job_title": "Medical Laboratory Scientist (MLS) - Core Lab",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T17:33:33.132Z"
+  },
+  "endeavor-health-rn---icu---days-and-nights-evh-evanston-hospital": {
+    "assigned_date": "2026-01-09T17:33:33.132Z",
+    "job_title": "RN - ICU - Days and Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T17:33:33.132Z"
   }
 }
