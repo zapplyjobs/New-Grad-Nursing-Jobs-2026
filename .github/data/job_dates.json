@@ -1,16 +1,4 @@
 {
-  "cleaveland-clinic-or-technical-assistant---monroe-carell-jr.-children's-hospital-at-vanderbilt-nashville": {
-    "assigned_date": "2025-11-10T23:22:24.726Z",
-    "job_title": "OR Technical Assistant - Monroe Carell Jr. Children's Hospital at Vanderbilt",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T23:22:24.726Z"
-  },
-  "cleaveland-clinic-patient-transport-nashville": {
-    "assigned_date": "2025-11-10T23:22:24.726Z",
-    "job_title": "Patient Transport",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T23:22:24.726Z"
-  },
   "cleaveland-clinic-audiologist-prn-nashville": {
     "assigned_date": "2025-11-11T06:12:18.657Z",
     "job_title": "Audiologist PRN",
@@ -10342,5 +10330,17 @@
     "job_title": "Patient Care Technician - AP4 Med/Surg/Tele - Nights",
     "company": "Endeavor Health",
     "first_seen": "2026-01-09T23:09:36.904Z"
+  },
+  "endeavor-health-registered-nurse-surgical-stepdown-day/pm-evh-evanston-hospital": {
+    "assigned_date": "2026-01-09T23:56:51.863Z",
+    "job_title": "Registered Nurse-Surgical Stepdown-Day/PM",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T23:56:51.863Z"
+  },
+  "endeavor-health-registered-nurse-oncology-nights-evh-evanston-hospital": {
+    "assigned_date": "2026-01-09T23:56:51.863Z",
+    "job_title": "Registered Nurse-Oncology-Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T23:56:51.863Z"
   }
 }
