@@ -1,64 +1,4 @@
 {
-  "cleaveland-clinic-histotechnician-2-clinical-nashville": {
-    "assigned_date": "2025-11-10T20:40:40.214Z",
-    "job_title": "Histotechnician 2 Clinical",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T20:40:40.214Z"
-  },
-  "endeavor-health-public-safety-officer,-evanston-hospital,-evenings-evh-evanston-hospital": {
-    "assigned_date": "2025-11-10T20:40:40.214Z",
-    "job_title": "Public Safety Officer, Evanston Hospital, Evenings",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T20:40:40.214Z"
-  },
-  "cleaveland-clinic-research-assistant-nashville": {
-    "assigned_date": "2025-11-10T21:00:13.992Z",
-    "job_title": "Research Assistant",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T21:00:13.992Z"
-  },
-  "cleaveland-clinic-medical-assistant---radiology-clinic-(30-hrs-per-week)-nashville": {
-    "assigned_date": "2025-11-10T21:11:28.241Z",
-    "job_title": "Medical Assistant - Radiology Clinic (30 Hrs Per Week)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T21:11:28.241Z"
-  },
-  "cleaveland-clinic-registered-nurse-medsurg-/-stepdown,-float-pool,-ft-nights-–-vuh-nashville": {
-    "assigned_date": "2025-11-10T21:37:21.032Z",
-    "job_title": "Registered Nurse MedSurg / Stepdown, Float Pool, FT Nights – VUH",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T21:37:21.032Z"
-  },
-  "cleaveland-clinic-surgical-tech-ii,-or--$20k-sign-on-bonus-nashville": {
-    "assigned_date": "2025-11-10T21:37:21.032Z",
-    "job_title": "Surgical Tech II, OR- $20k Sign-on Bonus",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T21:37:21.032Z"
-  },
-  "cleaveland-clinic-care-partner---5rw-palliative-care-unit-ft-day-shift-06:45---19:15-nashville": {
-    "assigned_date": "2025-11-10T21:46:07.557Z",
-    "job_title": "Care Partner - 5RW Palliative Care Unit FT Day Shift 06:45 - 19:15",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T21:46:07.557Z"
-  },
-  "cleaveland-clinic-care-partner---5rw-palliative-care-unit-ft-nights-18:45---07:15-nashville": {
-    "assigned_date": "2025-11-10T21:46:07.557Z",
-    "job_title": "Care Partner - 5RW Palliative Care Unit FT Nights 18:45 - 07:15",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T21:46:07.557Z"
-  },
-  "cleaveland-clinic-surgical-tech-i,-or---$20k-sign-on-bonus-nashville": {
-    "assigned_date": "2025-11-10T21:46:07.557Z",
-    "job_title": "Surgical Tech I, OR - $20k Sign-on Bonus",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T21:46:07.557Z"
-  },
-  "cleaveland-clinic-registered-nurse-critical-care-float-pool,-ft-nights-–-vuh-nashville": {
-    "assigned_date": "2025-11-10T21:46:07.557Z",
-    "job_title": "Registered Nurse Critical Care Float Pool, FT Nights – VUH",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T21:46:07.557Z"
-  },
   "cleaveland-clinic-sterile-processing-tech-1--tullahoma-regional-hospital---mid-shift-tullahoma": {
     "assigned_date": "2025-11-10T21:55:49.321Z",
     "job_title": "Sterile Processing Tech 1- Tullahoma Regional Hospital - Mid-Shift",
@@ -10462,5 +10402,11 @@
     "job_title": "Registered Nurse - Medical Group Cardiology-Cardiac Electrophysiology",
     "company": "Endeavor Health",
     "first_seen": "2026-01-09T20:24:03.777Z"
+  },
+  "cleaveland-clinic-medical-lab-technician-2-prn-nashville": {
+    "assigned_date": "2026-01-09T21:48:47.154Z",
+    "job_title": "Medical Lab Technician 2 PRN",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-09T21:48:47.154Z"
   }
 }
