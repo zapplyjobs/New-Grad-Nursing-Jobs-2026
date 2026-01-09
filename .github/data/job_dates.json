@@ -1,40 +1,4 @@
 {
-  "endeavor-health-anesthesiologist-(ns/sw)-evh-evanston-hospital": {
-    "assigned_date": "2025-11-10T15:47:37.915Z",
-    "job_title": "Anesthesiologist (NS/SW)",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T15:47:37.915Z"
-  },
-  "endeavor-health-anesthesiologist---northwest-community-hospital-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-10T15:47:37.915Z",
-    "job_title": "Anesthesiologist - Northwest Community Hospital",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T15:47:37.915Z"
-  },
-  "endeavor-health-hospitalist-app-multiple-cities": {
-    "assigned_date": "2025-11-10T16:23:59.698Z",
-    "job_title": "Hospitalist APP",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T16:23:59.698Z"
-  },
-  "endeavor-health-medication-technician---medical-group-nco-3040-salt-creek-ln-arlington-heights": {
-    "assigned_date": "2025-11-10T16:23:59.698Z",
-    "job_title": "Medication Technician - Medical Group",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T16:23:59.698Z"
-  },
-  "endeavor-health-mental-health-clinical-therapist---behavioral-health-php/iop---days-nch-901-w-kirchhoff-rd-arlington-heights": {
-    "assigned_date": "2025-11-10T16:43:56.935Z",
-    "job_title": "Mental Health Clinical Therapist - Behavioral Health PHP/IOP - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T16:43:56.935Z"
-  },
-  "endeavor-health-rn---icu-transition-program---nights-emh-in-hospital-elmhurst": {
-    "assigned_date": "2025-11-10T16:43:56.935Z",
-    "job_title": "RN - ICU Transition Program - Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T16:43:56.935Z"
-  },
   "cleaveland-clinic-certified-pharmacy-technician---pediatric-clinic---day-shift-nashville": {
     "assigned_date": "2025-11-10T17:37:49.513Z",
     "job_title": "Certified Pharmacy Technician - Pediatric Clinic - Day Shift",
@@ -10486,5 +10450,29 @@
     "job_title": "Registered Nurse- Neuro ICU- FT Nights- VUH",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-09T15:12:15.554Z"
+  },
+  "cleaveland-clinic-medical-receptionist,-acute-surgical-care-stepdown-unit---full-time-m-f-06:45---15:15-nashville": {
+    "assigned_date": "2026-01-09T16:45:28.637Z",
+    "job_title": "Medical Receptionist, Acute Surgical Care Stepdown Unit - Full-Time M-F 06:45 - 15:15",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-09T16:45:28.637Z"
+  },
+  "cleaveland-clinic-care-partner-(night-shift-interview-day---jan-28)-nashville": {
+    "assigned_date": "2026-01-09T16:45:28.637Z",
+    "job_title": "Care Partner (Night Shift Interview Day - Jan 28)",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-09T16:45:28.637Z"
+  },
+  "endeavor-health-phlebotomist-inpatient---evenings-edh-in-hospital-naperville": {
+    "assigned_date": "2026-01-09T16:45:28.637Z",
+    "job_title": "Phlebotomist Inpatient - Evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T16:45:28.637Z"
+  },
+  "endeavor-health-patient-care-technician--cardiac-medical-telemetry---nights-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2026-01-09T16:45:28.637Z",
+    "job_title": "Patient Care Technician- Cardiac Medical Telemetry - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T16:45:28.637Z"
   }
 }
