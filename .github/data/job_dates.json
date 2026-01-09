@@ -1,10 +1,4 @@
 {
-  "cleaveland-clinic-operating-room-attendant---vanderbilt-wilson-county-hospital-lebanon": {
-    "assigned_date": "2025-11-10T22:57:53.999Z",
-    "job_title": "Operating Room Attendant - Vanderbilt Wilson County Hospital",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T22:57:53.999Z"
-  },
   "cleaveland-clinic-or-technical-assistant---monroe-carell-jr.-children's-hospital-at-vanderbilt-nashville": {
     "assigned_date": "2025-11-10T23:22:24.726Z",
     "job_title": "OR Technical Assistant - Monroe Carell Jr. Children's Hospital at Vanderbilt",
@@ -10336,5 +10330,17 @@
     "job_title": "Registered Nurse-Emergency Department-Night",
     "company": "Endeavor Health",
     "first_seen": "2026-01-09T22:57:32.032Z"
+  },
+  "endeavor-health-patient-care-tech-emergency-department-night-skh-skokie-hospital": {
+    "assigned_date": "2026-01-09T23:09:36.904Z",
+    "job_title": "Patient Care Tech-Emergency Department-Night",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T23:09:36.904Z"
+  },
+  "endeavor-health-patient-care-technician---ap4-med/surg/tele---nights-swh-swedish-hospital-chicago": {
+    "assigned_date": "2026-01-09T23:09:36.904Z",
+    "job_title": "Patient Care Technician - AP4 Med/Surg/Tele - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T23:09:36.904Z"
   }
 }
