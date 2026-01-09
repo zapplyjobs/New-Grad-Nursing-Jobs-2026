@@ -1,34 +1,4 @@
 {
-  "endeavor-health-public-safety-officer,-glenbrook-hospital,-days-gbh-glenbrook-hospital-glenview": {
-    "assigned_date": "2025-11-10T20:23:33.170Z",
-    "job_title": "Public Safety Officer, Glenbrook Hospital, Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T20:23:33.170Z"
-  },
-  "endeavor-health-rn---ap4-med/surg/tele---nights-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-10T20:23:33.170Z",
-    "job_title": "RN - AP4 Med/Surg/Tele - Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T20:23:33.170Z"
-  },
-  "endeavor-health-rn---ap4-med/surg/tele---days-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-10T20:23:33.170Z",
-    "job_title": "RN - AP4 Med/Surg/Tele - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T20:23:33.170Z"
-  },
-  "endeavor-health-patient-care-technician---ap4-med/surg/tele---nights-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-10T20:23:33.170Z",
-    "job_title": "Patient Care Technician - AP4 Med/Surg/Tele - Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T20:23:33.170Z"
-  },
-  "endeavor-health-patient-care-technician---ap4-med/surg/tele---days-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-10T20:23:33.170Z",
-    "job_title": "Patient Care Technician - AP4 Med/Surg/Tele - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T20:23:33.170Z"
-  },
   "cleaveland-clinic-histotechnician-2-clinical-nashville": {
     "assigned_date": "2025-11-10T20:40:40.214Z",
     "job_title": "Histotechnician 2 Clinical",
@@ -10486,5 +10456,11 @@
     "job_title": "Patient Care Technician - Cardiac Renal Unit - Nights",
     "company": "Endeavor Health",
     "first_seen": "2026-01-09T19:47:06.612Z"
+  },
+  "endeavor-health-registered-nurse---medical-group-cardiology-cardiac-electrophysiology-gbh-north-medical-office-building-glenview": {
+    "assigned_date": "2026-01-09T20:24:03.777Z",
+    "job_title": "Registered Nurse - Medical Group Cardiology-Cardiac Electrophysiology",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T20:24:03.777Z"
   }
 }
