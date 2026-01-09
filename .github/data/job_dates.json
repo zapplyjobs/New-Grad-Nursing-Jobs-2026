@@ -1,16 +1,4 @@
 {
-  "cleaveland-clinic-certified-pharmacy-technician---pediatric-clinic---day-shift-nashville": {
-    "assigned_date": "2025-11-10T17:37:49.513Z",
-    "job_title": "Certified Pharmacy Technician - Pediatric Clinic - Day Shift",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T17:37:49.513Z"
-  },
-  "endeavor-health-patient-care-technician---glenbrook-hospital-gbh-glenbrook-hospital-glenview": {
-    "assigned_date": "2025-11-10T17:46:13.796Z",
-    "job_title": "Patient Care Technician - Glenbrook Hospital",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-10T17:46:13.796Z"
-  },
   "endeavor-health-patient-care-technician---rehabilitation-unit---evenings-swh-swedish-hospital-chicago": {
     "assigned_date": "2025-11-10T18:25:45.358Z",
     "job_title": "Patient Care Technician - Rehabilitation Unit - Evenings",
@@ -10492,5 +10480,11 @@
     "job_title": "RN - ICU - Days and Nights",
     "company": "Endeavor Health",
     "first_seen": "2026-01-09T17:33:33.132Z"
+  },
+  "endeavor-health-radiation-therapist-multiple-cities": {
+    "assigned_date": "2026-01-09T17:49:12.129Z",
+    "job_title": "Radiation Therapist",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T17:49:12.129Z"
   }
 }
