@@ -1,16 +1,4 @@
 {
-  "cleaveland-clinic-sterile-processing-tech-1--tullahoma-regional-hospital---mid-shift-tullahoma": {
-    "assigned_date": "2025-11-10T21:55:49.321Z",
-    "job_title": "Sterile Processing Tech 1- Tullahoma Regional Hospital - Mid-Shift",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T21:55:49.321Z"
-  },
-  "cleaveland-clinic-registered-nurse-med-surg-stepdown-float-pool---prn-nights---vuh-nashville": {
-    "assigned_date": "2025-11-10T22:09:16.584Z",
-    "job_title": "Registered Nurse Med Surg Stepdown Float Pool - PRN Nights - VUH",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-10T22:09:16.584Z"
-  },
   "cleaveland-clinic-monitored-transport-registered-nurse---float-pool---ft-nights---vuh-nashville": {
     "assigned_date": "2025-11-10T22:39:27.372Z",
     "job_title": "Monitored Transport Registered Nurse - Float Pool - FT Nights - VUH",
@@ -10408,5 +10396,11 @@
     "job_title": "Medical Lab Technician 2 PRN",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-09T21:48:47.154Z"
+  },
+  "endeavor-health-registered-nurse-emergency-department-night-emh-in-hospital-elmhurst": {
+    "assigned_date": "2026-01-09T22:36:53.154Z",
+    "job_title": "Registered Nurse-Emergency Department-Night",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-09T22:36:53.154Z"
   }
 }
