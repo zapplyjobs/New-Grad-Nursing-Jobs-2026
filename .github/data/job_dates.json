@@ -1,52 +1,4 @@
 {
-  "endeavor-health-rn---7e-cardiac-tele---days-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-17T15:12:12.930Z",
-    "job_title": "RN - 7E Cardiac Tele - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T15:12:12.930Z"
-  },
-  "endeavor-health-rn---4e-med/surg/tele---days-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-17T15:12:12.930Z",
-    "job_title": "RN - 4E Med/Surg/Tele - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T15:12:12.930Z"
-  },
-  "endeavor-health-patient-care-technician---4e-med/surg/tele---days-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-17T15:12:12.930Z",
-    "job_title": "Patient Care Technician - 4E Med/Surg/Tele - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T15:12:12.930Z"
-  },
-  "endeavor-health-patient-care-technician---4s-ortho/post-surgical/cardiac-tele---days-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-17T15:12:12.930Z",
-    "job_title": "Patient Care Technician - 4S Ortho/Post Surgical/Cardiac Tele - Days",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T15:12:12.930Z"
-  },
-  "cleaveland-clinic-occupational-therapist-–-home-health-prn-nashville": {
-    "assigned_date": "2025-11-17T15:32:49.835Z",
-    "job_title": "Occupational Therapist – Home Health PRN",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-17T15:32:49.835Z"
-  },
-  "cleaveland-clinic-occupational-therapy-assistant-–-home-health-nashville": {
-    "assigned_date": "2025-11-17T15:32:49.836Z",
-    "job_title": "Occupational Therapy Assistant – Home Health",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-17T15:32:49.836Z"
-  },
-  "cleaveland-clinic-care-partner---nicu-(nights)-nashville": {
-    "assigned_date": "2025-11-17T15:48:19.981Z",
-    "job_title": "Care Partner - NICU (Nights)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-17T15:48:19.981Z"
-  },
-  "endeavor-health-rn---cardiac-care-unit-(ccu)---nights-swh-swedish-hospital-chicago": {
-    "assigned_date": "2025-11-17T15:48:19.981Z",
-    "job_title": "RN - Cardiac Care Unit (CCU) - Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T15:48:19.981Z"
-  },
   "endeavor-health-chaplain---per-diem-nch-800-w-central-rd-arlington-heights": {
     "assigned_date": "2025-11-17T17:57:27.124Z",
     "job_title": "Chaplain - Per Diem",
@@ -9220,5 +9172,11 @@
     "job_title": "MRI Technologist PRN Spring Hill",
     "company": "Cleaveland Clinic",
     "first_seen": "2026-01-16T14:59:19.498Z"
+  },
+  "endeavor-health-per-diem-critical-care-pediatrician-edh-in-hospital-naperville": {
+    "assigned_date": "2026-01-16T15:50:11.114Z",
+    "job_title": "Per Diem Critical Care Pediatrician",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T15:50:11.114Z"
   }
 }
