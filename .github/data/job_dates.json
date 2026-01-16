@@ -1,16 +1,4 @@
 {
-  "endeavor-health-chaplain---per-diem-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-17T17:57:27.124Z",
-    "job_title": "Chaplain - Per Diem",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T17:57:27.124Z"
-  },
-  "endeavor-health-medical-assistant/patient-support-assistant-(ma/psa)---primary-care---evanston-evh-evanston-hospital": {
-    "assigned_date": "2025-11-17T17:57:27.124Z",
-    "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Primary Care - Evanston",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T17:57:27.124Z"
-  },
   "cleaveland-clinic-monitored-transport-registered-nurse---float-pool---ft-days---vuh-nashville": {
     "assigned_date": "2025-11-17T18:44:23.441Z",
     "job_title": "Monitored Transport Registered Nurse - Float Pool - FT Days - VUH",
@@ -9256,5 +9244,11 @@
     "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Immediate Care - Lincolnshire (Per Diem)",
     "company": "Endeavor Health",
     "first_seen": "2026-01-16T17:34:14.402Z"
+  },
+  "endeavor-health-pediatric-critical-care-physician-(per-diem)-edh-in-hospital-naperville": {
+    "assigned_date": "2026-01-16T18:35:49.755Z",
+    "job_title": "Pediatric Critical Care Physician (Per Diem)",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T18:35:49.755Z"
   }
 }
