@@ -1,10 +1,4 @@
 {
-  "cleaveland-clinic-comprehensive-care-clinic-rn,-registered-nurse-nashville": {
-    "assigned_date": "2025-11-17T19:38:51.778Z",
-    "job_title": "Comprehensive Care Clinic RN, Registered Nurse",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-17T19:38:51.778Z"
-  },
   "cleaveland-clinic-registered-nurse-2-clinic-float-prn-nashville": {
     "assigned_date": "2025-11-17T19:47:41.653Z",
     "job_title": "Registered Nurse 2 Clinic Float PRN",
@@ -9298,5 +9292,11 @@
     "job_title": "Occupational Therapist",
     "company": "Endeavor Health",
     "first_seen": "2026-01-16T19:10:42.398Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-assistant-(ma/psa)---medical-group-plastic-surgery-nso-northbrook": {
+    "assigned_date": "2026-01-16T19:46:44.962Z",
+    "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Medical Group Plastic Surgery",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T19:46:44.962Z"
   }
 }
