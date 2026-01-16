@@ -1,34 +1,4 @@
 {
-  "cleaveland-clinic-tempforce-clinical-pharmacist-nashville": {
-    "assigned_date": "2025-11-17T21:07:43.946Z",
-    "job_title": "TempForce Clinical Pharmacist",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-17T21:07:43.946Z"
-  },
-  "endeavor-health-patient-care-technician---orthopedic-unit---evenings-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-17T21:07:43.947Z",
-    "job_title": "Patient Care Technician - Orthopedic Unit - Evenings",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T21:07:43.947Z"
-  },
-  "endeavor-health-patient-care-technician---orthopedic-unit---per-diem-level-i---nights-nch-800-w-central-rd-arlington-heights": {
-    "assigned_date": "2025-11-17T21:07:43.947Z",
-    "job_title": "Patient Care Technician - Orthopedic Unit - Per Diem Level I - Nights",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T21:07:43.947Z"
-  },
-  "cleaveland-clinic-nurse-assist-prn-lebanon": {
-    "assigned_date": "2025-11-17T21:20:42.352Z",
-    "job_title": "Nurse Assist PRN",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-17T21:20:42.352Z"
-  },
-  "cleaveland-clinic-care-partner---med/surg-(wilson-county)-lebanon": {
-    "assigned_date": "2025-11-17T21:32:41.606Z",
-    "job_title": "Care Partner - Med/Surg (Wilson County)",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-17T21:32:41.606Z"
-  },
   "endeavor-health-pharmacy-technician-evh-evanston-hospital": {
     "assigned_date": "2025-11-17T21:46:09.078Z",
     "job_title": "Pharmacy Technician",
@@ -9334,5 +9304,35 @@
     "job_title": "Patient Access Representative I - Cancer Center - Days",
     "company": "Endeavor Health",
     "first_seen": "2026-01-16T20:40:23.492Z"
+  },
+  "endeavor-health-medical-assistant,-transitions-of-care-nco-3040-salt-creek-ln-arlington-heights": {
+    "assigned_date": "2026-01-16T21:33:04.892Z",
+    "job_title": "Medical Assistant, Transitions of Care",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T21:33:04.892Z"
+  },
+  "endeavor-health-rn---cardiac-tele-short-stay-unit---nights-swh-swedish-hospital-chicago": {
+    "assigned_date": "2026-01-16T21:33:04.892Z",
+    "job_title": "RN - Cardiac Tele Short Stay Unit - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T21:33:04.892Z"
+  },
+  "endeavor-health-rn---cardiac-tele-short-stay-unit---days-swh-swedish-hospital-chicago": {
+    "assigned_date": "2026-01-16T21:33:04.892Z",
+    "job_title": "RN - Cardiac Tele Short Stay Unit - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T21:33:04.892Z"
+  },
+  "endeavor-health-rn---orthopedic/spine-unit---days-emh-in-hospital-elmhurst": {
+    "assigned_date": "2026-01-16T21:33:04.892Z",
+    "job_title": "RN - Orthopedic/Spine Unit - Days",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T21:33:04.892Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-assistant-(ma/psa)---medical-group-otolaryngology-ent,-northbrook-multiple-cities": {
+    "assigned_date": "2026-01-16T21:33:04.892Z",
+    "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Medical Group Otolaryngology ENT, Northbrook",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T21:33:04.892Z"
   }
 }
