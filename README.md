@@ -8,13 +8,13 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-264-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-282-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 264+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 282+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.</p>
 
 <p align="center">🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital.</p>
 
@@ -101,6 +101,13 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| LPN Ambulatory - Cardiology 🏠 | Akron General Medical Center | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/LPN-Ambulatory---Cardiothoracic-and-Vascular-Surgery-MD-Office_321689) | 1d |
+| Surgical Technologist 🏠 | Fairview Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Fairview-Hospital/Surgical-Technologist_324573) | 1d |
+| RN – Cardiac Cath Stress Lab 🏠 | Hillcrest Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Hillcrest-Hospital/RN---Cardiac-Cath-Stress-Lab_326974) | 1d |
+| Surgical Technologist - 0.8 FTE - 7a-3:30p - vary start 🏠 | Akron General Medical Center | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Akron-General-Medical-Center/Surgical-Technologist---08-FTE---7a-3-30p---vary-start_318241-1) | 1d |
+| New Grad RN Resident - Hematology & Oncology Unit 🏠 | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Hematology---Oncology-Unit_313283) | 1d |
+| Surgical Technologist - Orthopaedic OR 🏠 | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Surgical-Technologist---Orthopaedic-OR_300243) | 1d |
+| Surgical Technologist – Ambulatory Surgery Center 🏠 | Multiple Cities | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Marymount-Sports-Health-Center/Surgical-Technologist---Ambulatory-Surgery-Center_315469) | 1d |
 | LPN Clinic - Colorectal Surgery 🏠 | Florida Weston Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Florida-Weston-Hospital/LPN-Clinic---Colorectal-Surgery_327902) | 1d |
 | LPN Clinic - Family Medicine 🏠 | rtin Health at Tiffany | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Martin-Health-at-Tiffany/LPN-Clinic---Family-Medicine_324727) | 1d |
 | Diagnostic Medical Sonographer 🏠 | Twinsburg Family Health Center | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Twinsburg-Family-Health-Center/Diagnostic-Medical-Sonographer_327418) | 1d |
@@ -109,12 +116,12 @@ Check out what we're doing on our socials, join our community to connect with fe
 | RN - Birthing Center 🏠 | Fairview Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Fairview-Hospital/RN---Birthing-Center_315348) | 1d |
 | Clinical Technician - Med/Surg, Telemetry and Clinical Decision Units 🏠 | rtin Health North | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Martin-Health-North/Clinical-Technician---Med-Surg--Telemetry-and-Clinical-Decision-Units_325708) | 1d |
 | RN - Vascular Surgery Stepdown Unit 🏠 | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Vascular-Surgery-Stepdown-Unit_320734) | 1d |
-| RN PRN - Cardiology Stepdown 🏠 | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Experienced-RN--PRN----Vascular-Surgery-Stepdown_266308) | 1d |
-| New Grad RN Resident - Vascular Surgery Stepdown Unit 🏠 | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Vascular-Surgery-Stepdown-Unit_311928) | 1d |
-| RN - Cardiovascular Stepdown Unit 🏠 | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Cardiovascular-Stepdown-Unit_319106) | 1d |
-| RN - Cardiovascular Stepdown 🏠 | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Cardiovascular-Stepdown_315000) | 1d |
-| Financial Navigator NE 🏠 | Mercy Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Mercy-Hospital/Financial-Navigator-NE_327119) | 1d |
-| RN - Dialysis 🏠 | Fairview Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Fairview-Hospital/RN---Dialysis_322541) | 1d |
+| RN PRN - Cardiology Stepdown | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Experienced-RN--PRN----Vascular-Surgery-Stepdown_266308) | 1d |
+| New Grad RN Resident - Vascular Surgery Stepdown Unit | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Vascular-Surgery-Stepdown-Unit_311928) | 1d |
+| RN - Cardiovascular Stepdown Unit | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Cardiovascular-Stepdown-Unit_319106) | 1d |
+| RN - Cardiovascular Stepdown | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Cardiovascular-Stepdown_315000) | 1d |
+| Financial Navigator NE | Mercy Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Mercy-Hospital/Financial-Navigator-NE_327119) | 1d |
+| RN - Dialysis | Fairview Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Fairview-Hospital/RN---Dialysis_322541) | 1d |
 | New Grad RN Resident - Cardiovascular Surgery Stepdown | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Telemetry-Unit_312604) | 1d |
 | New Grad RN Resident – Cardiovascular Surgery Stepdown Unit | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiovascular-Surgery-Stepdown-Unit_313162) | 1d |
 | RN - Cardiovascular Surgical Stepdown | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital_283138) | 1d |
@@ -125,13 +132,6 @@ Check out what we're doing on our socials, join our community to connect with fe
 | New Grad RN Resident - Thoracic Surgery Stepdown | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Resident---Thoracic-Surgery-Stepdown_301702) | 1d |
 | New Grad RN Resident – Heart and Lung Transplant Unit | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Heart-and-Lung-Transplant-Unit_314179) | 1d |
 | RN Ambulatory - Vascular Medicine | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Ambulatory---Vascular-Medicine_319983-1) | 1d |
-| New Grad RN Resident - Cardiology Stepdown Unit | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/New-Grad-RN-Resident---Cardiology-Stepdown-Unit_309570) | 1d |
-| RN PRN - Cardiology Stepdown Unit | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Experienced-RN--PRN----Medical-Cardiac-Stepdown-Unit_268964) | 1d |
-| Clinical Technician - Cardiovascular ICU | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Clinical-Technician---Cardiovascular-ICU_322364) | 1d |
-| Clinical Technician - Cardiovascular & Vascular Intensive Care Unit | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Clinical-Technician---Cardiovascular---Vascular-Intensive-Care-Unit_319271-1) | 1d |
-| Clinical Technician - Cardiovascular Intensive Care Units (CVICU) | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Clinical-Technician---Cardiovascular-Intensive-Care-Units--CVICU-_309893) | 1d |
-| RN - Cardiovascular Surgery | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Cardiovascular-Surgery_229252) | 1d |
-| RN - Cardiology Stepdown Unit | Cleveland Clinic in Campus | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/en-US/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN---Cardiology-Stepdown-Unit_326300) | 1d |
 
 </details>
 
@@ -248,13 +248,15 @@ Check out what we're doing on our socials, join our community to connect with fe
 | Patient Care Technician - Medical Surgical Progressive Care Unit - Days | Richmond, VA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Patient-Care-Technician---Medical-Surgical-Progressive-Care-Unit---Days_R41123-1) | 2d |
 | Unit Secretary - NICU - Rotating | Richmond, VA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Unit-Secretary---NICU---Rotating_R41013) | 2d |
 
-### 🔗 **Integrated Health Networks** (31 positions)
+### 🔗 **Integrated Health Networks** (33 positions)
 
 <details>
-<summary><h4>💙 <strong>Allina Health</strong> (24 positions)</h4></summary>
+<summary><h4>💙 <strong>Allina Health</strong> (26 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| Interventional Radiology Technologist 🏠 | Abbott Northwestern Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Interventional-Radiology-Technologist_R-0065867) | 1d |
+| Diagnostic Sonographer 🏠 | Abbott Northwestern - WestHealth | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern---WestHealth/Diagnostic-Sonographer_R-0067298) | 1d |
 | MRI Technologist 🏠 | United Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/MRI-Technologist_R-0068344) | 1d |
 | Physical Therapist, Cancer Rehab & Lymphedema Care 🏠 | Courage Kenny Sports and Physical Therapy Woodbury | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-Woodbury/Physical-Therapist_R-0065753) | 1d |
 | Physical Therapist - Cancer Rehab and Lymphedema 🏠 | Courage Kenny Sports and Physical Therapy Woodbury | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Courage-Kenny-Sports-and-Physical-Therapy-Woodbury/Physical-Therapist_R-0067937) | 1d |
@@ -270,8 +272,8 @@ Check out what we're doing on our socials, join our community to connect with fe
 | Cardiac Sonographer 🏠 | Waconia Ridgeview Medical | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Waconia-Ridgeview-Medical/Cardiac-Sonographer_R-0068016) | 1d |
 | Cardiac Sonographer 🏠 | United Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/United-Hospital/Cardiac-Sonographer_R-0068502) | 1d |
 | Licensed Practical Nurse-Hospital 🏠 | New Ulm Medical Center | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/New-Ulm-Medical-Center/Licensed-Practical-Nurse-Hospital_R-0068826) | 1d |
-| Cardiac Sonographer 🏠 | Allina Health Centennial Lakes Clinic Edina | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Centennial-Lakes-Clinic-Edina/Cardiac-Sonographer_R-0067120) | 1d |
-| Dietary Aide 🏠 | Cambridge Medical Center | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Cambridge-Medical-Center/Dietary-Aide_R-0068523-1) | 1d |
+| Cardiac Sonographer | Allina Health Centennial Lakes Clinic Edina | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Centennial-Lakes-Clinic-Edina/Cardiac-Sonographer_R-0067120) | 1d |
+| Dietary Aide | Cambridge Medical Center | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Cambridge-Medical-Center/Dietary-Aide_R-0068523-1) | 1d |
 | Cardiac Sonographer | Allina Health Clinic Eden Prairie | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Allina-Health-Clinic-Eden-Prairie/Cardiac-Sonographer_R-0067114) | 1d |
 | Cardiac Sonographer-Mobile | Abbott Northwestern - WestHealth | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern---WestHealth/Cardiac-Sonographer-Mobile_R-0065603) | 1d |
 | Cardiac Sonographer | Abbott Northwestern Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://allina.wd5.myworkdayjobs.com/en-US/External/job/Abbott-Northwestern-Hospital/Cardiac-Sonographer_R-0067474) | 1d |
@@ -314,13 +316,13 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 110 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 107 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 110 positions
+📁 **Total Jobs:** 107 positions
 🏢 **Companies:** 9 companies
 
 
@@ -438,7 +440,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-🎯 **264 current opportunities from 9 elite companies.**
+🎯 **282 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
