@@ -1,10 +1,4 @@
 {
-  "endeavor-health-pharmacy-technician-evh-evanston-hospital": {
-    "assigned_date": "2025-11-17T21:46:09.078Z",
-    "job_title": "Pharmacy Technician",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T21:46:09.078Z"
-  },
   "cleaveland-clinic-physical-therapy-assistant-–-pta---acute-care-inpatient-nashville": {
     "assigned_date": "2025-11-17T22:34:35.910Z",
     "job_title": "Physical Therapy Assistant – PTA - Acute Care Inpatient",
@@ -9334,5 +9328,11 @@
     "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Medical Group Otolaryngology ENT, Northbrook",
     "company": "Endeavor Health",
     "first_seen": "2026-01-16T21:33:04.892Z"
+  },
+  "endeavor-health-medication-technician-nso-corporate-office-skokie": {
+    "assigned_date": "2026-01-16T22:10:10.137Z",
+    "job_title": "Medication Technician",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T22:10:10.137Z"
   }
 }
