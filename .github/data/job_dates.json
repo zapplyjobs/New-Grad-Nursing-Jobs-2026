@@ -1,28 +1,4 @@
 {
-  "cleaveland-clinic-physical-therapy-assistant-–-pta---acute-care-inpatient-nashville": {
-    "assigned_date": "2025-11-17T22:34:35.910Z",
-    "job_title": "Physical Therapy Assistant – PTA - Acute Care Inpatient",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-17T22:34:35.910Z"
-  },
-  "endeavor-health-physician,-internal-medicine,-addison-emo-addison-303-w-lake-street": {
-    "assigned_date": "2025-11-17T22:47:05.229Z",
-    "job_title": "Physician, Internal Medicine, Addison",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T22:47:05.229Z"
-  },
-  "endeavor-health-pharmacy-technician-i---ip-evh-evanston-hospital": {
-    "assigned_date": "2025-11-17T22:47:05.229Z",
-    "job_title": "Pharmacy Technician I - IP",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T22:47:05.229Z"
-  },
-  "endeavor-health-$2,000-sign-on-bonus:-ophthalmic-technician-multiple-cities": {
-    "assigned_date": "2025-11-17T23:21:16.436Z",
-    "job_title": "$2,000 SIGN ON Bonus: Ophthalmic Technician",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T23:21:16.436Z"
-  },
   "endeavor-health-medical-assistant---physical-medicine-&-rehab-emh-center-for-health-building-elmhurst": {
     "assigned_date": "2025-11-17T23:46:05.592Z",
     "job_title": "Medical Assistant - Physical Medicine & Rehab",
@@ -9334,5 +9310,47 @@
     "job_title": "Medication Technician",
     "company": "Endeavor Health",
     "first_seen": "2026-01-16T22:10:10.137Z"
+  },
+  "endeavor-health-occupational-therapist-evh-evanston-hospital": {
+    "assigned_date": "2026-01-16T23:24:37.343Z",
+    "job_title": "Occupational Therapist",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T23:24:37.343Z"
+  },
+  "endeavor-health-public-safety-officer-multiple-cities": {
+    "assigned_date": "2026-01-16T23:24:37.343Z",
+    "job_title": "Public Safety Officer",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T23:24:37.343Z"
+  },
+  "endeavor-health-rn---labor-and-delivery---nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2026-01-16T23:24:37.343Z",
+    "job_title": "RN - Labor and Delivery - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T23:24:37.343Z"
+  },
+  "endeavor-health-rn---labor-and-delivery---nights---sign-on-bonus-offered-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2026-01-16T23:24:37.343Z",
+    "job_title": "RN - Labor and Delivery - Nights - Sign on Bonus offered",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T23:24:37.343Z"
+  },
+  "endeavor-health-rn---labor-and-delivery---per-diem-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2026-01-16T23:24:37.343Z",
+    "job_title": "RN - Labor and Delivery - Per Diem",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T23:24:37.343Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-assistant-(ma/psa)---medical-group-dermatology-nso-skokie": {
+    "assigned_date": "2026-01-16T23:24:37.343Z",
+    "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Medical Group Dermatology",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T23:24:37.343Z"
+  },
+  "endeavor-health-rn---labor-and-delivery---per-diem---nights-nch-800-w-central-rd-arlington-heights": {
+    "assigned_date": "2026-01-16T23:24:37.343Z",
+    "job_title": "RN - Labor and Delivery - Per Diem - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T23:24:37.343Z"
   }
 }
