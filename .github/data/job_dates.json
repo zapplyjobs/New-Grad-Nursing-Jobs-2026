@@ -9184,5 +9184,29 @@
     "job_title": "Registered Nurse - Orthopedic Spine - Skokie Hospital - Days",
     "company": "Endeavor Health",
     "first_seen": "2026-01-16T14:11:28.972Z"
+  },
+  "cleaveland-clinic-environmental-tech-nashville": {
+    "assigned_date": "2026-01-16T14:26:58.097Z",
+    "job_title": "Environmental Tech",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-16T14:26:58.097Z"
+  },
+  "cleaveland-clinic-registered-nurse,-neuro,-ft-nights,-vuh-nashville": {
+    "assigned_date": "2026-01-16T14:26:58.097Z",
+    "job_title": "Registered Nurse, Neuro, FT Nights, VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-16T14:26:58.097Z"
+  },
+  "cleaveland-clinic-registered-nurse,-ortho/spine,-ft-days,-vuh-nashville": {
+    "assigned_date": "2026-01-16T14:26:58.097Z",
+    "job_title": "Registered Nurse, Ortho/Spine, FT Days, VUH",
+    "company": "Cleaveland Clinic",
+    "first_seen": "2026-01-16T14:26:58.097Z"
+  },
+  "endeavor-health-respiratory-therapist---nights-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2026-01-16T14:26:58.097Z",
+    "job_title": "Respiratory Therapist - Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T14:26:58.097Z"
   }
 }
