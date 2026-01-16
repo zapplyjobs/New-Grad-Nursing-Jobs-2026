@@ -1,10 +1,4 @@
 {
-  "cleaveland-clinic-monitored-transport-registered-nurse---float-pool---ft-days---vuh-nashville": {
-    "assigned_date": "2025-11-17T18:44:23.441Z",
-    "job_title": "Monitored Transport Registered Nurse - Float Pool - FT Days - VUH",
-    "company": "Cleaveland Clinic",
-    "first_seen": "2025-11-17T18:44:23.441Z"
-  },
   "cleaveland-clinic-comprehensive-care-clinic-rn,-registered-nurse-nashville": {
     "assigned_date": "2025-11-17T19:38:51.778Z",
     "job_title": "Comprehensive Care Clinic RN, Registered Nurse",
@@ -9250,5 +9244,53 @@
     "job_title": "Pediatric Critical Care Physician (Per Diem)",
     "company": "Endeavor Health",
     "first_seen": "2026-01-16T18:35:49.755Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-assistant-(ma/psa)---medical-group-neurosurgery-evh-evanston-hospital": {
+    "assigned_date": "2026-01-16T18:54:06.075Z",
+    "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Medical Group Neurosurgery",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T18:54:06.075Z"
+  },
+  "endeavor-health-patient-care-tech-emergency-department-nights-hph-highland-park-hospital": {
+    "assigned_date": "2026-01-16T18:54:06.075Z",
+    "job_title": "Patient Care Tech-Emergency Department-Nights",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T18:54:06.075Z"
+  },
+  "endeavor-health-medical-assistant/patient-support-assistant-(ma/psa)---internal-medicine---des-plaines-skh-skokie-ambulatory-care-center": {
+    "assigned_date": "2026-01-16T18:54:06.075Z",
+    "job_title": "Medical Assistant/Patient Support Assistant (MA/PSA) - Internal Medicine - Des Plaines",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T18:54:06.075Z"
+  },
+  "endeavor-health-medical-assistant/scheduling-assistant---primary-care---uptown-swo-the-clark-clinic-chicago": {
+    "assigned_date": "2026-01-16T18:54:06.075Z",
+    "job_title": "Medical Assistant/Scheduling Assistant - Primary Care - Uptown",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T18:54:06.075Z"
+  },
+  "endeavor-health-medical-assistant/scheduling-assistant---primary-care---chicago-swh-foster-medical-pavilion-chicago": {
+    "assigned_date": "2026-01-16T18:54:06.075Z",
+    "job_title": "Medical Assistant/Scheduling Assistant - Primary Care - Chicago",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T18:54:06.075Z"
+  },
+  "endeavor-health-pct--resource-team---level-gbh-glenbrook-hospital-glenview": {
+    "assigned_date": "2026-01-16T18:54:06.075Z",
+    "job_title": "PCT- Resource Team - Level",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T18:54:06.075Z"
+  },
+  "endeavor-health-medical-assistant-(ma)---pediatrics---chicago-nso-5140-n-california-chicago": {
+    "assigned_date": "2026-01-16T18:54:06.075Z",
+    "job_title": "Medical Assistant (MA) - Pediatrics - Chicago",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T18:54:06.075Z"
+  },
+  "endeavor-health-medical-assistant-(ma)---family-medicine--chicago-swh-foster-medical-pavilion-chicago": {
+    "assigned_date": "2026-01-16T18:54:06.075Z",
+    "job_title": "Medical Assistant (MA) - Family Medicine- Chicago",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-16T18:54:06.075Z"
   }
 }
