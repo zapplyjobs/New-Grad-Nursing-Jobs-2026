@@ -1,10 +1,4 @@
 {
-  "endeavor-health-medical-assistant---physical-medicine-&-rehab-emh-center-for-health-building-elmhurst": {
-    "assigned_date": "2025-11-17T23:46:05.592Z",
-    "job_title": "Medical Assistant - Physical Medicine & Rehab",
-    "company": "Endeavor Health",
-    "first_seen": "2025-11-17T23:46:05.592Z"
-  },
   "cleaveland-clinic-clinical-scientist-assistant-nashville": {
     "assigned_date": "2025-11-18T03:50:04.064Z",
     "job_title": "Clinical Scientist Assistant",
@@ -9358,5 +9352,17 @@
     "job_title": "Physical Therapist Assistant II - Inpatient - Days",
     "company": "Endeavor Health",
     "first_seen": "2026-01-16T23:39:11.065Z"
+  },
+  "endeavor-health-physical-therapist-ii--outpatient--days/evenings-nso-evanston-benson": {
+    "assigned_date": "2026-01-17T00:40:05.243Z",
+    "job_title": "Physical Therapist II -outpatient- days/evenings",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-17T00:40:05.243Z"
+  },
+  "endeavor-health-medical-social-worker-lcsw---social-services-swh-swedish-hospital-chicago": {
+    "assigned_date": "2026-01-17T00:40:05.243Z",
+    "job_title": "Medical Social Worker LCSW - Social Services",
+    "company": "Endeavor Health",
+    "first_seen": "2026-01-17T00:40:05.243Z"
   }
 }
