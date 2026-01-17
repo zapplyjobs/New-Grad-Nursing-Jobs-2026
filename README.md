@@ -8,13 +8,13 @@
 <br>
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-273-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-278-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 273+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical job listings from 9+ top institutions like Mayo Clinic, Cleveland Clinic, and Johns Hopkins Medicine. Updated every 24 hours with 278+ fresh opportunities for new graduates in registered nursing, allied health, and pharma.</p>
 
 <p align="center">🎯 Includes roles across trusted organizations like Mass General Brigham, Kaiser Permanente, and NewYork-Presbyterian Hospital.</p>
 
@@ -129,10 +129,10 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (33 positions)
+### ✝️ **Faith-Based Health Systems** (35 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (19 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (21 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -144,17 +144,19 @@ Check out what we're doing on our socials, join our community to connect with fe
 | CT Technologist | Springfield - St. John's Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield---St-Johns-Hospital/CT-Technologist_R1034436) | 1d |
 | Registrar - Family Medicine | Shelbyville, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shelbyville-IL/Registrar---Family-Medicine_R1034476) | 1d |
 | Medical Assistant (MA) - Family Medicine | Shelbyville, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shelbyville-IL/Medical-Assistant--MA----Family-Medicine_R1034622) | 1d |
-| Physician - General Cardiologist | O'Fallon, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Physician---General-Cardiologist_R1034643) | 1d |
-| *Interventional Radiology Technologist | Springfield, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Interventional-Radiology-Technologist-II_R1030623) | 1d |
-| Registrar– Patient Access Center | Springfield - Joslin Diabetes Center | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield---Joslin-Diabetes-Center/Registrar--Patient-Access-Center_R1034544) | 1d |
-| Medical Assistant (MA)-Rochester Family Medicine | Rochester, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Rochester-IL/Medical-Assistant--MA--Rochester-Family-Medicine_R1033416) | 1d |
-| Patient Care Assistant | Green Bay, WI | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant-II_R1034049) | 1d |
-| Physician - Orthopedic Surgery | Effingham, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Physician---Orthopedic-Surgery_R1034000) | 1d |
-| APP General Cardiology | Springfield, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/APP-General-Cardiology_R1033933) | 1d |
-| Patient Care Assistant | Highland, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Patient-Care-Assistant-II_R1034462-1) | 1d |
 | Security Officer | Green Bay, WI | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Security-Officer-I_R1034398) | 1d |
+| Patient Care Assistant | Highland, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Patient-Care-Assistant-II_R1034589) | 1d |
 | Certified Surgical Technologist | O'Fallon, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Surgical-Technologist-I_R1032747) | 1d |
 | Performance Excellence Strategist | Springfield, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Performance-Excellence-Strategist_R1034478-1) | 1d |
+| APP General Cardiology | Springfield, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/APP-General-Cardiology_R1033919) | 1d |
+| Neonatal Nurse Practitioner (NNP) | Effingham, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Effingham-IL/Neonatal-Nurse-Practitioner--NNP-_R1033983) | 1d |
+| Patient Care Assistant (PCA) - Medical/Surgical (Med/Surg) - Regional Float | Green Bay, WI | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Patient-Care-Assistant--PCA-----Medical-Surgical--Med-Surg----Regional--Float_R1034065) | 1d |
+| Registered Nurse (RN)-WI Regional Float -Med/Surg | Green Bay, WI | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Green-Bay-WI/Registered-Nurse--RN--WI-Regional-Float--Med-Surg_R1034669) | 1d |
+| Supply Chain Technician | Springfield - St. John's Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield---St-Johns-Hospital/Supply-Chain-Technician_R1034619-1) | 1d |
+| Switchboard Operator | O'Fallon - St. Elizabeth's Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon---St-Elizabeths-Hospital/Switchboard-Operator_R1033887) | 1d |
+| Registered Nurse (RN) - Medical/Surgical (Med/Surg) | Oconto Falls, WI | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Oconto-Falls-WI/Registered-Nurse--RN----Medical-Surgical--Med-Surg-_R1034658) | 1d |
+| Quality Improvement Nurse | O'Fallon, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Quality-Improvement-Nurse_R1034655) | 1d |
+| NICU Registered Nurse-Critical Care | Springfield, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Registered-Nurse-Critical-Care_R1031937) | 2d |
 
 </details>
 
@@ -236,13 +238,13 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Physical Therapist II -outpatient- days/evenings | NSO Evanston Benson | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Evanston-Benson/Physical-Therapist-II--outpatient--days-evenings_R35995?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
-| Medical Social Worker LCSW - Social Services | SWH Swedish Hospital Chicago | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Medical-Social-Worker-LCSW---Social-Services_R37508?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1h |
-| Physical Therapist Assistant II - Inpatient - Days | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Physical-Therapist-Assistant-II---Inpatient---Days_R37255?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
-| Occupational Therapist | EVH Evanston Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist-I_R37965?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
-| Public Safety Officer | Multiple Cities | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SKH-Skokie-Hospital/Public-Safety-Officer_R38222?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
-| RN - Labor and Delivery - Nights | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/RN---Labor-and-Delivery---Nights_R27669?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
-| RN - Labor and Delivery - Nights - Sign on Bonus offered | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/RN---Labor-and-Delivery---Nights---Sign-on-Bonus-offered_R28088?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
+| Physical Therapist II -outpatient- days/evenings | NSO Evanston Benson | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Evanston-Benson/Physical-Therapist-II--outpatient--days-evenings_R35995?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
+| Medical Social Worker LCSW - Social Services | SWH Swedish Hospital Chicago | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Medical-Social-Worker-LCSW---Social-Services_R37508?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
+| Physical Therapist Assistant II - Inpatient - Days | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Physical-Therapist-Assistant-II---Inpatient---Days_R37255?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3h |
+| Occupational Therapist | EVH Evanston Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist-I_R37965?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3h |
+| Public Safety Officer | Multiple Cities | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SKH-Skokie-Hospital/Public-Safety-Officer_R38222?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3h |
+| RN - Labor and Delivery - Nights | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/RN---Labor-and-Delivery---Nights_R27669?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3h |
+| RN - Labor and Delivery - Nights - Sign on Bonus offered | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/RN---Labor-and-Delivery---Nights---Sign-on-Bonus-offered_R28088?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3h |
 
 
 
@@ -379,7 +381,7 @@ Either still hiring or useful for research.
 
 <div align="center">
 
-🎯 **273 current opportunities from 9 elite companies.**
+🎯 **278 current opportunities from 9 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
