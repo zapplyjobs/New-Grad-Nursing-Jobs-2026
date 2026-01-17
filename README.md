@@ -177,7 +177,15 @@ Check out what we're doing on our socials, join our community to connect with fe
 | Licensed Clinical Social Worker | TOSH | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/TOSH/Licensed-Clinical-Social-Worker_R160838-1) | 1d |
 | Medical Lab Scientist | Intermountain Health Alta View Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/en-US/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/Medical-Lab-Scientist_R160840-1) | 1d |
 
-### 🎓 **Academic Medical Centers** (16 positions)
+### 🎓 **Academic Medical Centers** (19 positions)
+
+#### 📚 **University of Rochester Medical Center** (3 positions)
+
+| Role | Location | Level | Apply Now | Age |
+|------|----------|-------|-----------|-----|
+| Emergency Department -Strong West - RN 2, Inpt | Strong West Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-West-Hospital/Emergency-Department--Strong-West---RN-2--Inpt_R267762?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| Pediatric Imaging Sciences – Golisano Children’s Hospital – RN 2, Inpatient | Strong Memorial Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Pediatric-Imaging-Sciences---Golisano-Children-s-Hospital---RN-2--Inpatient_R267763?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
+| 6 South - Pediatric Cardiac Care Center - Registered Nurse 1 or 2, Inpt | Strong Memorial Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/XMLNAME-6-South---Pediatric-Cardiac-Care-Center--hiring-now-for-March-2026-start----Registered-Nurse-1-or-2--Inpt_R263106?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 4d |
 
 <details>
 <summary><h4>🏥 <strong>VCU Health</strong> (16 positions)</h4></summary>
@@ -228,13 +236,13 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Physical Therapist II -outpatient- days/evenings | NSO Evanston Benson | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Evanston-Benson/Physical-Therapist-II--outpatient--days-evenings_R35995?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
-| Medical Social Worker LCSW - Social Services | SWH Swedish Hospital Chicago | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Medical-Social-Worker-LCSW---Social-Services_R37508?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2h |
-| Physical Therapist Assistant II - Inpatient - Days | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Physical-Therapist-Assistant-II---Inpatient---Days_R37255?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3h |
-| Occupational Therapist | EVH Evanston Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist-I_R37965?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3h |
-| Public Safety Officer | Multiple Cities | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SKH-Skokie-Hospital/Public-Safety-Officer_R38222?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3h |
-| RN - Labor and Delivery - Nights | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/RN---Labor-and-Delivery---Nights_R27669?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3h |
-| RN - Labor and Delivery - Nights - Sign on Bonus offered | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/RN---Labor-and-Delivery---Nights---Sign-on-Bonus-offered_R28088?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 3h |
+| RN - 5E Neuro/Stroke/Tele - Nights | SWH Swedish Hospital Chicago | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/RN---5E-Neuro-Stroke-Tele---Nights_R37942?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
+| Orders Management Assistant | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Orders-Management-Assistant_R38117?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
+| Medical Assistant/Patient Support Assistant (MA/PSA) - Immediate Care - Skokie (20 hours) | NSO Skokie | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-9977-Woods-Drive-Skokie/Medical-Assistant-Patient-Support-Assistant--MA-PSA----Immediate-Care---Skokie--20-hours-_R37613-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
+| Hospital Operator - Hospital Operators - Per Diem- Glenview, IL ( Evening) | GBH Glenbrook Hospital Glenview | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Hospital-Operator---Hospital-Operators---Per-Diem--Glenview--IL---Evening-_R35314?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
+| Medical Assistant/Patient Support Assistant(MA/PSA) - Immediate Care - Niles (Per Diem) | NSO Niles | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Niles/Medical-Assistant-Patient-Support-Assistant-MA-PSA----Immediate-Care---Niles--Per-Diem-_R37612?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
+| Systems Engineer II - Data Center Engineering | NSO Corporate Office Skokie | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-4901-Searle-Parkway-Corporate-Office-Skokie/Systems-Engineer-II---Data-Center-Engineering_R37962?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
+| Registered Nurse - Orthopedic Spine - Skokie Hospital - Days | SKH Skokie Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SKH-Skokie-Hospital/Registered-Nurse---Orthopedic-Spine---Skokie-Hospital---Days_R38152?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 13h |
 
 
 
@@ -256,13 +264,13 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 108 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 104 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 108 positions
+📁 **Total Jobs:** 104 positions
 🏢 **Companies:** 9 companies
 
 
@@ -278,13 +286,14 @@ Either still hiring or useful for research.
 | Registered Nurse (RN) - Physician Practice Cardiology | Decatur, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Decatur-IL/Registered-Nurse--RN----Cardiology_R1034175) | 2w |
 | Registered Nurse (RN), Emergency Room | Highland, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Highland-IL/Registered-Nurse--RN---Emergency-Room_R1032520-1) | 2w |
 
-### 🎓 **Academic Medical Centers** (34 positions)
+### 🎓 **Academic Medical Centers** (33 positions)
 
 <details>
-<summary><h4>📚 <strong>University of Rochester Medical Center</strong> (27 positions)</h4></summary>
+<summary><h4>📚 <strong>University of Rochester Medical Center</strong> (26 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
+| UR Medicine Orthopaedics & Physical Performance – Podiatry – Nurse Navigator | Strong Memorial Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/UR-Medicine-Orthopaedics---Physical-Performance---Podiatry---Nurse-Navigator_R267749?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Cardiac Catheterization & Electrophysiology Holding Area - Nurse Practitioner/Physician Assistant | Strong Memorial Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Cardiac-Catheterization---Electrophysiology-Holding-Area---Nurse-Practitioner-Physician-Assistant_R267740-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Primary Care - Family Medicine - Medical Associates of Henrietta - LPN 2, Outpt | Medical Associates of Henrietta | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Medical-Associates-of-Henrietta/Primary-Care---Family-Medicine---Medical-Associates-of-Henrietta---LPN-2--Outpt_R265748?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Dialysis (Acute Unit) - Registered Nurse 2, Inpatient | Strong Memorial Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Dialysis--Acute-Unit----Registered-Nurse-2--Inpatient_R267733?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
@@ -298,8 +307,6 @@ Either still hiring or useful for research.
 | University Gynecology and Childbirth Associates (UGCA) - Registered Nurse | Canal View Boulevard | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/777-Canal-View-Boulevard/University-Gynecology-and-Childbirth-Associates--UGCA----Registered-Nurse-2_R263149?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | 71600 - Medical ICU Unit – Registered Nurse 1 or 2, Inpatient | Strong Memorial Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/XMLNAME-71600---Medical-ICU-Unit---Registered-Nurse-2--Inpatient_R258362?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Ambulatory Sawgrass - Operating Room – Surgical Technician | Multiple Cities | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/180-Sawgrass-Drive/Ambulatory-Sawgrass---Operating-Room---Surgical-Technician_R265555?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Hospital Medicine APP - Nurse Practitioner/Physician Assistant | Strong Memorial Hospital | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Hospital-Medicine-APP---Nurse-Practitioner-Physician-Assistant_R267722?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
-| Radiation Oncology Nurse at Strong – Wilmot Cancer Institute – RN 2, Ambulatory | James P. Wilmot Cancer Center | ![Entry](https://img.shields.io/badge/Entry-00C853) | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/James-P-Wilmot-Cancer-Center/Radiation-Oncology-Nurse-at-Strong---Wilmot-Cancer-Institute---RN-3--Ambulatory_R267168?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | 71600 - MICU ICU - LPN 2 Inpt | Strong Memorial Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/XMLNAME-71600---MICU-ICU---LPN-2-Inpt_R267679-1?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Comprehensive Psychiatric Emergency Program (CPEP) - Psychiatric Nurse Practitioner | Strong Memorial Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Comprehensive-Psychiatric-Emergency-Program--CPEP----Psychiatric-Nurse-Practitioner-Physician-Assistant_R262099?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
 | Valve clinic/Structural heart team - Nurse Practitioner/Physician Assistant ( | Strong Memorial Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://rochester.wd5.myworkdayjobs.com/en-US/UR_Nursing/job/Strong-Memorial-Hospital/Valve-clinic-Structural-heart-team---Nurse-Practitioner-Physician-Assistant--_R267660?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1w |
@@ -327,10 +334,10 @@ Either still hiring or useful for research.
 | Laboratory Scientist/MLS/CLS/MT – Blood Bank – Evenings | Richmond, VA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Laboratory-Scientist-MLS-CLS-MT---Hematology---Evenings_R40806-1) | 1w |
 | Laboratory Scientist/MLS/CLS/MT - Blood Bank - Part-Time (20 hrs/wk) | Richmond, VA | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vcuhealth.wd1.myworkdayjobs.com/en-US/VCUHealth_careers/job/Richmond-VA/Laboratory-Scientist-MLS-CLS-MT---Blood-Bank---Part-Time--20-hrs-wk-_R40766-1) | 3w |
 
-### 🔗 **Integrated Health Networks** (28 positions)
+### 🔗 **Integrated Health Networks** (29 positions)
 
 <details>
-<summary><h4>🏨 <strong>Endeavor Health</strong> (28 positions)</h4></summary>
+<summary><h4>🏨 <strong>Endeavor Health</strong> (29 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -360,8 +367,9 @@ Either still hiring or useful for research.
 | Registered Nurse-Emergency Department-Nights | HPH Highland Park Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/Registered-Nurse-Emergency-Department-Nights_R28361?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | Occupational Therapist I - Inpatient/Outpatient- Multiple Locations | Multiple Cities | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist--Inpatient-Outpatient--Multiple-Locations_R23823?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
 | Physical Therapist Assistant- Inpatient and Outpatient- Multiple Locations | Multiple Cities | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Physical-Therapist-Assistant--Inpatient-and-Outpatient--Multiple-Locations_R23769?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 2w |
-| CT Technologist | HPH Highland Park Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/HPH-Highland-Park-Hospital/CT-Technologist-II_R29747?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
-| RN - Women and Infants - Per Diem - Nights | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/RN---Women-and-Infants---Per-Diem---Nights_R34273?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
+| Clinical Nurse Educator - Department Based - CVICU - Days | GBH Glenbrook Hospital Glenview | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Clinical-Nurse-Educator---Department-Based---CVICU---Days_R36514?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
+| Patient Access Representative | GBH Glenbrook Hospital Glenview | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/GBH-Glenbrook-Hospital-Glenview/Patient-Access-Representative-II_R36490?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
+| Medical Laboratory Scientist - Core Lab - Evenings | EMH in Hospital Elmhurst | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EMH-Main-Hospital-Elmhurst/Medical-Laboratory-Scientist---Core-Lab---Evenings_R33050?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1mo |
 
 </details>
 
