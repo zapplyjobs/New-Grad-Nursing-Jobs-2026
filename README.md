@@ -234,9 +234,9 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Physical Therapist II -outpatient- days/evenings | NSO Evanston Benson | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Evanston-Benson/Physical-Therapist-II--outpatient--days-evenings_R35995?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 22h |
-| Medical Social Worker LCSW - Social Services | SWH Swedish Hospital Chicago | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Medical-Social-Worker-LCSW---Social-Services_R37508?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 22h |
-| Physical Therapist Assistant II - Inpatient - Days | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Physical-Therapist-Assistant-II---Inpatient---Days_R37255?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 23h |
+| Physical Therapist II -outpatient- days/evenings | NSO Evanston Benson | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Evanston-Benson/Physical-Therapist-II--outpatient--days-evenings_R35995?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 23h |
+| Medical Social Worker LCSW - Social Services | SWH Swedish Hospital Chicago | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Medical-Social-Worker-LCSW---Social-Services_R37508?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 23h |
+| Physical Therapist Assistant II - Inpatient - Days | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Physical-Therapist-Assistant-II---Inpatient---Days_R37255?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Occupational Therapist | EVH Evanston Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist-I_R37965?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Public Safety Officer | Multiple Cities | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SKH-Skokie-Hospital/Public-Safety-Officer_R38222?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | RN - Labor and Delivery - Nights | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/RN---Labor-and-Delivery---Nights_R27669?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
@@ -262,13 +262,13 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 103 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 102 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 103 positions
+📁 **Total Jobs:** 102 positions
 🏢 **Companies:** 9 companies
 
 
