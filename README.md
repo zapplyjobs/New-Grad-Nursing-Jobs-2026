@@ -127,10 +127,10 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (34 positions)
+### ✝️ **Faith-Based Health Systems** (33 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (20 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (19 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -142,7 +142,6 @@ Check out what we're doing on our socials, join our community to connect with fe
 | Medical Assistant (MA) - Cardiology | Springfield, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA----Cardiology_R1034161-1) | 1d |
 | CT Technologist | Springfield - St. John's Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield---St-Johns-Hospital/CT-Technologist_R1034436) | 1d |
 | Registrar - Family Medicine | Shelbyville, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shelbyville-IL/Registrar---Family-Medicine_R1034476) | 1d |
-| Medical Assistant (MA) - Family Medicine | Shelbyville, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shelbyville-IL/Medical-Assistant--MA----Family-Medicine_R1034622) | 1d |
 | Physician - General Cardiologist | O'Fallon, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Physician---General-Cardiologist_R1034643) | 1d |
 | *Interventional Radiology Technologist | Springfield, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Interventional-Radiology-Technologist-II_R1030623) | 1d |
 | Registrar– Patient Access Center | Springfield - Joslin Diabetes Center | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield---Joslin-Diabetes-Center/Registrar--Patient-Access-Center_R1034544) | 1d |
@@ -235,8 +234,8 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
-| Physical Therapist II -outpatient- days/evenings | NSO Evanston Benson | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Evanston-Benson/Physical-Therapist-II--outpatient--days-evenings_R35995?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 23h |
-| Medical Social Worker LCSW - Social Services | SWH Swedish Hospital Chicago | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Medical-Social-Worker-LCSW---Social-Services_R37508?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 23h |
+| Physical Therapist II -outpatient- days/evenings | NSO Evanston Benson | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NSO-Evanston-Benson/Physical-Therapist-II--outpatient--days-evenings_R35995?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
+| Medical Social Worker LCSW - Social Services | SWH Swedish Hospital Chicago | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SWH-Swedish-Hospital-Chicago/Medical-Social-Worker-LCSW---Social-Services_R37508?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Physical Therapist Assistant II - Inpatient - Days | NCH 800 W Central Rd Arlington Heights | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/NCH-800-W-Central-Rd-Arlington-Heights/Physical-Therapist-Assistant-II---Inpatient---Days_R37255?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Occupational Therapist | EVH Evanston Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/EVH-Evanston-Hospital/Occupational-Therapist-I_R37965?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
 | Public Safety Officer | Multiple Cities | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://nshs.wd1.myworkdayjobs.com/en-US/ns-eeh/job/SKH-Skokie-Hospital/Public-Safety-Officer_R38222?locationCountry=bc33aa3152ec42d4995f4791a106ed09) | 1d |
