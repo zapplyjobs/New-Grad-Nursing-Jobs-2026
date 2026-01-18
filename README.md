@@ -127,10 +127,10 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 </details>
 
-### ✝️ **Faith-Based Health Systems** (34 positions)
+### ✝️ **Faith-Based Health Systems** (33 positions)
 
 <details>
-<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (20 positions)</h4></summary>
+<summary><h4>✝️ <strong>Hospital Sisters Health System</strong> (19 positions)</h4></summary>
 
 | Role | Location | Level | Apply Now | Age |
 |------|----------|-------|-----------|-----|
@@ -142,7 +142,6 @@ Check out what we're doing on our socials, join our community to connect with fe
 | Medical Assistant (MA) - Cardiology | Springfield, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Medical-Assistant--MA----Cardiology_R1034161-1) | 1d |
 | CT Technologist | Springfield - St. John's Hospital | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield---St-Johns-Hospital/CT-Technologist_R1034436) | 1d |
 | Registrar - Family Medicine | Shelbyville, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shelbyville-IL/Registrar---Family-Medicine_R1034476) | 1d |
-| Medical Assistant (MA) - Family Medicine | Shelbyville, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Shelbyville-IL/Medical-Assistant--MA----Family-Medicine_R1034622) | 1d |
 | Physician - General Cardiologist | O'Fallon, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/OFallon-IL/Physician---General-Cardiologist_R1034643) | 1d |
 | *Interventional Radiology Technologist | Springfield, IL | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield-IL/Interventional-Radiology-Technologist-II_R1030623) | 1d |
 | Registrar– Patient Access Center | Springfield - Joslin Diabetes Center | ![Mid](https://img.shields.io/badge/-Mid-blue "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hshs.wd1.myworkdayjobs.com/en-US/hshscareers/job/Springfield---Joslin-Diabetes-Center/Registrar--Patient-Access-Center_R1034544) | 1d |
@@ -263,13 +262,13 @@ Our team reviews within 24-48 hours and approved jobs are added to the main list
 Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <details>
-<summary><h2>📁 <strong>Archived Data Jobs – 103 (7+ days old)</strong> - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived Data Jobs – 100 (7+ days old)</strong> - Click to Expand</h2></summary>
 
 Either still hiring or useful for research.
 
 ### **Archived Job Stats**
 
-📁 **Total Jobs:** 103 positions
+📁 **Total Jobs:** 100 positions
 🏢 **Companies:** 9 companies
 
 
