@@ -380,7 +380,17 @@ Check out what we're doing on our socials, join our community to connect with fe
 
 ---
 
+## Fresh Nursing Jobs 2026
+
+<img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+
+${generateJobTable(currentJobs)}
+
+---
+
 ## More Resources
+
+Check out our other repos for jobs and free resources:
 
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
@@ -403,14 +413,6 @@ Check out what we're doing on our socials, join our community to connect with fe
   &nbsp;&nbsp;
   <a href="https://github.com/zapplyjobs/underclassmen-internships"><img src="images/repo-uci.png" alt="Underclassmen Internships" height="40"></a>
 </p>
-
----
-
-## Fresh Nursing Jobs 2026
-
-<img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
-
-${generateJobTable(currentJobs)}
 
 ---
 
