@@ -1,0 +1,68 @@
+{
+  "top_healthcare_systems": [
+    {
+      "name": "Cleveland Clinic",
+      "emoji": "⭐",
+      "career_url": "https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers",
+      "api_names": ["cleveland clinic", "ccf", "cleaveland clinic"]
+    },
+    {
+      "name": "New York Presbyterian",
+      "emoji": "🗽",
+      "career_url": "https://nyp.wd1.myworkdayjobs.com/nypcareers",
+      "api_names": ["new york presbyterian", "nyp", "presbyterian"]
+    },
+    {
+      "name": "Stanford Health Care",
+      "emoji": "🎓",
+      "career_url": "https://stanfordhealthcare.wd5.myworkdayjobs.com/en-US/SHC_External_Career_Site",
+      "api_names": ["stanford health care", "stanford healthcare", "stanford medicine"]
+    },
+    {
+      "name": "Intermountain Health",
+      "emoji": "⛰️",
+      "career_url": "https://imh.wd108.myworkdayjobs.com/IntermountainCareers",
+      "api_names": ["intermountain health", "intermountain healthcare"]
+    },
+    {
+      "name": "Vanderbilt Health",
+      "emoji": "🏛️",
+      "career_url": "https://vumc.wd1.myworkdayjobs.com/vumccareers",
+      "api_names": ["vanderbilt health", "vanderbilt university medical center", "vumc"]
+    }
+  ],
+  "academic_medical_centers": [
+    {
+      "name": "University of Rochester Medical Center",
+      "emoji": "📚",
+      "career_url": "https://rochester.wd5.myworkdayjobs.com/UR_Nursing",
+      "api_names": ["university of rochester medical center", "urmc", "rochester medical center"]
+    },
+    {
+      "name": "VCU Health",
+      "emoji": "🏥",
+      "career_url": "https://vcuhealth.wd1.myworkdayjobs.com/VCUHealth_careers",
+      "api_names": ["vcu health", "virginia commonwealth university health", "vcu medical center"]
+    }
+  ],
+  "regional_health_networks": [
+    {
+      "name": "Hospital Sisters Health System",
+      "emoji": "✝️",
+      "career_url": "https://hshs.wd1.myworkdayjobs.com/hshscareers",
+      "api_names": ["hospital sisters health system", "hshs"]
+    },
+    {
+      "name": "Allina Health",
+      "emoji": "💙",
+      "career_url": "https://allina.wd5.myworkdayjobs.com/External",
+      "api_names": ["allina health", "allina", "alina health"]
+    },
+    {
+      "name": "Endeavor Health",
+      "emoji": "🏨",
+      "career_url": "https://nshs.wd1.myworkdayjobs.com/ns-eeh",
+      "api_names": ["endeavor health", "northshore endeavor health"]
+    }
+  ]
+}
