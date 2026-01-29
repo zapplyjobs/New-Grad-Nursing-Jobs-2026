@@ -308,10 +308,10 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
 // ADD THIS LINE:
  const filteredJobs = filterOutSeniorPositions(displayedJobs);
 
- const displayedJobCount = displayedJobs.length;
- const totalCompanies = [...new Set(displayedJobs.map(j => normalizeCompanyName(j.employer_name)))].length;
+ const displayedJobCount = filteredJobs.length;
+ const totalCompanies = [...new Set(filteredJobs.map(j => normalizeCompanyName(j.employer_name)))].length;
 
- const jobTable = generateJobTable(currentJobs);
+ const jobTable = generateJobTable(filteredJobs);
  const archivedSection = generateArchivedSection(archivedJobs, stats);
 
  return `<div align="center">
