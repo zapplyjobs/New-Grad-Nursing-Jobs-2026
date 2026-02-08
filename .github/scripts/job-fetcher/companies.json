@@ -1,0 +1,116 @@
+{
+  "major_healthcare": [
+    {
+      "name": "HCA Healthcare",
+      "emoji": "🏥",
+      "career_url": "https://careers.hcahealthcare.com",
+      "api_names": ["hca healthcare", "hca"]
+    },
+    {
+      "name": "Kaiser Permanente",
+      "emoji": "⚕️",
+      "career_url": "https://jobs.kaiserpermanente.org",
+      "api_names": ["kaiser permanente", "kaiser"]
+    },
+    {
+      "name": "Mayo Clinic",
+      "emoji": "🏥",
+      "career_url": "https://jobs.mayoclinic.org",
+      "api_names": ["mayo clinic", "mayo"]
+    },
+    {
+      "name": "Cleveland Clinic",
+      "emoji": "🏥",
+      "career_url": "https://my.clevelandclinic.org/careers",
+      "api_names": ["cleveland clinic"]
+    },
+    {
+      "name": "Johns Hopkins Hospital",
+      "emoji": "🏥",
+      "career_url": "https://www.hopkinsmedicine.org/careers",
+      "api_names": ["johns hopkins", "hopkins"]
+    },
+    {
+      "name": "UPMC",
+      "emoji": "🏥",
+      "career_url": "https://jobs.upmc.com",
+      "api_names": ["upmc", "university of pittsburgh medical center"]
+    },
+    {
+      "name": "Tenet Healthcare",
+      "emoji": "🏥",
+      "career_url": "https://careers.tenethealth.com",
+      "api_names": ["tenet healthcare", "tenet"]
+    },
+    {
+      "name": "Providence",
+      "emoji": "✝️",
+      "career_url": "https://careers.providence.org",
+      "api_names": ["providence"]
+    },
+    {
+      "name": "Ascension",
+      "emoji": "✝️",
+      "career_url": "https://careers.ascension.org",
+      "api_names": ["ascension"]
+    },
+    {
+      "name": "CommonSpirit Health",
+      "emoji": "🏥",
+      "career_url": "https://commonspirit.org/careers",
+      "api_names": ["commonspirit health", "commonspirit"]
+    }
+  ],
+  "nursing_services": [
+    {
+      "name": "Travel Nurses",
+      "emoji": "✈️",
+      "career_url": "https://travelnurses.com/careers",
+      "api_names": ["travel nurses", "travel nurse"]
+    },
+    {
+      "name": "AMN Healthcare",
+      "emoji": "🏥",
+      "career_url": "https://www.amnhealthcare.com/careers",
+      "api_names": ["amn healthcare", "amn"]
+    },
+    {
+      "name": "Cross Country Nurses",
+      "emoji": "✈️",
+      "career_url": "https://www.crosscountrynurses.com",
+      "api_names": ["cross country nurses"]
+    },
+    {
+      "name": "Aya Healthcare",
+      "emoji": "🏥",
+      "career_url": "https://www.ayahealthcare.com/careers",
+      "api_names": ["aya healthcare", "aya"]
+    },
+    {
+      "name": "Triage Staffing",
+      "emoji": "🏥",
+      "career_url": "https://triagestaff.com/careers",
+      "api_names": ["triage staffing"]
+    }
+  ],
+  "federal_va": [
+    {
+      "name": "VA Hospitals",
+      "emoji": "🇺🇸",
+      "career_url": "https://www.va.gov/jobs",
+      "api_names": ["va", "veterans affairs", "veterans administration"]
+    },
+    {
+      "name": "Military Hospitals",
+      "emoji": "🇺🇸",
+      "career_url": "https://military.com/careers",
+      "api_names": ["military"]
+    },
+    {
+      "name": "Public Health Service",
+      "emoji": "🏥",
+      "career_url": "https://www.usphs.gov/careers",
+      "api_names": ["public health service", "usphs"]
+    }
+  ]
+}
