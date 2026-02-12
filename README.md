@@ -6,11 +6,11 @@
 # Software Engineering Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-7-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-5-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-12-blue?style=flat&logo=building) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 9+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 7+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 12+ top companies like Tesla, NVIDIA, and Raytheon. Updated every 15 minutes with 5+ fresh opportunities for new graduates, CS students, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -61,15 +61,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/sej-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (7 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (5 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Legacy Health** | Advanced Practitioner/CNS - Card... | Cedar Hills, Oregon | 19h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/cedar-hills-or/advanced-practitioner-cns-cardiology-110619/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Memorial Sloan Kettering Cancer Center** | Clinical Nurse | Outpatient Infu... | Queens, New York | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.learn4good.com/jobs/new-york/nursing/4863966079/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Legacy Health** | Advanced Practitioner/CNS - Card... | Cedar Hills, Oregon | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/cedar-hills-or/advanced-practitioner-cns-cardiology-110619/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Memorial Sloan Kettering Cancer Center** | Clinical Nurse - Wound Ostomy Co... | Bellerose, New York | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.learn4good.com/jobs/new-york/nursing/4863965667/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **beBeeNursing** | Clinical Nurse Specialist Positions | Grand Island, Nebraska | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/amp/job/us-ne-grand-island-clinical-nurse-specialist-positions-bebeenursing?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏥 **Cleveland Clinic** | Advanced Practice Provider (NP/P... | Cleveland, Ohio | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://career.io/job/advanced-practice-provider-nppacns-interventional-radiology-i-cleveland-cleveland-clinic-131c5fdcb15c77772a651a751455517f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Albany Medical Center** | Clinical Nurse II: C6 Short Stay... | Schoharie, New York | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.learn4good.com/jobs/new-york/nursing/4856082922/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Incredible Health** | Clinical Nurse Specialist | Boston, Massachusetts | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.incrediblehealth.com/jobs/nurse/caLU9gQ8AhatdjDekSh4UBiP/a-cns-boston-ma?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
@@ -130,18 +128,25 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 4 (7+ days old) - Click to Expand</h2></summary>
+<summary><h2>📁 <strong>Archived SWE Jobs</strong> - 5 (7+ days old) - Click to Expand</h2></summary>
 
 > Either still hiring or useful for research.
 
 ### **Archived Job Stats**
-- **📁 Total Jobs**: 4 positions
-- **🏢 Companies**: 9 companies  
+- **📁 Total Jobs**: 5 positions
+- **🏢 Companies**: 12 companies  
 - **⭐ FAANG+ Jobs & Internships**: 0 roles
+
+<details>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **Essentia Health** | Clinical Nurse Specialist 🏠 | Duluth, Minnesota | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/8aff0bb30eb8f4d5af00efe89a564072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+
 
 </details>
 
@@ -153,7 +158,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 7 current opportunities from 9 elite companies.**
+**🎯 5 current opportunities from 12 elite companies.**
 
 **Found this helpful? Give it a ⭐ to support us!**
 
