@@ -1,7 +1,7 @@
 {
   "date": "Thu Feb 12 2026",
-  "requests": 13,
-  "remaining": 17,
+  "requests": 14,
+  "remaining": 16,
   "queries_executed": [
     "registered nurse",
     "registered nurse",
@@ -15,6 +15,7 @@
     "nurse practitioner",
     "nurse practitioner",
     "nurse practitioner",
+    "np nurse",
     "np nurse"
   ]
 }
