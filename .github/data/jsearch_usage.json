@@ -1,7 +1,7 @@
 {
   "date": "Thu Feb 12 2026",
-  "requests": 29,
-  "remaining": 1,
+  "requests": 30,
+  "remaining": 0,
   "queries_executed": [
     "registered nurse",
     "registered nurse",
@@ -31,6 +31,7 @@
     "charge nurse",
     "charge nurse",
     "nurse manager",
-    "nurse manager"
+    "nurse manager",
+    "nurse supervisor"
   ]
 }
