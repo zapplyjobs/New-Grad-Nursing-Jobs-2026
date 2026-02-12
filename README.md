@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="images/sej-heading.png" alt="Software Engineering Jobs 2026 - Illustration of people working on tech.">
+<img src="images/nsj-heading.png" alt="Nursing Jobs 2026 - Illustration of healthcare professionals.">
 
-# Software Engineering Jobs 2026
+# Nursing Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
