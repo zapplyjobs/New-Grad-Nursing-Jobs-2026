@@ -1,16 +1,16 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="images/rmj-heading.png" alt="Remote Jobs 2026 - Illustration of people networking.">
+<img src="images/nsj-heading.png" alt="New-Grad-Nursing-Jobs Jobs 2026 - Illustration of people networking.">
 
 # Remote Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-7-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building) ![Registered](https://img.shields.io/badge/Registered_Nurs-5-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building) ![Registered](https://img.shields.io/badge/Registered_Nurs-1-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 7 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 7 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 1 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -33,44 +33,38 @@ Explore Zapply's website and check out:
 Experience an advanced career journey with us! 🚀
 
 <p align="center">
-  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" height="60"></a>
+  <a href="https://zapply.jobs/"><img src="images/zapply-button.png" alt="Visit Our Website" width="300"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://chromewebstore.google.com/detail/zapply-instant-autofill-f/lkomdndabnpakcabffgobiejimpamjom"><img src="images/extension-button.png" alt="Install Our Extension" height="60"></a>
+  <a href=""><img src="images/extension-button.png" alt="Install Our Extension - Coming Soon" width="300"></a>
 </p>
 
 ---
 
-## Explore Around
+## Join Our Community
 
-<img src="images/community.png" alt="Explore Around">
+<img src="images/community.png" alt="Join Our Community - Illustration of people holding hands.">
 
-Connect and seek advice from a growing network of fellow students and new grads.
+Connect with fellow job seekers, get career advice, share experiences, and stay updated on the latest opportunities. Join our community of developers and CS students navigating their career journey together!
 
 <p align="center">
-  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Join Our Discord" height="60"></a>
+  <a href="https://discord.gg/UswBsduwcD"><img src="images/discord-2d.png" alt="Visit Our Website" width="250"></a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" height="60"></a>
+  <a href="https://www.instagram.com/zapplyjobs"><img src="images/instagram-icon-2d.png" alt="Instagram" width="120"></a>
   &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" height="60"></a>
+  <a href="https://www.tiktok.com/@zapplyjobs"><img src="images/tiktok-icon-2d.png" alt="TikTok" width="120"></a>
 </p>
 
 ---
 
 ## Fresh Software Jobs 2026
 
-<img src="images/rmj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+<img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### 🏢 **Other Companies** (7 positions)
+### 🏢 **Other Companies** (1 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Audie L Murphy Memorial Veterans Hospital** | Licensed Practical/License Vocation... | San Antonio, | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/856963200?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Michael E DeBakey VA Medical Center** | Licensed Practical / Vocational Nur... | Sugar Land,  | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857205000?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **University Health** | Clinic Nurse - LVN (PLEASANTON) | Pleasanton,  | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=b7a54b3ac90f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Biolife Plasma Services** | Biolife Nurse - LVN - Part Time - E... | Pearland, Te | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.biolifeplasma.com/job/pearland/biolife-nurse-lvn-part-time-evenings-and-weekends/32806/91559688640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Texas Health** | Licensed Vocational Nurse - LVN | Dallas, Texa | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.texashealth.org/job/22953201/licensed-vocational-nurse-lvn-dallas-tx/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Lakeside Special Care Center** | LVN - Licensed Vocational Nurse (Pa... | Winter Garde | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/vocational-nurse?id=2445246691&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **El Paso VA Clinic** | Licensed Vocational Nurse - Educati... | Las Cruces,  | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857199900?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **American HealthCare LLC** | CNA- Certified Nursing Assistant | Grundy, Virg | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/AMERICAN-HEALTHCARE-LLC/Job/CNA-Certified-Nursing-Assistant/-in-Grundy,VA?jid=61a4632aebb42d49&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 
@@ -123,19 +117,20 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 6 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 4 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 6 positions
-- **🏢 Companies**: 7 companies
+- **📁 Total Jobs**: 4 positions
+- **🏢 Companies**: 1 companies
 - **🏷️ Top Category**: Registered Nurse
 
-### 🏢 **Other Companies** (2 positions)
+### 🏢 **Other Companies** (3 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Quality Talent Group** | Licensed Vocational Nurse | Hallsville,  | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/licensed-vocational-nurse?id=2440672326&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Harris Health System** | LVN- Correctional Health - Days and... | Houston, Tex | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.harrishealth.org/lvn-correctional-health-days-and-nights-available/job/1E8C87978350B0FB81EB04A1FDFE56BD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **The Laurels of University Park** | Certified Nursing Assistant (CNA) | Richmond, Vi | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cienahealthcare.com/job/richmond/certified-nursing-assistant-cna/45073/86813626544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Queen of the Valley Hospital - West Covina** | Clinical Nurse Partner (CNA) - Floa... | West Covina, | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.emanatehealth.org/job/west-covina/clinical-nurse-partner-cna-float-full-time-days-12hr-qvh/289/91397309904?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Advocate Aurora** | Nursing Assistant (CNA) Float Pool ... | Elgin, Illin | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.aah.org/job/22958000/nursing-assistant-cna-float-pool-ft-day-elgin-il/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 
@@ -149,7 +144,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**🎯 7 current opportunities from 7 companies**
+**🎯 1 current opportunities from 1 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
