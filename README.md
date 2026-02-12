@@ -6,7 +6,7 @@
 # Remote Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-6-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building) ![Registered](https://img.shields.io/badge/Registered_Nurs-5-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-6-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building) ![Registered](https://img.shields.io/badge/Registered_Nurs-6-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
@@ -64,12 +64,12 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **University of Maryland St. Joesph's Medical Center** | Certified Nurse Midwife | Towson, Mary | 6d ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.practicematch.com/advanced-practitioners/job-details.cfm/1078442/womens-health/maryland/towson/university-of-maryland-st.-joesph's-medical-center/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Unified Women's Healthcare** | Certified Nurse Midwife | Ocean Townsh | 6d ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.marithealth.com/jobs/2f01add5-ecc9-49eb-9a89-5bad0978987c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Sanford Health** | APP - Certified Nurse Midwife | Fargo, North | 3d ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://sanfordcareers.com/fargo-nd/app-certified-nurse-midwife/ECEBCDCDDC164846B1E2FF9F2FCDA338/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Emdego Provider Partners** | Midwife (CNM) - Permanent - NY | New York, Ne | 3d ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.doccafe.com/job/midwife/obstetrics/20108527/midwife-cnm-permanent-ny?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Lancesoft INC** | 💼 $135/hr Certified Nurse Midwife ... | Steamboat Sp | 6d ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.doccafe.com/job/midwife/obstetrics/20001004/135-hr-certified-nurse-midwife-locum-opportunity-steamboat-springs-co-travel-lodging-covered?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **NOW Healthcare Recruiting (NP Now)** | Certified Nurse Midwife / CNM | Fergus Falls | 2d ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.doccafe.com/job/midwife/obstetrics/20082050/certified-nurse-midwife-cnm?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Ann Arbor VA Medical Center** | Registered Nurse - Post Anesthesia ... | Ann Arbor, M | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857277600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **CW Bill Young Department of Veterans Affairs Medical Center** | ENDOSCOPY REGISTERED NURSE (Intermi... | Bay Pines, F | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857175700?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Biolife Plasma Services** | Biolife Nurse - Registered Nurse - ... | Pearland, Te | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.biolifeplasma.com/job/pearland/biolife-nurse-registered-nurse-part-time-evenings-and-weekends/32806/91559688672?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Hospital Sisters Health System** | Inpatient Registered Nurse (RN) Med... | Clinton, Ill | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Mercy Health BSMH** | Registered Nurse (RN) - Medical Int... | Cincinnati,  | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mercy.com/us/en/job/R265530/Registered-Nurse-RN-Medical-Intensive-Care-Unit-MICU-Anderson-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Fayetteville NC VA Medical Center** | Practical Nurse (Ambulatory Care) | Jacksonville | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857063100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 
@@ -122,25 +122,18 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 15 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 7 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 15 positions
+- **📁 Total Jobs**: 7 positions
 - **🏢 Companies**: 6 companies
 - **🏷️ Top Category**: Registered Nurse
 
-### 🏢 **Other Companies** (8 positions)
+### 🏢 **Other Companies** (1 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **IHS Headquarter** | Certified Nurse Midwife | Indian Neck, | 1w ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/856124800?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Kaiser Permanente** | Certified Nurse Midwife | Sacramento,  | 1w ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.kaiserpermanentejobs.org/job/sacramento/certified-nurse-midwife/641/91311831152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Department of Human Services** | Certified Nurse Midwife | Providence F | 1w ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Department-of-Human-Services/Job/Certified-Nurse-Midwife/-in-Providence-Forge,VA?jid=0554bb46d3847763&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Department of Human Services** | Certified Nurse Midwife | Madison Heig | 1w ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Department-of-Human-Services/Job/Certified-Nurse-Midwife/-in-Madison-Heights,VA?jid=2ddb4926524f8a15&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Department of Human Services** | Certified Nurse Midwife | Babb, Montan | 1w ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Department-of-Human-Services/Job/Certified-Nurse-Midwife/-in-Babb,MT?jid=cdaa2b52eeea4f10&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Skagit Regional Clinics** | Certified Nurse Midwife – Mount Ver... | Mount Vernon | 1w ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.practicematch.com/advanced-practitioners/job-details.cfm/1090821/obstetrics-gynecology/washington/mount-vernon/skagit-regional-clinics/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **University Hospitals Careers** | Certified Nurse Midwife (C).UHMG CN... | Cleveland, O | 2w ago | ![Mid](https://img.shields.io/badge/-Mid-yellow "Mid-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.uhhospitals.org/job/22785337/certified-nurse-midwife-c-uhmg-cnm-obgyn-92608/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Curative** | Certified Nurse Midwife Opportunity... | La Quinta, C | 3w ago | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.doccafe.com/job/midwife/obstetrics/19724538/certified-nurse-midwife-opportunity-la-quinta-california-4-day-week-no-call?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Rochester Regional Health Careers** | Registered Nurse - Geneva Urgent Ca... | Geneva, New  | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rochesterregional.org/career-opportunities/req_228419/registered-nurse-geneva-urgent-care/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 
@@ -162,6 +155,6 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**Last Updated**: February 9, 2026 • **Next Update**: Daily at 9 AM UTC
+**Last Updated**: February 12, 2026 • **Next Update**: Daily at 9 AM UTC
 
 </div>
