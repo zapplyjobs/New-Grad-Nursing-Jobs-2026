@@ -6,11 +6,11 @@
 # Remote Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-7-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building) ![Registered](https://img.shields.io/badge/Registered_Nurs-7-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-7-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building) ![Registered](https://img.shields.io/badge/Registered_Nurs-5-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 6 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 7 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 7 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 7 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -64,13 +64,13 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Ann Arbor VA Medical Center** | Registered Nurse - Post Anesthesia ... | Ann Arbor, M | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857277600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **CW Bill Young Department of Veterans Affairs Medical Center** | ENDOSCOPY REGISTERED NURSE (Intermi... | Bay Pines, F | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857175700?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Hospital Sisters Health System** | Inpatient Registered Nurse (RN) Med... | Clinton, Ill | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Hospital Sisters Health System** | Registered Nurse (RN) - Med Surg/Ca... | Chatham, Ill | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/registered-nurse-rn-med-surg-cardiac-chatham-il-6985f350e376153722d23346?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Biolife Plasma Services** | Biolife Nurse - Registered Nurse - ... | Pearland, Te | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.biolifeplasma.com/job/pearland/biolife-nurse-registered-nurse-part-time-evenings-and-weekends/32806/91559688672?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Mercy Health BSMH** | Registered Nurse (RN) - Medical Int... | Cincinnati,  | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.mercy.com/us/en/job/R265530/Registered-Nurse-RN-Medical-Intensive-Care-Unit-MICU-Anderson-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Fayetteville NC VA Medical Center** | Practical Nurse (Ambulatory Care) | Jacksonville | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857063100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Audie L Murphy Memorial Veterans Hospital** | Licensed Practical/License Vocation... | San Antonio, | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/856963200?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Michael E DeBakey VA Medical Center** | Licensed Practical / Vocational Nur... | Sugar Land,  | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857205000?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **University Health** | Clinic Nurse - LVN (PLEASANTON) | Pleasanton,  | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=b7a54b3ac90f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Biolife Plasma Services** | Biolife Nurse - LVN - Part Time - E... | Pearland, Te | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.biolifeplasma.com/job/pearland/biolife-nurse-lvn-part-time-evenings-and-weekends/32806/91559688640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Texas Health** | Licensed Vocational Nurse - LVN | Dallas, Texa | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.texashealth.org/job/22953201/licensed-vocational-nurse-lvn-dallas-tx/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Lakeside Special Care Center** | LVN - Licensed Vocational Nurse (Pa... | Winter Garde | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/vocational-nurse?id=2445246691&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **El Paso VA Clinic** | Licensed Vocational Nurse - Educati... | Las Cruces,  | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857199900?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 
@@ -123,20 +123,19 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 10 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 6 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 10 positions
-- **🏢 Companies**: 6 companies
+- **📁 Total Jobs**: 6 positions
+- **🏢 Companies**: 7 companies
 - **🏷️ Top Category**: Registered Nurse
 
-### 🏢 **Other Companies** (3 positions)
+### 🏢 **Other Companies** (2 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **DHR Health** | Registered Nurse (RN) – Full Time –... | Edinburg, Te | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.glassdoor.com/job-listing/registered-nurse-rn-full-time-new-behavioral-hospital-nights-available-dhr-health-JV_IC1140344_KO0,70_KE71,81.htm?jl=1009876760332&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **CEDARS-SINAI** | Registered Nurse - Surgical Stepdow... | California | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cshs.org/job/beverly-hills/registered-nurse-surgical-stepdown-transplant-6nw-12-hour-nights-5-000-hiring-incentive/252/90968891344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Rochester Regional Health Careers** | Registered Nurse - Geneva Urgent Ca... | Geneva, New  | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rochesterregional.org/career-opportunities/req_228419/registered-nurse-geneva-urgent-care/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Quality Talent Group** | Licensed Vocational Nurse | Hallsville,  | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.whatjobs.com/jobs/licensed-vocational-nurse?id=2440672326&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Harris Health System** | LVN- Correctional Health - Days and... | Houston, Tex | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.harrishealth.org/lvn-correctional-health-days-and-nights-available/job/1E8C87978350B0FB81EB04A1FDFE56BD?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 
@@ -150,7 +149,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**🎯 7 current opportunities from 6 companies**
+**🎯 7 current opportunities from 7 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
