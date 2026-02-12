@@ -123,18 +123,19 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 8 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 10 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 8 positions
+- **📁 Total Jobs**: 10 positions
 - **🏢 Companies**: 6 companies
 - **🏷️ Top Category**: Registered Nurse
 
-### 🏢 **Other Companies** (2 positions)
+### 🏢 **Other Companies** (3 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **DHR Health** | Registered Nurse (RN) – Full Time –... | Edinburg, Te | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.glassdoor.com/job-listing/registered-nurse-rn-full-time-new-behavioral-hospital-nights-available-dhr-health-JV_IC1140344_KO0,70_KE71,81.htm?jl=1009876760332&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **CEDARS-SINAI** | Registered Nurse - Surgical Stepdow... | California | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cshs.org/job/beverly-hills/registered-nurse-surgical-stepdown-transplant-6nw-12-hour-nights-5-000-hiring-incentive/252/90968891344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Rochester Regional Health Careers** | Registered Nurse - Geneva Urgent Ca... | Geneva, New  | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.rochesterregional.org/career-opportunities/req_228419/registered-nurse-geneva-urgent-care/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
