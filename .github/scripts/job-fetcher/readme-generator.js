@@ -530,7 +530,7 @@ async function generateReadme(currentJobs, archivedJobs = [], internshipData = n
   return `<div align="center">
 
 <!-- Banner -->
-<img src="images/rmj-heading.png" alt="Remote Jobs 2026 - Illustration of people networking.">
+<img src="images/nsj-heading.png" alt="New-Grad-Nursing-Jobs Jobs 2026 - Illustration of people networking.">
 
 # Remote Jobs 2026
 
@@ -587,7 +587,7 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 ## Fresh Software Jobs 2026
 
-<img src="images/rmj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
+<img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 ${generateJobTable(currentJobs)}
 
