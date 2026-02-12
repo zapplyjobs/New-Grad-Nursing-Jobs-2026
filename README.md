@@ -6,11 +6,11 @@
 # Remote Jobs 2026
 
 <!-- Row 1: Job Stats (Custom Static Badges) -->
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-1-blue?style=flat&logo=building) ![Registered](https://img.shields.io/badge/Registered_Nurs-1-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-9-brightgreen?style=flat&logo=briefcase) ![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building) ![Registered](https://img.shields.io/badge/Registered_Nurs-7-red?style=flat&logo=star) ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 </div>
 
-<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 1 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 1 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
+<p align="center">🚀 Real-time software engineering, programming, and IT jobs from 8 companies like Tesla, NVIDIA, and Raytheon. Updated every 24 hours with 9 fresh opportunities for data analysts, scientists, and entry-level software developers.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -60,11 +60,19 @@ Connect with fellow job seekers, get career advice, share experiences, and stay 
 
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
-### 🏢 **Other Companies** (1 positions)
+### 🏢 **Other Companies** (9 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **American HealthCare LLC** | CNA- Certified Nursing Assistant | Grundy, Virg | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/AMERICAN-HEALTHCARE-LLC/Job/CNA-Certified-Nursing-Assistant/-in-Grundy,VA?jid=61a4632aebb42d49&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **CVS Health** | Virtual Clinician Home Evaluations ... 🏠 | Richmond, Vi | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cvshealth.com/us/en/job/R0828034/Virtual-Clinician-Home-Evaluations-Nurse-Practitioner-or-Physician-Assistant-Full-Time-VA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **CVS Health** | In-Home Nurse Practitioner or Physi... | Selbyville,  | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/CVS/Job/In-Home-Nurse-Practitioner-or-Physician-Assistant-Part-Time-Salisbury/-in-Selbyville,DE?jid=09336fbe3043bb74&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **NPHire** | Acute Care Nurse Practitioner – Wou... | Remote | 9h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/acute-care-nurse-practitioner-%E2%80%93-wound-care-5-day-workweek-%E2%80%93-%2485k-%2B-full-benefits-at-nphire-4371311076?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Sanford Health** | APP - Physician Assistant or Nurse ... | Devils Lake, | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Sanford-Health/Job/APP-Physician-Assistant-or-Nurse-Practitioner-%7C-Family-Medicine-%7C-Devils-Lake/-in-Devils-Lake,ND?jid=7db94c384f92359e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Highmark Health** | Physician Assistant or Nurse Practi... | Greensburg,  | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Highmark-Health/Job/Physician-Assistant-or-Nurse-Practitioner-Outpatient-Medical-Oncology/-in-Greensburg,PA?jid=8047b7eb0a916333&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cone Health** | Experienced Nurse Practitioner or P... | Gibsonville, | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://gfj.conehealth.com/jobdetails/gibsonville-nc-experienced-nurse-practitioner-or-physician-assistant-698513574ef2bb0b4cb92894?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏥 **Cleveland Clinic** | Advanced Practice Provider (NP/PA/C... | Cleveland, O | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.clevelandclinic.org/job/22959402/advanced-practice-provider-np-pa-cns-interventional-radiology-i-main-campus-actionable-findings-clinic-cleveland-oh/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Hospital Sisters Health System** | Advanced Practice Registered Nurse ... | Waterloo, Il | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/advanced-practice-registered-nurse-aprn-physician-assistant-pa-neurosurgery-waterloo-il-68fb5b3ee3761575cb9b9bd8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Commonwealth Medical Services** | Nurse Practitioner - Mobile, AL - F... | Mobile, Alab | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://apply.workable.com/commonwealth-medical-services/j/2DBB281173?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 
@@ -117,20 +125,22 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 4 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 12 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 4 positions
-- **🏢 Companies**: 1 companies
+- **📁 Total Jobs**: 12 positions
+- **🏢 Companies**: 8 companies
 - **🏷️ Top Category**: Registered Nurse
 
-### 🏢 **Other Companies** (3 positions)
+### 🏢 **Other Companies** (5 positions)
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **The Laurels of University Park** | Certified Nursing Assistant (CNA) | Richmond, Vi | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cienahealthcare.com/job/richmond/certified-nursing-assistant-cna/45073/86813626544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Queen of the Valley Hospital - West Covina** | Clinical Nurse Partner (CNA) - Floa... | West Covina, | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.emanatehealth.org/job/west-covina/clinical-nurse-partner-cna-float-full-time-days-12hr-qvh/289/91397309904?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Advocate Aurora** | Nursing Assistant (CNA) Float Pool ... | Elgin, Illin | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.aah.org/job/22958000/nursing-assistant-cna-float-pool-ft-day-elgin-il/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **CVS Health** | In-Home Health - Nurse Practitioner... | Olympia, Was | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cvshealth.com/us/en/job/R0765170/In-Home-Health-Nurse-Practitioner-or-Physician-Assistant-Full-Time-Washington-Traveler?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **One Medical** | Expanded Care (Urgent Care) Nurse P... | Washington,  | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.onemedical.com/job/washington/expanded-care-urgent-care-nurse-practitioner-or-physician-assistant/45973/91097556128?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **DOT Exam Express Inc** | Nurse Practitioner/ MD/ DO | Halethorpe,  | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/nurse-practitioner-md-do-at-dot-exam-express-inc-4366366245?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **WellNow** | Physician Assistant (PA) or Nurse P... | Oneonta, New | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.wellnow.com/us/en/job/R2026-000175/Physician-Assistant-PA-or-Nurse-Practitioner-NP?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **GO Staffing** | Family NP/PA opening in Northeast C... | Meadow Valle | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.doccafe.com/job/nurse-practitioner/family-practice-primary-care/19700693/family-np-pa-opening-in-northeast-ca-about-1-5hrs-from-reno?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 
 
@@ -144,7 +154,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ---
 
-**🎯 1 current opportunities from 1 companies**
+**🎯 9 current opportunities from 8 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
