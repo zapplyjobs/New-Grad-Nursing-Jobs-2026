@@ -66,9 +66,9 @@
     "job_latitude": 38.765114499999996,
     "job_longitude": -76.8983059,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhrEaktAJIR_XzEfQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -181,8 +181,8 @@
     "job_longitude": -89.31557869999999,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPlZ30Qe25_TQ0HCZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -253,8 +253,8 @@
     "job_latitude": 34.946354,
     "job_longitude": -88.9024862,
     "job_benefits": [
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwVg1qCiD98n1J_--AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -305,9 +305,9 @@
     "job_latitude": 37.5901463,
     "job_longitude": -77.5563761,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DfXws3Z7I9A90EDqNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -455,9 +455,9 @@
     "job_latitude": 39.9525839,
     "job_longitude": -75.1652215,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dfjax3sxxtf16_RoWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -742,9 +742,9 @@
     "job_latitude": 37.2934681,
     "job_longitude": -80.05476259999999,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DW7WJpv9oBn4bMkarAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -796,6 +796,133 @@
     "job_onet_soc": "29909900",
     "job_onet_job_zone": "4",
     "id": "careers-hcahealthcare-com-jobs-17019208-rn-labor-and-delivery-unit",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "kpfJb1nnHt-wlRPOAAAAAA==",
+    "job_title": "RN Labor and Delivery",
+    "employer_name": "Baylor Scott & White Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToVdBgP8q3yFaOrhDJugE01509vuSH1CeUjaN&s=0",
+    "employer_website": "https://www.bswhealth.com",
+    "job_publisher": "Careers At Baylor Scott & White Health",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.bswhealth.com/us/en/job/BSWHUS25019891EXTERNALENUS/RN-Labor-and-Delivery?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Careers At Baylor Scott & White Health",
+        "apply_link": "https://jobs.bswhealth.com/us/en/job/BSWHUS25019891EXTERNALENUS/RN-Labor-and-Delivery?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "HCA Healthcare",
+        "apply_link": "https://careers.hcahealthcare.com/jobs/16416886-labor-and-delivery-rn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "APHA Careers - American Public Health Association",
+        "apply_link": "https://careers.apha.org/jobs/21978753/rn-labor-and-delivery?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "National Association Of Nurse Practitioners In Women's Health (NPWH), NPWH CareerCenter",
+        "apply_link": "https://careers.npwh.org/jobs/21978753/rn-l-d-ft-nights?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "IntelyCare",
+        "apply_link": "https://www.intelycare.com/jobs/169269655-rn-labor-and-delivery?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "The Beryl Institute (The Beryl Institute), The Beryl Institute Career Center",
+        "apply_link": "https://pxcareers.theberylinstitute.org/jobs/21999271/rn-labor-and-delivery?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Careers.illinoisaap.org",
+        "apply_link": "https://careers.illinoisaap.org/jobs/21978753/rn-l-d-ft-nights?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/frisco-tx-rn-ld-ft-days?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Baylor Scott & White Medical Center Centennial-Frisco\n\nPosition: RN Labor & Delivery Unit\n\nShift/Schedule – Full Time Nights / three 12-hour shifts including weekends / 6:45 PM - 6:45 AM\n\nPatient Ratios: Varies based on acuity\n\nNumber of Beds: 9 L&D rooms; 2 OR’s\n\nExperience: (2) Two years of recent, full-time experience in L&D, Mother Baby experience is a plus.\n\nAbout Us\n\nAt Baylor Scott & White Health, we promote well-being for everyone. It's the largest healthcare system in Texas that encourages healthy living.\n\nOur Core Values are:\n• We serve faithfully by doing what's right with a joyful heart.\n• We never settle by constantly striving for better.\n• We are in it together by supporting one another and those we serve.\n• We make an impact by taking initiative and delivering exceptional experience.\n\nBenefits\n\nOur benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott & White Benefits Hub to explore our offerings, which may include:\n• Immediate eligibility for health and welfare benefits\n• 401 (k) savings plan with dollar-for-dollar match up to 5%\n• Tuition Reimbursement\n• PTO accrual beginning Day 1\nNote: Benefits may vary based upon position type and/or level\n\nJob Summary\n\nAs a Registered Nurse, will oversee patient care provided by the healthcare team using a professional practice model. Your responsibilities include patient assessment, recognizing health issues, creating care plans, and assessing patient responses.\n\nWhat You'll Do\n• You, as an RN, will conduct detailed clinical assessments, prioritize patient and family needs, create, implement, and evaluate care plans. Adjust plans to reach desired outcomes.\n• Building relationships, managing discomfort, staying professional are vital in therapeutic connections with patients and families.\n• Creating care plans reflecting values aids in resolving issues.\n• You will help educate patients, families, nurses, and community members to empower them with knowledge for better healthcare choices. Assess and document learning needs regularly.\n• Work with colleagues and community to create a care plan. Delegate tasks carefully and follow up promptly.\n• You'll use different strategies for problem-solving with patients, families, and staff. Recognize limitations and prioritize safety, effectiveness, and efficiency in patient care planning and delivery.\n• Achieve goals through teamwork, recognize contributions, commit to growth. Contribute to peers' development, show community service commitment.\n\nWhat Will Make You Successful In The Role\n• A deep understanding of nursing and patient care standards, as well as procedures.\n• Know nursing laws, rules, standards, and guidelines in your area. Understand hospital procedures and rules.\n• Proficiency in medical terms, focusing on health, disease prevention, management, common meds, and their side effects.\n• Respect for medical and professional nursing ethics and patient privacy rights.\n• Exceptional communication skills, allowing for clear expression of thoughts both verbally and in writing.\n• Positive social skills to facilitate interactions with a diverse range of parties.\n• Excellent problem-solving capabilities, driving effective critical thinking.\n• Basic computer skills, encompassing areas such as Microsoft Office, information security, scheduling and payroll systems, electronic medical documentation, and email.\n\nBelonging Statement\n\nWe think everyone should feel welcomed, valued, and supported.\n\nQUALIFICATIONS\n\n- EDUCATION - Grad of an Accredited Program\n\n- MAJOR - Nursing\n\n- MAJOR - Nursing\n\n- MAJOR - Nursing\n\n- EXPERIENCE - 2 Years of Experience\n\n- CERTIFICATION/LICENSE/REGISTRATION -\nRegistered Nurse (RN)\n\nBasic Life Support (BLS): BLS or BLS within 30 days of hire or transfer.\n\nPREFFERED: ACLS and NRP",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Frisco, TX",
+    "job_city": "Frisco",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 33.1496718,
+    "job_longitude": -96.835567,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkpfJb1nnHt-wlRPOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "A deep understanding of nursing and patient care standards, as well as procedures",
+        "Know nursing laws, rules, standards, and guidelines in your area",
+        "Respect for medical and professional nursing ethics and patient privacy rights",
+        "Exceptional communication skills, allowing for clear expression of thoughts both verbally and in writing",
+        "Positive social skills to facilitate interactions with a diverse range of parties",
+        "Excellent problem-solving capabilities, driving effective critical thinking",
+        "Basic computer skills, encompassing areas such as Microsoft Office, information security, scheduling and payroll systems, electronic medical documentation, and email",
+        "EDUCATION - Grad of an Accredited Program",
+        "MAJOR - Nursing",
+        "MAJOR - Nursing",
+        "MAJOR - Nursing",
+        "EXPERIENCE - 2 Years of Experience",
+        "CERTIFICATION/LICENSE/REGISTRATION -",
+        "Basic Life Support (BLS): BLS or BLS within 30 days of hire or transfer",
+        "PREFFERED: ACLS and NRP"
+      ],
+      "Benefits": [
+        "Our benefits are designed to help you live well no matter where you are on your journey",
+        "Immediate eligibility for health and welfare benefits",
+        "401 (k) savings plan with dollar-for-dollar match up to 5%",
+        "Tuition Reimbursement",
+        "PTO accrual beginning Day 1"
+      ],
+      "Responsibilities": [
+        "Shift/Schedule – Full Time Nights / three 12-hour shifts including weekends / 6:45 PM - 6:45 AM",
+        "Patient Ratios: Varies based on acuity",
+        "Number of Beds: 9 L&D rooms; 2 OR’s",
+        "As a Registered Nurse, will oversee patient care provided by the healthcare team using a professional practice model",
+        "Your responsibilities include patient assessment, recognizing health issues, creating care plans, and assessing patient responses",
+        "You, as an RN, will conduct detailed clinical assessments, prioritize patient and family needs, create, implement, and evaluate care plans",
+        "Adjust plans to reach desired outcomes",
+        "Building relationships, managing discomfort, staying professional are vital in therapeutic connections with patients and families",
+        "Creating care plans reflecting values aids in resolving issues",
+        "You will help educate patients, families, nurses, and community members to empower them with knowledge for better healthcare choices",
+        "Assess and document learning needs regularly",
+        "Work with colleagues and community to create a care plan",
+        "Delegate tasks carefully and follow up promptly",
+        "You'll use different strategies for problem-solving with patients, families, and staff",
+        "Recognize limitations and prioritize safety, effectiveness, and efficiency in patient care planning and delivery",
+        "Achieve goals through teamwork, recognize contributions, commit to growth",
+        "Contribute to peers' development, show community service commitment",
+        "Understand hospital procedures and rules",
+        "Proficiency in medical terms, focusing on health, disease prevention, management, common meds, and their side effects"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "jobs-bswhealth-com-us-en-job-bswhus25019891externalenus-rn-labor-and-delivery",
     "_source": "new_jobs"
   },
   {
@@ -886,85 +1013,58 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "1C8EFzr9ObJUC2gWAAAAAA==",
-    "job_title": "RN - Labor and Delivery (L&D)",
-    "employer_name": "Flaget Memorial Hospital 1",
+    "job_id": "3O99x4a-znLyd90mAAAAAA==",
+    "job_title": "Labor & Delivery (L&D) RN - $ 2,253 / week",
+    "employer_name": "Taurus Staffing Solutions",
     "employer_logo": null,
-    "employer_website": "https://chi-saint-joseph-health-flaget-memorial-hospital-1.wheree.com",
+    "employer_website": "https://www.taurusstaffingsol.com",
     "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=0af026ac36c6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=a3fac771b411&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=0af026ac36c6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5619760888?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/17ecd08ffc367324c452e58cd4fae491?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-4023-1e326efb367fa80f467fa645ffbdb1a6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "True Work Zone",
-        "apply_link": "https://theboard.trueworkzone.com/joblistings/a5knj6eb9jeu-0281ae3-f68c9e7fa7663c-c876457719b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=a3fac771b411&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Details\n\nClient Name\n\nFlaget Memorial Hospital 1\n\nJob Type\n\nTravel\n\nOffering\n\nNursing\n\nProfession\n\nRN\n\nSpecialty\n\nLabor and Delivery (L&D)\n\nJob ID\n\n35785516\n\nJob Title\n\nRN - Labor and Delivery (L&D)\n\nWeekly Pay\n\n$1471.0\n\nShift Details\n\nShift\n\n7p-730a\n\nScheduled Hours\n\n36\n\nJob Order Details\n\nStart Date\n\n03 / 02 / 2026\n\nEnd Date\n\n06 / 02 / 2026\n\nDuration\n\n13 Week(s)\n\nJob Description\n\nAbout the Position\n\nSpecialty : Registered Nurse - Labor & Delivery (L&D)\n\nExperience : Minimum 2 years of recent L&D experience required\n\nLicense : Active State or Compact RN License\n\nCertifications : BLS, ACLS, NRP required - must include expiration dates\n\nMust-Have : All time-off requests must be submitted with the initial application\n\nDescription :\n\nWe are seeking a skilled L&D RN to provide care to patients throughout the labor, delivery, and postpartum stages. Responsibilities include fetal monitoring, assisting during deliveries (vaginal and cesarean), administering medications, and supporting patient education. Must be comfortable working in a fast-paced, high-acuity environment.\n\nThis is a 12-hour shift position with weekend, holiday, and potential on-call expectations. Compliance and onboarding typically require 4-6 weeks to complete.\n\nRequirements\n\nRequired for Onboarding :\n• Active RN License\n• BLS\n• ACLS\n• NRP\n\nClient Details\n\nAddress\n\n4305 New Shepherdsville Rd.\n\nCity\n\nBardstown\n\nState\n\nKY\n\nZip Code\n\n40004",
+    "job_description": "We are looking for a Travel L&D RN for a great Travel nursing job in Columbus, OH.\n\nThis L&D Travel nursing job pays for 37.5 hours a week for 13 weeks. With Wanderly you can compare Travel nurse salary from leading Travel nurse agencies in the United States.\n\nWith Wanderly you can chat and apply to any agency with Wanderly’s Universal Application, below are the details of this Travel Nursing Job including the Travel nurse salary :\n• Specialty : L&D RN\n• Travel Labor & Delivery (L&D) Registered Nurse : Columbus, OH\n• Travel Nurse Salary : $2253 / Week\n• Start Date : March 08, 2026\n• Travel Nursing Job Assignment Length : 13 weeks\n• Travel Nurse Hours : 37.5 hours per week\n• Shift : 12.5 hours, night\n\nOvertime Pay : $60.0764 / hr\n\nTaurus Staffing Solutions has a new Travel Job opportunity for a RN- Registered Nurse with our client in Columbus, OH.\n\nLocation : Columbus, OH\n\nLicense Required : OH\n\nSpecialty : L&D- Labor and Delivery -Inquire with a Recruiter for more details.\n\nStart : 2026-03-08 for 13 Week\n\nShift : Nights- x12.5 1900-0730\n\nApply here today for further details and to be connected with the hiring manager ASAP! This Job Reference Code 62-THS-1404838\n\nPK-65838a06-bc68-4ef8-ac60-26b762f3505b",
     "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "Bardstown, KY",
-    "job_city": "Bardstown",
-    "job_state": "Kentucky",
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Columbus, OH",
+    "job_city": "Columbus",
+    "job_state": "Ohio",
     "job_country": "US",
-    "job_latitude": 37.8104984,
-    "job_longitude": -85.466402,
+    "job_latitude": 39.9625112,
+    "job_longitude": -83.00322179999999,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1C8EFzr9ObJUC2gWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3O99x4a-znLyd90mAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Specialty : Registered Nurse - Labor & Delivery (L&D)",
-        "Experience : Minimum 2 years of recent L&D experience required",
-        "License : Active State or Compact RN License",
-        "Certifications : BLS, ACLS, NRP required - must include expiration dates",
-        "Must-Have : All time-off requests must be submitted with the initial application",
-        "Active RN License",
-        "BLS",
-        "ACLS",
-        "NRP"
+        "License Required : OH"
       ],
       "Benefits": [
-        "Weekly Pay",
-        "$1471.0"
+        "With Wanderly you can compare Travel nurse salary from leading Travel nurse agencies in the United States",
+        "Travel Nurse Salary : $2253 / Week",
+        "Start Date : March 08, 2026",
+        "Travel Nurse Hours : 37.5 hours per week",
+        "Shift : 12.5 hours, night",
+        "Overtime Pay : $60.0764 / hr",
+        "Taurus Staffing Solutions has a new Travel Job opportunity for a RN- Registered Nurse with our client in Columbus, OH"
       ],
       "Responsibilities": [
-        "Scheduled Hours",
-        "We are seeking a skilled L&D RN to provide care to patients throughout the labor, delivery, and postpartum stages",
-        "Responsibilities include fetal monitoring, assisting during deliveries (vaginal and cesarean), administering medications, and supporting patient education",
-        "Must be comfortable working in a fast-paced, high-acuity environment",
-        "This is a 12-hour shift position with weekend, holiday, and potential on-call expectations",
-        "Compliance and onboarding typically require 4-6 weeks to complete"
+        "Travel Nursing Job Assignment Length : 13 weeks",
+        "Start : 2026-03-08 for 13 Week"
       ]
     },
     "job_onet_soc": "29114100",
@@ -1040,8 +1140,8 @@
     "job_longitude": -117.9242123,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjDahFjNA5Yo1WKO2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1072,154 +1172,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "providence-jobs-fullerton-ca-rn-labor-and-delivery-california-ef53b347874e441dbe0ad1be82794e62-job",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "3O99x4a-znLyd90mAAAAAA==",
-    "job_title": "Labor & Delivery (L&D) RN - $ 2,253 / week",
-    "employer_name": "Taurus Staffing Solutions",
-    "employer_logo": null,
-    "employer_website": "https://www.taurusstaffingsol.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=a3fac771b411&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=a3fac771b411&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "We are looking for a Travel L&D RN for a great Travel nursing job in Columbus, OH.\n\nThis L&D Travel nursing job pays for 37.5 hours a week for 13 weeks. With Wanderly you can compare Travel nurse salary from leading Travel nurse agencies in the United States.\n\nWith Wanderly you can chat and apply to any agency with Wanderly’s Universal Application, below are the details of this Travel Nursing Job including the Travel nurse salary :\n• Specialty : L&D RN\n• Travel Labor & Delivery (L&D) Registered Nurse : Columbus, OH\n• Travel Nurse Salary : $2253 / Week\n• Start Date : March 08, 2026\n• Travel Nursing Job Assignment Length : 13 weeks\n• Travel Nurse Hours : 37.5 hours per week\n• Shift : 12.5 hours, night\n\nOvertime Pay : $60.0764 / hr\n\nTaurus Staffing Solutions has a new Travel Job opportunity for a RN- Registered Nurse with our client in Columbus, OH.\n\nLocation : Columbus, OH\n\nLicense Required : OH\n\nSpecialty : L&D- Labor and Delivery -Inquire with a Recruiter for more details.\n\nStart : 2026-03-08 for 13 Week\n\nShift : Nights- x12.5 1900-0730\n\nApply here today for further details and to be connected with the hiring manager ASAP! This Job Reference Code 62-THS-1404838\n\nPK-65838a06-bc68-4ef8-ac60-26b762f3505b",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Columbus, OH",
-    "job_city": "Columbus",
-    "job_state": "Ohio",
-    "job_country": "US",
-    "job_latitude": 39.9625112,
-    "job_longitude": -83.00322179999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3O99x4a-znLyd90mAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "License Required : OH"
-      ],
-      "Benefits": [
-        "With Wanderly you can compare Travel nurse salary from leading Travel nurse agencies in the United States",
-        "Travel Nurse Salary : $2253 / Week",
-        "Start Date : March 08, 2026",
-        "Travel Nurse Hours : 37.5 hours per week",
-        "Shift : 12.5 hours, night",
-        "Overtime Pay : $60.0764 / hr",
-        "Taurus Staffing Solutions has a new Travel Job opportunity for a RN- Registered Nurse with our client in Columbus, OH"
-      ],
-      "Responsibilities": [
-        "Travel Nursing Job Assignment Length : 13 weeks",
-        "Start : 2026-03-08 for 13 Week"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "9xWz8dAxB2ZzaSwtAAAAAA==",
-    "job_title": "Labor and Delivery RN",
-    "employer_name": "CommonSpirit Health",
-    "employer_logo": null,
-    "employer_website": "https://www.commonspirit.org",
-    "job_publisher": "CommonSpirit Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.commonspirit.careers/job/folsom/labor-and-delivery-rn/35300/91343206640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "CommonSpirit Careers",
-        "apply_link": "https://www.commonspirit.careers/job/folsom/labor-and-delivery-rn/35300/91343206640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/CommonSpirit-Health/Job/Labor-and-Delivery-RN/-in-Folsom,CA?jid=3a466d6dc4997e1c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "JobLeads",
-        "apply_link": "https://www.jobleads.com/us/job/labor-and-delivery-rn--folsom--e544856e705662ff9b8cafe8e129cbfc4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/folsom/california/nursing/4858652193/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Local Job Bulletin",
-        "apply_link": "https://california.localjobbulletin.com/seo/job/folsom/136164013?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Summary and Responsibilities\n\nAs a Registered Nurse (RN), you will be a pivotal healthcare professional, delivering compassionate, high-quality care that truly impacts our patients' well-being and recovery.\n\nEvery day, you will leverage your expertise to provide individualized, comprehensive care, making critical assessments, performing skilled procedures, and meticulously implementing patient care plans. You'll collaborate seamlessly within an interdisciplinary team, contributing to a dynamic environment focused on optimal patient outcomes.\n\nTo be successful in this role, you will possess keen assessment skills, acute critical thinking, and a patient-first mindset, driven by a profound enthusiasm to help others. Your sense of urgency and dedication to excellence in a fast-paced environment will not only support patient recovery but also fuel your own career advancement.\n• Assessment: Performs total body and system assessment each shift/visit according to unit standards.\n• Care of Patient: Including planning, implementing, evaluating and educating.\n• Clinical/Technical Skills: Utilizes technology, procedures, protocols, standards and interventions specific to assigned unit.\n• Documentation: Performs legible, timely, concise and accurate documentation according to policies and procedures. Proficient and competent with the computerized documentation system.\n• Leadership: Accepts responsibility and accountability for own decisions and behaviors. Recognizes, accepts and cooperates with direction from facility leadership.\n• Precepting/Mentoring: Participates in orientation of new staff, ancillary personnel and mentors students in a constructive and positive manner. Serves as resource to staff from other nursing departments.\n\nJob Requirements\n\nRequired\n• Minimum 1 year Labor and Deliveryexperience.(Exception: When the unit is staffed with enough experienced nurses to support atrainee or graduate nurse, applicantswithout requisite experience may beconsidered.)\n• Intermediate Fetal Monitoring experience\n• Registered Nurse: CA, upon hire\n• Basic Life Support - CPR, upon hire\n• Advanced Cardiac Life Support, within 6 - months\n• Neonatal Resuscitation Program, within 6 - months\n\nPreferred\n• C/Section/PACU experience\n• PostPartum/Newborn Nursery Unit experience\nWhere You'll Work\n\nDignity Health, Mercy Hospital of Folsom is the community hospital serving the Sierra foothills communities of Folsom El Dorado Hills Granite Bay Cameron Park Shingle Springs and Rescue. With 106 licensed acute-care beds our accredited non-profit hospital has been providing exceptional care for more than 35 years. Mercy Hospital of Folsom provides surgical services including minimally-invasive general urological and gynecological surgeries. We also provide comprehensive and award-winning orthopedic services which include surgery inpatient and outpatient rehabilitation and specialty orthopedic care. As a certified Joint Commission Stroke Center Mercy Folsom provides exceptional care to our patients in our Medical Surgical and Intensive Care units as well as our 25-bed Emergency Department. Our Family Birth Center features private and contemporary birthing suites where labor delivery and recovery occur in one room as well as award-winning lactation training and support. Mercy Folsom received Among America’s 250 Best Hospitals recognition and is a Primary Stroke Center.\n\nOne Community. One Mission. One California",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1769990400,
-    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
-    "job_location": "Folsom, CA",
-    "job_city": "Folsom",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 38.6719495,
-    "job_longitude": -121.1612945,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9xWz8dAxB2ZzaSwtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "To be successful in this role, you will possess keen assessment skills, acute critical thinking, and a patient-first mindset, driven by a profound enthusiasm to help others",
-        "Minimum 1 year Labor and Deliveryexperience.(Exception: When the unit is staffed with enough experienced nurses to support atrainee or graduate nurse, applicantswithout requisite experience may beconsidered.)",
-        "Intermediate Fetal Monitoring experience",
-        "Registered Nurse: CA, upon hire",
-        "Basic Life Support - CPR, upon hire",
-        "Advanced Cardiac Life Support, within 6 - months",
-        "Neonatal Resuscitation Program, within 6 - months"
-      ],
-      "Responsibilities": [
-        "As a Registered Nurse (RN), you will be a pivotal healthcare professional, delivering compassionate, high-quality care that truly impacts our patients' well-being and recovery",
-        "Every day, you will leverage your expertise to provide individualized, comprehensive care, making critical assessments, performing skilled procedures, and meticulously implementing patient care plans",
-        "You'll collaborate seamlessly within an interdisciplinary team, contributing to a dynamic environment focused on optimal patient outcomes",
-        "Your sense of urgency and dedication to excellence in a fast-paced environment will not only support patient recovery but also fuel your own career advancement",
-        "Assessment: Performs total body and system assessment each shift/visit according to unit standards",
-        "Care of Patient: Including planning, implementing, evaluating and educating",
-        "Clinical/Technical Skills: Utilizes technology, procedures, protocols, standards and interventions specific to assigned unit",
-        "Documentation: Performs legible, timely, concise and accurate documentation according to policies and procedures",
-        "Proficient and competent with the computerized documentation system",
-        "Leadership: Accepts responsibility and accountability for own decisions and behaviors",
-        "Recognizes, accepts and cooperates with direction from facility leadership",
-        "Precepting/Mentoring: Participates in orientation of new staff, ancillary personnel and mentors students in a constructive and positive manner",
-        "Serves as resource to staff from other nursing departments"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-commonspirit-careers-job-folsom-labor-and-delivery-rn-35300-91343206640",
     "_source": "new_jobs"
   },
   {
@@ -1317,6 +1269,261 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-linkedin-com-jobs-view-travel-labor-delivery-rn-242-235-per-week-at-voca-healthcare-4370833296",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "cIiLUY3c4HZ8rHdsAAAAAA==",
+    "job_title": "Travel Nurse RN - Labor and Delivery - $2,266 per week",
+    "employer_name": "Genie Healthcare",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPYxr7NLBWE0nD1Ajrlhznq4-0ealtG2JRYYbI&s=0",
+    "employer_website": "https://geniehealthcare.com",
+    "job_publisher": "Vivian Health",
+    "job_employment_type": "Full-time and Contractor",
+    "job_employment_types": [
+      "FULLTIME",
+      "CONTRACTOR"
+    ],
+    "job_apply_link": "https://www.vivian.com/job/jp-55308531/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Vivian Health",
+        "apply_link": "https://www.vivian.com/job/jp-55308531/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "College Recruiter",
+        "apply_link": "https://www.collegerecruiter.com/job/2313280636-travel-nurse-rn-labor-and-delivery-2266-per-week?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Women For Hire- Job Board",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/greenville-oh/travel-nurse-rn-labor-and-delivery-2-225-per-week-292500/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5624944368?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/travel-nurse?id=2433346608&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/c52ac3e1ede8acbc928a782b88364e3a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=4aaaf79c1c76&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jooble",
+        "apply_link": "https://jooble.org/jdp/9051838639460756020?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Genie Healthcare is seeking a travel nurse RN Labor and Delivery for a travel nursing job in Greenville, Ohio.\nJob Description & Requirements\n• Specialty: Labor and Delivery\n• Discipline: RN\n• Start Date: 03/02/2026\n• Duration: 13 weeks\n• 36 hours per week\n• Shift: 12 hours, nights\n• Employment Type: Travel\n\nLooking for a great Travel Labor and Delivery Nursing Job in Greenville, Ohio? Genie Healthcare posted this Travel Nursing Job that offers 36 hours a week for 13 weeks in Greenville, Ohio.\n\nVivian Health provides transparent Travel Labor and Delivery Salary information and unbiased reviews from leading Travel Nurse Agencies across the United States, so you can compare travel opportunities matching your desired criteria.\n\nWith Vivian, you can chat directly with recruiters and apply to staffing agencies with a Single Reusable Profile to find your ideal job faster and easier than ever.\n\nThe details for this Travel Labor and Delivery Nursing Job are:\n• Specialty: Labor and Delivery\n• Job Location: Greenville, Ohio\n• Travel Nurse Salary: $2,266/week\n• Start Date: 03/02/2026\n• Assignment Length: 13 weeks\n• Total Hours Per Week: 36 weekly\n• Shift Breakdown: 3x12 hrs\n• Shift: 12 hours, nights\n\n2 years of experience required. ACLS, BLS, NRP, AWHONN required.\nAbout Genie Healthcare\n\nGenie Healthcare is one of the fastest growing Nurse Travel Agencies in the USA. Genie serves hundreds of facilities and has over 4000 current travel RN contracts open at any given time.\n\nGenie provides travel RN’s flexibility, support, top pay scale, housing and the #1 rated, multi-state health insurance coverage.\n\nGenie Healthcare carries with it a commitment to providing a comprehensive level of service and quality care. Growing from a small team of eager recruiters to a company with satisfied clients in nearly every corner of the nation, delivering excellence in patient and customer care is the key to Genie’s success.\n\nThe management team has 20 years of experience in workforce solutions and staffing in medical and non-medical fields, roles ranging from Clerical job to Cardiologist to software developer to CEO.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Greenville, OH",
+    "job_city": "Greenville",
+    "job_state": "Ohio",
+    "job_country": "US",
+    "job_latitude": 40.1027908,
+    "job_longitude": -84.6328746,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcIiLUY3c4HZ8rHdsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "WEEK",
+    "job_highlights": {
+      "Qualifications": [
+        "Start Date: 03/02/2026",
+        "2 years of experience required",
+        "ACLS, BLS, NRP, AWHONN required"
+      ],
+      "Benefits": [
+        "Travel Nurse Salary: $2,266/week"
+      ],
+      "Responsibilities": [
+        "Discipline: RN",
+        "Duration: 13 weeks",
+        "36 hours per week",
+        "Shift: 12 hours, nights",
+        "Assignment Length: 13 weeks",
+        "Total Hours Per Week: 36 weekly",
+        "Shift Breakdown: 3x12 hrs",
+        "Shift: 12 hours, nights"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-vivian-com-job-jp-55308531",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "9xWz8dAxB2ZzaSwtAAAAAA==",
+    "job_title": "Labor and Delivery RN",
+    "employer_name": "CommonSpirit Health",
+    "employer_logo": null,
+    "employer_website": "https://www.commonspirit.org",
+    "job_publisher": "CommonSpirit Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.commonspirit.careers/job/folsom/labor-and-delivery-rn/35300/91343206640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "CommonSpirit Careers",
+        "apply_link": "https://www.commonspirit.careers/job/folsom/labor-and-delivery-rn/35300/91343206640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/CommonSpirit-Health/Job/Labor-and-Delivery-RN/-in-Folsom,CA?jid=3a466d6dc4997e1c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/labor-and-delivery-rn--folsom--e544856e705662ff9b8cafe8e129cbfc4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/folsom/california/nursing/4858652193/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Local Job Bulletin",
+        "apply_link": "https://california.localjobbulletin.com/seo/job/folsom/136164013?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Summary and Responsibilities\n\nAs a Registered Nurse (RN), you will be a pivotal healthcare professional, delivering compassionate, high-quality care that truly impacts our patients' well-being and recovery.\n\nEvery day, you will leverage your expertise to provide individualized, comprehensive care, making critical assessments, performing skilled procedures, and meticulously implementing patient care plans. You'll collaborate seamlessly within an interdisciplinary team, contributing to a dynamic environment focused on optimal patient outcomes.\n\nTo be successful in this role, you will possess keen assessment skills, acute critical thinking, and a patient-first mindset, driven by a profound enthusiasm to help others. Your sense of urgency and dedication to excellence in a fast-paced environment will not only support patient recovery but also fuel your own career advancement.\n• Assessment: Performs total body and system assessment each shift/visit according to unit standards.\n• Care of Patient: Including planning, implementing, evaluating and educating.\n• Clinical/Technical Skills: Utilizes technology, procedures, protocols, standards and interventions specific to assigned unit.\n• Documentation: Performs legible, timely, concise and accurate documentation according to policies and procedures. Proficient and competent with the computerized documentation system.\n• Leadership: Accepts responsibility and accountability for own decisions and behaviors. Recognizes, accepts and cooperates with direction from facility leadership.\n• Precepting/Mentoring: Participates in orientation of new staff, ancillary personnel and mentors students in a constructive and positive manner. Serves as resource to staff from other nursing departments.\n\nJob Requirements\n\nRequired\n• Minimum 1 year Labor and Deliveryexperience.(Exception: When the unit is staffed with enough experienced nurses to support atrainee or graduate nurse, applicantswithout requisite experience may beconsidered.)\n• Intermediate Fetal Monitoring experience\n• Registered Nurse: CA, upon hire\n• Basic Life Support - CPR, upon hire\n• Advanced Cardiac Life Support, within 6 - months\n• Neonatal Resuscitation Program, within 6 - months\n\nPreferred\n• C/Section/PACU experience\n• PostPartum/Newborn Nursery Unit experience\nWhere You'll Work\n\nDignity Health, Mercy Hospital of Folsom is the community hospital serving the Sierra foothills communities of Folsom El Dorado Hills Granite Bay Cameron Park Shingle Springs and Rescue. With 106 licensed acute-care beds our accredited non-profit hospital has been providing exceptional care for more than 35 years. Mercy Hospital of Folsom provides surgical services including minimally-invasive general urological and gynecological surgeries. We also provide comprehensive and award-winning orthopedic services which include surgery inpatient and outpatient rehabilitation and specialty orthopedic care. As a certified Joint Commission Stroke Center Mercy Folsom provides exceptional care to our patients in our Medical Surgical and Intensive Care units as well as our 25-bed Emergency Department. Our Family Birth Center features private and contemporary birthing suites where labor delivery and recovery occur in one room as well as award-winning lactation training and support. Mercy Folsom received Among America’s 250 Best Hospitals recognition and is a Primary Stroke Center.\n\nOne Community. One Mission. One California",
+    "job_is_remote": false,
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1769990400,
+    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
+    "job_location": "Folsom, CA",
+    "job_city": "Folsom",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 38.6719495,
+    "job_longitude": -121.1612945,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9xWz8dAxB2ZzaSwtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "To be successful in this role, you will possess keen assessment skills, acute critical thinking, and a patient-first mindset, driven by a profound enthusiasm to help others",
+        "Minimum 1 year Labor and Deliveryexperience.(Exception: When the unit is staffed with enough experienced nurses to support atrainee or graduate nurse, applicantswithout requisite experience may beconsidered.)",
+        "Intermediate Fetal Monitoring experience",
+        "Registered Nurse: CA, upon hire",
+        "Basic Life Support - CPR, upon hire",
+        "Advanced Cardiac Life Support, within 6 - months",
+        "Neonatal Resuscitation Program, within 6 - months"
+      ],
+      "Responsibilities": [
+        "As a Registered Nurse (RN), you will be a pivotal healthcare professional, delivering compassionate, high-quality care that truly impacts our patients' well-being and recovery",
+        "Every day, you will leverage your expertise to provide individualized, comprehensive care, making critical assessments, performing skilled procedures, and meticulously implementing patient care plans",
+        "You'll collaborate seamlessly within an interdisciplinary team, contributing to a dynamic environment focused on optimal patient outcomes",
+        "Your sense of urgency and dedication to excellence in a fast-paced environment will not only support patient recovery but also fuel your own career advancement",
+        "Assessment: Performs total body and system assessment each shift/visit according to unit standards",
+        "Care of Patient: Including planning, implementing, evaluating and educating",
+        "Clinical/Technical Skills: Utilizes technology, procedures, protocols, standards and interventions specific to assigned unit",
+        "Documentation: Performs legible, timely, concise and accurate documentation according to policies and procedures",
+        "Proficient and competent with the computerized documentation system",
+        "Leadership: Accepts responsibility and accountability for own decisions and behaviors",
+        "Recognizes, accepts and cooperates with direction from facility leadership",
+        "Precepting/Mentoring: Participates in orientation of new staff, ancillary personnel and mentors students in a constructive and positive manner",
+        "Serves as resource to staff from other nursing departments"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-commonspirit-careers-job-folsom-labor-and-delivery-rn-35300-91343206640",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "XYxLeiSWh7gJsnBDAAAAAA==",
+    "job_title": "Travel L&D (Labor and Delivery) RN (Registered Nurse) in Brownwood, TX",
+    "employer_name": "Medical Solutions",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzBCis9moy6Gsdp3oP0tguFYJVwEEnbom2UkLb&s=0",
+    "employer_website": "https://www.medicalsolutions.com",
+    "job_publisher": "Medical Solutions",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.medicalsolutions.com/jobs/Travel/RN_(Registered_Nurse)/TX/L%26D_(Labor_and_Delivery)/8300751e-9c06-f111-8406-7ced8d3cc5ca/9a00751e-9c06-f111-8406-7ced8d3cc5ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Medical Solutions",
+        "apply_link": "https://www.medicalsolutions.com/jobs/Travel/RN_(Registered_Nurse)/TX/L%26D_(Labor_and_Delivery)/8300751e-9c06-f111-8406-7ced8d3cc5ca/9a00751e-9c06-f111-8406-7ced8d3cc5ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "The Gypsy Nurse",
+        "apply_link": "https://www.thegypsynurse.com/job/travel-l-d-labor-and-delivery-rn-registered-nurse-in-brownwood-tx/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "A facility in Brownwood, TX is seeking its next amazing RN (Registered Nurse) to work in L&D (Labor and Delivery).\n\nNurses and allied healthcare professionals are in high demand nationwide, and our team of industry-leading, traveler-favorite recruiters can get you where you want to go — personally and professionally. Wherever you may roam, travel healthcare helps you hone your skills and build an amazing resume.\n\nWhen you work with Medical Solutions, we’ve got your back 100% — starting with your co-captain and sidekick, your trusty recruiter. In addition to providing the industry’s best recruiters, we offer tons of high-paying jobs, clinical support, and incredible benefits, including:\n\nA compensation package that reflects your goals!\nYour very own friendly, hardworking recruiter\n$1,000 unlimited referral bonus\n401(k) with company contribution\nPaid, private, pet-friendly housing\nLicensure/certification reimbursement\nTraveler discount program\nFree employee assistance program (EAP)\nDay-one medical, dental, and vision insurance\n24/7 customer care\nVoluntary insurance benefits\nEqual employment opportunity\nAnd more!\n• Estimated pay and benefits package based on bill rate at time job was posted. Bill rates can change frequently and without notice. Exact pay and benefits package may vary based on several factors, including, but not limited to, guaranteed hours, travel distance, demand, experience, eligibility, etc.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Brownwood, TX",
+    "job_city": "Brownwood",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 31.709319699999998,
+    "job_longitude": -98.9911611,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXYxLeiSWh7gJsnBDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 2011,
+    "job_max_salary": 2215,
+    "job_salary_period": "WEEK",
+    "job_highlights": {
+      "Benefits": [
+        "A compensation package that reflects your goals!",
+        "Your very own friendly, hardworking recruiter",
+        "$1,000 unlimited referral bonus",
+        "401(k) with company contribution",
+        "Paid, private, pet-friendly housing",
+        "Licensure/certification reimbursement",
+        "Traveler discount program",
+        "Free employee assistance program (EAP)",
+        "Day-one medical, dental, and vision insurance",
+        "24/7 customer care",
+        "Voluntary insurance benefits",
+        "Equal employment opportunity",
+        "Estimated pay and benefits package based on bill rate at time job was posted",
+        "Bill rates can change frequently and without notice",
+        "Exact pay and benefits package may vary based on several factors, including, but not limited to, guaranteed hours, travel distance, demand, experience, eligibility, etc"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-medicalsolutions-com-jobs-travel-rn_-registered_nurse-tx-l-26d_-labor_and_delivery-8300751e-9c06-f111-8406-7ced8d3cc5ca-9a00751e-9c06-f111-8406-7ced8d3cc5ca",
     "_source": "new_jobs"
   },
   {
@@ -1421,74 +1628,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "XYxLeiSWh7gJsnBDAAAAAA==",
-    "job_title": "Travel L&D (Labor and Delivery) RN (Registered Nurse) in Brownwood, TX",
-    "employer_name": "Medical Solutions",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzBCis9moy6Gsdp3oP0tguFYJVwEEnbom2UkLb&s=0",
-    "employer_website": "https://www.medicalsolutions.com",
-    "job_publisher": "Medical Solutions",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.medicalsolutions.com/jobs/Travel/RN_(Registered_Nurse)/TX/L%26D_(Labor_and_Delivery)/8300751e-9c06-f111-8406-7ced8d3cc5ca/9a00751e-9c06-f111-8406-7ced8d3cc5ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Medical Solutions",
-        "apply_link": "https://www.medicalsolutions.com/jobs/Travel/RN_(Registered_Nurse)/TX/L%26D_(Labor_and_Delivery)/8300751e-9c06-f111-8406-7ced8d3cc5ca/9a00751e-9c06-f111-8406-7ced8d3cc5ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "The Gypsy Nurse",
-        "apply_link": "https://www.thegypsynurse.com/job/travel-l-d-labor-and-delivery-rn-registered-nurse-in-brownwood-tx/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "A facility in Brownwood, TX is seeking its next amazing RN (Registered Nurse) to work in L&D (Labor and Delivery).\n\nNurses and allied healthcare professionals are in high demand nationwide, and our team of industry-leading, traveler-favorite recruiters can get you where you want to go — personally and professionally. Wherever you may roam, travel healthcare helps you hone your skills and build an amazing resume.\n\nWhen you work with Medical Solutions, we’ve got your back 100% — starting with your co-captain and sidekick, your trusty recruiter. In addition to providing the industry’s best recruiters, we offer tons of high-paying jobs, clinical support, and incredible benefits, including:\n\nA compensation package that reflects your goals!\nYour very own friendly, hardworking recruiter\n$1,000 unlimited referral bonus\n401(k) with company contribution\nPaid, private, pet-friendly housing\nLicensure/certification reimbursement\nTraveler discount program\nFree employee assistance program (EAP)\nDay-one medical, dental, and vision insurance\n24/7 customer care\nVoluntary insurance benefits\nEqual employment opportunity\nAnd more!\n• Estimated pay and benefits package based on bill rate at time job was posted. Bill rates can change frequently and without notice. Exact pay and benefits package may vary based on several factors, including, but not limited to, guaranteed hours, travel distance, demand, experience, eligibility, etc.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Brownwood, TX",
-    "job_city": "Brownwood",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 31.709319699999998,
-    "job_longitude": -98.9911611,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXYxLeiSWh7gJsnBDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 2011,
-    "job_max_salary": 2215,
-    "job_salary_period": "WEEK",
-    "job_highlights": {
-      "Benefits": [
-        "A compensation package that reflects your goals!",
-        "Your very own friendly, hardworking recruiter",
-        "$1,000 unlimited referral bonus",
-        "401(k) with company contribution",
-        "Paid, private, pet-friendly housing",
-        "Licensure/certification reimbursement",
-        "Traveler discount program",
-        "Free employee assistance program (EAP)",
-        "Day-one medical, dental, and vision insurance",
-        "24/7 customer care",
-        "Voluntary insurance benefits",
-        "Equal employment opportunity",
-        "Estimated pay and benefits package based on bill rate at time job was posted",
-        "Bill rates can change frequently and without notice",
-        "Exact pay and benefits package may vary based on several factors, including, but not limited to, guaranteed hours, travel distance, demand, experience, eligibility, etc"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-medicalsolutions-com-jobs-travel-rn_-registered_nurse-tx-l-26d_-labor_and_delivery-8300751e-9c06-f111-8406-7ced8d3cc5ca-9a00751e-9c06-f111-8406-7ced8d3cc5ca",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "7p29HsCXCurdY9ExAAAAAA==",
     "job_title": "REGISTERED NURSE, Labor & Delivery Unit, Full-Time Nights",
     "employer_name": "Sierra Medical Center",
@@ -1522,8 +1661,8 @@
     "job_longitude": -119.95268469999999,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7p29HsCXCurdY9ExAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1575,150 +1714,90 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "sjh0TUKM0hBi3bV8AAAAAA==",
-    "job_title": "RN III Labor & Delivery",
-    "employer_name": "Houston Methodist",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNvWdCgN3cCmiPmat1qSqFLV6aAvn2-GEdcF7k&s=0",
-    "employer_website": "https://www.houstonmethodist.org",
-    "job_publisher": "Houston Methodist Careers",
+    "job_id": "1C8EFzr9ObJUC2gWAAAAAA==",
+    "job_title": "RN - Labor and Delivery (L&D)",
+    "employer_name": "Flaget Memorial Hospital 1",
+    "employer_logo": null,
+    "employer_website": "https://www.commonspirit.careers",
+    "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.houstonmethodistcareers.org/job/114618/rn-iii-labor-delivery-rn-womens-services-houston-methodist-sugarland-hospital/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=0af026ac36c6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Houston Methodist Careers",
-        "apply_link": "https://www.houstonmethodistcareers.org/job/114618/rn-iii-labor-delivery-rn-womens-services-houston-methodist-sugarland-hospital/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=0af026ac36c6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=9c88f500a60e7211&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5619760888?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Houston-Methodist-Sugar-Land-Hospital/Job/RN-III-Labor-&-Delivery/-in-Sugar-Land,TX?jid=6f5b4c26dbbd7475&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/17ecd08ffc367324c452e58cd4fae491?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-4023-1e326efb367fa80f467fa645ffbdb1a6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/rn-iii-labor-delivery_7ea1acfce3425c0d9d26d59f3a25b77a87f2c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/rn-iii-labor-delivery-at-houston-methodist-4369318209?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/zr8YjaAQsIfzct7BUF0wgWSvV2YSYIsYB8C5cIU-EQqGSrYMBmTyVA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Breakroom",
-        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/27658316-houston-methodist-rn-iii-labor-delivery-sugar-land-texas?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/maternity-nurse?id=2446541430&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "True Work Zone",
+        "apply_link": "https://theboard.trueworkzone.com/joblistings/a5knj6eb9jeu-0281ae3-f68c9e7fa7663c-c876457719b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "FLSA STATUS\nNon-exempt\n\nQUALIFICATIONS\n\nEDUCATION\n• Bachelor’s degree or higher from an accredited School of Nursing\n\nEXPERIENCE\n• Two years nursing experience in a healthcare environment, one year in the clinical field for which you will be working\n\nLICENSES AND CERTIFICATIONS\nRequired\n• RN - Registered Nurse - Texas State Licensure - Texas Board of Nursing_PSV Compact Licensure – Must obtain permanent Texas license within 60 days (if establishing Texas residency) and\n• BLS - Basic Life Support or Instructor (AHA) - American Heart Association and\n• ACLS - Advanced Cardiac Life Support or Instructor (AHA) - American Heart Association and\n• NRP - Neonatal Resuscitation or Instructor (AHA,AAP) - American Heart Association and American Academy of Pediatrics and\n• FHMC - Fetal Heart Monitoring Cert - Int, Adv, or Instructor (AWHONN) - Association of Womens Health Obstetric and Neonatal Nurses and\n• Magnet ANCC-recognized certification (HM)\n\nSKILLS AND ABILITIES\n• Demonstrates the skills and competencies necessary to safely perform the assigned job, determined through ongoing skills, competency assessments, and performance evaluations\n• Sufficient proficiency in speaking, reading, and writing the English language necessary to perform the essential functions of this job, especially with regard to activities impacting patient or employee safety or security\n• Ability to effectively communicate with patients, physicians, family members and co-workers in a manner consistent with a customer service focus and application of positive language principles\n• Demonstrates expertise in operating the electronic medical record\n• Acts as effective change agent\n• Uses therapeutic communication to establish a relationship with patients, families and interprofessional team to collaborate on the plan of care\n• Strong assessment, organizational and problem-solving skill as evidenced by capacity to prioritize multiple tasks and role components\n• Ability to function independently and exercise judgment in interactions with physicians, interprofessional care team and patients and their families\n• Demonstrates proficient time management skills\n• Uses critical thinking skills and clinical judgment to work autonomously as defined by the Nurse Practice Act\n• Maintains level of professional contributions as defined in Clinical Career Path program guide\n• Working knowledge of Microsoft products including PowerPoint, Word, Excel, and Outlook\n\nESSENTIAL FUNCTIONS\n\nPEOPLE ESSENTIAL FUNCTIONS\n• Identifies staff development opportunities for professional growth of colleagues, provides coaching to meet identified goals. Acts as a model and coaches staff in effective verbal, non-verbal and written communication, which includes active listening and teaching. Provides oversight for student/new employee preceptorships.\n• Collaborates to foster healthy relationships in the work environment such as mitigation of conflict. Advocates for a balanced workload, promotes positive behaviors, and peer-to-peer accountability.\n• Improves nurse satisfaction by serving as a role model and mentor, facilitating teamwork with RNs, non-licensed and interprofessional staff, as evidenced by the annual RN-RN teamwork score and interprofessional relationship score. Provides recommendations to improve department scores for turnover/retention.\n\nSERVICE ESSENTIAL FUNCTIONS\n• Leads the patient and family-centered care standards, as outlined in the Houston Methodist Professional Nursing Practice document. Mentors others regarding specialty populations. Practices in a manner that is congruent with cultural diversity and inclusion principles.\n• Develops, updates, and communicates plan of care, including discharge, in partnership with the patient, family and interprofessional health care team, using the nursing process. Prioritizes care based on the patient’s needs, abilities, and preferences. Advocates on patient/family’s behalf to identify and resolve clinical and ethical concerns. Develops appropriate resources and supports unit practices and guidelines.\n• Develops and implements effective patient teaching strategies based on learning needs; uses appropriate resources, incorporating planning for care after discharge. Consistently evaluates the patient’s comprehension and adapts teaching methods accordingly.\n• Drives department activities to improve department score for patient satisfaction, through peer-to-peer accountability.\n\nQUALITY/SAFETY ESSENTIAL FUNCTIONS\n• Models the standards of care related to the nursing process, as outlined in the Houston Methodist Professional Nursing Practice document. Provides care as the staff nurse leader to complex patients and leads the interprofessional health care team in implementing plan of care. Anticipates/prevents and recognize/resolves early declines in patient condition and emergent situations. Manages assignment of complex patients and other unit demands. Proactively recognizes, determines a plan of action, and responds to situations, such as Rapid Response/CERTs, and emergency codes.\n• Models the standards related to regulatory requirements and professional practice as outlined in the Houston Methodist Professional Nursing Practice document. Role models highly developed assessment, clinical documentation, leadership, and analytical skills; integrates and contributes to professional practice standards, policies, procedures, protocols and leads improvements in patient safety-related processes at unit or service line level. Contributes to development of service line and hospital standards and guidelines.\n• Leads and identifies opportunities for practice changes and performance improvement. Investigates and incorporates evidence-based practices which are presented to shared governance and leadership. Leads initiatives to improve quality and safety scores, through peer-to-peer accountability, reporting near misses and identifying solutions by collaborating with the interprofessional team. Role models situational awareness, using teachable moments to improve safety. Audits plan of care and audits other areas as needed.\n\nFINANCE ESSENTIAL FUNCTIONS\n• Models independent time management effectively and prioritization of daily tasks, minimizing incidental overtime. Collaborates with interprofessional health care team to facilitate patient throughput efficiently to meet organizational goals.\n• Implements department strategies to achieve financial target and mentors others to do the same through timely documentation of care, decreasing length of stay, optimizing efficiency, minimizing incidental overtime, and other areas according to department specifications.\n\nGROWTH/INNOVATION ESSENTIAL FUNCTIONS\n• Expands individual nursing knowledge and coaches staff to grow in knowledge, abilities, skills, and attitudes. Serves as the clinical resource. Develops and disseminates, as appropriate, informational/educational resources and programs designed to improve quality and professional practice. Supports change initiatives and adapts to unexpected changes.\n• Fosters identification and implementation of innovative solutions to improve patient care or unit operations such as reduction of hospital readmissions or other department-specific measures by leading and/or participating in unit projects and shared governance activities.\n• Seeks opportunities to identify self-development needs and takes appropriate action. Ensures own career discussions occur with appropriate management. Completes and updates the My Development Plan on an ongoing basis.\n\nSUPPLEMENTAL REQUIREMENTS\n\nWORK ATTIRE\n• Uniform: No\n• Scrubs: Yes\n• Business professional: No\n• Other (department approved): No\n\nON-CALL*\n• Note that employees may be required to be on-call during emergencies (ie. Disaster, Severe Weather Events, etc) regardless of selection below.\n• On Call* Yes\n\nTRAVEL**\n• *Travel specifications may vary by department**\n• May require travel within the Houston Metropolitan area Yes\n• May require travel outside Houston Metropolitan area No",
+    "job_description": "Details\n\nClient Name\n\nFlaget Memorial Hospital 1\n\nJob Type\n\nTravel\n\nOffering\n\nNursing\n\nProfession\n\nRN\n\nSpecialty\n\nLabor and Delivery (L&D)\n\nJob ID\n\n35785516\n\nJob Title\n\nRN - Labor and Delivery (L&D)\n\nWeekly Pay\n\n$1471.0\n\nShift Details\n\nShift\n\n7p-730a\n\nScheduled Hours\n\n36\n\nJob Order Details\n\nStart Date\n\n03 / 02 / 2026\n\nEnd Date\n\n06 / 02 / 2026\n\nDuration\n\n13 Week(s)\n\nJob Description\n\nAbout the Position\n\nSpecialty : Registered Nurse - Labor & Delivery (L&D)\n\nExperience : Minimum 2 years of recent L&D experience required\n\nLicense : Active State or Compact RN License\n\nCertifications : BLS, ACLS, NRP required - must include expiration dates\n\nMust-Have : All time-off requests must be submitted with the initial application\n\nDescription :\n\nWe are seeking a skilled L&D RN to provide care to patients throughout the labor, delivery, and postpartum stages. Responsibilities include fetal monitoring, assisting during deliveries (vaginal and cesarean), administering medications, and supporting patient education. Must be comfortable working in a fast-paced, high-acuity environment.\n\nThis is a 12-hour shift position with weekend, holiday, and potential on-call expectations. Compliance and onboarding typically require 4-6 weeks to complete.\n\nRequirements\n\nRequired for Onboarding :\n• Active RN License\n• BLS\n• ACLS\n• NRP\n\nClient Details\n\nAddress\n\n4305 New Shepherdsville Rd.\n\nCity\n\nBardstown\n\nState\n\nKY\n\nZip Code\n\n40004",
     "job_is_remote": false,
-    "job_posted_at": "10 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Sugar Land, TX",
-    "job_city": "Sugar Land",
-    "job_state": "Texas",
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Bardstown, KY",
+    "job_city": "Bardstown",
+    "job_state": "Kentucky",
     "job_country": "US",
-    "job_latitude": 29.598443399999997,
-    "job_longitude": -95.6225521,
+    "job_latitude": 37.8104984,
+    "job_longitude": -85.466402,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dsjh0TUKM0hBi3bV8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1C8EFzr9ObJUC2gWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Bachelor’s degree or higher from an accredited School of Nursing",
-        "Two years nursing experience in a healthcare environment, one year in the clinical field for which you will be working",
-        "RN - Registered Nurse - Texas State Licensure - Texas Board of Nursing_PSV Compact Licensure – Must obtain permanent Texas license within 60 days (if establishing Texas residency) and",
-        "BLS - Basic Life Support or Instructor (AHA) - American Heart Association and",
-        "ACLS - Advanced Cardiac Life Support or Instructor (AHA) - American Heart Association and",
-        "NRP - Neonatal Resuscitation or Instructor (AHA,AAP) - American Heart Association and American Academy of Pediatrics and",
-        "FHMC - Fetal Heart Monitoring Cert - Int, Adv, or Instructor (AWHONN) - Association of Womens Health Obstetric and Neonatal Nurses and",
-        "Magnet ANCC-recognized certification (HM)",
-        "Demonstrates the skills and competencies necessary to safely perform the assigned job, determined through ongoing skills, competency assessments, and performance evaluations",
-        "Sufficient proficiency in speaking, reading, and writing the English language necessary to perform the essential functions of this job, especially with regard to activities impacting patient or employee safety or security",
-        "Ability to effectively communicate with patients, physicians, family members and co-workers in a manner consistent with a customer service focus and application of positive language principles",
-        "Demonstrates expertise in operating the electronic medical record",
-        "Ability to function independently and exercise judgment in interactions with physicians, interprofessional care team and patients and their families",
-        "Maintains level of professional contributions as defined in Clinical Career Path program guide",
-        "Working knowledge of Microsoft products including PowerPoint, Word, Excel, and Outlook",
-        "Note that employees may be required to be on-call during emergencies (ie",
-        "May require travel within the Houston Metropolitan area Yes",
-        "May require travel outside Houston Metropolitan area No"
+        "Specialty : Registered Nurse - Labor & Delivery (L&D)",
+        "Experience : Minimum 2 years of recent L&D experience required",
+        "License : Active State or Compact RN License",
+        "Certifications : BLS, ACLS, NRP required - must include expiration dates",
+        "Must-Have : All time-off requests must be submitted with the initial application",
+        "Active RN License",
+        "BLS",
+        "ACLS",
+        "NRP"
+      ],
+      "Benefits": [
+        "Weekly Pay",
+        "$1471.0"
       ],
       "Responsibilities": [
-        "Acts as effective change agent",
-        "Uses therapeutic communication to establish a relationship with patients, families and interprofessional team to collaborate on the plan of care",
-        "Strong assessment, organizational and problem-solving skill as evidenced by capacity to prioritize multiple tasks and role components",
-        "Demonstrates proficient time management skills",
-        "Uses critical thinking skills and clinical judgment to work autonomously as defined by the Nurse Practice Act",
-        "Identifies staff development opportunities for professional growth of colleagues, provides coaching to meet identified goals",
-        "Acts as a model and coaches staff in effective verbal, non-verbal and written communication, which includes active listening and teaching",
-        "Provides oversight for student/new employee preceptorships",
-        "Collaborates to foster healthy relationships in the work environment such as mitigation of conflict",
-        "Advocates for a balanced workload, promotes positive behaviors, and peer-to-peer accountability",
-        "Improves nurse satisfaction by serving as a role model and mentor, facilitating teamwork with RNs, non-licensed and interprofessional staff, as evidenced by the annual RN-RN teamwork score and interprofessional relationship score",
-        "Provides recommendations to improve department scores for turnover/retention",
-        "Leads the patient and family-centered care standards, as outlined in the Houston Methodist Professional Nursing Practice document",
-        "Mentors others regarding specialty populations",
-        "Practices in a manner that is congruent with cultural diversity and inclusion principles",
-        "Develops, updates, and communicates plan of care, including discharge, in partnership with the patient, family and interprofessional health care team, using the nursing process",
-        "Prioritizes care based on the patient’s needs, abilities, and preferences",
-        "Advocates on patient/family’s behalf to identify and resolve clinical and ethical concerns",
-        "Develops appropriate resources and supports unit practices and guidelines",
-        "Develops and implements effective patient teaching strategies based on learning needs; uses appropriate resources, incorporating planning for care after discharge",
-        "Consistently evaluates the patient’s comprehension and adapts teaching methods accordingly",
-        "Drives department activities to improve department score for patient satisfaction, through peer-to-peer accountability",
-        "Models the standards of care related to the nursing process, as outlined in the Houston Methodist Professional Nursing Practice document",
-        "Provides care as the staff nurse leader to complex patients and leads the interprofessional health care team in implementing plan of care",
-        "Anticipates/prevents and recognize/resolves early declines in patient condition and emergent situations",
-        "Manages assignment of complex patients and other unit demands",
-        "Proactively recognizes, determines a plan of action, and responds to situations, such as Rapid Response/CERTs, and emergency codes",
-        "Models the standards related to regulatory requirements and professional practice as outlined in the Houston Methodist Professional Nursing Practice document",
-        "Role models highly developed assessment, clinical documentation, leadership, and analytical skills; integrates and contributes to professional practice standards, policies, procedures, protocols and leads improvements in patient safety-related processes at unit or service line level",
-        "Contributes to development of service line and hospital standards and guidelines",
-        "Leads and identifies opportunities for practice changes and performance improvement",
-        "Investigates and incorporates evidence-based practices which are presented to shared governance and leadership",
-        "Leads initiatives to improve quality and safety scores, through peer-to-peer accountability, reporting near misses and identifying solutions by collaborating with the interprofessional team",
-        "Role models situational awareness, using teachable moments to improve safety",
-        "Audits plan of care and audits other areas as needed",
-        "Models independent time management effectively and prioritization of daily tasks, minimizing incidental overtime",
-        "Collaborates with interprofessional health care team to facilitate patient throughput efficiently to meet organizational goals",
-        "Implements department strategies to achieve financial target and mentors others to do the same through timely documentation of care, decreasing length of stay, optimizing efficiency, minimizing incidental overtime, and other areas according to department specifications",
-        "Expands individual nursing knowledge and coaches staff to grow in knowledge, abilities, skills, and attitudes",
-        "Serves as the clinical resource",
-        "Develops and disseminates, as appropriate, informational/educational resources and programs designed to improve quality and professional practice",
-        "Supports change initiatives and adapts to unexpected changes",
-        "Fosters identification and implementation of innovative solutions to improve patient care or unit operations such as reduction of hospital readmissions or other department-specific measures by leading and/or participating in unit projects and shared governance activities",
-        "Seeks opportunities to identify self-development needs and takes appropriate action",
-        "Ensures own career discussions occur with appropriate management",
-        "Completes and updates the My Development Plan on an ongoing basis"
+        "Scheduled Hours",
+        "We are seeking a skilled L&D RN to provide care to patients throughout the labor, delivery, and postpartum stages",
+        "Responsibilities include fetal monitoring, assisting during deliveries (vaginal and cesarean), administering medications, and supporting patient education",
+        "Must be comfortable working in a fast-paced, high-acuity environment",
+        "This is a 12-hour shift position with weekend, holiday, and potential on-call expectations",
+        "Compliance and onboarding typically require 4-6 weeks to complete"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "www-houstonmethodistcareers-org-job-114618-rn-iii-labor-delivery-rn-womens-services-houston-methodist-sugarland-hospital",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
