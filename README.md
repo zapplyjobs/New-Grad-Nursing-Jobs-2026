@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-11-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-10-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-10-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-11-red?style=flat&logo=star)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-10-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 10+ top companies and healthcare facilities. Updated every 15 minutes with 11+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 10+ top companies and healthcare facilities. Updated every 15 minutes with 10+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,14 +69,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (11 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (10 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Harris Health System** | Registered Nurse (NC II) - F/T -... | Houston, Texas | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.harrishealth.org/registered-nurse-nc-ii-f-t-6d-medicine-imu-ben-taub-hospital/job/14340A271F49EC820D7860436CE4AE59?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Hospital Sisters Health System** | Registered Nurse (RN) - Various ... | Savoy, Illinois | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/registered-nurse-rn-various-units-med-surg-cardiac-icu-er-cath-lab-pacu-or-savoy-il-68d2914c30d825033c222de4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Commonwealth of VA Careers** | Registered Nurse (Night Shift): ... | Powhatan, Virginia | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobs.virginia.gov/jobs/registered-nurse-night-shift-beaumont-correctional-center-powhatan-virginia-united-states-a97ae079-30ee-4a78-b29e-439cac5a12f3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏥 **Mayo Clinic** | Nursing Station Technician - Eme... | Austin, Minnesota | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.mayoclinic.org/job/austin/nursing-station-technician-emergency-department/33647/91711362768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **HealthPartners** | Registered Nurse- Med/Surg | Stillwater, Minnesota | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/healthpartners/job/117353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **CW Bill Young Department of Veterans Affairs Medical Center** | ENDOSCOPY REGISTERED NURSE (Inte... | Bay Pines, Florida | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857175700?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Fayetteville NC VA Medical Center** | Practical Nurse (Ambulatory Care) | Jacksonville, North Carolina | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857063100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Hospital Sisters Health System** | Inpatient Registered Nurse (RN) ... | Clinton, Illinois | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -170,7 +169,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 11 current opportunities from 10 companies**
+**🎯 10 current opportunities from 10 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
