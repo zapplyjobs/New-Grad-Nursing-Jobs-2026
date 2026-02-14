@@ -1,7 +1,7 @@
 {
   "date": "Sat Feb 14 2026",
-  "requests": 27,
-  "remaining": 3,
+  "requests": 28,
+  "remaining": 2,
   "queries_executed": [
     "nurse supervisor",
     "travel nurse",
@@ -29,6 +29,7 @@
     "labor and delivery nurse",
     "labor and delivery nurse",
     "labor and delivery nurse",
-    "labor and delivery nurse"
+    "labor and delivery nurse",
+    "pediatric nurse"
   ]
 }
