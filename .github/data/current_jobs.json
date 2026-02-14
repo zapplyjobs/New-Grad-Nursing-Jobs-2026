@@ -193,8 +193,8 @@
     "job_longitude": -81.9562253,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlY1sNPh4LdCEiTwzAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -465,8 +465,8 @@
     "job_longitude": -92.74322409999999,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeF9tSZ9xpD-nbqxUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 34.46,
@@ -844,9 +844,9 @@
     "job_latitude": 36.8507689,
     "job_longitude": -76.28587259999999,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dkw8El-G3st-bno6nAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -912,9 +912,9 @@
     "job_latitude": 40.3519795,
     "job_longitude": -88.764237,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dl52jo79ayUdu4rZ2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 34,
@@ -1032,6 +1032,162 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "y25ZoPAbX6OwGAiAAAAAAA==",
+    "job_title": "Registered Nurse - Emergency Room",
+    "employer_name": "Williamson Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU46PNP8pC4ZYKKJg_l4i3blwjRb8p6iQeeYxf&s=0",
+    "employer_website": "https://williamsonhealth.org",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Williamson-Health/Job/Registered-Nurse-Emergency-Room/-in-Arrington,TN?jid=01d036152b8fc1ca&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Williamson-Health/Job/Registered-Nurse-Emergency-Room/-in-Arrington,TN?jid=01d036152b8fc1ca&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/registered-nurse-emergency-room-arrington-tennessee/2614752251-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs For Stevenage Fans",
+        "apply_link": "https://jobs.stevenagefc.com/jobs/registered-nurse-emergency-room-1p-1230a-arrington-tennessee/2614763949-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/registered-nurse-emergency-room-1p-1230a-arrington-tennessee/2611172813-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Edinburgh City FC",
+        "apply_link": "https://jobs.edinburghcityfc.com/jobs/registered-nurse-emergency-room-arrington-tennessee/2614752251-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Aspire Media Group Jobs",
+        "apply_link": "https://jobs.aspiremediagroup.net/jobs/registered-nurse-emergency-room-arrington-tennessee/2614752251-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs.kxnet.com",
+        "apply_link": "https://jobs.kxnet.com/jobs/registered-nurse-emergency-room-arrington-tennessee/2614752251-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/emergency-room?id=2455240351&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Summary\n\nABOUT WILLIAMSON HEALTH | Williamson Health is a regional healthcare system based in Williamson County, Tennessee, with more than 2,300 employees across more than 30 locations and more than 860 physicians and advanced care practitioners offering exceptional healthcare across 60-plus specialties and subspecialties close to home. The flagship facility, Williamson Medical Center, which recently opened its new Boyer-Bryan West Tower, offers extensive women's services, state-of-the-art cardiology services, advanced surgical technologies, an award-winning obstetrics and NICU, leading-edge orthopaedics, outpatient imaging services, and distinct comprehensive emergency and inpatient services for both adult and pediatric patients. Other Williamson Health service providers include the Bone and Joint Institute of Tennessee, The Turner-Dugas Breast Health Center, Monroe Carell Jr. Children's Hospital Vanderbilt at Williamson Medical Center, Williamson Health physician practices that are strategically located throughout the community, countywide Emergency Medical Services that include 18 rapid response units, Williamson Health Foundation, and multiple joint venture Vanderbilt Health and Williamson Medical Center Walk-In Clinics in Williamson County. Learn more about our many specialized services at WilliamsonHealth.org.\n\nWilliamson Health is a system where your talents will be valued and your skillset expanded. We are rooted in our promise to world-class, compassionate care for the residents of Williamson County and surrounding communities, taking exceptional pride in serving our community. We're committed to empowering our employees to work in innovative ways and reserve time and space for curiosity, laughter and creativity. We value and support the diversity and cultural differences among one another and are committed to upholding an inclusive environment that appreciates the uniqueness of all individuals. Our values are at the heart of everything we do: respect for every individual, the health and total well-being of all people, human compassion and integrity. These shape who we are as an organization and are essential for delivering the highest level of culturally competent care and treatment of every patient, family member, visitor, physician and employee.\n\nWilliamson Health is pleased to offer a comprehensive benefits program, that offers you choice and flexibility, so you can take charge of your physical, financial, and emotional well-being.\no Medical, Dental, Vision\no PTO\no Retirement Matching\no Tuition reimbursement\no Discount programs\no FSA (Flexible Spending Accounts)\no Identity Theft Protection\no Legal Aid\n\nWilliamson Health is an equal-opportunity employer and a drug-free workplace.\n\nPosition Summary:\nTo coordinate, implement, and plan nursing care in a timely and accurate manner.\n\nPosition Requirements:\nFormal Education / Training:\n1. Earned a nursing diploma or degree from a college or university.\n2. Licensed in the State of Tennessee.\n3. BLS within 90 days of hire.\n4. For 3rd floor telemetry unit\na. Basic arrhythmia within 6 months of hire\nb. ACLS within 6 months of hire\n5. For float pool and float pool extended\na. Basic arrhythmia within 6 months of hire\nb. ACLS within 6 months of hire\nc. Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire\n6. For critical care\na. Basic arrhythmia within 6 months of hire\nb. ACLS within 6 months of hire\nc. Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire\nd. AACN, CCRN or CCP certification within two years of hire\n7. For Oncology\na. ONS chemo/immunotherapy certification within one year of hire\n8. For Adult Emergency Room\na. At least one year of emergency experience preferred\nb. TNCC Preferred\nc. ACLS within 6 months of hire\nd. PALS within 6 months of hire\ne. Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire\n9. For Pediatric Medical Surgical\na. At least one year of pediatric in-hospital experience preferred.\nb. PALS within 6 months of hire.\nc. Non-Violent Crisis Intervention (NVCI) certification (8-hour, non-physical training) within 6 months of hire\n10. For Pediatric Emergency Room\na. At least one year of pediatric emergency experience preferred\nb. PALS within 6 months of hire.\nc. ACLS within 6 months of hire\nd. Non-Violent Crisis Intervention (NVCI) certification (8-hour, non-physical training) within 6 months of hire\ne. ENPC or TNCC within 6 months of hire\n\nWorkplace Experience:\n___ Adult Medical Surgical Patient Care Delivery\n___ Pediatric Patient Care Delivery\n___ Critical Care Patient Care Delivery\n___ Oncology Patient Care Delivery\n___ Adult Emergency Patient Care Delivery\n___ Pediatric Emergency Patient Care Delivery\n\nEquipment and Skills Training:\nStandard patient care equipment for services provided. The ability to work well under pressure, to function dependently and independently and to be flexible in applying basic nursing knowledge to a variety of setting. Equipment: Network Computer System; Omnicell Medication System; Telemetry; Pneumatic Tube System; AT&T Language Line.\n\nPhysical Environment:\n___ Adult medical/surgical unit with patient population ranging from adolescent to > 99 years of age\n___ Pediatric medical/surgical unit with patient population ranging from neonate to 21 years of age\n___ Critical Care unit with patient population ranging from adolescent to > 99 years of age\n___ Oncology unit with adult patient population\n___ Adult emergency department with patient population ranging from less than one year of age to > 99 years of age\n___ Pediatric emergency department with patient population ranging from neonate to 21 years of age.\n\nPhysical Effort:\n1. Able to communicate in English verbally and legibly.\n2. Requires prolonged standing and working for up to twelve hours a day\n3. Able to stand/work for up to twelve hours a day.\n4. Able to lift with assistance up to 250 lbs.\n\nKey Results:\nPerforms a comprehensive assessment on all patients within the appropriate time of admission utilizing skills of observation, communication and examination; including data obtained from patient, family and other members of the healthcare team.\nPlans the patient's care on an individual basis, identifying problems/needs, nursing diagnosis, standards of care/practice, interventions consistent with identified problems and attainable outcomes.\nPlans for patient teaching, discharge and post discharge needs as appropriate for patient population.\nFunctions independently with treatments, procedures and equipment appropriate to areas evidence by adherence to policy, procedure and competency based assessment and no pattern or trend of problem.\nHandles/transports/stores/prepares/administers medications/ solutions safely and in accordance with hospital and departmental policies and procedures.\nDocuments accurately and timely.\nReassess patient's condition, evaluate patient response and modify plan of care accordingly and in a timely manner.\nAccepts charge responsibilities and assigns staff with consideration of patient condition and care requirement, acuity and complexity of patient's condition. Facilitates staff development\nMaintains healing and therapeutic environment for the patient and family.\nMaintains position specific qualifications.\nDemonstrates responsibility for assigned communications and special assignments.\nMaintains their work areas and personal appearance in a way that reflects our professionalism and demonstrates to our patients, visitors, and coworkers the importance we place on cleanliness, orderliness, and safety.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Arrington, TN",
+    "job_city": "Arrington",
+    "job_state": "Tennessee",
+    "job_country": "US",
+    "job_latitude": 35.868119899999996,
+    "job_longitude": -86.7091643,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dy25ZoPAbX6OwGAiAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Earned a nursing diploma or degree from a college or university",
+        "Licensed in the State of Tennessee",
+        "BLS within 90 days of hire",
+        "For 3rd floor telemetry unit",
+        "Basic arrhythmia within 6 months of hire",
+        "ACLS within 6 months of hire",
+        "For float pool and float pool extended",
+        "Basic arrhythmia within 6 months of hire",
+        "ACLS within 6 months of hire",
+        "Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire",
+        "For critical care",
+        "Basic arrhythmia within 6 months of hire",
+        "ACLS within 6 months of hire",
+        "Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire",
+        "AACN, CCRN or CCP certification within two years of hire",
+        "For Oncology",
+        "ONS chemo/immunotherapy certification within one year of hire",
+        "For Adult Emergency Room",
+        "ACLS within 6 months of hire",
+        "PALS within 6 months of hire",
+        "Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire",
+        "For Pediatric Medical Surgical",
+        "PALS within 6 months of hire",
+        "Non-Violent Crisis Intervention (NVCI) certification (8-hour, non-physical training) within 6 months of hire",
+        "For Pediatric Emergency Room",
+        "PALS within 6 months of hire",
+        "ACLS within 6 months of hire",
+        "Non-Violent Crisis Intervention (NVCI) certification (8-hour, non-physical training) within 6 months of hire",
+        "ENPC or TNCC within 6 months of hire",
+        "Standard patient care equipment for services provided",
+        "The ability to work well under pressure, to function dependently and independently and to be flexible in applying basic nursing knowledge to a variety of setting",
+        "Equipment: Network Computer System; Omnicell Medication System; Telemetry; Pneumatic Tube System; AT&T Language Line",
+        "___ Adult medical/surgical unit with patient population ranging from adolescent to > 99 years of age",
+        "___ Pediatric medical/surgical unit with patient population ranging from neonate to 21 years of age",
+        "___ Critical Care unit with patient population ranging from adolescent to > 99 years of age",
+        "___ Pediatric emergency department with patient population ranging from neonate to 21 years of age",
+        "Able to communicate in English verbally and legibly",
+        "Able to stand/work for up to twelve hours a day",
+        "Able to lift with assistance up to 250 lbs",
+        "Handles/transports/stores/prepares/administers medications/ solutions safely and in accordance with hospital and departmental policies and procedures"
+      ],
+      "Benefits": [
+        "Williamson Health is pleased to offer a comprehensive benefits program, that offers you choice and flexibility, so you can take charge of your physical, financial, and emotional well-being",
+        "Medical, Dental, Vision",
+        "PTO",
+        "Retirement Matching",
+        "Tuition reimbursement",
+        "Discount programs",
+        "FSA (Flexible Spending Accounts)",
+        "Identity Theft Protection"
+      ],
+      "Responsibilities": [
+        "To coordinate, implement, and plan nursing care in a timely and accurate manner",
+        "___ Pediatric Patient Care Delivery",
+        "___ Critical Care Patient Care Delivery",
+        "___ Oncology Patient Care Delivery",
+        "___ Adult Emergency Patient Care Delivery",
+        "___ Pediatric Emergency Patient Care Delivery",
+        "Requires prolonged standing and working for up to twelve hours a day",
+        "Performs a comprehensive assessment on all patients within the appropriate time of admission utilizing skills of observation, communication and examination; including data obtained from patient, family and other members of the healthcare team",
+        "Plans the patient's care on an individual basis, identifying problems/needs, nursing diagnosis, standards of care/practice, interventions consistent with identified problems and attainable outcomes",
+        "Plans for patient teaching, discharge and post discharge needs as appropriate for patient population",
+        "Functions independently with treatments, procedures and equipment appropriate to areas evidence by adherence to policy, procedure and competency based assessment and no pattern or trend of problem",
+        "Documents accurately and timely",
+        "Reassess patient's condition, evaluate patient response and modify plan of care accordingly and in a timely manner",
+        "Accepts charge responsibilities and assigns staff with consideration of patient condition and care requirement, acuity and complexity of patient's condition",
+        "Facilitates staff development",
+        "Maintains healing and therapeutic environment for the patient and family",
+        "Maintains position specific qualifications",
+        "Demonstrates responsibility for assigned communications and special assignments",
+        "Maintains their work areas and personal appearance in a way that reflects our professionalism and demonstrates to our patients, visitors, and coworkers the importance we place on cleanliness, orderliness, and safety"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-ziprecruiter-com-c-williamson-health-job-registered-nurse-emergency-room-in-arrington-tn",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "oFccjru3MyMevORSAAAAAA==",
     "job_title": "New to Acute Program (Med/Surg/Tele) - Registered Nurse (RN) - April 2026",
     "employer_name": "UHS",
@@ -1098,9 +1254,9 @@
     "job_latitude": 33.561262299999996,
     "job_longitude": -117.21051829999999,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoFccjru3MyMevORSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1285,119 +1441,196 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "n-vUXBcVQEHStsRaAAAAAA==",
-    "job_title": "Emergency Room (ER) RN - $ 1,996 / week",
-    "employer_name": "TNAA",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQ1hKHGS0HipJPkBPgHrtUXbMf5j6fvXvJGrZ&s=0",
+    "job_id": "rMcJuR6Y-joPJSTXAAAAAA==",
+    "job_title": "Travel Emergency Room Registered Nurse - $1,968 per week",
+    "employer_name": "Medical Solutions",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvQbuwPn8fMtLz_vE74IrmHvxEgWrc5g5jKkya&s=0",
+    "employer_website": "https://www.medicalsolutions.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Part-time",
+    "job_employment_types": [
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/travel-emergency-room-registered-nurse-%241-968-per-week-at-medical-solutions-4372955775?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/travel-emergency-room-registered-nurse-%241-968-per-week-at-medical-solutions-4372955775?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Women For Hire- Job Board",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/viroqua-wi/travel-emergency-room-registered-nurse-1-968-per-week-948724/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5629030610?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Www.talent.com",
+        "apply_link": "https://www.talent.com/view?id=a40019ab7e92&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/trauma-nurse?id=2447346024&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/1689617398837018624?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Sercanto",
+        "apply_link": "https://us.sercanto.com/detail/a/driver-get-paid-daily_neptune_2758286650?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Medical Solutions is seeking a travel nurse RN ED - Emergency Department for a travel nursing job in Viroqua, Wisconsin.\nJob Description & Requirements\n• Specialty: ED - Emergency Department\n• Discipline: RN\n• Duration: 12 weeks\n• 36 hours per week\n• Shift: 12 hours, nights\n• Employment Type: Travel\n\nWe’re seeking talented healthcare professionals whose adventure game is as strong as\ntheir clinical game. Those that want flexibility and high pay, we have the positions for\nyou!\n\nSome of the industry-leading benefits enjoyed by Medical Solutions travel nurses and\ntravel allied healthcare professionals include:\n• Day One Medical, Dental, and Vision with low premiums\n• Day One 401(k) with Company Contribution\n• Personalized Compensation Packages\n• Paid, Private, Fully Furnished, Pet-Friendly Housing\n• Dedicated Recruiter and 24/7 Customer Care Line\n• Per Diem Allowance and Paid Travel\n• Licensure and Certification Reimbursement\n• Free Liability Coverage\n• Voluntary Benefits: Critical Illness, Hospital Indemnity, Accident, and Pet Insurance\n• Equal Employment Opportunity\n• And More!\n\nEstimated pay package based on bill rate at time job was posted. Bill rates can\nchange frequently and without notice. Exact pay package may vary based on guaranteed hours,\ndistance being traveled, and customizations available for travelers.\n\nSmall Critical Access hospital in South West WI looking for some help in their ER. The traveler would be working a mix of 8 and 12 hour days on this 8 week assignment. All candidates must have at least 5 years experience in ED. Please contact Medical Solutions at for more information.\n\nMedical Solutions Job ID #1058452. Pay package is based on 12 hour shifts and 36 hours per week (subject to confirmation) with tax-free stipend amount to be determined. Posted job title: ER (Emergency Room)\nAbout Medical Solutions\n\nAt Medical Solutions, we’re people who care, helping people who care. No matter how you look at it, there’s a whole lot of care going on in our world and that’s just the way we like it. What do we do? Medical Solutions is one of the nation’s largest providers of total workforce solutions in the healthcare industry, connecting nurses and allied health clinicians with hospitals and healthcare systems across the country and around the corner. Through our family of brands, we also serve a segment of clients outside of the healthcare space. And we’re the very best at what we do. You’ll love our culture that’s filled with heart and soul. As a company and employer, we’re sincerely and unabashedly us. We lead as humans first and believe the unique qualities of each team member make us better together. We share a purpose for helping others and the drive to make a difference. And we offer endless opportunities for personal and professional growth, throughout your career. At Medical Solutions, you’ll find a great place to work and a career home. We’ve received Best Places to Work awards, landed top industry awards, and received accolades for the impact we’ve made in business and within our community. But the only way to really get to know us, is to join us. We think you’ll fit right in.\nBenefits\n• Weekly pay\n• Holiday Pay\n• Guaranteed Hours\n• Continuing Education\n• 401k retirement plan\n• Pet insurance\n• Company provided housing options\n• Cancelation protection\n• Wellness and fitness programs\n• Mileage reimbursement\n• Referral bonus\n• Employee assistance programs\n• Medical benefits\n• Dental benefits\n• Vision benefits\n• Benefits start day 1\n• License and certification reimbursement\n• Life insurance\n• Discount program",
+    "job_is_remote": false,
+    "job_posted_at": "15 hours ago",
+    "job_posted_at_timestamp": 1771034400,
+    "job_posted_at_datetime_utc": "2026-02-14T02:00:00.000Z",
+    "job_location": "Viroqua, WI",
+    "job_city": "Viroqua",
+    "job_state": "Wisconsin",
+    "job_country": "US",
+    "job_latitude": 43.556917399999996,
+    "job_longitude": -90.88874129999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrMcJuR6Y-joPJSTXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Specialty: ED - Emergency Department",
+        "All candidates must have at least 5 years experience in ED"
+      ],
+      "Benefits": [
+        "Day One Medical, Dental, and Vision with low premiums",
+        "Day One 401(k) with Company Contribution",
+        "Personalized Compensation Packages",
+        "Paid, Private, Fully Furnished, Pet-Friendly Housing",
+        "Dedicated Recruiter and 24/7 Customer Care Line",
+        "Per Diem Allowance and Paid Travel",
+        "Licensure and Certification Reimbursement",
+        "Free Liability Coverage",
+        "Voluntary Benefits: Critical Illness, Hospital Indemnity, Accident, and Pet Insurance",
+        "Equal Employment Opportunity",
+        "Estimated pay package based on bill rate at time job was posted",
+        "change frequently and without notice",
+        "Exact pay package may vary based on guaranteed hours,",
+        "distance being traveled, and customizations available for travelers",
+        "Pay package is based on 12 hour shifts and 36 hours per week (subject to confirmation) with tax-free stipend amount to be determined",
+        "Weekly pay",
+        "Holiday Pay",
+        "Guaranteed Hours",
+        "Continuing Education",
+        "401k retirement plan",
+        "Pet insurance",
+        "Company provided housing options",
+        "Cancelation protection",
+        "Wellness and fitness programs",
+        "Mileage reimbursement",
+        "Referral bonus",
+        "Employee assistance programs",
+        "Medical benefits",
+        "Dental benefits",
+        "Vision benefits",
+        "Benefits start day 1",
+        "License and certification reimbursement",
+        "Life insurance",
+        "Discount program"
+      ],
+      "Responsibilities": [
+        "Discipline: RN",
+        "Duration: 12 weeks",
+        "36 hours per week",
+        "Shift: 12 hours, nights",
+        "The traveler would be working a mix of 8 and 12 hour days on this 8 week assignment"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-travel-emergency-room-registered-nurse-241-968-per-week-at-medical-solutions-4372955775",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "X1C1cznt7nvuADwwAAAAAA==",
+    "job_title": "Travel Nurse - Registered Nurse - ER - Emergency Room - $1982 / Week",
+    "employer_name": "LRS Healthcare - Nursing",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
     "employer_website": null,
     "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=5f94b475f412&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=e3903cef339b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=5f94b475f412&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=e3903cef339b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/c6a5cef85ad7dfcf78f2c800fcdffdf7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-nc-fuquay-varina-travel-nurse-registered-er-emergency-room-1982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "We are looking for a Travel Emergency Room RN for a great Travel nursing job in Marshall, MO.\n\nThis Emergency Room Travel nursing job pays for 36 hours a week for 13 weeks. With Wanderly you can compare Travel nurse salary from leading Travel nurse agencies in the United States.\n\nWith Wanderly you can chat and apply to any agency with Wanderly’s Universal Application, below are the details of this Travel Nursing Job including the Travel nurse salary :\n• Specialty : Emergency Room RN\n• Travel Emergency Room (ER) Registered Nurse : Marshall, MO\n• Travel Nurse Salary : $1996 / Week\n• Start Date : February 23, 2026\n• Travel Nursing Job Assignment Length : 13 weeks\n• Travel Nurse Hours : 36 hours per week\n• Shift : 12 hours, night\n\nPK-1379459",
+    "job_description": "LRS Healthcare - Nursing is seeking an experienced Emergency Room Registered Nurse for an exciting Travel Nursing job in Cape May Court House, NJ. Shift : Inquire Start Date : 02 / 18 / 2026 Duration : 13 weeks Pay : $1982 / Week\n\nReady to start your next travel adventure? LRS Healthcare offers a full benefits package, 24 / 7 support, and a responsive, traveler-first culture. What are you waiting for? Apply today!Qualifications :\n\n2 year of recent experience in area of specialty preferred\n\nValid license and / or certification in state of practice, if applicable\n\nDemonstrated ability to maintain high level of professionalism during stressful times\n\nValid Driver's License\n\nBackground and drug screen\n\nBenefits :\n\nHealth, Dental, and Vision Insurance\n\nCustomized Housing Options\n\nLife and Disability Insurance\n\n401(k) with Employer Match\n\nCertification & Licensure Reimbursement\n\nGenerous Referral Bonus Program\n\nWeekly Direct Deposit\n\n24 / 7 / 365 Support\n\nReady to learn more? Apply today to start your Travel Adventure with LRS Healthcare! About LRS Healthcare - Nursing :\n\nAt LRS Healthcare, we match skilled nursing professionals with top facilities nationwide. We know the healthcare industry never stands still, and neither do we. Our team of specialized recruiters professionals will help you find the travel healthcare job you've always wanted. And when you do, we'll be there to support you whenever you need us, every step of the way.",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Marshall, MO",
-    "job_city": "Marshall",
-    "job_state": "Missouri",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Fuquay-Varina, NC",
+    "job_city": "Fuquay-Varina",
+    "job_state": "North Carolina",
     "job_country": "US",
-    "job_latitude": 39.123077699999996,
-    "job_longitude": -93.1968704,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dn-vUXBcVQEHStsRaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 35.584323499999996,
+    "job_longitude": -78.80001279999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DX1C1cznt7nvuADwwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
-      "Benefits": [
-        "With Wanderly you can compare Travel nurse salary from leading Travel nurse agencies in the United States",
-        "Travel Nurse Salary : $1996 / Week",
-        "Start Date : February 23, 2026",
-        "Travel Nurse Hours : 36 hours per week"
+      "Qualifications": [
+        "Valid license and / or certification in state of practice, if applicable",
+        "Demonstrated ability to maintain high level of professionalism during stressful times",
+        "Valid Driver's License",
+        "Background and drug screen"
       ],
-      "Responsibilities": [
-        "Travel Nursing Job Assignment Length : 13 weeks",
-        "Shift : 12 hours, night"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Kdvh257ZRiFBuQ_IAAAAAA==",
-    "job_title": "Travel Nurse - RN - ER - Emergency Room - $2110 / Week - Hiring Now",
-    "employer_name": "Pulse Healthcare Services",
-    "employer_logo": null,
-    "employer_website": "https://pulsehealthinc.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=647d2471cf74&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=647d2471cf74&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Hispanic-Jobs.com",
-        "apply_link": "https://hispanic-jobs.com/jobs/travel-nurse-rn-er-emergency-room-2110-week-hiring-now-columbia-missouri/2618241659-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Blackberry Jobs",
-        "apply_link": "https://blackberryjobs.co.uk/jobs/travel-nurse-rn-er-emergency-room-2110-week-hiring-now-columbia-missouri/2618241659-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Diversity-Jobs.com",
-        "apply_link": "https://diversity-jobs.com/jobs/travel-nurse-rn-er-emergency-room-2110-week-hiring-now-columbia-missouri/2618241659-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Asian-Jobs.com",
-        "apply_link": "https://asian-jobs.com/jobs/travel-nurse-rn-er-emergency-room-2110-week-hiring-now-columbia-missouri/2618241659-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Pulse Healthcare Services is seeking an experienced Emergency Room Registered Nurse for an exciting Travel Nursing job in Columbia, MO. Shift : 3x12 hr nights Start Date : 02 / 09 / 2026 Duration : 13 weeks Pay : $2110 / Week\n\nAbout Pulse Healthcare Services :\n\nToday, PHC specializes in providing broad spectrum of health care professionals in the areas of Nursing, Advanced Nursing, Physicians, Allied health care services and Behavioral health services. In its niche market, PHC, has created a name for itself, and this creates many opportunities to tie up with other companies, both well established as well as new up and coming firms.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Columbia, MO",
-    "job_city": "Columbia",
-    "job_state": "Missouri",
-    "job_country": "US",
-    "job_latitude": 38.951768,
-    "job_longitude": -92.32829319999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKdvh257ZRiFBuQ_IAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
       "Benefits": [
-        "Shift : 3x12 hr nights Start Date : 02 / 09 / 2026 Duration : 13 weeks Pay : $2110 / Week"
+        "Shift : Inquire Start Date : 02 / 18 / 2026 Duration : 13 weeks Pay : $1982 / Week",
+        "LRS Healthcare offers a full benefits package, 24 / 7 support, and a responsive, traveler-first culture",
+        "Health, Dental, and Vision Insurance",
+        "Customized Housing Options",
+        "Life and Disability Insurance",
+        "401(k) with Employer Match",
+        "Certification & Licensure Reimbursement",
+        "Generous Referral Bonus Program",
+        "Weekly Direct Deposit"
       ]
     },
     "job_onet_soc": "29114100",
@@ -1462,8 +1695,8 @@
     "job_latitude": 36.6859829,
     "job_longitude": -77.5424809,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dw4LBRdJNmWsgASjQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1617,77 +1850,92 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "X1C1cznt7nvuADwwAAAAAA==",
-    "job_title": "Travel Nurse - Registered Nurse - ER - Emergency Room - $1982 / Week",
-    "employer_name": "LRS Healthcare - Nursing",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": null,
-    "job_publisher": "Talent.com",
+    "job_id": "nXQAeY1lEgPWjZVkAAAAAA==",
+    "job_title": "Graduate Nurse (GN) Residency— Emergency Department (ED)—July 2026",
+    "employer_name": "Texas Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT08nmlNG2jzJ4NemOg-HZh-3wb6izTzumJjstK&s=0",
+    "employer_website": "https://www.texashealth.org",
+    "job_publisher": "Texas Health Careers - Texas Health Resources",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=e3903cef339b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobs.texashealth.org/job/22865252/graduate-nurse-gn-residency-emergency-department-ed-july-2026-plano-tx/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=e3903cef339b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Texas Health Careers - Texas Health Resources",
+        "apply_link": "https://jobs.texashealth.org/job/22865252/graduate-nurse-gn-residency-emergency-department-ed-july-2026-plano-tx/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/c6a5cef85ad7dfcf78f2c800fcdffdf7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Texas-Health-Resources/Job/Graduate-Nurse-(GN)-Residency-Emergency-Department-(ED)-July-2026/-in-Plano,TX?jid=16c8daccb323daf7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "IntelyCare",
+        "apply_link": "https://www.intelycare.com/jobs/169299661-graduate-nurse-gn-residency-emergency-department-ed-july-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-nc-fuquay-varina-travel-nurse-registered-er-emergency-room-1982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/graduate-nurse-gn_7ea1a0ce3500e0d015199dcf08671970e14d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/graduate-nurse-gn-residency%E2%80%94-emergency-department-ed-%E2%80%94july-2026-at-texas-health-resources-4372101899?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/plano-tx-graduate-nurse-gn-residency-emergency-department-ed-july-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobTarget",
+        "apply_link": "https://www.jobtarget.com/jobs/jt-a42mos5v5p/graduate-nurse-gn-residency-emergency-department-ed-july-2026-plano-texas?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Breakroom",
+        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/28288115-texas-health-resources-graduate-nurse-gn-residency-emergency?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "LRS Healthcare - Nursing is seeking an experienced Emergency Room Registered Nurse for an exciting Travel Nursing job in Cape May Court House, NJ. Shift : Inquire Start Date : 02 / 18 / 2026 Duration : 13 weeks Pay : $1982 / Week\n\nReady to start your next travel adventure? LRS Healthcare offers a full benefits package, 24 / 7 support, and a responsive, traveler-first culture. What are you waiting for? Apply today!Qualifications :\n\n2 year of recent experience in area of specialty preferred\n\nValid license and / or certification in state of practice, if applicable\n\nDemonstrated ability to maintain high level of professionalism during stressful times\n\nValid Driver's License\n\nBackground and drug screen\n\nBenefits :\n\nHealth, Dental, and Vision Insurance\n\nCustomized Housing Options\n\nLife and Disability Insurance\n\n401(k) with Employer Match\n\nCertification & Licensure Reimbursement\n\nGenerous Referral Bonus Program\n\nWeekly Direct Deposit\n\n24 / 7 / 365 Support\n\nReady to learn more? Apply today to start your Travel Adventure with LRS Healthcare! About LRS Healthcare - Nursing :\n\nAt LRS Healthcare, we match skilled nursing professionals with top facilities nationwide. We know the healthcare industry never stands still, and neither do we. Our team of specialized recruiters professionals will help you find the travel healthcare job you've always wanted. And when you do, we'll be there to support you whenever you need us, every step of the way.",
+    "job_description": "Graduate Nurse (GN)— Emergency Department (ED)—July 2026\n\nCome and join our Graduate Nurse Residency Program! We invite new graduate RN's to apply for this unique opportunity. The next cohort will begin on July 13, 2026\n\nIntegrated into our Hospital’s education structure, the Texas Health Graduate Nurse Residency Program includes a guided clinical experience with an instructor-led core curriculum, a formal mentoring program, informative debriefing/self-care sessions and supportive 360-degree evaluations. Residents not only participate in the learning experience on their personally selected home units, they also rotate/cross train through other departments to gain an expanded nursing experience vital to the complex patient care.\n\nThe Texas Health Nurse Residency Program is a comprehensive, evidence based on-boarding program with a 15-month employment commitment that offers new graduate nurses an exciting opportunity to gain the experience, judgment, skills and confidence to successfully navigate the complexity of hospital life\n\nWhere you will be working:\n\n• Work Location: Texas Health Plano, 6200 W Parker Rd, Plano, TX 75093\n\n• Work Environment: Emergency Department\n\n• Work Hours: Full Time Nights -(7PM-7AP) for 36 hrs./ week. Rotating weekend and holiday requirements\n\nEmergency Department highlights:\n\n• 52 beds and more than 41,000 patient-visits a year\n\n• Self-Scheduling that helps with work/life balance as well as opportunities for educational and career growth\n\n• Level II Trauma\n\n• Comprehensive Stroke\n\n• Robust Unit Based Council (UBC) and engaged leadership team\n\n• Texas Health Plano 30-Minute Promise alleviates the worry that comes from long waits in the emergency department",
     "job_is_remote": false,
     "job_posted_at": "3 days ago",
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Fuquay-Varina, NC",
-    "job_city": "Fuquay-Varina",
-    "job_state": "North Carolina",
+    "job_location": "Plano, TX",
+    "job_city": "Plano",
+    "job_state": "Texas",
     "job_country": "US",
-    "job_latitude": 35.584323499999996,
-    "job_longitude": -78.80001279999999,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DX1C1cznt7nvuADwwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 33.0216577,
+    "job_longitude": -96.6979973,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnXQAeY1lEgPWjZVkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
-      "Qualifications": [
-        "Valid license and / or certification in state of practice, if applicable",
-        "Demonstrated ability to maintain high level of professionalism during stressful times",
-        "Valid Driver's License",
-        "Background and drug screen"
-      ],
       "Benefits": [
-        "Shift : Inquire Start Date : 02 / 18 / 2026 Duration : 13 weeks Pay : $1982 / Week",
-        "LRS Healthcare offers a full benefits package, 24 / 7 support, and a responsive, traveler-first culture",
-        "Health, Dental, and Vision Insurance",
-        "Customized Housing Options",
-        "Life and Disability Insurance",
-        "401(k) with Employer Match",
-        "Certification & Licensure Reimbursement",
-        "Generous Referral Bonus Program",
-        "Weekly Direct Deposit"
+        "52 beds and more than 41,000 patient-visits a year",
+        "Self-Scheduling that helps with work/life balance as well as opportunities for educational and career growth",
+        "Level II Trauma"
+      ],
+      "Responsibilities": [
+        "Work Environment: Emergency Department",
+        "Work Hours: Full Time Nights -(7PM-7AP) for 36 hrs./ week",
+        "Rotating weekend and holiday requirements"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
+    "id": "jobs-texashealth-org-job-22865252-graduate-nurse-gn-residency-emergency-department-ed-july-2026-plano-tx",
     "_source": "new_jobs"
   }
 ]
