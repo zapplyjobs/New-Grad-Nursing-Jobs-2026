@@ -464,9 +464,9 @@
     "job_latitude": 38.9735565,
     "job_longitude": -92.74322409999999,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DeF9tSZ9xpD-nbqxUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 34.46,
@@ -651,130 +651,88 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "_Oaa_Ar9b26LAum4AAAAAA==",
-    "job_title": "Registered Nurse (RN)- ER/ED /Emergency Room- Fulltime Nights 7p-7a",
-    "employer_name": "3710 Paulding Medical Center, Inc.",
-    "employer_logo": null,
+    "job_id": "l52jo79ayUdu4rZ2AAAAAA==",
+    "job_title": "Registered Nurse - ED/Critical Care",
+    "employer_name": "Hospital Sisters Health System",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbp9lS0YUWyp_y_oyytq21xfVeK0uEhhbkpwOg&s=0",
     "employer_website": null,
-    "job_publisher": "Wellstar Careers - Wellstar Health System",
+    "job_publisher": "Hospital Sisters Health System",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.wellstar.org/us/en/job/JR-59557/Registered-Nurse-RN-ER-ED-Emergency-Room-Fulltime-Nights-7p-7a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.hshs.org/gfj/registered-nurse-ed-critical-care-le-roy-il-6984a81feb4c4903d4a76765?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Wellstar Careers - Wellstar Health System",
-        "apply_link": "https://careers.wellstar.org/us/en/job/JR-59557/Registered-Nurse-RN-ER-ED-Emergency-Room-Fulltime-Nights-7p-7a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Hospital Sisters Health System",
+        "apply_link": "https://www.hshs.org/gfj/registered-nurse-ed-critical-care-le-roy-il-6984a81feb4c4903d4a76765?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=c791ae81ba3da95f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Medical Hirings - Talent Rush HQ",
+        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/kvlkhtxeb6m7-ba3e-bb7a04765e7d0e658b09e776530f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Health ECareers",
-        "apply_link": "https://www.healthecareers.com/job/registered-nurse-rn-er-ed-emergency-room-fulltime-nights-7p-7a/12834236?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Wellstar-Health-System/Job/Registered-Nurse-(RN)-ER-ED-Emergency-Room-Fulltime-Nights-7p-7a/-in-Hiram,GA?jid=270c6e6d15353201&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-rn-er-ed-emergency-room-fulltime-nights-7p-7a-at-wellstar-health-system-4343681105?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Nursing Network",
-        "apply_link": "https://www.nursingnetwork.com/nursing-jobs/1786797-registered-nurse-rn-er-ed-emergency-room-fulltime-nights-7p-7a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "EQuest Jobs",
-        "apply_link": "https://jobs.equest.com/jobs/GA/wellstar-health-system/registered-nurse-rn--ered-emergency-room--fulltime-nights-p-a-443705872.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=125a9e7a3259&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Pulse Hires Now",
+        "apply_link": "https://pulsehiresnow.com/viewjob/ya4b073nrwcz-c3783716934d-4e662ef3c5ae1c08455c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "How would you like to work in a place where your contributions and ideas are valued? A place where you can serve with compassion, pursue excellence and honor every voice? At Wellstar, our mission is simple, yet powerful: to enhance the health and well-being of every person we serve. We are proud to have become a shining example of what's possible when the brightest professionals dedicate themselves to making a difference in the healthcare industry, and in people's lives.\n\nWork Shift\nNight (United States of America)\n\nJob Summary:\n\nFulltime Night shift 7p-7a\n\nSign on Bonus eligible\n\nER RN exp preferred - exceptional customer service skills with high empathy in a fast paced growing 40 bed ER ( 30 are adult )\n\nMagnet Designated/A Plus Leapfrog campus for QI/Beacon Award winning ER with 4 star CMS scores for patient satisfaction and below industry average turnover-\n\nCURRENT UPDATED RESUME IS REQUIRED FOR FULL REVIEW\n\nThe RN Clinical Nurse Emergency Department is a proactive member of an interdisciplinary team of licensed and unlicensed care givers who ensure that patients, families and significant others receive individualized high quality, safe patient care. They practice in a clinical environment that is administered by Nurse Managers and other leaders and is supported through the Wellstar Shared Governance Model. The framework for practice is steered by the Wellstar Professional Practice Model and evidence-based practice and research. RN competencies are derived from these models and supported by the Wellstar Values.\nIt is expected that all RN Clinical Nurses Emergency Services are licensed, knowledgeable and uphold the practice of nursing as outlined by the Georgia Professional Nurse Practice Act and implements the Scope of Practice and Code of Ethics Standards put forth by the American Nurses Association. As a member of the patient services team, it is expected that the individual upholds the voice of the patient, system policies and procedures while supporting service excellence goals.\n\nCore Responsibilities and Essential Functions:\n\nExemplary Practice and Outcomes\n• A.Performs the Nursing Process (assessment; diagnosis; identification of outcomes; planning; implementation and evaluation) in the performance of clinical care using evidence base practice, uses analytical/critical thinking and ensuring that care is individualized; coordinating care through effective partnerships recognizing that caring is central to achieve optimal patient care outcomes\n• B.Provides relationship-based patient centered care that is consistent with population specific characteristics (e.g. age, gender, disease, etc) in a manner that adapts service delivery to reflect an understanding of cultural diversity\n• C.Always partners with the patient and significant others (as appropriate) using such appropriate method for setting and purpose (e.g., bedside shift report; interdisciplinary rounds; just in time and planned patient teaching; keeping the patient and significant others updated and making the patients goals the focus of the plan of care.\n• D.Practices using current clinical practice standards.\nTeamwork and Collaboration\n• A.Coordinates the delivery and documentation of safe quality patient care that promotes the professional care delivery model. This includes, but is not limited to diverse and inclusive interdisciplinary communication methods (interdisciplinary rounds, case review, etc); completion of timely documentation and promotion of a respectful, inclusive clinical environment\n• B.Demonstrates teamwork and collaboration by practicing in a manner that is fiscally responsible and promotes the recruitment and retention of all healthcare team members.\n• C.Participates and supports performance improvement inclusive of all stakeholders, research and research utilization to promote safe, quality patient care including initiating and/or leading such activities as well as, promoting an inter/intra-disciplinary process and actively supports/participates in shared governance at all levels in the system.\nProfessional Development and Initiative\n• A.Completes all initial and ongoing professional competency assessment, required mandatory education, population specific education.\n• B.Serves as a preceptor and/or or mentor for other professional nurses (and staff or students for all disciplines) to ensure that there is a current and future qualified workforce; modeling the professional practice of nursing and creating a healthy work environment\nEvidence Based Practice and Research\n• A.Promotes Evidence based practice, nursing research and performance improvement in nursing. Participates in activities such as value analysis as part of the decision-making process in evaluating patient care products.\n• B.Upholds all health care system/organizational policies and procedures and clinical competencies put forth by this job description and professional association including legal, regulatory and accreditation requirements and standards ensuring by way of example, such goals as TJC Patient Safety Goals and Wellstar Health Systems safety absolutes\n• C.Participates in data collection, poses relevant clinical questions to advanced evidence-based practice. Consults appropriate experts and uses appropriate resources and evidence to address practice questions.\nResources and Support\n• A.Proactively plans for the care of patients across the care continuum in the course of giving direct patient care.\n• B.Participates in the development of protocols and procedures when called upon or through self-initiation in collaboration with care managers and other members of the health care team to achieve best practice outcomes (i.e., decrease in re-admission rates; avoidable days; adverse events; etc).\n• C.Supports efficient and effective use of human and material resources.\nPerforms other duties as assigned\nComplies with all WellStar Health System policies, standards of work, and code of conduct.\n\nRequired Minimum Education:\n• Associates Nursing or Diploma (Nurse) Nursing or Bachelors Nursing-Preferred\n\nRequired Minimum License(s) and Certification(s):\n\nAll certifications are required upon hire unless otherwise stated.\n• BLS - Basic Life Support or ARC-BLS - Amer Red Cross Basic Life Support or BLS-I - Basic Life Support - Instructor\n• RN - Reg Nurse (Single State) or RN-COMPACT - RN - Multi-state Compact\n• PALS - Pediatric Adv Life Support or ARC-PALS - Amer Red Cross Pediatric Advanced Life Support or PALS-I - PALS - Instructor or PALS-P - PALS-Provisional (180 Days) within 180 Days\n• TNCC - Trauma Nurse Core Course or TNCC-P - Trauma Nurse Core Course - Provisional (18 Months) within 18 Months\n• ACLS - Advanced Cardiac Life Support or ARC-ALS - Amer Red Cross Advanced Life Support or ACLS-I - ACLS - Instructor or ACLS-P - ACLS-Provisional (180 Days) within 180 Days\n\nAdditional License(s) and Certification(s):\n\nRequired Minimum Experience:\n\nCompletion of accredited/approved school of nursing with requisition clinical hour Required and\nExperience with direct patient care Preferred\n\nRequired Minimum Skills:\n\nAbility to read, write and speak English language, optimize the use of technology to support clinical care and holds basic computer skills;\nStrong interpersonal, collaborative skills along with customer service skills required;\nAbility to function in a fast paced environment and respond to emergencies in using a decisive, composed and respectful manner; Possess excellent time management skills;\npractices nursing using evidence and analytical skills along with possessing strong critical thinking skills.\n\nJoin us and discover the support to do more meaningful work—and enjoy a more rewarding life. Connect with the most integrated health system in Georgia, and start a future that gives you more.",
+    "job_description": "HSHS St. Mary’s Hospital is seeking a Registered Nurse (RN) to join our Emergency Department (ED). Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge in a fast-paced environment with complex acuities.\nRegistered Nurses (RNs) in the Critical Care setting are incredibly important members of the medical team who have the humbling task of caring for our sickest and most vulnerable patients. RNs not only provide high-quality medical care, but they also provide a healing touch and a compassionate presence to patients and their families during joyful, stressful and uncertain times.\n\nPosition Specifics:\n• Hospital undergoing $90M renovation. Preparing for a brand new, state of the art unit!\n• Department: Emergency Department (ED). TNS (Trauma Nurse Specialist) offered after 1 year, 22 beds, more than 25,000 patients per year, work with EMS/ground/air, clinical site for nursing/medical/EMT students, primary stroke center, EDAP certified (ER approved for pediatrics)\n• Schedule: Full=Time Nights (3x12 6:45pm-7:15am) with every other weekend rotation\n• Location: Decatur, IL\n• Sign-On Bonus: $20,000\n• Compensation that aligns with experience. Shift differentials for night, weekend, and call on top of base rate!\n\nEducation Qualifications\n• Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required.\n• Bachelor’s of science in nursing is preferred.\n\nExperience Qualifications\n• Critical Care Nursing experience is preferred.\n\nCertifications, Licenses and Registrations\n• Licensed Registered Nurse (RN) in state of practice is required. Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules.\n• Basic Life Support (BLS) is required.\n• Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked.\n• Specialty certifications based on patient population such as Critical Care Registered Nurse (CCRN), and Certified Emergency Nurse (CEN) are preferred.\n\nJob Description\n\nScheduled Weekly Hours:\n36\n\nThroughout communities in Illinois and Wisconsin, 13 hospitals, numerous community-based health centers and clinics, our 13,000+ colleagues have built a culture based on our solid core values of respect, care, competence, and joy. These are the ideals we believe in, work by, and live each day.\n\nBuilt upon more than 145 years of service to the communities we serve, we now look to the future and our place in it as a health care system that strives to continually improve processes, procedures, and outcomes with the latest and most advanced technologies and treatments.\n\nRegardless of how far our passion for excellence carries us, our focus will always remain on the most important person in our entire organization: The patient.\n\nHSHS requires COVID-19 vaccines or an approved medical or religious exemption for all colleagues.\n\nBenefits: HSHS provides a benefits package designed to support the overall well-being of our colleagues including their physical, emotional, financial, spiritual, and work health. Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits.\n• Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues.\n• Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need.\n• Retirement benefits including HSHS\ncontributions.\n• Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period.\n• Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!\n• Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!\n\nBenefits\n\nHSHS and affiliates is an Equal Opportunity Employer (EOE).\n\nHSHS is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.\n\nPay Range:\n$34.00 - $51.00\n\nA successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education.",
     "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Hiram, GA",
-    "job_city": "Hiram",
-    "job_state": "Georgia",
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Le Roy, IL",
+    "job_city": "Le Roy",
+    "job_state": "Illinois",
     "job_country": "US",
-    "job_latitude": 33.8756601,
-    "job_longitude": -84.7621592,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_Oaa_Ar9b26LAum4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_latitude": 40.3519795,
+    "job_longitude": -88.764237,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dl52jo79ayUdu4rZ2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 34,
+    "job_max_salary": 51,
+    "job_salary_period": "HOUR",
     "job_highlights": {
       "Qualifications": [
-        "It is expected that all RN Clinical Nurses Emergency Services are licensed, knowledgeable and uphold the practice of nursing as outlined by the Georgia Professional Nurse Practice Act and implements the Scope of Practice and Code of Ethics Standards put forth by the American Nurses Association",
-        "Required Minimum License(s) and Certification(s):",
-        "All certifications are required upon hire unless otherwise stated",
-        "BLS - Basic Life Support or ARC-BLS - Amer Red Cross Basic Life Support or BLS-I - Basic Life Support - Instructor",
-        "RN - Reg Nurse (Single State) or RN-COMPACT - RN - Multi-state Compact",
-        "PALS - Pediatric Adv Life Support or ARC-PALS - Amer Red Cross Pediatric Advanced Life Support or PALS-I - PALS - Instructor or PALS-P - PALS-Provisional (180 Days) within 180 Days",
-        "TNCC - Trauma Nurse Core Course or TNCC-P - Trauma Nurse Core Course - Provisional (18 Months) within 18 Months",
-        "ACLS - Advanced Cardiac Life Support or ARC-ALS - Amer Red Cross Advanced Life Support or ACLS-I - ACLS - Instructor or ACLS-P - ACLS-Provisional (180 Days) within 180 Days",
-        "Completion of accredited/approved school of nursing with requisition clinical hour Required and",
-        "Ability to read, write and speak English language, optimize the use of technology to support clinical care and holds basic computer skills;",
-        "Strong interpersonal, collaborative skills along with customer service skills required;",
-        "Ability to function in a fast paced environment and respond to emergencies in using a decisive, composed and respectful manner; Possess excellent time management skills;",
-        "practices nursing using evidence and analytical skills along with possessing strong critical thinking skills"
+        "Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required",
+        "Certifications, Licenses and Registrations",
+        "Licensed Registered Nurse (RN) in state of practice is required",
+        "Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules",
+        "Basic Life Support (BLS) is required",
+        "Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked"
       ],
       "Benefits": [
-        "Sign on Bonus eligible"
+        "Schedule: Full=Time Nights (3x12 6:45pm-7:15am) with every other weekend rotation",
+        "Sign-On Bonus: $20,000",
+        "Compensation that aligns with experience",
+        "Shift differentials for night, weekend, and call on top of base rate!",
+        "Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits",
+        "Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues",
+        "Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need",
+        "Retirement benefits including HSHS",
+        "Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period",
+        "Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!",
+        "Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!",
+        "$34.00 - $51.00",
+        "A successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education"
       ],
       "Responsibilities": [
-        "Fulltime Night shift 7p-7a",
-        "The RN Clinical Nurse Emergency Department is a proactive member of an interdisciplinary team of licensed and unlicensed care givers who ensure that patients, families and significant others receive individualized high quality, safe patient care",
-        "They practice in a clinical environment that is administered by Nurse Managers and other leaders and is supported through the Wellstar Shared Governance Model",
-        "The framework for practice is steered by the Wellstar Professional Practice Model and evidence-based practice and research",
-        "As a member of the patient services team, it is expected that the individual upholds the voice of the patient, system policies and procedures while supporting service excellence goals",
-        "Exemplary Practice and Outcomes",
-        "A.Performs the Nursing Process (assessment; diagnosis; identification of outcomes; planning; implementation and evaluation) in the performance of clinical care using evidence base practice, uses analytical/critical thinking and ensuring that care is individualized; coordinating care through effective partnerships recognizing that caring is central to achieve optimal patient care outcomes",
-        "B.Provides relationship-based patient centered care that is consistent with population specific characteristics (e.g. age, gender, disease, etc) in a manner that adapts service delivery to reflect an understanding of cultural diversity",
-        "C.Always partners with the patient and significant others (as appropriate) using such appropriate method for setting and purpose (e.g., bedside shift report; interdisciplinary rounds; just in time and planned patient teaching; keeping the patient and significant others updated and making the patients goals the focus of the plan of care",
-        "D.Practices using current clinical practice standards",
-        "A.Coordinates the delivery and documentation of safe quality patient care that promotes the professional care delivery model",
-        "This includes, but is not limited to diverse and inclusive interdisciplinary communication methods (interdisciplinary rounds, case review, etc); completion of timely documentation and promotion of a respectful, inclusive clinical environment",
-        "B.Demonstrates teamwork and collaboration by practicing in a manner that is fiscally responsible and promotes the recruitment and retention of all healthcare team members",
-        "C.Participates and supports performance improvement inclusive of all stakeholders, research and research utilization to promote safe, quality patient care including initiating and/or leading such activities as well as, promoting an inter/intra-disciplinary process and actively supports/participates in shared governance at all levels in the system",
-        "Professional Development and Initiative",
-        "A.Completes all initial and ongoing professional competency assessment, required mandatory education, population specific education",
-        "B.Serves as a preceptor and/or or mentor for other professional nurses (and staff or students for all disciplines) to ensure that there is a current and future qualified workforce; modeling the professional practice of nursing and creating a healthy work environment",
-        "Evidence Based Practice and Research",
-        "A.Promotes Evidence based practice, nursing research and performance improvement in nursing",
-        "Participates in activities such as value analysis as part of the decision-making process in evaluating patient care products",
-        "B.Upholds all health care system/organizational policies and procedures and clinical competencies put forth by this job description and professional association including legal, regulatory and accreditation requirements and standards ensuring by way of example, such goals as TJC Patient Safety Goals and Wellstar Health Systems safety absolutes",
-        "C.Participates in data collection, poses relevant clinical questions to advanced evidence-based practice",
-        "Consults appropriate experts and uses appropriate resources and evidence to address practice questions",
-        "A.Proactively plans for the care of patients across the care continuum in the course of giving direct patient care",
-        "Participates in the development of protocols and procedures when called upon or through self-initiation in collaboration with care managers and other members of the health care team to achieve best practice outcomes (i.e., decrease in re-admission rates; avoidable days; adverse events; etc)",
-        "C.Supports efficient and effective use of human and material resources",
-        "Performs other duties as assigned",
-        "Complies with all WellStar Health System policies, standards of work, and code of conduct"
+        "Hospital undergoing $90M renovation",
+        "Preparing for a brand new, state of the art unit!",
+        "Department: Emergency Department (ED)"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "careers-wellstar-org-us-en-job-jr-59557-registered-nurse-rn-er-ed-emergency-room-fulltime-nights-7p-7a",
+    "id": "www-hshs-org-gfj-registered-nurse-ed-critical-care-le-roy-il-6984a81feb4c4903d4a76765",
     "_source": "new_jobs"
   },
   {
@@ -871,88 +829,141 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "l52jo79ayUdu4rZ2AAAAAA==",
-    "job_title": "Registered Nurse - ED/Critical Care",
-    "employer_name": "Hospital Sisters Health System",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbp9lS0YUWyp_y_oyytq21xfVeK0uEhhbkpwOg&s=0",
-    "employer_website": null,
-    "job_publisher": "Hospital Sisters Health System",
+    "job_id": "unGq3sEHMUnsHjlwAAAAAA==",
+    "job_title": "RN-Emergency Department Full time Evenings",
+    "employer_name": "SSM Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2A6Rdc-S_uOFbFDnEjpsBrt4X9WxGd_FwU26y&s=0",
+    "employer_website": "https://www.ssmhealth.com",
+    "job_publisher": "Jobs At SSM Health",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.hshs.org/gfj/registered-nurse-ed-critical-care-le-roy-il-6984a81feb4c4903d4a76765?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobs.ssmhealth.com/us/en/job/R189029/RN-Emergency-Department-Full-time-Evenings?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Hospital Sisters Health System",
-        "apply_link": "https://www.hshs.org/gfj/registered-nurse-ed-critical-care-le-roy-il-6984a81feb4c4903d4a76765?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobs At SSM Health",
+        "apply_link": "https://jobs.ssmhealth.com/us/en/job/R189029/RN-Emergency-Department-Full-time-Evenings?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Medical Hirings - Talent Rush HQ",
-        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/kvlkhtxeb6m7-ba3e-bb7a04765e7d0e658b09e776530f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/rn-emergency-department_7ea1a318310e7fd55a3062edd1f33440db385?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Pulse Hires Now",
-        "apply_link": "https://pulsehiresnow.com/viewjob/ya4b073nrwcz-c3783716934d-4e662ef3c5ae1c08455c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=102b7a5c3f04da4a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/SSM-Health/Job/RN-Emergency-Department-Full-time-Evenings/-in-Waupun,WI?jid=d7511b6da86f07f5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/ffdf83472b87277c8b7481fe2db388c3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs For Stevenage Fans",
+        "apply_link": "https://jobs.stevenagefc.com/jobs/rn-emergency-department-full-time-evenings-waupun-wisconsin/2607145654-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/rn-emergency-department-full-time-evenings-at-ssm-health-4360525150?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "National Labor Exchange",
+        "apply_link": "https://usnlx.com/waupun-wi/rn-emergency-department-full-time-evenings/B7E4EDD0FB31495D803C1D1D808B02FD/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "HSHS St. Mary’s Hospital is seeking a Registered Nurse (RN) to join our Emergency Department (ED). Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge in a fast-paced environment with complex acuities.\nRegistered Nurses (RNs) in the Critical Care setting are incredibly important members of the medical team who have the humbling task of caring for our sickest and most vulnerable patients. RNs not only provide high-quality medical care, but they also provide a healing touch and a compassionate presence to patients and their families during joyful, stressful and uncertain times.\n\nPosition Specifics:\n• Hospital undergoing $90M renovation. Preparing for a brand new, state of the art unit!\n• Department: Emergency Department (ED). TNS (Trauma Nurse Specialist) offered after 1 year, 22 beds, more than 25,000 patients per year, work with EMS/ground/air, clinical site for nursing/medical/EMT students, primary stroke center, EDAP certified (ER approved for pediatrics)\n• Schedule: Full=Time Nights (3x12 6:45pm-7:15am) with every other weekend rotation\n• Location: Decatur, IL\n• Sign-On Bonus: $20,000\n• Compensation that aligns with experience. Shift differentials for night, weekend, and call on top of base rate!\n\nEducation Qualifications\n• Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required.\n• Bachelor’s of science in nursing is preferred.\n\nExperience Qualifications\n• Critical Care Nursing experience is preferred.\n\nCertifications, Licenses and Registrations\n• Licensed Registered Nurse (RN) in state of practice is required. Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules.\n• Basic Life Support (BLS) is required.\n• Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked.\n• Specialty certifications based on patient population such as Critical Care Registered Nurse (CCRN), and Certified Emergency Nurse (CEN) are preferred.\n\nJob Description\n\nScheduled Weekly Hours:\n36\n\nThroughout communities in Illinois and Wisconsin, 13 hospitals, numerous community-based health centers and clinics, our 13,000+ colleagues have built a culture based on our solid core values of respect, care, competence, and joy. These are the ideals we believe in, work by, and live each day.\n\nBuilt upon more than 145 years of service to the communities we serve, we now look to the future and our place in it as a health care system that strives to continually improve processes, procedures, and outcomes with the latest and most advanced technologies and treatments.\n\nRegardless of how far our passion for excellence carries us, our focus will always remain on the most important person in our entire organization: The patient.\n\nHSHS requires COVID-19 vaccines or an approved medical or religious exemption for all colleagues.\n\nBenefits: HSHS provides a benefits package designed to support the overall well-being of our colleagues including their physical, emotional, financial, spiritual, and work health. Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits.\n• Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues.\n• Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need.\n• Retirement benefits including HSHS\ncontributions.\n• Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period.\n• Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!\n• Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!\n\nBenefits\n\nHSHS and affiliates is an Equal Opportunity Employer (EOE).\n\nHSHS is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.\n\nPay Range:\n$34.00 - $51.00\n\nA successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education.",
+    "job_description": "It's more than a career, it's a calling\nWI-Waupun Memorial Hospital\n\nWorker Type:\n\nRegular\n\nJob Highlights:\n\nOur 8 bed ED is a fast pace department where nurses will handle the initial phase of acute illness or trauma.\n\nShifts 3p-11p throughout the week and 11a-11p every 3rd weekend.\n\nShift Differential Pay Includes:\n\nEvening shift $2.25, Night Shift and Weekend shift $3.15\n• 1 year of Med Surg preferred\n\nJob Summary:\nProvides direct nursing care in settings where patients require complex assessments and intervention, in accordance with established policies, procedures and protocols of the healthcare organization.\n\nJob Responsibilities and Requirements:\n\nPRIMARY RESPONSIBILITIES\n• Collects comprehensive data pertinent to the health care consumer’s health and/or situation.\n• Triages each health care consumer utilizing age, developmentally appropriate, and culturally sensitive practices to prioritize and optimize health care consumer flow, expediting those health care consumers who require immediate care.\n• Analyzes the assessment data to determine the diagnosis or issues.\n• Identifies expected outcomes for a plan individualized to the health care consumer or the situation.\n• Implements, coordinates, and educates, to promote health and a safe practice environment.\n• Evaluates progress toward attainment of outcomes.\n• Communicates effectively in a variety of formats in all areas of practice.\n• Demonstrates leadership in the professional practice setting and the profession.\n• Attains knowledge and competence that reflect current nursing practice.\n• Applies the existing body of evidence-based practice and scientific knowledge in health care to Emergency Nursing practice, ensuring that nursing care is delivered based on patient’s age-specific needs and clinical needs as described in the department's Scope of Service.\n• Works in a constant state of alertness and safe manner.\n• Performs other duties as assigned.\n\nEDUCATION\n• Graduate of accredited school of nursing or education equivalency for licensing\n\nEXPERIENCE\n• No experience required\n\nPHYSICAL REQUIREMENTS\n• Constant use of speech to share information through oral communication.\n• Constant standing and walking.\n• Frequent lifting/carrying and pushing/pulling objects weighing 0-25 lbs.\n• Frequent sitting, reaching and keyboard use/data entry.\n• Frequent use of vision and depth perception for distances near (20 inches or less) and far (20 feet or more) and to identify and distinguish colors.\n• Frequent use of smell to detect/recognize odors.\n• Frequent use of hearing to receive oral communication, distinguish body sounds and/or hear alarms, malfunctioning machinery, etc.\n• Occasional lifting/carrying and pushing/pulling objects weighing 25-50 lbs.\n• Occasional lifting/moving of patients.\n• Occasional bending, stooping, kneeling, squatting, twisting, gripping and repetitive foot/leg and hand/arm movements.\n• Occasional driving.\n• Rare crawling and running.\n\nREQUIRED PROFESSIONAL LICENSE AND/OR CERTIFICATIONS\n\nState of Work Location: Illinois\n• Basic Life Support HealthCare Provider (BLS HCP) - American Heart Association (AHA)\n• And\n• Registered Professional Nurse (RN) - Illinois Department of Financial and Professional Regulation (IDFPR)\n• And\n• Advanced Life Support (ALS) - American Heart Association (AHA)\n• Or\n• Emergency Nursing Pediatric Course (ENPC) - Emergency Nurses Association (ENA)\n• Or\n• Neonatal Resuscitation Program (NRP) - American Academy Pediatrics (AAP)\n• Or\n• Pediatric Advanced Life Support (PALS) - American Heart Association (AHA)\n• Or\n• Trauma Nursing Core Course (TNCC) - Emergency Nurses Association (ENA)\n• Or\n• Neonatal Resuscitation Program (NRP) Essentials - American Academy of Pediatrics (AAP)\n\nState of Work Location: Missouri\n• Basic Life Support HealthCare Provider (BLS HCP) - American Heart Association (AHA)\n• And\n• Registered Nurse (RN) - Missouri Division of Professional Registration\n• Or\n• Registered Nurse (RN) Issued by Compact State\n• And\n• Advanced Life Support (ALS) - American Heart Association (AHA)\n• Or\n• Emergency Nursing Pediatric Course (ENPC) - Emergency Nurses Association (ENA)\n• Or\n• Neonatal Resuscitation Program (NRP) - American Academy Pediatrics (AAP)\n• Or\n• Pediatric Advanced Life Support (PALS) - American Heart Association (AHA)\n• Or\n• Trauma Nursing Core Course (TNCC) - Emergency Nurses Association (ENA)\n• Or\n• Neonatal Resuscitation Program (NRP) Essentials - American Academy of Pediatrics (AAP)\n\nState of Work Location: Oklahoma\n• Basic Life Support HealthCare Provider (BLS HCP) - American Heart Association (AHA)\n• And\n• Registered Nurse (RN) Issued by Compact State\n• And\n• Registered Nurse (RN) - Oklahoma Board of Nursing (OBN)\n• And\n• Advanced Life Support (ALS) - American Heart Association (AHA)\n• Or\n• Emergency Nursing Pediatric Course (ENPC) - Emergency Nurses Association (ENA)\n• Or\n• Neonatal Resuscitation Program (NRP) - American Academy Pediatrics (AAP)\n• Or\n• Pediatric Advanced Life Support (PALS) - American Heart Association (AHA)\n• Or\n• Trauma Nursing Core Course (TNCC) - Emergency Nurses Association (ENA)\n• Or\n• Neonatal Resuscitation Program (NRP) Essentials - American Academy of Pediatrics (AAP)\n\nState of Work Location: Wisconsin\n• Basic Life Support HealthCare Provider (BLS HCP) - American Heart Association (AHA)\n• And\n• Registered Nurse (RN) Issued by Compact State\n• Or\n• Registered Nurse (RN) - Wisconsin Department of Safety and Professional Services\n• And\n• Advanced Life Support (ALS) - American Heart Association (AHA)\n• Or\n• Emergency Nursing Pediatric Course (ENPC) - Emergency Nurses Association (ENA)\n• Or\n• Neonatal Resuscitation Program (NRP) - American Academy Pediatrics (AAP)\n• Or\n• Pediatric Advanced Life Support (PALS) - American Heart Association (AHA)\n• Or\n• Trauma Nursing Core Course (TNCC) - Emergency Nurses Association (ENA)\n• Or\n• Neonatal Resuscitation Program (NRP) Essentials - American Academy of Pediatrics (AAP)\n\nWork Shift:\nEvening Shift (United States of America)\n\nJob Type:\n\nEmployee\n\nDepartment:\n\n2000000045 EMERGENCY\n\nScheduled Weekly Hours:\n32\n\nBenefits:\n\nSSM Health values our exceptional employees by offering a comprehensive benefits package to fit their needs.\n• Paid Parental Leave: we offer eligible team members one week of paid parental leave for newborns or newly adopted children (pro-rated based on FTE).\n• Flexible Payment Options: our voluntary benefit offered through DailyPay offers eligible hourly team members instant access to their earned, unpaid base pay (fees may apply) before payday.\n• Upfront Tuition Coverage: we provide upfront tuition coverage through FlexPath Funded for eligible team members.\n\nExplore All Benefits\n\nSSM Health is an equal opportunity employer. SSM Health does not discriminate on the basis of race, color, religion, national origin, age, disability, sex, sexual orientation, gender identity, pregnancy, veteran status, or any other characteristic protected by applicable law. Click here to learn more.",
     "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Le Roy, IL",
-    "job_city": "Le Roy",
-    "job_state": "Illinois",
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Waupun, WI",
+    "job_city": "Waupun",
+    "job_state": "Wisconsin",
     "job_country": "US",
-    "job_latitude": 40.3519795,
-    "job_longitude": -88.764237,
+    "job_latitude": 43.6333219,
+    "job_longitude": -88.72955189999999,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
       "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dl52jo79ayUdu4rZ2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 34,
-    "job_max_salary": 51,
-    "job_salary_period": "HOUR",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DunGq3sEHMUnsHjlwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required",
-        "Certifications, Licenses and Registrations",
-        "Licensed Registered Nurse (RN) in state of practice is required",
-        "Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules",
-        "Basic Life Support (BLS) is required",
-        "Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked"
+        "Graduate of accredited school of nursing or education equivalency for licensing",
+        "No experience required",
+        "Constant use of speech to share information through oral communication",
+        "Frequent lifting/carrying and pushing/pulling objects weighing 0-25 lbs",
+        "Frequent sitting, reaching and keyboard use/data entry",
+        "Frequent use of vision and depth perception for distances near (20 inches or less) and far (20 feet or more) and to identify and distinguish colors",
+        "Frequent use of smell to detect/recognize odors",
+        "Rare crawling and running",
+        "REQUIRED PROFESSIONAL LICENSE AND/OR CERTIFICATIONS",
+        "State of Work Location: Illinois",
+        "Pediatric Advanced Life Support (PALS) - American Heart Association (AHA)",
+        "Neonatal Resuscitation Program (NRP) Essentials - American Academy of Pediatrics (AAP)",
+        "Basic Life Support HealthCare Provider (BLS HCP) - American Heart Association (AHA)",
+        "Neonatal Resuscitation Program (NRP) - American Academy Pediatrics (AAP)",
+        "Pediatric Advanced Life Support (PALS) - American Heart Association (AHA)",
+        "Neonatal Resuscitation Program (NRP) - American Academy Pediatrics (AAP)",
+        "Pediatric Advanced Life Support (PALS) - American Heart Association (AHA)",
+        "Neonatal Resuscitation Program (NRP) Essentials - American Academy of Pediatrics (AAP)",
+        "Pediatric Advanced Life Support (PALS) - American Heart Association (AHA)"
       ],
       "Benefits": [
-        "Schedule: Full=Time Nights (3x12 6:45pm-7:15am) with every other weekend rotation",
-        "Sign-On Bonus: $20,000",
-        "Compensation that aligns with experience",
-        "Shift differentials for night, weekend, and call on top of base rate!",
-        "Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits",
-        "Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues",
-        "Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need",
-        "Retirement benefits including HSHS",
-        "Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period",
-        "Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!",
-        "Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!",
-        "$34.00 - $51.00",
-        "A successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education"
+        "Evening shift $2.25, Night Shift and Weekend shift $3.15",
+        "SSM Health values our exceptional employees by offering a comprehensive benefits package to fit their needs",
+        "Paid Parental Leave: we offer eligible team members one week of paid parental leave for newborns or newly adopted children (pro-rated based on FTE)",
+        "Flexible Payment Options: our voluntary benefit offered through DailyPay offers eligible hourly team members instant access to their earned, unpaid base pay (fees may apply) before payday",
+        "Upfront Tuition Coverage: we provide upfront tuition coverage through FlexPath Funded for eligible team members"
       ],
       "Responsibilities": [
-        "Hospital undergoing $90M renovation",
-        "Preparing for a brand new, state of the art unit!",
-        "Department: Emergency Department (ED)"
+        "Our 8 bed ED is a fast pace department where nurses will handle the initial phase of acute illness or trauma",
+        "Shifts 3p-11p throughout the week and 11a-11p every 3rd weekend",
+        "Provides direct nursing care in settings where patients require complex assessments and intervention, in accordance with established policies, procedures and protocols of the healthcare organization",
+        "Collects comprehensive data pertinent to the health care consumer’s health and/or situation",
+        "Triages each health care consumer utilizing age, developmentally appropriate, and culturally sensitive practices to prioritize and optimize health care consumer flow, expediting those health care consumers who require immediate care",
+        "Analyzes the assessment data to determine the diagnosis or issues",
+        "Identifies expected outcomes for a plan individualized to the health care consumer or the situation",
+        "Implements, coordinates, and educates, to promote health and a safe practice environment",
+        "Evaluates progress toward attainment of outcomes",
+        "Communicates effectively in a variety of formats in all areas of practice",
+        "Demonstrates leadership in the professional practice setting and the profession",
+        "Attains knowledge and competence that reflect current nursing practice",
+        "Applies the existing body of evidence-based practice and scientific knowledge in health care to Emergency Nursing practice, ensuring that nursing care is delivered based on patient’s age-specific needs and clinical needs as described in the department's Scope of Service",
+        "Works in a constant state of alertness and safe manner",
+        "Performs other duties as assigned",
+        "Constant standing and walking",
+        "Frequent use of hearing to receive oral communication, distinguish body sounds and/or hear alarms, malfunctioning machinery, etc",
+        "Occasional lifting/carrying and pushing/pulling objects weighing 25-50 lbs",
+        "Occasional lifting/moving of patients",
+        "Occasional bending, stooping, kneeling, squatting, twisting, gripping and repetitive foot/leg and hand/arm movements",
+        "Occasional driving",
+        "Emergency Nursing Pediatric Course (ENPC) - Emergency Nurses Association (ENA)",
+        "Registered Nurse (RN) Issued by Compact State",
+        "Emergency Nursing Pediatric Course (ENPC) - Emergency Nurses Association (ENA)",
+        "Registered Nurse (RN) Issued by Compact State",
+        "Emergency Nursing Pediatric Course (ENPC) - Emergency Nurses Association (ENA)"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "www-hshs-org-gfj-registered-nurse-ed-critical-care-le-roy-il-6984a81feb4c4903d4a76765",
+    "id": "jobs-ssmhealth-com-us-en-job-r189029-rn-emergency-department-full-time-evenings",
     "_source": "new_jobs"
   },
   {
@@ -1032,162 +1043,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "y25ZoPAbX6OwGAiAAAAAAA==",
-    "job_title": "Registered Nurse - Emergency Room",
-    "employer_name": "Williamson Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU46PNP8pC4ZYKKJg_l4i3blwjRb8p6iQeeYxf&s=0",
-    "employer_website": "https://williamsonhealth.org",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Williamson-Health/Job/Registered-Nurse-Emergency-Room/-in-Arrington,TN?jid=01d036152b8fc1ca&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Williamson-Health/Job/Registered-Nurse-Emergency-Room/-in-Arrington,TN?jid=01d036152b8fc1ca&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "SaluteMyJob",
-        "apply_link": "https://salutemyjob.com/jobs/registered-nurse-emergency-room-arrington-tennessee/2614752251-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs For Stevenage Fans",
-        "apply_link": "https://jobs.stevenagefc.com/jobs/registered-nurse-emergency-room-1p-1230a-arrington-tennessee/2614763949-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "KSNT Jobs",
-        "apply_link": "https://jobs.ksnt.com/jobs/registered-nurse-emergency-room-1p-1230a-arrington-tennessee/2611172813-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Edinburgh City FC",
-        "apply_link": "https://jobs.edinburghcityfc.com/jobs/registered-nurse-emergency-room-arrington-tennessee/2614752251-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Aspire Media Group Jobs",
-        "apply_link": "https://jobs.aspiremediagroup.net/jobs/registered-nurse-emergency-room-arrington-tennessee/2614752251-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs.kxnet.com",
-        "apply_link": "https://jobs.kxnet.com/jobs/registered-nurse-emergency-room-arrington-tennessee/2614752251-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/emergency-room?id=2455240351&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Summary\n\nABOUT WILLIAMSON HEALTH | Williamson Health is a regional healthcare system based in Williamson County, Tennessee, with more than 2,300 employees across more than 30 locations and more than 860 physicians and advanced care practitioners offering exceptional healthcare across 60-plus specialties and subspecialties close to home. The flagship facility, Williamson Medical Center, which recently opened its new Boyer-Bryan West Tower, offers extensive women's services, state-of-the-art cardiology services, advanced surgical technologies, an award-winning obstetrics and NICU, leading-edge orthopaedics, outpatient imaging services, and distinct comprehensive emergency and inpatient services for both adult and pediatric patients. Other Williamson Health service providers include the Bone and Joint Institute of Tennessee, The Turner-Dugas Breast Health Center, Monroe Carell Jr. Children's Hospital Vanderbilt at Williamson Medical Center, Williamson Health physician practices that are strategically located throughout the community, countywide Emergency Medical Services that include 18 rapid response units, Williamson Health Foundation, and multiple joint venture Vanderbilt Health and Williamson Medical Center Walk-In Clinics in Williamson County. Learn more about our many specialized services at WilliamsonHealth.org.\n\nWilliamson Health is a system where your talents will be valued and your skillset expanded. We are rooted in our promise to world-class, compassionate care for the residents of Williamson County and surrounding communities, taking exceptional pride in serving our community. We're committed to empowering our employees to work in innovative ways and reserve time and space for curiosity, laughter and creativity. We value and support the diversity and cultural differences among one another and are committed to upholding an inclusive environment that appreciates the uniqueness of all individuals. Our values are at the heart of everything we do: respect for every individual, the health and total well-being of all people, human compassion and integrity. These shape who we are as an organization and are essential for delivering the highest level of culturally competent care and treatment of every patient, family member, visitor, physician and employee.\n\nWilliamson Health is pleased to offer a comprehensive benefits program, that offers you choice and flexibility, so you can take charge of your physical, financial, and emotional well-being.\no Medical, Dental, Vision\no PTO\no Retirement Matching\no Tuition reimbursement\no Discount programs\no FSA (Flexible Spending Accounts)\no Identity Theft Protection\no Legal Aid\n\nWilliamson Health is an equal-opportunity employer and a drug-free workplace.\n\nPosition Summary:\nTo coordinate, implement, and plan nursing care in a timely and accurate manner.\n\nPosition Requirements:\nFormal Education / Training:\n1. Earned a nursing diploma or degree from a college or university.\n2. Licensed in the State of Tennessee.\n3. BLS within 90 days of hire.\n4. For 3rd floor telemetry unit\na. Basic arrhythmia within 6 months of hire\nb. ACLS within 6 months of hire\n5. For float pool and float pool extended\na. Basic arrhythmia within 6 months of hire\nb. ACLS within 6 months of hire\nc. Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire\n6. For critical care\na. Basic arrhythmia within 6 months of hire\nb. ACLS within 6 months of hire\nc. Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire\nd. AACN, CCRN or CCP certification within two years of hire\n7. For Oncology\na. ONS chemo/immunotherapy certification within one year of hire\n8. For Adult Emergency Room\na. At least one year of emergency experience preferred\nb. TNCC Preferred\nc. ACLS within 6 months of hire\nd. PALS within 6 months of hire\ne. Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire\n9. For Pediatric Medical Surgical\na. At least one year of pediatric in-hospital experience preferred.\nb. PALS within 6 months of hire.\nc. Non-Violent Crisis Intervention (NVCI) certification (8-hour, non-physical training) within 6 months of hire\n10. For Pediatric Emergency Room\na. At least one year of pediatric emergency experience preferred\nb. PALS within 6 months of hire.\nc. ACLS within 6 months of hire\nd. Non-Violent Crisis Intervention (NVCI) certification (8-hour, non-physical training) within 6 months of hire\ne. ENPC or TNCC within 6 months of hire\n\nWorkplace Experience:\n___ Adult Medical Surgical Patient Care Delivery\n___ Pediatric Patient Care Delivery\n___ Critical Care Patient Care Delivery\n___ Oncology Patient Care Delivery\n___ Adult Emergency Patient Care Delivery\n___ Pediatric Emergency Patient Care Delivery\n\nEquipment and Skills Training:\nStandard patient care equipment for services provided. The ability to work well under pressure, to function dependently and independently and to be flexible in applying basic nursing knowledge to a variety of setting. Equipment: Network Computer System; Omnicell Medication System; Telemetry; Pneumatic Tube System; AT&T Language Line.\n\nPhysical Environment:\n___ Adult medical/surgical unit with patient population ranging from adolescent to > 99 years of age\n___ Pediatric medical/surgical unit with patient population ranging from neonate to 21 years of age\n___ Critical Care unit with patient population ranging from adolescent to > 99 years of age\n___ Oncology unit with adult patient population\n___ Adult emergency department with patient population ranging from less than one year of age to > 99 years of age\n___ Pediatric emergency department with patient population ranging from neonate to 21 years of age.\n\nPhysical Effort:\n1. Able to communicate in English verbally and legibly.\n2. Requires prolonged standing and working for up to twelve hours a day\n3. Able to stand/work for up to twelve hours a day.\n4. Able to lift with assistance up to 250 lbs.\n\nKey Results:\nPerforms a comprehensive assessment on all patients within the appropriate time of admission utilizing skills of observation, communication and examination; including data obtained from patient, family and other members of the healthcare team.\nPlans the patient's care on an individual basis, identifying problems/needs, nursing diagnosis, standards of care/practice, interventions consistent with identified problems and attainable outcomes.\nPlans for patient teaching, discharge and post discharge needs as appropriate for patient population.\nFunctions independently with treatments, procedures and equipment appropriate to areas evidence by adherence to policy, procedure and competency based assessment and no pattern or trend of problem.\nHandles/transports/stores/prepares/administers medications/ solutions safely and in accordance with hospital and departmental policies and procedures.\nDocuments accurately and timely.\nReassess patient's condition, evaluate patient response and modify plan of care accordingly and in a timely manner.\nAccepts charge responsibilities and assigns staff with consideration of patient condition and care requirement, acuity and complexity of patient's condition. Facilitates staff development\nMaintains healing and therapeutic environment for the patient and family.\nMaintains position specific qualifications.\nDemonstrates responsibility for assigned communications and special assignments.\nMaintains their work areas and personal appearance in a way that reflects our professionalism and demonstrates to our patients, visitors, and coworkers the importance we place on cleanliness, orderliness, and safety.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "Arrington, TN",
-    "job_city": "Arrington",
-    "job_state": "Tennessee",
-    "job_country": "US",
-    "job_latitude": 35.868119899999996,
-    "job_longitude": -86.7091643,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dy25ZoPAbX6OwGAiAAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Earned a nursing diploma or degree from a college or university",
-        "Licensed in the State of Tennessee",
-        "BLS within 90 days of hire",
-        "For 3rd floor telemetry unit",
-        "Basic arrhythmia within 6 months of hire",
-        "ACLS within 6 months of hire",
-        "For float pool and float pool extended",
-        "Basic arrhythmia within 6 months of hire",
-        "ACLS within 6 months of hire",
-        "Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire",
-        "For critical care",
-        "Basic arrhythmia within 6 months of hire",
-        "ACLS within 6 months of hire",
-        "Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire",
-        "AACN, CCRN or CCP certification within two years of hire",
-        "For Oncology",
-        "ONS chemo/immunotherapy certification within one year of hire",
-        "For Adult Emergency Room",
-        "ACLS within 6 months of hire",
-        "PALS within 6 months of hire",
-        "Non-Violent Crisis Intervention (NVCI) certification within 6 months of hire",
-        "For Pediatric Medical Surgical",
-        "PALS within 6 months of hire",
-        "Non-Violent Crisis Intervention (NVCI) certification (8-hour, non-physical training) within 6 months of hire",
-        "For Pediatric Emergency Room",
-        "PALS within 6 months of hire",
-        "ACLS within 6 months of hire",
-        "Non-Violent Crisis Intervention (NVCI) certification (8-hour, non-physical training) within 6 months of hire",
-        "ENPC or TNCC within 6 months of hire",
-        "Standard patient care equipment for services provided",
-        "The ability to work well under pressure, to function dependently and independently and to be flexible in applying basic nursing knowledge to a variety of setting",
-        "Equipment: Network Computer System; Omnicell Medication System; Telemetry; Pneumatic Tube System; AT&T Language Line",
-        "___ Adult medical/surgical unit with patient population ranging from adolescent to > 99 years of age",
-        "___ Pediatric medical/surgical unit with patient population ranging from neonate to 21 years of age",
-        "___ Critical Care unit with patient population ranging from adolescent to > 99 years of age",
-        "___ Pediatric emergency department with patient population ranging from neonate to 21 years of age",
-        "Able to communicate in English verbally and legibly",
-        "Able to stand/work for up to twelve hours a day",
-        "Able to lift with assistance up to 250 lbs",
-        "Handles/transports/stores/prepares/administers medications/ solutions safely and in accordance with hospital and departmental policies and procedures"
-      ],
-      "Benefits": [
-        "Williamson Health is pleased to offer a comprehensive benefits program, that offers you choice and flexibility, so you can take charge of your physical, financial, and emotional well-being",
-        "Medical, Dental, Vision",
-        "PTO",
-        "Retirement Matching",
-        "Tuition reimbursement",
-        "Discount programs",
-        "FSA (Flexible Spending Accounts)",
-        "Identity Theft Protection"
-      ],
-      "Responsibilities": [
-        "To coordinate, implement, and plan nursing care in a timely and accurate manner",
-        "___ Pediatric Patient Care Delivery",
-        "___ Critical Care Patient Care Delivery",
-        "___ Oncology Patient Care Delivery",
-        "___ Adult Emergency Patient Care Delivery",
-        "___ Pediatric Emergency Patient Care Delivery",
-        "Requires prolonged standing and working for up to twelve hours a day",
-        "Performs a comprehensive assessment on all patients within the appropriate time of admission utilizing skills of observation, communication and examination; including data obtained from patient, family and other members of the healthcare team",
-        "Plans the patient's care on an individual basis, identifying problems/needs, nursing diagnosis, standards of care/practice, interventions consistent with identified problems and attainable outcomes",
-        "Plans for patient teaching, discharge and post discharge needs as appropriate for patient population",
-        "Functions independently with treatments, procedures and equipment appropriate to areas evidence by adherence to policy, procedure and competency based assessment and no pattern or trend of problem",
-        "Documents accurately and timely",
-        "Reassess patient's condition, evaluate patient response and modify plan of care accordingly and in a timely manner",
-        "Accepts charge responsibilities and assigns staff with consideration of patient condition and care requirement, acuity and complexity of patient's condition",
-        "Facilitates staff development",
-        "Maintains healing and therapeutic environment for the patient and family",
-        "Maintains position specific qualifications",
-        "Demonstrates responsibility for assigned communications and special assignments",
-        "Maintains their work areas and personal appearance in a way that reflects our professionalism and demonstrates to our patients, visitors, and coworkers the importance we place on cleanliness, orderliness, and safety"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-williamson-health-job-registered-nurse-emergency-room-in-arrington-tn",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "oFccjru3MyMevORSAAAAAA==",
     "job_title": "New to Acute Program (Med/Surg/Tele) - Registered Nurse (RN) - April 2026",
     "employer_name": "UHS",
@@ -1254,9 +1109,9 @@
     "job_latitude": 33.561262299999996,
     "job_longitude": -117.21051829999999,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoFccjru3MyMevORSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1293,151 +1148,57 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "LhF38jfOrYE487cPAAAAAA==",
-    "job_title": "Registered Nurse (RN) – Emergency Room (ER) – Austintown Medical Center",
-    "employer_name": "Mercy Health BSMH",
-    "employer_logo": null,
-    "employer_website": "https://bsmhealth.org",
-    "job_publisher": "Mercy Health",
+    "job_id": "n-vUXBcVQEHStsRaAAAAAA==",
+    "job_title": "Emergency Room (ER) RN - $ 1,996 / week",
+    "employer_name": "TNAA",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfQ1hKHGS0HipJPkBPgHrtUXbMf5j6fvXvJGrZ&s=0",
+    "employer_website": null,
+    "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.mercy.com/us/en/job/R262759/Registered-Nurse-RN-Emergency-Room-ER-Austintown-Medical-Center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=5f94b475f412&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Mercy Health",
-        "apply_link": "https://careers.mercy.com/us/en/job/R262759/Registered-Nurse-RN-Emergency-Room-ER-Austintown-Medical-Center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Careers At Bon Secours Mercy Health",
-        "apply_link": "https://careers.bsmhealth.org/us/en/job/R262759/Registered-Nurse-RN-Emergency-Room-ER-Austintown-Medical-Center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=a8b59cd7c756d911&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/registered-nurse-rn-emergency-room-er_7ea1a41a94525478e80951c1dbcc6276d7807?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-rn-%E2%80%93-emergency-room-er-%E2%80%93-austintown-medical-center-at-mercy-health-4371272618?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Institute Of Data Jobs",
-        "apply_link": "https://jobs.institutedata.com/job/4651604/registered-nurse-rn-emergency-room-er-austintown-medical-center/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5626339291?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talentify",
-        "apply_link": "https://www.talentify.io/job/registered-nurse-rn-emergency-room-er-austintown-medical-center-youngstown-ohio-us-mercy-health-1-r261100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=5f94b475f412&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.\n• Full Time - 36 hr/week - Night Shift - 7:00pm-7:30am\n\nAbout Us\n\nAs a faith-based and patient-focused organization, Mercy Health exists to enhance the health and well-being of all people in mind, body and spirit through exceptional patient care. Success in this goal requires a culture of compassion, collaboration, excellence and respect. Mercy Health seeks people that are committed to our values of compassion, human dignity, integrity, service and stewardship to create an environment where associates want to work and help communities thrive.\n\nSummary of Primary Function/General Purpose of Position\nThe Emergency Department (ED) Registered Nurse (RN) provides, coordinates, plans, and evaluates nursing care, and supervises licensed and unlicensed associates in nursing care delivery within established nursing procedures, professional standards, and organizational policies/philosophies. The ED RN demonstrates the ability to care for a group of patients in a fast-paced, high intensity setting as part of an interprofessional team focused on achieving the best individual patient and population outcomes. The ED RN is responsible for modeling core cultural and safety behaviors to eliminate preventable harm, ensure worker safety and a safe, high quality experience of care.\n\nEssential Job Functions\n• In collaboration with the interdisciplinary care team, conducts initial and ongoing patient assessment, analyzes assessment data, creates a plan of care, implements treatment and evaluates treatment effectiveness.\n• Administers medications in a safe manner consistent with the State of Practice and Bon Secours Mercy Health policies and procedures.\n• Serves as point of contact for patients' care coordination throughout hospital departments.\n• Acts as a patient safety advocate by participating in ongoing quality improvement in the department.\n• Manages and meets the physical and emotional demands of emergency nursing care.\n• Applies knowledge of contemporary emergency nursing practice and future innovations.\n• Applies nursing practice to the care of individuals across the lifespan with perceived or actual physical or emotional alterations, ranging from non-urgent to life threatening that are undiagnosed or require further interventions; care practices include, but are not limited to, medical illness, trauma care, pediatric care, gerontologic care, injury prevention, women’s health, mental health issues, and life and limb saving measures.\n• Collaborates with outside agencies in coordinating care (e.g. protective agencies and law enforcement, Local Crisis, Forensics, EMS, transfer centers, pharmacies).\n• Understands and considers while providing care that emergency nursing care is episodic, primary, typically short-term, and occurs in a variety of settings.\n• BSMH nurses are expected to practice and deliver care in accordance with the core concepts and intention of the BSMH Nursing Professional Practice Model.\n\nThis document is not an exhaustive list of all responsibilities, skills, duties, requirements, or working conditions associated with the job. Employees may be required to perform other job-related duties as required by their supervisor, subject to reasonable accommodation.\n\nLicensing/Certification\n• Current RN License in the state in which they are working or covered by compact (required)\n• BLS Basic Life Support or ACLS Advanced Cardiac Life Support and PALS Pediatric Advanced Life Support (preferred at hire, must obtain from approved source prior to direct patient care; ACLS and PALS required within 6 months of hire)\n• NPR Neonatal Resuscitation Program (preferred)\n• TNCC Trauma Nursing Core Course (preferred)\n\nEducation\nBachelor of Science Nursing (preferred)\n\nWork Experience\n• 1 year of RN experience (required)\n• Recent Emergency Department or Critical Care experience (preferred)\n\nTraining\nEPIC Electronic Health Record (EHR) training (preferred)\n\nSkills\n• Assigns patient care according to the nursing skill, knowledge, and scope of practice of staff.\n• Orients, facilitates learning experience, and provides education (based upon quality improvement indicators, outcomes, and implementation) to nursing staff and others.\n• Possesses clinical knowledge, skills, and competency to provide evidence-based patient care in accordance with the current standards of practice, policy and procedure, and BSMH mission.\n• Performs comprehensive assessment of patient's clinical condition and psychosocial needs of the patient and their supportive resources.\n• Safely and efficiently develops, implements, and prioritizes plan of care.\n• Application of the nursing process in patient care delivery.\n• Assesses patient's physical and emotional responses to treatment to evaluate effectiveness of intervention and patient outcomes; revises plan of care accordingly.\n• Assists patient and family in coping with patient's illness.\n• Collaborates with others in the delivery of coordinated patient care.\n• Strong interpersonal and verbal/written communication skills.\n• Applies cultural diversity and inclusion principles when caring for patients and their support resources.\n• Recognizes own limitations and seeks assistance and acquires information to perform safely.\n• Advances personal and professional growth through participation in educational programs, current literature, in-services, and workshops.\n• Exhibits professionalism through accountability for own and delegated actions.\n• Integrates cost-effective measures into practice and models effective stewardship of available resources.\n• Practices self-care and cultivates resilience in conflict and difficult circumstances.\n• Protects the safety and privacy of all persons.\n• Understanding and utilization of office and clinical technologies.\n• Ability to communicate with patients in a manner they can understand considering their personal preferences.\n• Compassionate, relationship-based approach to help find meaning in illness, suffering, pain, and existence.\n• Remains calm, adaptive, and collective during an emergency.\n• Applies the nursing process with patients in a variety of illness or injury in all ages and populations requiring triage and prioritization, stabilization, resuscitation, crisis intervention, disaster preparedness/emergency management.\n• Can pivot focus quickly using critical decisions to match the most crucial needs at any moment.\n• Lifesaving equipment (i.e., hypothermia devices, Hand free – CPR, rapid infusers, invasive monitoring, etc.)\n\nWorking Conditions\n• Periods of high stress and fluctuating workloads may occur\n• May be exposed to physical altercations and verbal abuse\n• May be required to use physical restraints\n• May be exposed to high noise levels and bright lights\n• May be exposed to limited hazardous substances or body fluids*\n• May be exposed to human blood and other potentially infectious materials*\n• May have periods of constant interruptions\n• Individuals in this position are required to exercise universal precautions, use personal protective equipment and devices, and learn the policies concerning infection control.\n\nPatient Population\n• Demonstrates the knowledge and skills necessary to provide care appropriate to the age of the patients served on his or her assigned unit.\n• Demonstrates knowledge of the principles of growth and development of the life span and possesses the ability to assess data reflective of the patient's status and interprets the appropriate information needed to identify each patient's requirements relative to his or her age, specific needs and to provide the care needed as described in departmental policies and procedures.\n• Neonates (0-4 weeks)\n• Infant (1-12 months)\n• Pediatrics (1-12 years)\n• Adolescents (13-17 years)\n\nAs a Mercy Health associate, you're part of a Mission that matters. We support your well-being—personally and professionally. Our benefits are built to grow with you and meet your unique needs, every step of the way.\n\nWhat we offer\n• Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)\n• Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts\n• Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders\n• Tuition assistance, professional development and continuing education support\n\nBenefits may vary based on the market and employment status.\n\nAll applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com",
+    "job_description": "We are looking for a Travel Emergency Room RN for a great Travel nursing job in Marshall, MO.\n\nThis Emergency Room Travel nursing job pays for 36 hours a week for 13 weeks. With Wanderly you can compare Travel nurse salary from leading Travel nurse agencies in the United States.\n\nWith Wanderly you can chat and apply to any agency with Wanderly’s Universal Application, below are the details of this Travel Nursing Job including the Travel nurse salary :\n• Specialty : Emergency Room RN\n• Travel Emergency Room (ER) Registered Nurse : Marshall, MO\n• Travel Nurse Salary : $1996 / Week\n• Start Date : February 23, 2026\n• Travel Nursing Job Assignment Length : 13 weeks\n• Travel Nurse Hours : 36 hours per week\n• Shift : 12 hours, night\n\nPK-1379459",
     "job_is_remote": false,
     "job_posted_at": "2 days ago",
     "job_posted_at_timestamp": 1770854400,
     "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Austintown, OH",
-    "job_city": "Austintown",
-    "job_state": "Ohio",
+    "job_location": "Marshall, MO",
+    "job_city": "Marshall",
+    "job_state": "Missouri",
     "job_country": "US",
-    "job_latitude": 41.1017247,
-    "job_longitude": -80.7645239,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLhF38jfOrYE487cPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 39.123077699999996,
+    "job_longitude": -93.1968704,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dn-vUXBcVQEHStsRaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
-      "Qualifications": [
-        "Current RN License in the state in which they are working or covered by compact (required)",
-        "1 year of RN experience (required)",
-        "Assigns patient care according to the nursing skill, knowledge, and scope of practice of staff",
-        "Strong interpersonal and verbal/written communication skills",
-        "Understanding and utilization of office and clinical technologies",
-        "Ability to communicate with patients in a manner they can understand considering their personal preferences",
-        "Compassionate, relationship-based approach to help find meaning in illness, suffering, pain, and existence",
-        "Remains calm, adaptive, and collective during an emergency",
-        "Applies the nursing process with patients in a variety of illness or injury in all ages and populations requiring triage and prioritization, stabilization, resuscitation, crisis intervention, disaster preparedness/emergency management",
-        "Can pivot focus quickly using critical decisions to match the most crucial needs at any moment",
-        "Lifesaving equipment (i.e., hypothermia devices, Hand free – CPR, rapid infusers, invasive monitoring, etc.)",
-        "Pediatrics (1-12 years)",
-        "Adolescents (13-17 years)"
-      ],
       "Benefits": [
-        "Full Time - 36 hr/week - Night Shift - 7:00pm-7:30am",
-        "Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)",
-        "Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts",
-        "Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders",
-        "Tuition assistance, professional development and continuing education support"
+        "With Wanderly you can compare Travel nurse salary from leading Travel nurse agencies in the United States",
+        "Travel Nurse Salary : $1996 / Week",
+        "Start Date : February 23, 2026",
+        "Travel Nurse Hours : 36 hours per week"
       ],
       "Responsibilities": [
-        "The Emergency Department (ED) Registered Nurse (RN) provides, coordinates, plans, and evaluates nursing care, and supervises licensed and unlicensed associates in nursing care delivery within established nursing procedures, professional standards, and organizational policies/philosophies",
-        "The ED RN demonstrates the ability to care for a group of patients in a fast-paced, high intensity setting as part of an interprofessional team focused on achieving the best individual patient and population outcomes",
-        "The ED RN is responsible for modeling core cultural and safety behaviors to eliminate preventable harm, ensure worker safety and a safe, high quality experience of care",
-        "In collaboration with the interdisciplinary care team, conducts initial and ongoing patient assessment, analyzes assessment data, creates a plan of care, implements treatment and evaluates treatment effectiveness",
-        "Administers medications in a safe manner consistent with the State of Practice and Bon Secours Mercy Health policies and procedures",
-        "Serves as point of contact for patients' care coordination throughout hospital departments",
-        "Acts as a patient safety advocate by participating in ongoing quality improvement in the department",
-        "Manages and meets the physical and emotional demands of emergency nursing care",
-        "Applies knowledge of contemporary emergency nursing practice and future innovations",
-        "Applies nursing practice to the care of individuals across the lifespan with perceived or actual physical or emotional alterations, ranging from non-urgent to life threatening that are undiagnosed or require further interventions; care practices include, but are not limited to, medical illness, trauma care, pediatric care, gerontologic care, injury prevention, women’s health, mental health issues, and life and limb saving measures",
-        "Collaborates with outside agencies in coordinating care (e.g. protective agencies and law enforcement, Local Crisis, Forensics, EMS, transfer centers, pharmacies)",
-        "Understands and considers while providing care that emergency nursing care is episodic, primary, typically short-term, and occurs in a variety of settings",
-        "BSMH nurses are expected to practice and deliver care in accordance with the core concepts and intention of the BSMH Nursing Professional Practice Model",
-        "Employees may be required to perform other job-related duties as required by their supervisor, subject to reasonable accommodation",
-        "Orients, facilitates learning experience, and provides education (based upon quality improvement indicators, outcomes, and implementation) to nursing staff and others",
-        "Possesses clinical knowledge, skills, and competency to provide evidence-based patient care in accordance with the current standards of practice, policy and procedure, and BSMH mission",
-        "Performs comprehensive assessment of patient's clinical condition and psychosocial needs of the patient and their supportive resources",
-        "Safely and efficiently develops, implements, and prioritizes plan of care",
-        "Application of the nursing process in patient care delivery",
-        "Assesses patient's physical and emotional responses to treatment to evaluate effectiveness of intervention and patient outcomes; revises plan of care accordingly",
-        "Assists patient and family in coping with patient's illness",
-        "Collaborates with others in the delivery of coordinated patient care",
-        "Applies cultural diversity and inclusion principles when caring for patients and their support resources",
-        "Recognizes own limitations and seeks assistance and acquires information to perform safely",
-        "Advances personal and professional growth through participation in educational programs, current literature, in-services, and workshops",
-        "Exhibits professionalism through accountability for own and delegated actions",
-        "Integrates cost-effective measures into practice and models effective stewardship of available resources",
-        "Practices self-care and cultivates resilience in conflict and difficult circumstances",
-        "Protects the safety and privacy of all persons",
-        "Periods of high stress and fluctuating workloads may occur",
-        "May be exposed to physical altercations and verbal abuse",
-        "May be required to use physical restraints",
-        "May be exposed to high noise levels and bright lights",
-        "May be exposed to limited hazardous substances or body fluids*",
-        "May be exposed to human blood and other potentially infectious materials*",
-        "May have periods of constant interruptions",
-        "Individuals in this position are required to exercise universal precautions, use personal protective equipment and devices, and learn the policies concerning infection control",
-        "Demonstrates the knowledge and skills necessary to provide care appropriate to the age of the patients served on his or her assigned unit",
-        "Demonstrates knowledge of the principles of growth and development of the life span and possesses the ability to assess data reflective of the patient's status and interprets the appropriate information needed to identify each patient's requirements relative to his or her age, specific needs and to provide the care needed as described in departmental policies and procedures",
-        "Neonates (0-4 weeks)",
-        "Infant (1-12 months)"
+        "Travel Nursing Job Assignment Length : 13 weeks",
+        "Shift : 12 hours, night"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "careers-mercy-com-us-en-job-r262759-registered-nurse-rn-emergency-room-er-austintown-medical-center",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1502,8 +1263,8 @@
     "job_latitude": 43.556917399999996,
     "job_longitude": -90.88874129999999,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrMcJuR6Y-joPJSTXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1562,80 +1323,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-linkedin-com-jobs-view-travel-emergency-room-registered-nurse-241-968-per-week-at-medical-solutions-4372955775",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "X1C1cznt7nvuADwwAAAAAA==",
-    "job_title": "Travel Nurse - Registered Nurse - ER - Emergency Room - $1982 / Week",
-    "employer_name": "LRS Healthcare - Nursing",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": null,
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=e3903cef339b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=e3903cef339b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/c6a5cef85ad7dfcf78f2c800fcdffdf7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-nc-fuquay-varina-travel-nurse-registered-er-emergency-room-1982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "LRS Healthcare - Nursing is seeking an experienced Emergency Room Registered Nurse for an exciting Travel Nursing job in Cape May Court House, NJ. Shift : Inquire Start Date : 02 / 18 / 2026 Duration : 13 weeks Pay : $1982 / Week\n\nReady to start your next travel adventure? LRS Healthcare offers a full benefits package, 24 / 7 support, and a responsive, traveler-first culture. What are you waiting for? Apply today!Qualifications :\n\n2 year of recent experience in area of specialty preferred\n\nValid license and / or certification in state of practice, if applicable\n\nDemonstrated ability to maintain high level of professionalism during stressful times\n\nValid Driver's License\n\nBackground and drug screen\n\nBenefits :\n\nHealth, Dental, and Vision Insurance\n\nCustomized Housing Options\n\nLife and Disability Insurance\n\n401(k) with Employer Match\n\nCertification & Licensure Reimbursement\n\nGenerous Referral Bonus Program\n\nWeekly Direct Deposit\n\n24 / 7 / 365 Support\n\nReady to learn more? Apply today to start your Travel Adventure with LRS Healthcare! About LRS Healthcare - Nursing :\n\nAt LRS Healthcare, we match skilled nursing professionals with top facilities nationwide. We know the healthcare industry never stands still, and neither do we. Our team of specialized recruiters professionals will help you find the travel healthcare job you've always wanted. And when you do, we'll be there to support you whenever you need us, every step of the way.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Fuquay-Varina, NC",
-    "job_city": "Fuquay-Varina",
-    "job_state": "North Carolina",
-    "job_country": "US",
-    "job_latitude": 35.584323499999996,
-    "job_longitude": -78.80001279999999,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DX1C1cznt7nvuADwwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Valid license and / or certification in state of practice, if applicable",
-        "Demonstrated ability to maintain high level of professionalism during stressful times",
-        "Valid Driver's License",
-        "Background and drug screen"
-      ],
-      "Benefits": [
-        "Shift : Inquire Start Date : 02 / 18 / 2026 Duration : 13 weeks Pay : $1982 / Week",
-        "LRS Healthcare offers a full benefits package, 24 / 7 support, and a responsive, traveler-first culture",
-        "Health, Dental, and Vision Insurance",
-        "Customized Housing Options",
-        "Life and Disability Insurance",
-        "401(k) with Employer Match",
-        "Certification & Licensure Reimbursement",
-        "Generous Referral Bonus Program",
-        "Weekly Direct Deposit"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -1850,92 +1537,173 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "nXQAeY1lEgPWjZVkAAAAAA==",
-    "job_title": "Graduate Nurse (GN) Residency— Emergency Department (ED)—July 2026",
-    "employer_name": "Texas Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT08nmlNG2jzJ4NemOg-HZh-3wb6izTzumJjstK&s=0",
-    "employer_website": "https://www.texashealth.org",
-    "job_publisher": "Texas Health Careers - Texas Health Resources",
+    "job_id": "X1C1cznt7nvuADwwAAAAAA==",
+    "job_title": "Travel Nurse - Registered Nurse - ER - Emergency Room - $1982 / Week",
+    "employer_name": "LRS Healthcare - Nursing",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": null,
+    "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobs.texashealth.org/job/22865252/graduate-nurse-gn-residency-emergency-department-ed-july-2026-plano-tx/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=e3903cef339b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Texas Health Careers - Texas Health Resources",
-        "apply_link": "https://jobs.texashealth.org/job/22865252/graduate-nurse-gn-residency-emergency-department-ed-july-2026-plano-tx/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=e3903cef339b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Texas-Health-Resources/Job/Graduate-Nurse-(GN)-Residency-Emergency-Department-(ED)-July-2026/-in-Plano,TX?jid=16c8daccb323daf7&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "IntelyCare",
-        "apply_link": "https://www.intelycare.com/jobs/169299661-graduate-nurse-gn-residency-emergency-department-ed-july-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/c6a5cef85ad7dfcf78f2c800fcdffdf7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/graduate-nurse-gn_7ea1a0ce3500e0d015199dcf08671970e14d4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/graduate-nurse-gn-residency%E2%80%94-emergency-department-ed-%E2%80%94july-2026-at-texas-health-resources-4372101899?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/plano-tx-graduate-nurse-gn-residency-emergency-department-ed-july-2026?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JobTarget",
-        "apply_link": "https://www.jobtarget.com/jobs/jt-a42mos5v5p/graduate-nurse-gn-residency-emergency-department-ed-july-2026-plano-texas?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Breakroom",
-        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/28288115-texas-health-resources-graduate-nurse-gn-residency-emergency?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-nc-fuquay-varina-travel-nurse-registered-er-emergency-room-1982?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Graduate Nurse (GN)— Emergency Department (ED)—July 2026\n\nCome and join our Graduate Nurse Residency Program! We invite new graduate RN's to apply for this unique opportunity. The next cohort will begin on July 13, 2026\n\nIntegrated into our Hospital’s education structure, the Texas Health Graduate Nurse Residency Program includes a guided clinical experience with an instructor-led core curriculum, a formal mentoring program, informative debriefing/self-care sessions and supportive 360-degree evaluations. Residents not only participate in the learning experience on their personally selected home units, they also rotate/cross train through other departments to gain an expanded nursing experience vital to the complex patient care.\n\nThe Texas Health Nurse Residency Program is a comprehensive, evidence based on-boarding program with a 15-month employment commitment that offers new graduate nurses an exciting opportunity to gain the experience, judgment, skills and confidence to successfully navigate the complexity of hospital life\n\nWhere you will be working:\n\n• Work Location: Texas Health Plano, 6200 W Parker Rd, Plano, TX 75093\n\n• Work Environment: Emergency Department\n\n• Work Hours: Full Time Nights -(7PM-7AP) for 36 hrs./ week. Rotating weekend and holiday requirements\n\nEmergency Department highlights:\n\n• 52 beds and more than 41,000 patient-visits a year\n\n• Self-Scheduling that helps with work/life balance as well as opportunities for educational and career growth\n\n• Level II Trauma\n\n• Comprehensive Stroke\n\n• Robust Unit Based Council (UBC) and engaged leadership team\n\n• Texas Health Plano 30-Minute Promise alleviates the worry that comes from long waits in the emergency department",
+    "job_description": "LRS Healthcare - Nursing is seeking an experienced Emergency Room Registered Nurse for an exciting Travel Nursing job in Cape May Court House, NJ. Shift : Inquire Start Date : 02 / 18 / 2026 Duration : 13 weeks Pay : $1982 / Week\n\nReady to start your next travel adventure? LRS Healthcare offers a full benefits package, 24 / 7 support, and a responsive, traveler-first culture. What are you waiting for? Apply today!Qualifications :\n\n2 year of recent experience in area of specialty preferred\n\nValid license and / or certification in state of practice, if applicable\n\nDemonstrated ability to maintain high level of professionalism during stressful times\n\nValid Driver's License\n\nBackground and drug screen\n\nBenefits :\n\nHealth, Dental, and Vision Insurance\n\nCustomized Housing Options\n\nLife and Disability Insurance\n\n401(k) with Employer Match\n\nCertification & Licensure Reimbursement\n\nGenerous Referral Bonus Program\n\nWeekly Direct Deposit\n\n24 / 7 / 365 Support\n\nReady to learn more? Apply today to start your Travel Adventure with LRS Healthcare! About LRS Healthcare - Nursing :\n\nAt LRS Healthcare, we match skilled nursing professionals with top facilities nationwide. We know the healthcare industry never stands still, and neither do we. Our team of specialized recruiters professionals will help you find the travel healthcare job you've always wanted. And when you do, we'll be there to support you whenever you need us, every step of the way.",
     "job_is_remote": false,
     "job_posted_at": "3 days ago",
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Plano, TX",
-    "job_city": "Plano",
-    "job_state": "Texas",
+    "job_location": "Fuquay-Varina, NC",
+    "job_city": "Fuquay-Varina",
+    "job_state": "North Carolina",
     "job_country": "US",
-    "job_latitude": 33.0216577,
-    "job_longitude": -96.6979973,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnXQAeY1lEgPWjZVkAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 35.584323499999996,
+    "job_longitude": -78.80001279999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DX1C1cznt7nvuADwwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
-      "Benefits": [
-        "52 beds and more than 41,000 patient-visits a year",
-        "Self-Scheduling that helps with work/life balance as well as opportunities for educational and career growth",
-        "Level II Trauma"
+      "Qualifications": [
+        "Valid license and / or certification in state of practice, if applicable",
+        "Demonstrated ability to maintain high level of professionalism during stressful times",
+        "Valid Driver's License",
+        "Background and drug screen"
       ],
-      "Responsibilities": [
-        "Work Environment: Emergency Department",
-        "Work Hours: Full Time Nights -(7PM-7AP) for 36 hrs./ week",
-        "Rotating weekend and holiday requirements"
+      "Benefits": [
+        "Shift : Inquire Start Date : 02 / 18 / 2026 Duration : 13 weeks Pay : $1982 / Week",
+        "LRS Healthcare offers a full benefits package, 24 / 7 support, and a responsive, traveler-first culture",
+        "Health, Dental, and Vision Insurance",
+        "Customized Housing Options",
+        "Life and Disability Insurance",
+        "401(k) with Employer Match",
+        "Certification & Licensure Reimbursement",
+        "Generous Referral Bonus Program",
+        "Weekly Direct Deposit"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "jobs-texashealth-org-job-22865252-graduate-nurse-gn-residency-emergency-department-ed-july-2026-plano-tx",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "ag45p7W7VQ2jbSxoAAAAAA==",
+    "job_title": "Emergency Room Registered Nurse",
+    "employer_name": "HCA Healthcare Summerville Hospital",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "GetHiredToday | Largest Job Board For Women - Women For Hire",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://jobs.womenforhire.com/job/usa/hanahan-sc/emergency-room-registered-nurse-613487/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "GetHiredToday | Largest Job Board For Women - Women For Hire",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/hanahan-sc/emergency-room-registered-nurse-613487/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "HCA Healthcare Jobs - Pro Nurses Nearby",
+        "apply_link": "https://hcahealthcare.pronursesnearby.com/joblistingpage/s9nc34y18nue-3048-e2db729f33c0a79ad5e-963a753db?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Medical Hirings - Talent Rush HQ",
+        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/uax1z3t7eys9-9d35c00611-a9385b5315f797517dddd0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Introduction\n\nDo you want to be appreciated daily? Our nurses are celebrated for being on the front line, empathetic for patients. At Summerville Medical Center our nurses set us apart from any other healthcare provider. We are seeking an Emergency Room Registered Nurse to join our healthcare family.\nBenefits\n\nSummerville Medical Center, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation.\n• Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more.\n• Free counseling services and resources for emotional, physical and financial wellbeing\n• 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\n• Employee Stock Purchase Plan with 10% off HCA Healthcare stock\n• Family support through fertility and family building benefits with Progyny and adoption assistance.\n• Referral services for child, elder and pet care, home and auto repair, event planning and more\n• Consumer discounts through Abenity and Consumer Discounts\n• Retirement readiness, rollover assistance services and preferred banking partnerships\n• Education assistance (tuition, student loan, certification support, dependent scholarships)\n• Colleague recognition program\n• Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\n• Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nAt Summerville Medical Center, our nurses play a vital part. We know that every nurse’s path and purpose is unique. Do you want to create your own personal career path in nursing? HCA Healthcare is your career destination! Our scale makes it possible for nurses to create the career path that fits their life – for life – and empowers their passion for patient care. Apply today for our Emergency Room Registered Nurse opportunity.\nJob Summary and Qualifications\n\nThe Registered Nurse coordinates and delivers high quality, patient-centered care in accordance with the nature and specific requirements of the department, and consistent with the scope and standards of practice for the relevant state and specialty. In collaboration with medical providers and other members of the care team, the RN provides individualized, comprehensive, and compassionate care using established nursing models such as “Assess, Perform, Teach, and Manage.” The RN serves as an advocate for patients/families/caregivers and models a commitment to the organization’s vision/mission/values to support an unparalleled patient experience and clinical outcomes that contribute to overall departmental performance.\n• Assesses patient pain regularly to promote effective pain management, including reassessments after appropriate intervention.\n• Performs procedures, monitoring, or other functions as ordered by the medical provider(s). Documents the administration of care in the patient medical record in a timely and thorough manner.\n• Performs exceptional care by responding promptly to patient requests. Strives to anticipate patient needs and resolve them proactively.\n• Teaches patients/families/caregivers about patient medical condition, patient status, treatment plan, medications and possible side effects, and follow-up measures. Translates complex medical terminology to ensure complete understanding.\n• Teaches patients/families/caregivers about any non-medicinal follow-up measures, such as healthy diet and exercise, disease prevention, and/or other lifestyle changes. Prepares patients and families/caregivers for future self-management.\nWhat qualifications you will need:\n• Associate Degree in Nursing or RN Diploma\n• Bachelor's Degree in Nursing Preferred\n• 1 year applicable experience\n• Currently licensed as a registered professional nurse in the state(s) of practice and/or has an active compact license, in accordance with law and regulation\n• Basic Cardiac Life Support must be obtained within 30 days of employment start date\n\nTrident Health is a 445-bed HCA Healthcare hospital system comprised of two acute care hospitals, Trident Medical Center and Summerville Medical Center and three freestanding emergency departments, Brighton Park Emergency, Moncks Corner Medical Center and Centre Pointe Emergency.\n\nWe provide care to nearly 375,000 South Carolina Low country residents each year. Every day Trident Health's more than 2,600 employees, more than 500 physicians and more than 130 volunteers are dedicated to fulfilling our mission.\n\n\"The great hospitals will always put the patient and the patient's family first, and the really great institutions will provide care with warmth, compassion, and dignity for the individual.\"- Dr. Thomas Frist, Sr.\nHCA Healthcare Co-Founder\n\nJoin a family that cares about every stage in your career! We are interviewing candidates for our Emergency Room Registered Nurse opening. Apply today and a member of our Talent Acquisition team will reach out.\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Hanahan, SC",
+    "job_city": "Hanahan",
+    "job_state": "South Carolina",
+    "job_country": "US",
+    "job_latitude": 32.9305786,
+    "job_longitude": -80.0031833,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dag45p7W7VQ2jbSxoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Associate Degree in Nursing or RN Diploma",
+        "1 year applicable experience",
+        "Currently licensed as a registered professional nurse in the state(s) of practice and/or has an active compact license, in accordance with law and regulation",
+        "Basic Cardiac Life Support must be obtained within 30 days of employment start date"
+      ],
+      "Benefits": [
+        "Summerville Medical Center, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
+        "Comprehensive medical coverage that covers many common services at no cost or for a low copay",
+        "Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation",
+        "Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more",
+        "Free counseling services and resources for emotional, physical and financial wellbeing",
+        "401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)",
+        "Employee Stock Purchase Plan with 10% off HCA Healthcare stock",
+        "Family support through fertility and family building benefits with Progyny and adoption assistance",
+        "Referral services for child, elder and pet care, home and auto repair, event planning and more",
+        "Consumer discounts through Abenity and Consumer Discounts",
+        "Retirement readiness, rollover assistance services and preferred banking partnerships",
+        "Education assistance (tuition, student loan, certification support, dependent scholarships)",
+        "Colleague recognition program",
+        "Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)",
+        "Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income",
+        "Learn more about Employee Benefits"
+      ],
+      "Responsibilities": [
+        "The Registered Nurse coordinates and delivers high quality, patient-centered care in accordance with the nature and specific requirements of the department, and consistent with the scope and standards of practice for the relevant state and specialty",
+        "In collaboration with medical providers and other members of the care team, the RN provides individualized, comprehensive, and compassionate care using established nursing models such as “Assess, Perform, Teach, and Manage.” The RN serves as an advocate for patients/families/caregivers and models a commitment to the organization’s vision/mission/values to support an unparalleled patient experience and clinical outcomes that contribute to overall departmental performance",
+        "Assesses patient pain regularly to promote effective pain management, including reassessments after appropriate intervention",
+        "Performs procedures, monitoring, or other functions as ordered by the medical provider(s)",
+        "Documents the administration of care in the patient medical record in a timely and thorough manner",
+        "Performs exceptional care by responding promptly to patient requests",
+        "Strives to anticipate patient needs and resolve them proactively",
+        "Teaches patients/families/caregivers about patient medical condition, patient status, treatment plan, medications and possible side effects, and follow-up measures",
+        "Translates complex medical terminology to ensure complete understanding",
+        "Teaches patients/families/caregivers about any non-medicinal follow-up measures, such as healthy diet and exercise, disease prevention, and/or other lifestyle changes",
+        "Prepares patients and families/caregivers for future self-management"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "jobs-womenforhire-com-job-usa-hanahan-sc-emergency-room-registered-nurse-613487",
     "_source": "new_jobs"
   }
 ]
