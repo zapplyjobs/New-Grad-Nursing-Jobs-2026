@@ -315,8 +315,8 @@
     "job_latitude": 33.8232286,
     "job_longitude": -116.5106191,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmZQt-e12-JL9fibYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -421,9 +421,9 @@
     "job_latitude": 35.7846006,
     "job_longitude": -80.88832909999999,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEVc8NvsgBA6gwRq9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -568,48 +568,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "85UBcTwFmcdWOAyaAAAAAA==",
-    "job_title": "Travel Nurse RN – Post-Anesthesia Care Unit (PACU) / Pre-Post Op – $2,322 per week in Needham, MA",
-    "employer_name": "OneStaff Medical",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdbBKQ_LGfwHnacYa1Ll4dchDNjVMGwWoTCU86&s=0",
-    "employer_website": "https://www.onestaffmedical.com",
-    "job_publisher": "Tallo",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://tallo.com/jobs/healthcare/registered-nurse/ma/norfolk/travel-nurse-rn-post-anesthesia-care-unit-pacu-8f10d35ffc47/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Tallo",
-        "apply_link": "https://tallo.com/jobs/healthcare/registered-nurse/ma/norfolk/travel-nurse-rn-post-anesthesia-care-unit-pacu-8f10d35ffc47/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "This job listing in Norfolk - MA has been recently added. Tallo will add a summary here for this job shortly.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Norfolk, MA",
-    "job_city": "Norfolk",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.119542599999996,
-    "job_longitude": -71.3250563,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D85UBcTwFmcdWOAyaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {},
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "tallo-com-jobs-healthcare-registered-nurse-ma-norfolk-travel-nurse-rn-post-anesthesia-care-unit-pacu-8f10d35ffc47",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "3Uq2hl3kmTceU0uRAAAAAA==",
     "job_title": "Travel Nurse RN - Telemetry - $2,002 per week",
     "employer_name": "Supplemental Health Care",
@@ -635,6 +593,11 @@
         "is_direct": false
       },
       {
+        "publisher": "Jobs For Stevenage Fans",
+        "apply_link": "https://jobs.stevenagefc.com/jobs/travel-nurse-rn-telemetry-2-320-per-week-akron-ohio/2618350112-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "LinkedIn",
         "apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-rn-telemetry-%241-776-per-week-at-nuwest-group-4372193357?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -650,18 +613,13 @@
         "is_direct": false
       },
       {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/travel-nurse-rn-telemetry-2-320-per-week-akron-ohio/2618350112-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
         "publisher": "KGET Jobs",
         "apply_link": "https://jobs.kget.com/jobs/travel-nurse-rn-telemetry-1-812-per-week-akron-ohio/2613284740-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Aspire Media Group Jobs",
-        "apply_link": "https://jobs.aspiremediagroup.net/jobs/travel-nurse-rn-telemetry-2-105-per-week-akron-ohio/2616975109-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "KHON2 Jobs",
-        "apply_link": "https://jobs.khon2.com/jobs/travel-nurse-rn-telemetry-2-105-per-week-akron-ohio/2616975109-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
@@ -726,6 +684,48 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "85UBcTwFmcdWOAyaAAAAAA==",
+    "job_title": "Travel Nurse RN – Post-Anesthesia Care Unit (PACU) / Pre-Post Op – $2,322 per week in Needham, MA",
+    "employer_name": "OneStaff Medical",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdbBKQ_LGfwHnacYa1Ll4dchDNjVMGwWoTCU86&s=0",
+    "employer_website": "https://www.onestaffmedical.com",
+    "job_publisher": "Tallo",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://tallo.com/jobs/healthcare/registered-nurse/ma/norfolk/travel-nurse-rn-post-anesthesia-care-unit-pacu-8f10d35ffc47/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Tallo",
+        "apply_link": "https://tallo.com/jobs/healthcare/registered-nurse/ma/norfolk/travel-nurse-rn-post-anesthesia-care-unit-pacu-8f10d35ffc47/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This job listing in Norfolk - MA has been recently added. Tallo will add a summary here for this job shortly.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Norfolk, MA",
+    "job_city": "Norfolk",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.119542599999996,
+    "job_longitude": -71.3250563,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D85UBcTwFmcdWOAyaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {},
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "tallo-com-jobs-healthcare-registered-nurse-ma-norfolk-travel-nurse-rn-post-anesthesia-care-unit-pacu-8f10d35ffc47",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "UoCn0C3x09Pq1WrAAAAAAA==",
     "job_title": "Registered Nurse - Veteran Experience Program Manager",
     "employer_name": "VA Northeast Ohio Healthcare System",
@@ -784,6 +784,185 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-usajobs-gov-job-857603200",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "pNDsJk7TYF8OLMrcAAAAAA==",
+    "job_title": "Travel Nurse RN - ED - Emergency Department - $2,066 per week",
+    "employer_name": "Host Healthcare, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb0lwcO_ivwvuTJbUmHJgODvGTqAuDRt4N1vg-&s=0",
+    "employer_website": null,
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Part-time",
+    "job_employment_types": [
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-rn-ed-emergency-department-%242-066-per-week-at-host-healthcare-inc-4371659656?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-rn-ed-emergency-department-%242-066-per-week-at-host-healthcare-inc-4371659656?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Www.talent.com",
+        "apply_link": "https://www.talent.com/view?id=2dbde7d25e30&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5625712585?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Host Healthcare is seeking a travel nurse RN ED - Emergency Department for a travel nursing job in Lincoln, Maine.\nJob Description & Requirements\n• Specialty: ED - Emergency Department\n• Discipline: RN\n• Start Date: ASAP\n• Duration: 13 weeks\n• 36 hours per week\n• Shift: 12 hours, days\n• Employment Type: Travel\n\nHost Healthcare Job ID #a1fVX000002mIxZYAU. Pay package is based on 12 hour shifts and 36 hours per week (subject to confirmation) with tax-free stipend amount to be determined. Posted job title: RN - Emergency Room\nAbout Host Healthcare\n\nAt Host Healthcare, we provide a truly comfortable experience as you explore your travel nursing, therapy, or allied career. We make your travel healthcare journey easy by taking care of all the details, so you don’t have to.\n\nWe are on a mission to help others live better and we do this by helping the healers of the world be as comfortable as possible. With access to tens of thousands of travel nursing, therapy, and allied jobs in all 50 states, our responsive and friendly recruiters find your dream position based on what’s important to you.\n\nDuring your assignment, get access to premium benefits, including Day 1 medical that continues up to 30 days between assignments, 401K matching, travel reimbursements, dedicated housing support, and more. We also offer 24/7 support from our team and access to our on-staff clinicians so you can feel comfortable and confident throughout your entire assignment.\n\nTravel comfortably with Host Healthcare.\nBenefits\n• Referral bonus\n• School loan reimbursement\n• Vision benefits\n• Wellness and fitness programs\n• Company provided housing options\n• License and certification reimbursement\n• Life insurance\n• Medical benefits\n• Mileage reimbursement\n• Pet insurance\n• Discount program\n• Employee assistance programs\n• Guaranteed Hours\n• Health savings account\n• Holiday Pay\n• 401k retirement plan\n• Continuing Education\n• Dental benefits",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Lincoln, ME",
+    "job_city": "Lincoln",
+    "job_state": "Maine",
+    "job_country": "US",
+    "job_latitude": 45.362210399999995,
+    "job_longitude": -68.5045947,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpNDsJk7TYF8OLMrcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Specialty: ED - Emergency Department",
+        "Discipline: RN"
+      ],
+      "Benefits": [
+        "Pay package is based on 12 hour shifts and 36 hours per week (subject to confirmation) with tax-free stipend amount to be determined",
+        "During your assignment, get access to premium benefits, including Day 1 medical that continues up to 30 days between assignments, 401K matching, travel reimbursements, dedicated housing support, and more",
+        "We also offer 24/7 support from our team and access to our on-staff clinicians so you can feel comfortable and confident throughout your entire assignment",
+        "Travel comfortably with Host Healthcare",
+        "Benefits",
+        "Referral bonus",
+        "School loan reimbursement",
+        "Vision benefits",
+        "Wellness and fitness programs",
+        "Company provided housing options",
+        "License and certification reimbursement",
+        "Life insurance",
+        "Medical benefits",
+        "Mileage reimbursement",
+        "Pet insurance",
+        "Discount program",
+        "Employee assistance programs",
+        "Guaranteed Hours",
+        "Health savings account",
+        "Holiday Pay",
+        "401k retirement plan",
+        "Continuing Education",
+        "Dental benefits"
+      ],
+      "Responsibilities": [
+        "Duration: 13 weeks",
+        "36 hours per week",
+        "Shift: 12 hours, days"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-travel-nurse-rn-ed-emergency-department-242-066-per-week-at-host-healthcare-inc-4371659656",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "n1nzD3aQj9aVkGeCAAAAAA==",
+    "job_title": "Travel Nurse - LPN - LTC - Long Term Care - $1450.8 / Week",
+    "employer_name": "Bluepipes",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRAcrgu-O0Nk1eNSE4y-c9BtcPbXa1LDrNMkE4&s=0",
+    "employer_website": "https://www.bluepipes.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=92897d9968d1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=92897d9968d1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/c115a4167c52d350e5fdf8f801efefc0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "CrossMed Healthcare is seeking an experienced Long Term Care Licensed Practical Nurse for an exciting Travel Nursing job in Sundance, WY. Shift : Inquire Start Date : 02 / 19 / 2026 Duration : 13 weeks Pay : $1450.8 / Week\n\nJob Details\n• Gross Weekly Pay : $1380.60 - $1450.80\n• Starts : 2026-02-19\n• Assignment Length : 7 Weeks\n• Shift : Day shift\n• Hours Per Week : 36\n• Job Quantity : 1\n• Type : Travel\n• City : Sundance\n• State : WY\n\nAt CrossMed Healthcare Staffing, we aim to create lasting impressions wherever we go. Embark on your healthcare traveler journey with us and discover the CrossMed advantage. We offer competitive pay packages, comprehensive benefits, an in-house clinical team, and dedicated recruiters committed to your success. Our goal is to become the preferred staffing provider by delivering top-notch customer service. Join us and experience the difference firsthand!\n\nBenefits :\n• Competitive weekly pay\n• Insurance (Health, Dental, Vision)\n• Life Insurance\n• 401(k)\n• Referral Bonus\n• Reimbursement for Licensure & CEU’s\n• Refer-a-Friend Bonus Program\n• EAP Program\n\nQualifications :\n• At minimum 1 - 2 years’ experience preferred\n• Graduate from an accredited school\n• Certifications may be required based on facility requirements\n• Physical abilities – remain in a stationary position, move and lift equipment (50-100 lbs), pushing, bending and pulling\n• Communication with other health team members\n• Provides and coordinates patient care\n• Follows hospital safety rules and procedures\n• Maintains cleanliness of rooms and adequate stock of supplies\n• Performs other duties as assigned\n\nRequired Skills :\n• Interpersonal Skills – ability to work with diverse personnel (professional and support staff) while maintaining a positive demeanor and professional appearance.\n• Technical Skills - the ability to grasp, push / pull, and move while assisting with procedures or operating departmental equipment.\n• Cognitive Demands - capable of managing frequent interactions with the public and customers and meeting deadlines under pressure. Comfortable working under occasional close supervision or independently.\n• Sensory Skills - keen visual understanding and practical communication abilities.\n\nAbout CrossMed Healthcare :\n\nCrossMed Healthcare specializes in connecting Allied traveling health professionals with exceptional travel assignments across the country. Our team helps healthcare professionals explore various opportunities, whether in hospitals, clinics, or other healthcare facilities, while offering personalized support throughout the entire assignment process. With a commitment to quality and efficiency, we strive to make the journey of finding and securing travel assignments as seamless as possible for our valued healthcare professionals. Join the CrossMed team today and embark on a rewarding and adventurous career in healthcare!\n\nEnjoy benefits :\n• 24 / 7 Support : from finding a contract, to sourcing housing, locating travel arrangements and everything in between we're there to help you!\n• Health, Dental, and Vision Insurance + 401K plans\n• Earn up to a $500 referral bonus for friends who complete their assignment!\n• Explore the country with a variety of contracts in various settings",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Sundance, WY",
+    "job_city": "Sundance",
+    "job_state": "Wyoming",
+    "job_country": "US",
+    "job_latitude": 44.4063746,
+    "job_longitude": -104.3757816,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dn1nzD3aQj9aVkGeCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Graduate from an accredited school",
+        "Certifications may be required based on facility requirements",
+        "Physical abilities – remain in a stationary position, move and lift equipment (50-100 lbs), pushing, bending and pulling",
+        "Communication with other health team members",
+        "Interpersonal Skills – ability to work with diverse personnel (professional and support staff) while maintaining a positive demeanor and professional appearance",
+        "Technical Skills - the ability to grasp, push / pull, and move while assisting with procedures or operating departmental equipment",
+        "Cognitive Demands - capable of managing frequent interactions with the public and customers and meeting deadlines under pressure",
+        "Comfortable working under occasional close supervision or independently",
+        "Sensory Skills - keen visual understanding and practical communication abilities"
+      ],
+      "Benefits": [
+        "Shift : Inquire Start Date : 02 / 19 / 2026 Duration : 13 weeks Pay : $1450.8 / Week",
+        "Gross Weekly Pay : $1380.60 - $1450.80",
+        "We offer competitive pay packages, comprehensive benefits, an in-house clinical team, and dedicated recruiters committed to your success",
+        "Competitive weekly pay",
+        "Insurance (Health, Dental, Vision)",
+        "Life Insurance",
+        "401(k)",
+        "Referral Bonus",
+        "Reimbursement for Licensure & CEU’s",
+        "Refer-a-Friend Bonus Program",
+        "EAP Program",
+        "24 / 7 Support : from finding a contract, to sourcing housing, locating travel arrangements and everything in between we're there to help you!",
+        "Health, Dental, and Vision Insurance + 401K plans",
+        "Earn up to a $500 referral bonus for friends who complete their assignment!",
+        "Explore the country with a variety of contracts in various settings"
+      ],
+      "Responsibilities": [
+        "Assignment Length : 7 Weeks",
+        "Shift : Day shift",
+        "Hours Per Week : 36",
+        "Provides and coordinates patient care",
+        "Follows hospital safety rules and procedures",
+        "Maintains cleanliness of rooms and adequate stock of supplies",
+        "Performs other duties as assigned"
+      ]
+    },
+    "job_onet_soc": "29206100",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -867,165 +1046,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "nDwo1Kj5xvjBMdKwAAAAAA==",
-    "job_title": "Travel LPN / LVN - Long-Term Care - $927 to $1,176 per week in Waterville, ME",
-    "employer_name": "TravelNurseSource",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDSa90bB-ipFqIbcxX9vmNbQzDcIp1pb-Q0MiM&s=0",
-    "employer_website": "https://www.travelnursesource.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=30b57c04e35f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=30b57c04e35f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Licensed Practical / Licensed Vocational Nurse (LPN / LVN) | Long-Term Care\n\nLocation : Waterville, ME\n\nAgency : Envista Resources\n\nPay : $927 to $1,176 per week\n\nShift Information : Nights - 3 days x 12 hours\n\nContract Duration : 6 Weeks\n\nStart Date : ASAP\n\nAbout the Position\n\nTravelNurseSource is working with Envista Resources to find a qualified Long-Term Care LPN / LVN in Waterville, Maine, 04901!\n\nTravel LONG TERM CARE - LPN / LVN Available!\n\n| 6-weeks | $926.64 / week - $1176.12 / week | Adventure Worth Packing For |\n\nYour skills. All new adventures.\n\nJust one question :\n\nWhere will you go next?\n\nWith Envista Healthcare Staffing, your healthcare career is an open ticket to wherever your dreams lead— no limits, no settling, no nonsense.\n\nWherever you go, we make the journey seamless. Your dedicated recruiter handles the details, giving you unmatched support every step of the way.\n\nSo you can enjoy the freedom, excitement, and endless possibilities of travelling.\n\nDrop the routine. Pick your destination. Change your life.\n\nThe Essentials : What You Need to Know\n• Your Role : Travel LONG TERM CARE LPN / LVN\n• Your Assignment : 6-week contract\n• Your Pay : $926.64 / week - $1176.12 / week\n\nYour custom pay package is built around you. Housing? Travel? Bonuses? Your recruiter builds a contract that fits your real priorities.\n\nWhat You Bring to the Table\n\nActive LPN / LVN License / Certification in Maine\n\n1+ year of recent experience in your specialty (within the past 18 months)\n\nA traveler’s mindset—adaptable, professional, and ready to jump in and make a difference Day One\n\nWhy Envista?\n\nAt Envista Healthcare Staffing , we’re built for travelers, not transactions. That means you get the trust, attention, and personalized support you deserve.\n\nBecause travel isn’t just a job—it’s a lifestyle.\n\nWhen you’re traveling, you’re not just choosing an assignment. You’re not just choosing a company. You’re choosing a recruiter. Because when you’re on the road, your recruiter is your lifeline.\n\nAnd our recruiters get that.\n\nThey’re more than just a point of contact—they’re your trusted advisor. Your career partner. Your friend.\n\nThey don’t just place you in a job—they help shape your journey.\n\nSo behind every offer, there’s a recruiter who knows your name, your goals, and how to get you the best deal —because this isn’t just about finding you a job. It’s about finding the right fit, every assignment, every time.\n\nNo ghosts. No bait-and-switch rates. No guessing games.\n\nJust real transparency, real support, and a recruiter who actually fights for you.\n\nThe Perks : No Nonsense, Just Value.\n\nCompetitive, upfront pay.\n\nCustom contract negotiation to make sure you get what you need.\n\nDay-one benefits – Medical, dental, and retirement.\n\nLicensure reimbursement\n\nThe most important benefit we can offer : A recruiter who actually has your back, every step of the way.\n\nAbout Envista Resources\n\nEnvista Resources and its affiliates, Envista Health and Envista Healthcare Staffing, offer a comprehensive range of staffing solutions, including PRN, local contract, correctional, and nationwide travel placements. We understand that traveling healthcare professionals thrive in a team environment, and at Envista, we partner closely with our travelers to ensure every assignment is a success.Our experienced team across all departments is dedicated to exceeding expectations and delivering exceptional service. We work hand-in-hand with you to find the perfect assignment, maximize your compensation, and provide continuous support throughout your journey—ensuring you're set up for success in every assignment, now and in the future.\n\n28030569EXPPLAT",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Lewiston, ME",
-    "job_city": "Lewiston",
-    "job_state": "Maine",
-    "job_country": "US",
-    "job_latitude": 44.100350999999996,
-    "job_longitude": -70.21477639999999,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DnDwo1Kj5xvjBMdKwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Your Role : Travel LONG TERM CARE LPN / LVN",
-        "Active LPN / LVN License / Certification in Maine",
-        "1+ year of recent experience in your specialty (within the past 18 months)",
-        "A traveler’s mindset—adaptable, professional, and ready to jump in and make a difference Day One"
-      ],
-      "Benefits": [
-        "Pay : $927 to $1,176 per week",
-        "| 6-weeks | $926.64 / week - $1176.12 / week | Adventure Worth Packing For |",
-        "Your Assignment : 6-week contract",
-        "Your Pay : $926.64 / week - $1176.12 / week",
-        "Your custom pay package is built around you",
-        "Your recruiter builds a contract that fits your real priorities",
-        "No bait-and-switch rates",
-        "The Perks : No Nonsense, Just Value",
-        "Competitive, upfront pay",
-        "Custom contract negotiation to make sure you get what you need",
-        "Day-one benefits – Medical, dental, and retirement",
-        "Licensure reimbursement"
-      ],
-      "Responsibilities": [
-        "Shift Information : Nights - 3 days x 12 hours"
-      ]
-    },
-    "job_onet_soc": "29206100",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "n1nzD3aQj9aVkGeCAAAAAA==",
-    "job_title": "Travel Nurse - LPN - LTC - Long Term Care - $1450.8 / Week",
-    "employer_name": "Bluepipes",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRAcrgu-O0Nk1eNSE4y-c9BtcPbXa1LDrNMkE4&s=0",
-    "employer_website": "https://www.bluepipes.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=92897d9968d1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=92897d9968d1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/c115a4167c52d350e5fdf8f801efefc0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "CrossMed Healthcare is seeking an experienced Long Term Care Licensed Practical Nurse for an exciting Travel Nursing job in Sundance, WY. Shift : Inquire Start Date : 02 / 19 / 2026 Duration : 13 weeks Pay : $1450.8 / Week\n\nJob Details\n• Gross Weekly Pay : $1380.60 - $1450.80\n• Starts : 2026-02-19\n• Assignment Length : 7 Weeks\n• Shift : Day shift\n• Hours Per Week : 36\n• Job Quantity : 1\n• Type : Travel\n• City : Sundance\n• State : WY\n\nAt CrossMed Healthcare Staffing, we aim to create lasting impressions wherever we go. Embark on your healthcare traveler journey with us and discover the CrossMed advantage. We offer competitive pay packages, comprehensive benefits, an in-house clinical team, and dedicated recruiters committed to your success. Our goal is to become the preferred staffing provider by delivering top-notch customer service. Join us and experience the difference firsthand!\n\nBenefits :\n• Competitive weekly pay\n• Insurance (Health, Dental, Vision)\n• Life Insurance\n• 401(k)\n• Referral Bonus\n• Reimbursement for Licensure & CEU’s\n• Refer-a-Friend Bonus Program\n• EAP Program\n\nQualifications :\n• At minimum 1 - 2 years’ experience preferred\n• Graduate from an accredited school\n• Certifications may be required based on facility requirements\n• Physical abilities – remain in a stationary position, move and lift equipment (50-100 lbs), pushing, bending and pulling\n• Communication with other health team members\n• Provides and coordinates patient care\n• Follows hospital safety rules and procedures\n• Maintains cleanliness of rooms and adequate stock of supplies\n• Performs other duties as assigned\n\nRequired Skills :\n• Interpersonal Skills – ability to work with diverse personnel (professional and support staff) while maintaining a positive demeanor and professional appearance.\n• Technical Skills - the ability to grasp, push / pull, and move while assisting with procedures or operating departmental equipment.\n• Cognitive Demands - capable of managing frequent interactions with the public and customers and meeting deadlines under pressure. Comfortable working under occasional close supervision or independently.\n• Sensory Skills - keen visual understanding and practical communication abilities.\n\nAbout CrossMed Healthcare :\n\nCrossMed Healthcare specializes in connecting Allied traveling health professionals with exceptional travel assignments across the country. Our team helps healthcare professionals explore various opportunities, whether in hospitals, clinics, or other healthcare facilities, while offering personalized support throughout the entire assignment process. With a commitment to quality and efficiency, we strive to make the journey of finding and securing travel assignments as seamless as possible for our valued healthcare professionals. Join the CrossMed team today and embark on a rewarding and adventurous career in healthcare!\n\nEnjoy benefits :\n• 24 / 7 Support : from finding a contract, to sourcing housing, locating travel arrangements and everything in between we're there to help you!\n• Health, Dental, and Vision Insurance + 401K plans\n• Earn up to a $500 referral bonus for friends who complete their assignment!\n• Explore the country with a variety of contracts in various settings",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Sundance, WY",
-    "job_city": "Sundance",
-    "job_state": "Wyoming",
-    "job_country": "US",
-    "job_latitude": 44.4063746,
-    "job_longitude": -104.3757816,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dn1nzD3aQj9aVkGeCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Graduate from an accredited school",
-        "Certifications may be required based on facility requirements",
-        "Physical abilities – remain in a stationary position, move and lift equipment (50-100 lbs), pushing, bending and pulling",
-        "Communication with other health team members",
-        "Interpersonal Skills – ability to work with diverse personnel (professional and support staff) while maintaining a positive demeanor and professional appearance",
-        "Technical Skills - the ability to grasp, push / pull, and move while assisting with procedures or operating departmental equipment",
-        "Cognitive Demands - capable of managing frequent interactions with the public and customers and meeting deadlines under pressure",
-        "Comfortable working under occasional close supervision or independently",
-        "Sensory Skills - keen visual understanding and practical communication abilities"
-      ],
-      "Benefits": [
-        "Shift : Inquire Start Date : 02 / 19 / 2026 Duration : 13 weeks Pay : $1450.8 / Week",
-        "Gross Weekly Pay : $1380.60 - $1450.80",
-        "We offer competitive pay packages, comprehensive benefits, an in-house clinical team, and dedicated recruiters committed to your success",
-        "Competitive weekly pay",
-        "Insurance (Health, Dental, Vision)",
-        "Life Insurance",
-        "401(k)",
-        "Referral Bonus",
-        "Reimbursement for Licensure & CEU’s",
-        "Refer-a-Friend Bonus Program",
-        "EAP Program",
-        "24 / 7 Support : from finding a contract, to sourcing housing, locating travel arrangements and everything in between we're there to help you!",
-        "Health, Dental, and Vision Insurance + 401K plans",
-        "Earn up to a $500 referral bonus for friends who complete their assignment!",
-        "Explore the country with a variety of contracts in various settings"
-      ],
-      "Responsibilities": [
-        "Assignment Length : 7 Weeks",
-        "Shift : Day shift",
-        "Hours Per Week : 36",
-        "Provides and coordinates patient care",
-        "Follows hospital safety rules and procedures",
-        "Maintains cleanliness of rooms and adequate stock of supplies",
-        "Performs other duties as assigned"
-      ]
-    },
-    "job_onet_soc": "29206100",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "lg3szynn_ahKnaCgAAAAAA==",
     "job_title": "Registered Nurse - Full Time, Part Time, and PRN",
     "employer_name": "Encompass Health Rehabilitation Hospital of Irmo",
@@ -1058,9 +1078,9 @@
     "job_latitude": 33.836081,
     "job_longitude": -81.1637245,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dlg3szynn_ahKnaCgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1230,8 +1250,8 @@
     "job_latitude": 41.8666341,
     "job_longitude": -103.6671662,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDkGlFrGsKj-QFX-8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
@@ -1327,6 +1347,84 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "Sxye1KgA1hiNT1isAAAAAA==",
+    "job_title": "Travel Nurse RN - Labor and Delivery - $2,466 per week",
+    "employer_name": "Malone Healthcare Solutions",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5g_lbg0BVvBxG9dwSouQGvPNzlTDGRlQt7Arw&s=0",
+    "employer_website": "https://www.malonesolutions.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-rn-labor-and-delivery-%242-466-per-week-at-malone-healthcare-solutions-4372119582?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-rn-labor-and-delivery-%242-466-per-week-at-malone-healthcare-solutions-4372119582?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/travel-nurse?id=2453580285&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LifeworQ",
+        "apply_link": "https://lifeworq.com/job/d4e2c8e3-b852-4ecb-a7ea-95d70d6ce070?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Malone Healthcare - Nursing is seeking a travel nurse RN Labor and Delivery for a travel nursing job in Silver City, New Mexico.\nJob Description & Requirements\n• Specialty: Labor and Delivery\n• Discipline: RN\n• Start Date: 04/05/2026\n• Duration: 12 weeks\n• 36 hours per week\n• Shift: 12 hours, days, nights, flexible\n• Employment Type: Travel\nAbout Malone Healthcare - Nursing\n\nWith a commitment to providing a higher standard of service and experience in patient care, Malone Healthcare places expert nurses and allied health professionals in rewarding careers throughout the United States. As a leading healthcare staffing agency, Malone’s focus on compliance and integrity translates to a seamless experience for our team members and partner facilities. When you work with Malone Healthcare, you can rely on over 50 years of proven experience placing exceptional professionals in quality healthcare settings.\nBenefits\n• Weekly pay\n• Holiday Pay\n• Guaranteed Hours\n• Continuing Education\n• 401k retirement plan\n• Pet insurance\n• Referral bonus\n• Medical benefits\n• Dental benefits\n• Vision benefits\n• License and certification reimbursement\n• Life insurance",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Silver City, NM",
+    "job_city": "Silver City",
+    "job_state": "New Mexico",
+    "job_country": "US",
+    "job_latitude": 32.770075,
+    "job_longitude": -108.28032599999999,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSxye1KgA1hiNT1isAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Discipline: RN"
+      ],
+      "Benefits": [
+        "Weekly pay",
+        "Holiday Pay",
+        "Guaranteed Hours",
+        "Continuing Education",
+        "401k retirement plan",
+        "Pet insurance",
+        "Referral bonus",
+        "Medical benefits",
+        "Dental benefits",
+        "Vision benefits",
+        "License and certification reimbursement",
+        "Life insurance"
+      ],
+      "Responsibilities": [
+        "Duration: 12 weeks",
+        "36 hours per week",
+        "Shift: 12 hours, days, nights, flexible"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-travel-nurse-rn-labor-and-delivery-242-466-per-week-at-malone-healthcare-solutions-4372119582",
     "_source": "new_jobs"
   },
   {
@@ -1455,312 +1553,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "Sxye1KgA1hiNT1isAAAAAA==",
-    "job_title": "Travel Nurse RN - Labor and Delivery - $2,466 per week",
-    "employer_name": "Malone Healthcare Solutions",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5g_lbg0BVvBxG9dwSouQGvPNzlTDGRlQt7Arw&s=0",
-    "employer_website": "https://www.malonesolutions.com",
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-rn-labor-and-delivery-%242-466-per-week-at-malone-healthcare-solutions-4372119582?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/travel-nurse-rn-labor-and-delivery-%242-466-per-week-at-malone-healthcare-solutions-4372119582?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/travel-nurse?id=2453580285&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LifeworQ",
-        "apply_link": "https://lifeworq.com/job/d4e2c8e3-b852-4ecb-a7ea-95d70d6ce070?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Malone Healthcare - Nursing is seeking a travel nurse RN Labor and Delivery for a travel nursing job in Silver City, New Mexico.\nJob Description & Requirements\n• Specialty: Labor and Delivery\n• Discipline: RN\n• Start Date: 04/05/2026\n• Duration: 12 weeks\n• 36 hours per week\n• Shift: 12 hours, days, nights, flexible\n• Employment Type: Travel\nAbout Malone Healthcare - Nursing\n\nWith a commitment to providing a higher standard of service and experience in patient care, Malone Healthcare places expert nurses and allied health professionals in rewarding careers throughout the United States. As a leading healthcare staffing agency, Malone’s focus on compliance and integrity translates to a seamless experience for our team members and partner facilities. When you work with Malone Healthcare, you can rely on over 50 years of proven experience placing exceptional professionals in quality healthcare settings.\nBenefits\n• Weekly pay\n• Holiday Pay\n• Guaranteed Hours\n• Continuing Education\n• 401k retirement plan\n• Pet insurance\n• Referral bonus\n• Medical benefits\n• Dental benefits\n• Vision benefits\n• License and certification reimbursement\n• Life insurance",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Silver City, NM",
-    "job_city": "Silver City",
-    "job_state": "New Mexico",
-    "job_country": "US",
-    "job_latitude": 32.770075,
-    "job_longitude": -108.28032599999999,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSxye1KgA1hiNT1isAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Discipline: RN"
-      ],
-      "Benefits": [
-        "Weekly pay",
-        "Holiday Pay",
-        "Guaranteed Hours",
-        "Continuing Education",
-        "401k retirement plan",
-        "Pet insurance",
-        "Referral bonus",
-        "Medical benefits",
-        "Dental benefits",
-        "Vision benefits",
-        "License and certification reimbursement",
-        "Life insurance"
-      ],
-      "Responsibilities": [
-        "Duration: 12 weeks",
-        "36 hours per week",
-        "Shift: 12 hours, days, nights, flexible"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-travel-nurse-rn-labor-and-delivery-242-466-per-week-at-malone-healthcare-solutions-4372119582",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "ACOTuXOTtZijZd7DAAAAAA==",
-    "job_title": "Travel Nurse RN - Telemetry 2,075 per week",
-    "employer_name": "Malone Healthcare Nursing",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Jobilize",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobilize.com/job/us-tn-pikeville-travel-nurse-rn-telemetry-2-075-week-malone-healthcare?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-tn-pikeville-travel-nurse-rn-telemetry-2-075-week-malone-healthcare?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Malone Healthcare - Nursing is seeking a travel nurse RN Telemetry for a travel nursing job in Pikeville, Kentucky.\n& Requirements\n\nSpecialty:\n\nTelemetry\nDiscipline:\n\nRN\nStart Date:\n\n03/01/2026\nDuration:\n\n13 weeks\n36 hours per week\nShift:\n\n12 hours, days, nights, flexible\nEmployment Type:\n\nTravel\nAbout Malone Healthcare - Nursing\n\nWith a commitment to providing a higher standard of service and experience in patient care, Malone Healthcare places expert nurses and allied health professionals in rewarding careers throughout the United States. As a leading healthcare staffing agency, Malone's focus on compliance and integrity translates to a seamless experience for our team members and partner facilities. When you work with Malone Healthcare, you can rely on over 50 years of proven experience placing exceptional professionals in quality healthcare settings.\nBenefits\n\nWeekly pay\nHoliday Pay\nGuaranteed Hours\nContinuing Education\n401k retirement plan\nPet insurance\nReferral bonus\nMedical benefits\nDental benefits\nVision benefits\nLicense and certification reimbursement\nLife insurance",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Pikeville, TN",
-    "job_city": "Pikeville",
-    "job_state": "Tennessee",
-    "job_country": "US",
-    "job_latitude": 35.605623099999995,
-    "job_longitude": -85.1888498,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DACOTuXOTtZijZd7DAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Benefits": [
-        "Weekly pay",
-        "Holiday Pay",
-        "Guaranteed Hours",
-        "Continuing Education",
-        "401k retirement plan",
-        "Pet insurance",
-        "Referral bonus",
-        "Medical benefits",
-        "Dental benefits",
-        "Vision benefits",
-        "License and certification reimbursement",
-        "Life insurance"
-      ],
-      "Responsibilities": [
-        "36 hours per week",
-        "12 hours, days, nights, flexible"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-jobilize-com-job-us-tn-pikeville-travel-nurse-rn-telemetry-2-075-week-malone-healthcare",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "3oYRIPv4aA7j6zVvAAAAAA==",
-    "job_title": "Travel Nurse RN - Case Manager, Hospice - $2,595 per week",
-    "employer_name": "Supplemental Health Care",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifv82PkB0QShpTzXXyiLwgFwlGrBNhuIPeA_f&s=0",
-    "employer_website": null,
-    "job_publisher": "Vivian Health",
-    "job_employment_type": "Full-time and Contractor",
-    "job_employment_types": [
-      "FULLTIME",
-      "CONTRACTOR"
-    ],
-    "job_apply_link": "https://www.vivian.com/job/133-1453337/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "Vivian Health",
-        "apply_link": "https://www.vivian.com/job/133-1453337/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/a55ab558dbba9b56f615585920dd1dc8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SaluteMyJob",
-        "apply_link": "https://salutemyjob.com/jobs/travel-nurse-rn-case-manager-hospice-2-595-per-week-tukwila-washington/2595813204-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "KGET Jobs",
-        "apply_link": "https://jobs.kget.com/jobs/travel-nurse-rn-case-manager-hospice-2-595-per-week-tukwila-washington/2595813204-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/supplemental-health-care/tukwila-wa/registered-nurse-case-manager/daabb8b482e01d6855bfd4ed65a8c2d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=daef4e9a9cdd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "KHON2 Jobs",
-        "apply_link": "https://jobs.khon2.com/jobs/travel-nurse-rn-case-manager-hospice-2-595-per-week-tukwila-washington/2595813204-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5607067331?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Supplemental Health Care is seeking a travel nurse RN Case Manager, Hospice for a travel nursing job in Tukwila, Washington.\nJob Description & Requirements\n• Specialty: Hospice\n• Discipline: RN\n• Start Date: ASAP\n• Duration: 13 weeks\n• 40 hours per week\n• Shift: 8 hours, days\n• Employment Type: Travel\n\nJob Description:\n\nSupplemental Health Care is working with a Hospice Care facility in Tukwila, Washington to hire Registered Nurses. For more than 40 years, we've specialized in helping healthcare professionals find the assignments that best fit their current needs and long-term career goals. Whether you're just starting out or a veteran Registered Nurse, we'd love to get to know you and talk about the options that are available.\n\nQualifications:\n• Active Registered Nurse Licensure/Certification in Washington\n• American Heart Association BLS\n• At least 1-year of experience as a Registered Nurse\n• Prior experience in hospice care\n\nRegistered Nurse Contract Details:\n• $2,340 - $2,595 per week*\n• 13-week contract with possibility of extension\n• Hospice Care\n\nIf you'd like more detail on this Registered Nurse assignment or are ready to get started with the placement process, please apply online now.\n\nWhat We Offer:\n• Full medical, dental, vision, life, and even pet insurance!\n• Round the clock support. No matter where you are or what time it is, Supplemental Health Care is standing by.\n• SHC's Share the Care referral program is the most dynamic, profitable referral program in the industry.\n• 401(k) Retirement Savings Program to both full-time and part-time employees with a wide range of investment options.\n• Discounted and free online access to CEU courses through Supplemental University.\n\nPlease speak with a recruiter for details.\n\nSupplemental Health Care is an Equal Opportunity Employer. All candidates, including veterans and those with disabilities, are encouraged to apply. SHC will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable local, state, or federal law. To learn more, visit www.shccares.com/eeo\n\nSupplemental Health Care Job ID #1453337. Pay package is based on 8 hour shifts and 40 hours per week (subject to confirmation) with tax-free stipend amount to be determined. Posted job title: Hospice – Registered Nurse\nAbout Supplemental Health Care\n\nAt Supplemental Health Care, a simple belief in the power of caring guides a unique commitment to world-class service in healthcare staffing. For 40 years, we’ve supported talented professionals pursuing their life calling in hospitals, schools, home health, corrections, behavioral health, and other settings. At SHC, we inspire vital connections and enrich lives and inspire better outcomes.\n\nAs recipients of the Best in Staffing Awards for both Client and Talent, Supplemental Health Care is proud to be among only 2% of staffing companies singled out for the distinction based on the real feedback of our employees and the clients we serve. SHC has also earned The Joint Commission’s Gold Seal of Approval and is named among the Largest Health Care Staffing companies in the United States by Staffing Industry Analysts.\n\nWe are also thrilled to recognize our very own SLP, Dr. Kelly Byrd as the American Staffing Association 2024 National Staffing Employee of the Year and Health Care Sector All-Star. We’re honored to connect Dr. Byrd to employment, share her incredible story, and support her family literacy nonprofit.\n\nFor everyone that we serve, SHC is the place where caring hearts thrive.\n\nBenefits\n• Referral bonus\n• Benefits start day 1\n• 401k retirement plan\n• Continuing Education\n• Discount program\n• Health savings account",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Tukwila, WA",
-    "job_city": "Tukwila",
-    "job_state": "Washington",
-    "job_country": "US",
-    "job_latitude": 47.4748399,
-    "job_longitude": -122.27262479999999,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3oYRIPv4aA7j6zVvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "WEEK",
-    "job_highlights": {
-      "Qualifications": [
-        "Discipline: RN",
-        "Active Registered Nurse Licensure/Certification in Washington",
-        "American Heart Association BLS",
-        "At least 1-year of experience as a Registered Nurse",
-        "Prior experience in hospice care",
-        "SHC will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable local, state, or federal law"
-      ],
-      "Benefits": [
-        "$2,340 - $2,595 per week*",
-        "13-week contract with possibility of extension",
-        "Full medical, dental, vision, life, and even pet insurance!",
-        "Round the clock support",
-        "SHC's Share the Care referral program is the most dynamic, profitable referral program in the industry",
-        "401(k) Retirement Savings Program to both full-time and part-time employees with a wide range of investment options",
-        "Discounted and free online access to CEU courses through Supplemental University",
-        "Pay package is based on 8 hour shifts and 40 hours per week (subject to confirmation) with tax-free stipend amount to be determined",
-        "Referral bonus",
-        "Benefits start day 1",
-        "401k retirement plan",
-        "Continuing Education",
-        "Discount program",
-        "Health savings account"
-      ],
-      "Responsibilities": [
-        "Duration: 13 weeks",
-        "40 hours per week",
-        "Shift: 8 hours, days"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-vivian-com-job-133-1453337",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "xOYbXtzn3StfAVI5AAAAAA==",
-    "job_title": "Case Manager Nurse - Salisbury, MD, United States",
-    "employer_name": "AMN Healthcare",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDnDtqNvbh8oia45C_q2_xz9G8NRZ879gF6r-&s=0",
-    "employer_website": "https://www.amnhealthcare.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=f3b037b5c5ea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=f3b037b5c5ea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "OB DETAILS\n\nPOSITION SUMMARY - RN Case Manager\n\nPOSITION DUTIES Care Coordination / Continuum of Care / Patient Focus and Care Plans\n\nPREFERRED QUALIFICATIONS RN License / BLS / Acute Care Experience\n\nLENGTH OF ASSIGNMENT 13 weeks\n\nSHIFT / HOURS PER WEEK Days 8-430 / 40",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Salisbury, MD",
-    "job_city": "Salisbury",
-    "job_state": "Maryland",
-    "job_country": "US",
-    "job_latitude": 38.3606736,
-    "job_longitude": -75.5993692,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxOYbXtzn3StfAVI5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "LENGTH OF ASSIGNMENT 13 weeks"
-      ],
-      "Benefits": [
-        "SHIFT / HOURS PER WEEK Days 8-430 / 40"
-      ],
-      "Responsibilities": [
-        "POSITION DUTIES Care Coordination / Continuum of Care / Patient Focus and Care Plans"
-      ]
-    },
-    "job_onet_soc": "21101500",
-    "job_onet_job_zone": "5",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "DI_0CWssBqXK4We9AAAAAA==",
     "job_title": "Travel Nurse RN - Med Surg - $2,070 per week",
     "employer_name": "Malone Healthcare Solutions",
@@ -1866,78 +1658,282 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "9_5dOzdZHIIU6icJAAAAAA==",
-    "job_title": "Entry-Level Registered Nurse",
-    "employer_name": "Incredible Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4KntA4ZTo1eZNXtRCZLBiNrq-TCsCWsYOj3e&s=0",
-    "employer_website": "https://www.incrediblehealth.com",
+    "job_id": "3oYRIPv4aA7j6zVvAAAAAA==",
+    "job_title": "Travel Nurse RN - Case Manager, Hospice - $2,595 per week",
+    "employer_name": "Supplemental Health Care",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRifv82PkB0QShpTzXXyiLwgFwlGrBNhuIPeA_f&s=0",
+    "employer_website": null,
+    "job_publisher": "Vivian Health",
+    "job_employment_type": "Full-time and Contractor",
+    "job_employment_types": [
+      "FULLTIME",
+      "CONTRACTOR"
+    ],
+    "job_apply_link": "https://www.vivian.com/job/133-1453337/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "Vivian Health",
+        "apply_link": "https://www.vivian.com/job/133-1453337/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/a55ab558dbba9b56f615585920dd1dc8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/travel-nurse-rn-case-manager-hospice-2-595-per-week-tukwila-washington/2595813204-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KGET Jobs",
+        "apply_link": "https://jobs.kget.com/jobs/travel-nurse-rn-case-manager-hospice-2-595-per-week-tukwila-washington/2595813204-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/supplemental-health-care/tukwila-wa/registered-nurse-case-manager/daabb8b482e01d6855bfd4ed65a8c2d9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=daef4e9a9cdd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KHON2 Jobs",
+        "apply_link": "https://jobs.khon2.com/jobs/travel-nurse-rn-case-manager-hospice-2-595-per-week-tukwila-washington/2595813204-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5607067331?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Supplemental Health Care is seeking a travel nurse RN Case Manager, Hospice for a travel nursing job in Tukwila, Washington.\nJob Description & Requirements\n• Specialty: Hospice\n• Discipline: RN\n• Start Date: ASAP\n• Duration: 13 weeks\n• 40 hours per week\n• Shift: 8 hours, days\n• Employment Type: Travel\n\nJob Description:\n\nSupplemental Health Care is working with a Hospice Care facility in Tukwila, Washington to hire Registered Nurses. For more than 40 years, we've specialized in helping healthcare professionals find the assignments that best fit their current needs and long-term career goals. Whether you're just starting out or a veteran Registered Nurse, we'd love to get to know you and talk about the options that are available.\n\nQualifications:\n• Active Registered Nurse Licensure/Certification in Washington\n• American Heart Association BLS\n• At least 1-year of experience as a Registered Nurse\n• Prior experience in hospice care\n\nRegistered Nurse Contract Details:\n• $2,340 - $2,595 per week*\n• 13-week contract with possibility of extension\n• Hospice Care\n\nIf you'd like more detail on this Registered Nurse assignment or are ready to get started with the placement process, please apply online now.\n\nWhat We Offer:\n• Full medical, dental, vision, life, and even pet insurance!\n• Round the clock support. No matter where you are or what time it is, Supplemental Health Care is standing by.\n• SHC's Share the Care referral program is the most dynamic, profitable referral program in the industry.\n• 401(k) Retirement Savings Program to both full-time and part-time employees with a wide range of investment options.\n• Discounted and free online access to CEU courses through Supplemental University.\n\nPlease speak with a recruiter for details.\n\nSupplemental Health Care is an Equal Opportunity Employer. All candidates, including veterans and those with disabilities, are encouraged to apply. SHC will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable local, state, or federal law. To learn more, visit www.shccares.com/eeo\n\nSupplemental Health Care Job ID #1453337. Pay package is based on 8 hour shifts and 40 hours per week (subject to confirmation) with tax-free stipend amount to be determined. Posted job title: Hospice – Registered Nurse\nAbout Supplemental Health Care\n\nAt Supplemental Health Care, a simple belief in the power of caring guides a unique commitment to world-class service in healthcare staffing. For 40 years, we’ve supported talented professionals pursuing their life calling in hospitals, schools, home health, corrections, behavioral health, and other settings. At SHC, we inspire vital connections and enrich lives and inspire better outcomes.\n\nAs recipients of the Best in Staffing Awards for both Client and Talent, Supplemental Health Care is proud to be among only 2% of staffing companies singled out for the distinction based on the real feedback of our employees and the clients we serve. SHC has also earned The Joint Commission’s Gold Seal of Approval and is named among the Largest Health Care Staffing companies in the United States by Staffing Industry Analysts.\n\nWe are also thrilled to recognize our very own SLP, Dr. Kelly Byrd as the American Staffing Association 2024 National Staffing Employee of the Year and Health Care Sector All-Star. We’re honored to connect Dr. Byrd to employment, share her incredible story, and support her family literacy nonprofit.\n\nFor everyone that we serve, SHC is the place where caring hearts thrive.\n\nBenefits\n• Referral bonus\n• Benefits start day 1\n• 401k retirement plan\n• Continuing Education\n• Discount program\n• Health savings account",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Tukwila, WA",
+    "job_city": "Tukwila",
+    "job_state": "Washington",
+    "job_country": "US",
+    "job_latitude": 47.4748399,
+    "job_longitude": -122.27262479999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3oYRIPv4aA7j6zVvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "WEEK",
+    "job_highlights": {
+      "Qualifications": [
+        "Discipline: RN",
+        "Active Registered Nurse Licensure/Certification in Washington",
+        "American Heart Association BLS",
+        "At least 1-year of experience as a Registered Nurse",
+        "Prior experience in hospice care",
+        "SHC will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of applicable local, state, or federal law"
+      ],
+      "Benefits": [
+        "$2,340 - $2,595 per week*",
+        "13-week contract with possibility of extension",
+        "Full medical, dental, vision, life, and even pet insurance!",
+        "Round the clock support",
+        "SHC's Share the Care referral program is the most dynamic, profitable referral program in the industry",
+        "401(k) Retirement Savings Program to both full-time and part-time employees with a wide range of investment options",
+        "Discounted and free online access to CEU courses through Supplemental University",
+        "Pay package is based on 8 hour shifts and 40 hours per week (subject to confirmation) with tax-free stipend amount to be determined",
+        "Referral bonus",
+        "Benefits start day 1",
+        "401k retirement plan",
+        "Continuing Education",
+        "Discount program",
+        "Health savings account"
+      ],
+      "Responsibilities": [
+        "Duration: 13 weeks",
+        "40 hours per week",
+        "Shift: 8 hours, days"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-vivian-com-job-133-1453337",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "xOYbXtzn3StfAVI5AAAAAA==",
+    "job_title": "Case Manager Nurse - Salisbury, MD, United States",
+    "employer_name": "AMN Healthcare",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDnDtqNvbh8oia45C_q2_xz9G8NRZ879gF6r-&s=0",
+    "employer_website": "https://www.amnhealthcare.com",
     "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=c9bea768361b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=f3b037b5c5ea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=c9bea768361b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=f3b037b5c5ea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Join a vibrant healthcare community as a Registered Nurse, where we welcome recent graduates to apply! We are actively hiring nurses for our Medical-Surgical unit, with opportunities for both full-time and part-time positions, as well as per diem shifts.\n\nIf you have experience in any of the following areas, we encourage you to apply :\n• Cardiac patients\n• Couplet care\n• EKG monitoring\n• Patient education\n• Fundal massage\n• Healing techniques\n• Neuro patients\n• Oncology patients\n• Orthopedic patients\n• Ostomy care\n• PCA pumps\n• Traction & cast care\n• Tube feeding management\n• Wound & drain care\n\nAvailable shifts include primarily night shifts, perfect for those seeking a rewarding career while balancing other responsibilities.\n\nEmployer highlights :\n• Supportive benefits including Adoption Assistance and Child Care Benefits\n• Employee Assistance Program (EAP) and Family Care Benefits\n• Comprehensive Health Insurance\n• Magnet recognized facility and Level 2 trauma center\n• Paid Parental Leave\n• Phone Plan Discounts\n• Generous Paid Time Off (PTO)\n• Retirement Plan options\n• Tuition Assistance\n• Visa Sponsorship available\n\nQualifications :\n• RN Diploma degree or higher from an accredited school of nursing\n• Active and unencumbered Registered Nurse license in the state of Michigan\n\nBenefits :\n• Healthcare coverage : Medical, Dental, Vision\n• 401K retirement plan\n• Paid Time Off (PTO)\n• Tuition Assistance for continued education\n\nSalary : $72,470 to $111,200 per year",
+    "job_description": "OB DETAILS\n\nPOSITION SUMMARY - RN Case Manager\n\nPOSITION DUTIES Care Coordination / Continuum of Care / Patient Focus and Care Plans\n\nPREFERRED QUALIFICATIONS RN License / BLS / Acute Care Experience\n\nLENGTH OF ASSIGNMENT 13 weeks\n\nSHIFT / HOURS PER WEEK Days 8-430 / 40",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Michigan",
-    "job_city": null,
-    "job_state": "Michigan",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Salisbury, MD",
+    "job_city": "Salisbury",
+    "job_state": "Maryland",
     "job_country": "US",
-    "job_latitude": 44.3148443,
-    "job_longitude": -85.60236429999999,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9_5dOzdZHIIU6icJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 38.3606736,
+    "job_longitude": -75.5993692,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxOYbXtzn3StfAVI5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "EKG monitoring",
-        "RN Diploma degree or higher from an accredited school of nursing",
-        "Active and unencumbered Registered Nurse license in the state of Michigan"
+        "LENGTH OF ASSIGNMENT 13 weeks"
       ],
       "Benefits": [
-        "Ostomy care",
-        "Traction & cast care",
-        "Tube feeding management",
-        "Wound & drain care",
-        "Available shifts include primarily night shifts, perfect for those seeking a rewarding career while balancing other responsibilities",
-        "Supportive benefits including Adoption Assistance and Child Care Benefits",
-        "Employee Assistance Program (EAP) and Family Care Benefits",
-        "Comprehensive Health Insurance",
-        "Magnet recognized facility and Level 2 trauma center",
-        "Paid Parental Leave",
-        "Phone Plan Discounts",
-        "Generous Paid Time Off (PTO)",
-        "Retirement Plan options",
-        "Tuition Assistance",
-        "Visa Sponsorship available",
-        "Healthcare coverage : Medical, Dental, Vision",
-        "401K retirement plan",
-        "Paid Time Off (PTO)",
-        "Tuition Assistance for continued education",
-        "Salary : $72,470 to $111,200 per year"
+        "SHIFT / HOURS PER WEEK Days 8-430 / 40"
+      ],
+      "Responsibilities": [
+        "POSITION DUTIES Care Coordination / Continuum of Care / Patient Focus and Care Plans"
+      ]
+    },
+    "job_onet_soc": "21101500",
+    "job_onet_job_zone": "5",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "N1QTLPbAJ_DINwj8AAAAAA==",
+    "job_title": "Travel Telemetry RN - $2,086 per week",
+    "employer_name": "Focus Staff",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQanOmjn230catdhFwNs9lZ6M-v1VDWlwP1A41A&s=0",
+    "employer_website": "https://www.focus-staff.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/travel-telemetry-rn-%242-086-per-week-at-focus-staff-4370806992?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/travel-telemetry-rn-%242-086-per-week-at-focus-staff-4370806992?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobtrees",
+        "apply_link": "https://www.jobtrees.com/postid/6ae1ce30-d247-45fd-a78b-366426528ebf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/5357733530791051264?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Focus Staff is seeking a travel nurse RN Telemetry Med Surg for a travel nursing job in Salem, Massachusetts.\nJob Description & Requirements\n• Specialty: Telemetry\n• Discipline: RN\n• Start Date: 03/01/2026\n• Duration: 13 weeks\n• 36 hours per week\n• Shift: 12 hours, nights\n• Employment Type: Travel\n\nFocus Staff is seeking a Telemetry Registered Nurse for a travel contract in Salem, MA. The ideal candidate will have at least 1 year of experience in a Telemetry setting.\n\nContract Length: 13 Weeks\n\nStart Date: 03/01/2026\n\nShift: 3x12 Nights\n\nBenefits for Travel Telemetry RNs:\n• Health insurance\n• Vision insurance\n• Dental insurance\n• Life insurance\n• Licensure reimbursement\n• Travel reimbursement\n• Relocation assistance\n• 401(k)\n• 401(k) matching\n• Competitive pay\n• Referral bonus\n• Holiday bonus\n\nRequirements:\n• 1 Year of Experience, 2 Preferred\n• Valid MA RN License\n• BLS (Basic Life Support)\n• ACLS\n• Eligible to work in the United States\n\nAbout Focus Staff:\n\nFocus Staff is a traveler-first nurse and healthcare staffing agency! We prioritize the needs of our travelers, giving you complete control over your journey. Our mission is to help you create the life you love, explore the country and do what you do best, help others.\n\nInterested in becoming a traveler with Focus Staff? Discover why travelers choose us, apply today!\n\nAll-Star Status:\n• Dallas 100 (Multiple Years in a Row)\n• Inc. 5000\n• Middle Market 50\n• Certified by The Joint Commission\n• Best of Staffing Talent Satisfaction 2022\n• Best of Staffing Client Satisfaction 2022\n• Fastest-Growing US Staffing Firms 2017\n\nIf you’re seeking a Travel Telemetry Registered Nurse position in Salem, MA and are looking to work with an agency that will listen to your needs and career goals, then Focus Staff is the right place to be. We are proud of our ability to build relationships with all our healthcare professionals, whether you’re seeking travel assignments, PR or permanent positions.\n\nWe Offer:\n• Immediate Openings\n• Weekly Pay through Direct Deposits\n• Flexible Schedules\n• Day and Night Shifts Available\n• Competitive Compensation\n• Guaranteed Hours (based on employer)\n• Travel Assistance\n• Dedicated/Responsive Recruiters\n• Day One Medical, Dental, Vision and Life Insurance\n• Generous Housing Stipend\n• 24/7 Support\n• Company Provided Housing Options\n• Referral Bonus ($600)\n• Loyalty Bonus ($1,200)\n• Discounts/Coupons to Hotels\n• Access to Jobs in all 50 States\n• Painless Credentialing Process\n• U.S.A.-based Company\n• Equal Opportunity Employer\n• Joint Commission Certified\n• Licensure Reimbursement\n• Pet-Friendly\n• Access to Discounts, Rewards, and more\n\nOther Information:\n\nJob Title: Travel Telemetry Nurse\n\nEmployment Time: Contract/Travel\n\nDate Posted: 01/15/2026 05:23:01 PM\n\nValid Through: 05/30/2026\n\nJob City: Salem\n\nJob State: MA\n\nJob Country: USA\n\nShift: 3x12 Nights\n\nJob ID: a0xVt00000GcTuFIAV\n\nHiring Organization: Focus Staff\n\nFocus Staff is an EEO/AA (Equal Employment Opportunity and Affirmative Action) Employer.\n\nEstimated pay package based on bill rate at time job was posted. Bill rates can change frequently and without notice. Exact pay package may vary based on several factors, including, but not limited to, guaranteed hours, travel distance, demand, experience, etc.\n\nTraveling Registered Nurse, Travel, Telemetry, RN – Telemetry, Contract, Travel, Traveling Nursing, Assignment, Registered Telemetry, Telemetry Registered Nurse, Telemetry RN, Telemetry Registered Nurse, Telemetry Travel Nurse, Healthcare RN, Telemetry Nursing, Nurse RN, RN Nurse, Contract RN\n\nFocus Staff Job ID #a0xVt00000GcTuFIAV. Pay package is based on 12 hour shifts and 36 hours per week (subject to confirmation) with tax-free stipend amount to be determined. Posted job title: Travel TELE RN - Telemetry Registered Nurse\nAbout Focus Staff\n\nYour Journey, Our Focus. Travel Confidently, Care Boldly with Focus Staff.\n\nAt Focus Staff, we’re here to make your travel healthcare career rewarding, seamless, and stress-free.\n\nWhether you’re a travel nurse, therapist, or allied health professional, we take care of the details so you can focus on what you do best — caring for others. Our mission is simple: to help healthcare heroes like you thrive, no matter where your journey takes you.\n\nWith thousands of job opportunities across all 50 states, our dedicated recruiters work closely with you to match you to the right assignment, based on what matters most to you — pay, location, benefits, or career growth.\n\nFrom day one, you’ll enjoy premium benefits like medical coverage that bridges between assignments, 401K matching, travel and licensing reimbursements, and personalized housing support. Plus, our team is here for you 24/7, with clinical support available whenever you need guidance or backup.\n\nAt Focus Staff, we believe in making every assignment a smooth, comfortable, and empowering experience. Let’s make your next adventure your best one yet.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Salem, MA",
+    "job_city": "Salem",
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.5197473,
+    "job_longitude": -70.8954626,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DN1QTLPbAJ_DINwj8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will have at least 1 year of experience in a Telemetry setting",
+        "Valid MA RN License",
+        "BLS (Basic Life Support)",
+        "ACLS",
+        "Eligible to work in the United States"
+      ],
+      "Benefits": [
+        "Health insurance",
+        "Vision insurance",
+        "Dental insurance",
+        "Life insurance",
+        "Licensure reimbursement",
+        "Travel reimbursement",
+        "Relocation assistance",
+        "401(k)",
+        "401(k) matching",
+        "Competitive pay",
+        "Referral bonus",
+        "Holiday bonus",
+        "Dallas 100 (Multiple Years in a Row)",
+        "Certified by The Joint Commission",
+        "Immediate Openings",
+        "Weekly Pay through Direct Deposits",
+        "Flexible Schedules",
+        "Day and Night Shifts Available",
+        "Competitive Compensation",
+        "Guaranteed Hours (based on employer)",
+        "Travel Assistance",
+        "Dedicated/Responsive Recruiters",
+        "Day One Medical, Dental, Vision and Life Insurance",
+        "Generous Housing Stipend",
+        "24/7 Support",
+        "Company Provided Housing Options",
+        "Referral Bonus ($600)",
+        "Loyalty Bonus ($1,200)",
+        "Discounts/Coupons to Hotels",
+        "Access to Jobs in all 50 States",
+        "Painless Credentialing Process",
+        "Equal Opportunity Employer",
+        "Joint Commission Certified",
+        "Licensure Reimbursement",
+        "Pet-Friendly",
+        "Access to Discounts, Rewards, and more",
+        "Estimated pay package based on bill rate at time job was posted",
+        "Bill rates can change frequently and without notice",
+        "Exact pay package may vary based on several factors, including, but not limited to, guaranteed hours, travel distance, demand, experience, etc",
+        "Pay package is based on 12 hour shifts and 36 hours per week (subject to confirmation) with tax-free stipend amount to be determined",
+        "From day one, you’ll enjoy premium benefits like medical coverage that bridges between assignments, 401K matching, travel and licensing reimbursements, and personalized housing support"
+      ],
+      "Responsibilities": [
+        "Discipline: RN",
+        "Start Date: 03/01/2026",
+        "Duration: 13 weeks",
+        "36 hours per week",
+        "Shift: 12 hours, nights",
+        "Shift: 3x12 Nights"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
+    "id": "www-linkedin-com-jobs-view-travel-telemetry-rn-242-086-per-week-at-focus-staff-4370806992",
     "_source": "new_jobs"
   },
   {
@@ -2050,6 +2046,81 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "9_5dOzdZHIIU6icJAAAAAA==",
+    "job_title": "Entry-Level Registered Nurse",
+    "employer_name": "Incredible Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4KntA4ZTo1eZNXtRCZLBiNrq-TCsCWsYOj3e&s=0",
+    "employer_website": "https://www.incrediblehealth.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=c9bea768361b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=c9bea768361b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Join a vibrant healthcare community as a Registered Nurse, where we welcome recent graduates to apply! We are actively hiring nurses for our Medical-Surgical unit, with opportunities for both full-time and part-time positions, as well as per diem shifts.\n\nIf you have experience in any of the following areas, we encourage you to apply :\n• Cardiac patients\n• Couplet care\n• EKG monitoring\n• Patient education\n• Fundal massage\n• Healing techniques\n• Neuro patients\n• Oncology patients\n• Orthopedic patients\n• Ostomy care\n• PCA pumps\n• Traction & cast care\n• Tube feeding management\n• Wound & drain care\n\nAvailable shifts include primarily night shifts, perfect for those seeking a rewarding career while balancing other responsibilities.\n\nEmployer highlights :\n• Supportive benefits including Adoption Assistance and Child Care Benefits\n• Employee Assistance Program (EAP) and Family Care Benefits\n• Comprehensive Health Insurance\n• Magnet recognized facility and Level 2 trauma center\n• Paid Parental Leave\n• Phone Plan Discounts\n• Generous Paid Time Off (PTO)\n• Retirement Plan options\n• Tuition Assistance\n• Visa Sponsorship available\n\nQualifications :\n• RN Diploma degree or higher from an accredited school of nursing\n• Active and unencumbered Registered Nurse license in the state of Michigan\n\nBenefits :\n• Healthcare coverage : Medical, Dental, Vision\n• 401K retirement plan\n• Paid Time Off (PTO)\n• Tuition Assistance for continued education\n\nSalary : $72,470 to $111,200 per year",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Michigan",
+    "job_city": null,
+    "job_state": "Michigan",
+    "job_country": "US",
+    "job_latitude": 44.3148443,
+    "job_longitude": -85.60236429999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9_5dOzdZHIIU6icJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "EKG monitoring",
+        "RN Diploma degree or higher from an accredited school of nursing",
+        "Active and unencumbered Registered Nurse license in the state of Michigan"
+      ],
+      "Benefits": [
+        "Ostomy care",
+        "Traction & cast care",
+        "Tube feeding management",
+        "Wound & drain care",
+        "Available shifts include primarily night shifts, perfect for those seeking a rewarding career while balancing other responsibilities",
+        "Supportive benefits including Adoption Assistance and Child Care Benefits",
+        "Employee Assistance Program (EAP) and Family Care Benefits",
+        "Comprehensive Health Insurance",
+        "Magnet recognized facility and Level 2 trauma center",
+        "Paid Parental Leave",
+        "Phone Plan Discounts",
+        "Generous Paid Time Off (PTO)",
+        "Retirement Plan options",
+        "Tuition Assistance",
+        "Visa Sponsorship available",
+        "Healthcare coverage : Medical, Dental, Vision",
+        "401K retirement plan",
+        "Paid Time Off (PTO)",
+        "Tuition Assistance for continued education",
+        "Salary : $72,470 to $111,200 per year"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "8NN1zKwoYwXI72ZlAAAAAA==",
     "job_title": "Travel Nurse RN - Dialysis - $1,933 per week",
     "employer_name": "Host Healthcare, Inc.",
@@ -2096,9 +2167,9 @@
     ],
     "job_description": "Host Healthcare is seeking a travel nurse RN Dialysis for a travel nursing job in Dawson, Georgia.\nJob Description & Requirements\n• Specialty: Dialysis\n• Discipline: RN\n• Start Date: 03/06/2026\n• Duration: 13 weeks\n• 36 hours per week\n• Shift: 12 hours, days\n• Employment Type: Travel\n\nHost Healthcare Job ID #a1fVX000002ml8LYAQ. Pay package is based on 12 hour shifts and 36 hours per week (subject to confirmation) with tax-free stipend amount to be determined. Posted job title: RN - Dialysis\nAbout Host Healthcare\n\nAt Host Healthcare, we provide a truly comfortable experience as you explore your travel nursing, therapy, or allied career. We make your travel healthcare journey easy by taking care of all the details, so you don’t have to.\n\nWe are on a mission to help others live better and we do this by helping the healers of the world be as comfortable as possible. With access to tens of thousands of travel nursing, therapy, and allied jobs in all 50 states, our responsive and friendly recruiters find your dream position based on what’s important to you.\n\nDuring your assignment, get access to premium benefits, including Day 1 medical that continues up to 30 days between assignments, 401K matching, travel reimbursements, dedicated housing support, and more. We also offer 24/7 support from our team and access to our on-staff clinicians so you can feel comfortable and confident throughout your entire assignment.\n\nTravel comfortably with Host Healthcare.\nBenefits\n• Referral bonus\n• School loan reimbursement\n• Vision benefits\n• Wellness and fitness programs\n• Company provided housing options\n• License and certification reimbursement\n• Life insurance\n• Medical benefits\n• Mileage reimbursement\n• Pet insurance\n• Discount program\n• Employee assistance programs\n• Guaranteed Hours\n• Health savings account\n• Holiday Pay\n• 401k retirement plan\n• Continuing Education\n• Dental benefits",
     "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
     "job_location": "Dawson, GA",
     "job_city": "Dawson",
     "job_state": "Georgia",
@@ -2152,6 +2223,54 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-linkedin-com-jobs-view-travel-nurse-rn-dialysis-241-933-per-week-at-host-healthcare-inc-4372224172",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "-81f-LKVM-wZbQGrAAAAAA==",
+    "job_title": "Registered Nurse - Sign on and relocation bonus - Seaside, CA, United States",
+    "employer_name": "Cross Country Healthcare",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPTEbPirT6krf48IVe5a7wN1BPOOLYV0ypDiQ_&s=0",
+    "employer_website": "https://www.crosscountry.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=fc3a5422ccaf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=fc3a5422ccaf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Join our team! We're seeking dedicated individuals to provide compassionate patient care while ensuring adherence to compliance standards. The ideal candidate will possess the ability to identify and prioritize patient needs alongside physician directives. Multiple positions are available across Washington State. We prefer candidates with at least one year of RN experience, although we may consider applicants with less experience. Most positions offer an attractive sign-on bonus and relocation assistance.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Seaside, CA",
+    "job_city": "Seaside",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 36.6149217,
+    "job_longitude": -121.822098,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-81f-LKVM-wZbQGrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "The ideal candidate will possess the ability to identify and prioritize patient needs alongside physician directives",
+        "We prefer candidates with at least one year of RN experience, although we may consider applicants with less experience"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   }
 ]
