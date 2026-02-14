@@ -699,8 +699,8 @@
     "job_longitude": -77.96388689999999,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvDI9Atvcrga0xgqWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 70938,
@@ -851,11 +851,6 @@
         "is_direct": false
       },
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-nc-ii-f-t-6d-medicine-imu-ben-taub-hospital-at-harris-health-4372778420?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "SimplyHired",
         "apply_link": "https://www.simplyhired.com/job/TPmAdQIG2zv5_d_gBMW9TzZ0Hmh3H6YEgCwQQNBB6xLdwf8ds9YRJw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
@@ -928,18 +923,8 @@
         "is_direct": true
       },
       {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/registered-nurse-veteran-experience-program-manager-veteransaffairs-cleveland-oh_85678111?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
         "publisher": "Jobs.appcast.io",
         "apply_link": "https://jobs.appcast.io/disability-solutions/registered-nurse-veteran-experience-program-manager/54799419757?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "FreeJobAlert",
-        "apply_link": "https://us.freejobalert.com/job/registered-nurse-veteran-experience-program-manager-veterans-health-administration-cleveland-ohio-cbsr-12882283-26-nn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
@@ -980,7 +965,7 @@
     "employer_name": "UOMUOMUS",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDBZnAQ-IndwuusGbnkMd4PMKCf84UKYg_dj9i&s=0",
     "employer_website": null,
-    "job_publisher": "Careers - University Of Miami",
+    "job_publisher": "Careers At The University Of Miami | University Of Miami Jobs - University Of Miami",
     "job_employment_type": "Part-time",
     "job_employment_types": [
       "PARTTIME"
@@ -989,7 +974,7 @@
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Careers - University Of Miami",
+        "publisher": "Careers At The University Of Miami | University Of Miami Jobs - University Of Miami",
         "apply_link": "https://careers.miami.edu/us/en/job/R100088423/Registered-Nurse-Adult-Joint-and-Reconstruction-Orthopedics-Stepdown-Per-Diem?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
@@ -1201,6 +1186,49 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "SwKMaJwa5pARTEdBAAAAAA==",
+    "job_title": "Registered Nurse - Medical Surgical - AMN Healthcare",
+    "employer_name": "AMN Healthcare",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQDnDtqNvbh8oia45C_q2_xz9G8NRZ879gF6r-&s=0",
+    "employer_website": "https://www.amnhealthcare.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=d5bcb122d415&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=d5bcb122d415&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Superior facility with exclusive travel opportunities!\n\nThis prestigious Hospital is ranked among the top 5 hospitals in the nation, according to U.S. News & World Report. The hospital is the only New York metro-area hospital to be ranked in all 10 clinical areas and be on the prestigious 2019 Honor Roll. You will be joining a team of energetic, committed, compassionate, healthcare professionals. This facility takes pride in providing comfortable, comprehensive experiences for patients. If you are ready to join a highly motivated and compassionate team at one of the most prestigious teaching facilities in the country this is the role for you. Come build your resume and enjoy one of the most incredible cities",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Dover, DE",
+    "job_city": "Dover",
+    "job_state": "Delaware",
+    "job_country": "US",
+    "job_latitude": 39.158167999999996,
+    "job_longitude": -75.5243682,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSwKMaJwa5pARTEdBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "JIH2vdG1j4uIrAU4AAAAAA==",
     "job_title": "ENDOSCOPY REGISTERED NURSE (Intermittent)",
     "employer_name": "CW Bill Young Department of Veterans Affairs Medical Center",
@@ -1327,8 +1355,8 @@
     "job_latitude": 42.351758499999995,
     "job_longitude": -71.8634062,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCc2sRoAQ_Fa85wcHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1371,6 +1399,224 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-linkedin-com-jobs-view-registered-nurse-rn-endoscopy-at-saint-vincent-hospital-4372016595",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "AkKGEx2wffGxQhxHAAAAAA==",
+    "job_title": "Clinical Nurse Manager - Intensive Care Unit (ICU) - Progressive Care Unit (PCU) - Med Surg - Kings Mills Hospital",
+    "employer_name": "Mercy Health BSMH",
+    "employer_logo": null,
+    "employer_website": "https://bsmhealth.org",
+    "job_publisher": "Mercy Health",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.mercy.com/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Mercy Health",
+        "apply_link": "https://careers.mercy.com/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Careers At Bon Secours Mercy Health",
+        "apply_link": "https://careers.bsmhealth.org/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital-at-bon-secours-mercy-health-4364415691?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/clinical-nurse-manager_7ea1a51062fbf65facdc1c8229d38612a33cf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/y_3o0u79qKfxPgDOfzAeyC10mVs5SX4-Et-Jyil7DuA0yguszHfsEQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talentify",
+        "apply_link": "https://www.talentify.io/job/clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital-cincinnati-ohio-us-mercy-health-1-r264813?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "J-O-B-Z",
+        "apply_link": "https://j-o-b-z.com/seo/job/136591533/oh/cincinnati/clinical-nurse-manager---intensive-care-unit-icu---progressive-care-unit-pcu---med-surg---kings-mills-hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.\n\nMercy Health\n\nAbout Us\n\nAs a faith-based and patient-focused organization, Mercy Health exists to enhance the health and well-being of all people in mind, body and spirit through exceptional patient care. Success in this goal requires a culture of compassion, collaboration, excellence and respect. Mercy Health seeks people that are committed to our values of compassion, human dignity, integrity, service and stewardship to create an environment where associates want to work and help communities thrive.\n\nClinical Nurse Manager - Intensive Care Unit (ICU) - Progressive Care Unit (PCU) - Med Surg - Kings Mills Hospital\n\nJOB SUMMARY\n\nOversees the daily operations of one or more nursing departments, including but not limited to: daily operations, program planning, financial planning and budget oversight, quality improvement, quality patient care and supervision/development of staff in accordance with all professional, regulatory, and accreditation standards\n\nESSENTIAL FUNCTIONS:\n\nOPERATIONS MANAGEMENT\nOversees 24/7 operations of the department, facilitates departmental compliance with all professional, local, state, national, and Joint Commission standards; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; develops and maintains relevant policies, procedures, and standards of care; represents department/service at site and regional meetings, including medical staff meetings as appropriate, interdisciplinary committees, and management meetings; collaborates with leadership on program plans and operations; assumes technical\n\nFINANCIAL MANAGEMENT\nCollaborates with finance department and site leadership in preparing the annual operating and capital budgets, which reflect an understanding of strategic initiatives and financial goals of Mercy Health; manages services in accordance with approved budgetary guidelines; ensures appropriate revenue capture; manages inventory of equipment and supplies; collaborates with revenue cycle specialists to maintain a working knowledge of current regulatory guidelines\n\nHR LEADERSHIP SKILLS/MANAGEMENT\nProvides leadership to staff in a collaborative environment that offers job satisfaction, education, empowerment, recognition and stimulates innovative thinking; collaborates with Human Resources to recruit, hire, orient and train new employees; develops and maintains staffing levels that are responsive to patient care needs and that optimizes productivity; conducts annual and ongoing appraisal of employee performance; develops and communicates job standards and expectations; leads regular meetings with employees and fosters environment for effective communication\n\nPERFORMANCE IMPROVEMENT\nDevelops and implements a comprehensive quality assurance / performance improvement program based on relevant indicators and standards of patient care; develops expectations for customer service and educates and measures staff on outcomes of service; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; incorporates rounding into regular activities; develops and maintains processes to assure equipment function and safety; collaborates with interdisciplinary team members to identify and improve patient care processes\n\nMINUMUM EDUCATAION:\n\nREQUIRED MINIMUM EDUCATION: 4 year/Bachelors Degree; Specialty/Major: Nursing or related field; BSN required if no higher level nursing degree held\n\nPREFERRED: Graduate Degree (Masters) Specialty/Major: Nursing or related field; MSN required if BSN is not held\n\nLICENSURE/CERTIFICATIONS (MUST NOT BE NON-EXPIRED/ACTIVE UNLESS OTHERWISE STATED)\n\nCurrent nursing license in the State of Ohio\nRequired Certifications by Nursing Department:\nEmergency Department- BLS/ACLS/PALS or per RN Residency plan\nMed Surg/Telemetry: BLS required, ACLS encouraged\nSTEP DOWN: BLS required; ACLS required with 6 months of hire or per RN Residency plan\nICU/CVU: BLS and ACLS required or per RN Residency plan\nFamily Birth: BLS and NRP required: NCCc-EFM within 18 months of hire required\nPerioperative: BLS required\nCath Lab: BLS and ACLS required\nCardiac Pulmonary Rehab: BLS and ACLS required\nPACU: BLS, ACLS and PALS required or per RN Residency plan\n\nMINIMUM YEARS AND TYPE OF EXPERIENCE: Three years of demonstrated leadership experience, including, but not limited to, charge nurse experience, preceptor experience, etc.\n\nOTHER KNOWLEDGE, SKILLS AND ABILITIES PREFERRED: Five years of clinical nursing experience preferred; one year of previous management experience preferred\n\nAs a Mercy Health associate, you're part of a Mission that matters. We support your well-being—personally and professionally. Our benefits are built to grow with you and meet your unique needs, every step of the way.\n\nWhat we offer\n• Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)\n• Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts\n• Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders\n• Tuition assistance, professional development and continuing education support\n\nBenefits may vary based on the market and employment status.\n\nAll applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com",
+    "job_is_remote": false,
+    "job_posted_at": "21 hours ago",
+    "job_posted_at_timestamp": 1771023600,
+    "job_posted_at_datetime_utc": "2026-02-13T23:00:00.000Z",
+    "job_location": "Cincinnati, OH",
+    "job_city": "Cincinnati",
+    "job_state": "Ohio",
+    "job_country": "US",
+    "job_latitude": 39.1031182,
+    "job_longitude": -84.5120196,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAkKGEx2wffGxQhxHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "REQUIRED MINIMUM EDUCATION: 4 year/Bachelors Degree; Specialty/Major: Nursing or related field; BSN required if no higher level nursing degree held",
+        "LICENSURE/CERTIFICATIONS (MUST NOT BE NON-EXPIRED/ACTIVE UNLESS OTHERWISE STATED)",
+        "Current nursing license in the State of Ohio",
+        "Required Certifications by Nursing Department:",
+        "Emergency Department- BLS/ACLS/PALS or per RN Residency plan",
+        "Med Surg/Telemetry: BLS required, ACLS encouraged",
+        "STEP DOWN: BLS required; ACLS required with 6 months of hire or per RN Residency plan",
+        "ICU/CVU: BLS and ACLS required or per RN Residency plan",
+        "Family Birth: BLS and NRP required: NCCc-EFM within 18 months of hire required",
+        "Perioperative: BLS required",
+        "Cath Lab: BLS and ACLS required",
+        "Cardiac Pulmonary Rehab: BLS and ACLS required",
+        "PACU: BLS, ACLS and PALS required or per RN Residency plan",
+        "MINIMUM YEARS AND TYPE OF EXPERIENCE: Three years of demonstrated leadership experience, including, but not limited to, charge nurse experience, preceptor experience, etc"
+      ],
+      "Benefits": [
+        "Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)",
+        "Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts",
+        "Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders",
+        "Tuition assistance, professional development and continuing education support"
+      ],
+      "Responsibilities": [
+        "Oversees the daily operations of one or more nursing departments, including but not limited to: daily operations, program planning, financial planning and budget oversight, quality improvement, quality patient care and supervision/development of staff in accordance with all professional, regulatory, and accreditation standards",
+        "Oversees 24/7 operations of the department, facilitates departmental compliance with all professional, local, state, national, and Joint Commission standards; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; develops and maintains relevant policies, procedures, and standards of care; represents department/service at site and regional meetings, including medical staff meetings as appropriate, interdisciplinary committees, and management meetings; collaborates with leadership on program plans and operations; assumes technical",
+        "FINANCIAL MANAGEMENT",
+        "Collaborates with finance department and site leadership in preparing the annual operating and capital budgets, which reflect an understanding of strategic initiatives and financial goals of Mercy Health; manages services in accordance with approved budgetary guidelines; ensures appropriate revenue capture; manages inventory of equipment and supplies; collaborates with revenue cycle specialists to maintain a working knowledge of current regulatory guidelines",
+        "Provides leadership to staff in a collaborative environment that offers job satisfaction, education, empowerment, recognition and stimulates innovative thinking; collaborates with Human Resources to recruit, hire, orient and train new employees; develops and maintains staffing levels that are responsive to patient care needs and that optimizes productivity; conducts annual and ongoing appraisal of employee performance; develops and communicates job standards and expectations; leads regular meetings with employees and fosters environment for effective communication",
+        "Develops and implements a comprehensive quality assurance / performance improvement program based on relevant indicators and standards of patient care; develops expectations for customer service and educates and measures staff on outcomes of service; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; incorporates rounding into regular activities; develops and maintains processes to assure equipment function and safety; collaborates with interdisciplinary team members to identify and improve patient care processes"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "careers-mercy-com-us-en-job-r264813-clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "gRYXnT5PEiXEoq7JAAAAAA==",
+    "job_title": "GI Endoscopy Registered Nurse Full Time",
+    "employer_name": "USPI",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Careers At USPI",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.uspi.com/job/englewood/gi-endoscopy-registered-nurse-full-time/35934/91384731504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Careers At USPI",
+        "apply_link": "https://careers.uspi.com/job/englewood/gi-endoscopy-registered-nurse-full-time/35934/91384731504?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/gi-endoscopy-registered-nurse-full-time-englewood-oh--0ed3a2c5-c07d-4948-808b-ab57048661f9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/gi-endoscopy-registered-nurse-full-time-englewood-united-surgical-partners-international-993b7b2f975474836fdd8721c403c2eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/gi-endoscopy-registered-nurse-full-time-at-united-surgical-partners-international-inc-4368798290?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talents By Vaia",
+        "apply_link": "https://talents.vaia.com/companies/united-surgical-partners-international-inc/gi-endoscopy-registered-nurse-full-time-31880599/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/66828dc110410726123329ad9e30cf0b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/77869090663825408?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Recruit.net",
+        "apply_link": "https://www.recruit.net/job/gi-endoscopy-registered-nurse-jobs/2BB799174F8B2313?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Endoscopy Center of Dayton North is hiring a Full-Time GI/Endoscopy Registered Nurse!\n\nWelcome to Endoscopy Center of Dayton North!\n\nThe Endoscopy Center of Dayton North, a leading healthcare provider in the Englewood area, is seeking a dedicated GI/Endoscopy Registered Nurse to join our esteemed team. As a GI/Endoscopy Registered Nurse, you will play a vital role in delivering exceptional care to our patients, while upholding our core beliefs of value, integrity, continuity, accessibility, and community engagement.\n\nGI/Endoscopy Registered Nurse at Endoscopy Center of Dayton North\n\nThe RN has the responsibility to plan, direct organize, coordinate and implement all nursing care services for the pre or post-surgical patients in a manner suitable to accepted standards of care. He / she ensures the highest quality and safe delivery of patient care while maintaining compliance with professional nursing, JCAHO, and all Federal and State standards of care.\n\nPosition requires weekdays only -- no holidays, weekends, or call. Some later evenings required. Competitive salary and benefits for the right candidate.\n\nQualifications:\n• Graduate of an accredited RN School of Nursing.\n• Active RN license in the state.\n• ACLS Required\n• Ability to make decisions based on nursing judgment.\n• Able to prioritize and organize workload to meet needs of patients and unit.\n• Strong communication skills, verbal and written.\n\nWhat We Offer:\n\nAs a valued member of USPI, your health and well‑being are important to us. We are proud to provide you and your dependents with valuable and significant benefits. USPI knows the value of well-rounded, balanced employees, which is why we offer a variety of additional benefits to help manage life’s daily stresses.\n• Competitive wages\n• Opportunities to better yourself professionally\n• Health, Dental & Vision Coverage\n• 401(k) retirement plan\n• Paid Time Off (PTO)\n• Company Paid Holidays\n• Employee Assistance Programs\n• Health Savings Account/ Flexible Spending Account\n• Education Assistance\n• Short Term Disability and Long Term Disability Insurance\n\nWho We Are\n\nAt USPI, we create relationships that create better care. We partner with physicians and health care systems to provide first class ambulatory solutions throughout the United States. We are committed to providing surgical services in the most efficient and clinically excellent manner.\n\nUSPI is committed to, and proud of our inclusive culture. An inclusive culture, in our view, is respectful of differences and nurtures and supports the contributions of each individual, while also embracing and leveraging diversity. A diverse workforce, combined with an inclusive culture, makes USPI stronger and better able to meet the needs of our diverse patient and physician population.\n\nFor more information about USPI, check out our website, Facebook, Twitter, or LinkedIn.\n\n#LI-DS1",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770076800,
+    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+    "job_location": "Englewood, OH",
+    "job_city": "Englewood",
+    "job_state": "Ohio",
+    "job_country": "US",
+    "job_latitude": 39.8775553,
+    "job_longitude": -84.3021672,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgRYXnT5PEiXEoq7JAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Graduate of an accredited RN School of Nursing",
+        "Active RN license in the state",
+        "ACLS Required",
+        "Ability to make decisions based on nursing judgment",
+        "Able to prioritize and organize workload to meet needs of patients and unit",
+        "Strong communication skills, verbal and written"
+      ],
+      "Benefits": [
+        "Competitive salary and benefits for the right candidate",
+        "USPI knows the value of well-rounded, balanced employees, which is why we offer a variety of additional benefits to help manage life’s daily stresses",
+        "Competitive wages",
+        "Opportunities to better yourself professionally",
+        "Health, Dental & Vision Coverage",
+        "401(k) retirement plan",
+        "Paid Time Off (PTO)",
+        "Company Paid Holidays",
+        "Employee Assistance Programs",
+        "Health Savings Account/ Flexible Spending Account",
+        "Education Assistance",
+        "Short Term Disability and Long Term Disability Insurance"
+      ],
+      "Responsibilities": [
+        "The RN has the responsibility to plan, direct organize, coordinate and implement all nursing care services for the pre or post-surgical patients in a manner suitable to accepted standards of care",
+        "He / she ensures the highest quality and safe delivery of patient care while maintaining compliance with professional nursing, JCAHO, and all Federal and State standards of care",
+        "Position requires weekdays only -- no holidays, weekends, or call"
+      ]
+    },
+    "job_onet_soc": "31909900",
+    "job_onet_job_zone": null,
+    "id": "careers-uspi-com-job-englewood-gi-endoscopy-registered-nurse-full-time-35934-91384731504",
     "_source": "new_jobs"
   },
   {
@@ -1444,193 +1690,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "AXny7BXg1EmGxUTFAAAAAA==",
-    "job_title": "Registered Nurse (RN) - Various Units (Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR)",
-    "employer_name": "Hospital Sisters Health System",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbp9lS0YUWyp_y_oyytq21xfVeK0uEhhbkpwOg&s=0",
-    "employer_website": null,
-    "job_publisher": "Hospital Sisters Health System",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-various-units-med-surg-cardiac-icu-er-cath-lab-pacu-or-savoy-il-68d2914c30d825033c222de4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Hospital Sisters Health System",
-        "apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-various-units-med-surg-cardiac-icu-er-cath-lab-pacu-or-savoy-il-68d2914c30d825033c222de4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Pay Range:\n$34.00 - $51.00\n\nA successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education.\n\nHospital Sisters Health System (HSHS) is seeking a Registered Nurse (RN) to join our Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR, etc. units. Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge in a fast-paced environment.\n\nEstablishes a compassionate environment by providing emotional, psychological, and spiritual support to patients, friends, and families. Promotes and restores patients' health by completing the nursing process, collaborating with physicians and multidisciplinary team members, providing physical and psychological support to patients, friends, and families, and supervising assigned team members. Promotes patient's independence by establishing patient care goals, teaching patient, friends, and family to understand condition, medications, and self-care skills, and answering questions. Assures quality of care by adhering to therapeutic standards, measuring health outcomes against patient care goals and standards, making or recommending necessary adjustments, and following nursing philosophies and standards of care set by state board of nursing, state nurse practice act, and other governing agency regulations.\n\nPosition Specifics:\n• Department: Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR, etc.\n• Core Function: Nursing\n• Schedule: Day and Night Shift with weekend rotation\n• Facility: St. Mary's Hospital\n• Clinic Location: Decatur, IL\n• Sign On Bonus: $20,000 for Full-Time\n• Compensation that aligns with experience. Shift differentials for night, weekend, and call on top of base rate. Part-Time is benefit eligible!\n\nEducation Qualifications\n• Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required.\n• Bachelor’s degree in Nursing is preferred.\n\nExperience Qualifications\n• Experience in healthcare is preferred.\n\nCertifications, Licenses and Registrations\n• Licensed as a Registered Nurse (RN) in state of practice is required.\n• Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules.\n• Basic Life Support (BLS) is required.\n\nJob Description\n\nScheduled Weekly Hours:\n0\n\nThroughout communities in Illinois and Wisconsin, 13 hospitals, numerous community-based health centers and clinics, our 13,000+ colleagues have built a culture based on our solid core values of respect, care, competence, and joy. These are the ideals we believe in, work by, and live each day.\n\nBuilt upon more than 145 years of service to the communities we serve, we now look to the future and our place in it as a health care system that strives to continually improve processes, procedures, and outcomes with the latest and most advanced technologies and treatments.\n\nRegardless of how far our passion for excellence carries us, our focus will always remain on the most important person in our entire organization: The patient.\n\nHSHS requires COVID-19 vaccines or an approved medical or religious exemption for all colleagues.\n\nBenefits: HSHS provides a benefits package designed to support the overall well-being of our colleagues including their physical, emotional, financial, spiritual, and work health. Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits.\n• Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues.\n• Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need.\n• Retirement benefits including HSHS\ncontributions.\n• Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period.\n• Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!\n• Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!\n\nBenefits\n\nHSHS and affiliates is an Equal Opportunity Employer (EOE).\n\nHSHS is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Savoy, IL",
-    "job_city": "Savoy",
-    "job_state": "Illinois",
-    "job_country": "US",
-    "job_latitude": 40.054753,
-    "job_longitude": -88.2517165,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAXny7BXg1EmGxUTFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 34,
-    "job_max_salary": 51,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required",
-        "Certifications, Licenses and Registrations",
-        "Licensed as a Registered Nurse (RN) in state of practice is required",
-        "Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules",
-        "Basic Life Support (BLS) is required"
-      ],
-      "Benefits": [
-        "$34.00 - $51.00",
-        "A successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education",
-        "Sign On Bonus: $20,000 for Full-Time",
-        "Compensation that aligns with experience",
-        "Shift differentials for night, weekend, and call on top of base rate",
-        "Part-Time is benefit eligible!",
-        "Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits",
-        "Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues",
-        "Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need",
-        "Retirement benefits including HSHS",
-        "Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period",
-        "Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!",
-        "Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!"
-      ],
-      "Responsibilities": [
-        "Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge in a fast-paced environment",
-        "Establishes a compassionate environment by providing emotional, psychological, and spiritual support to patients, friends, and families",
-        "Promotes and restores patients' health by completing the nursing process, collaborating with physicians and multidisciplinary team members, providing physical and psychological support to patients, friends, and families, and supervising assigned team members",
-        "Promotes patient's independence by establishing patient care goals, teaching patient, friends, and family to understand condition, medications, and self-care skills, and answering questions",
-        "Assures quality of care by adhering to therapeutic standards, measuring health outcomes against patient care goals and standards, making or recommending necessary adjustments, and following nursing philosophies and standards of care set by state board of nursing, state nurse practice act, and other governing agency regulations",
-        "Department: Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR, etc",
-        "Core Function: Nursing",
-        "Schedule: Day and Night Shift with weekend rotation"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-hshs-org-gfj-registered-nurse-rn-various-units-med-surg-cardiac-icu-er-cath-lab-pacu-or-savoy-il-68d2914c30d825033c222de4",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "AkKGEx2wffGxQhxHAAAAAA==",
-    "job_title": "Clinical Nurse Manager - Intensive Care Unit (ICU) - Progressive Care Unit (PCU) - Med Surg - Kings Mills Hospital",
-    "employer_name": "Mercy Health BSMH",
-    "employer_logo": null,
-    "employer_website": "https://bsmhealth.org",
-    "job_publisher": "Mercy Health",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.mercy.com/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Mercy Health",
-        "apply_link": "https://careers.mercy.com/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Careers At Bon Secours Mercy Health",
-        "apply_link": "https://careers.bsmhealth.org/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital-at-bon-secours-mercy-health-4364415691?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/clinical-nurse-manager_7ea1a51062fbf65facdc1c8229d38612a33cf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/y_3o0u79qKfxPgDOfzAeyC10mVs5SX4-Et-Jyil7DuA0yguszHfsEQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talentify",
-        "apply_link": "https://www.talentify.io/job/clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital-cincinnati-ohio-us-mercy-health-1-r264813?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "J-O-B-Z",
-        "apply_link": "https://j-o-b-z.com/seo/job/136591533/oh/cincinnati/clinical-nurse-manager---intensive-care-unit-icu---progressive-care-unit-pcu---med-surg---kings-mills-hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.\n\nMercy Health\n\nAbout Us\n\nAs a faith-based and patient-focused organization, Mercy Health exists to enhance the health and well-being of all people in mind, body and spirit through exceptional patient care. Success in this goal requires a culture of compassion, collaboration, excellence and respect. Mercy Health seeks people that are committed to our values of compassion, human dignity, integrity, service and stewardship to create an environment where associates want to work and help communities thrive.\n\nClinical Nurse Manager - Intensive Care Unit (ICU) - Progressive Care Unit (PCU) - Med Surg - Kings Mills Hospital\n\nJOB SUMMARY\n\nOversees the daily operations of one or more nursing departments, including but not limited to: daily operations, program planning, financial planning and budget oversight, quality improvement, quality patient care and supervision/development of staff in accordance with all professional, regulatory, and accreditation standards\n\nESSENTIAL FUNCTIONS:\n\nOPERATIONS MANAGEMENT\nOversees 24/7 operations of the department, facilitates departmental compliance with all professional, local, state, national, and Joint Commission standards; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; develops and maintains relevant policies, procedures, and standards of care; represents department/service at site and regional meetings, including medical staff meetings as appropriate, interdisciplinary committees, and management meetings; collaborates with leadership on program plans and operations; assumes technical\n\nFINANCIAL MANAGEMENT\nCollaborates with finance department and site leadership in preparing the annual operating and capital budgets, which reflect an understanding of strategic initiatives and financial goals of Mercy Health; manages services in accordance with approved budgetary guidelines; ensures appropriate revenue capture; manages inventory of equipment and supplies; collaborates with revenue cycle specialists to maintain a working knowledge of current regulatory guidelines\n\nHR LEADERSHIP SKILLS/MANAGEMENT\nProvides leadership to staff in a collaborative environment that offers job satisfaction, education, empowerment, recognition and stimulates innovative thinking; collaborates with Human Resources to recruit, hire, orient and train new employees; develops and maintains staffing levels that are responsive to patient care needs and that optimizes productivity; conducts annual and ongoing appraisal of employee performance; develops and communicates job standards and expectations; leads regular meetings with employees and fosters environment for effective communication\n\nPERFORMANCE IMPROVEMENT\nDevelops and implements a comprehensive quality assurance / performance improvement program based on relevant indicators and standards of patient care; develops expectations for customer service and educates and measures staff on outcomes of service; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; incorporates rounding into regular activities; develops and maintains processes to assure equipment function and safety; collaborates with interdisciplinary team members to identify and improve patient care processes\n\nMINUMUM EDUCATAION:\n\nREQUIRED MINIMUM EDUCATION: 4 year/Bachelors Degree; Specialty/Major: Nursing or related field; BSN required if no higher level nursing degree held\n\nPREFERRED: Graduate Degree (Masters) Specialty/Major: Nursing or related field; MSN required if BSN is not held\n\nLICENSURE/CERTIFICATIONS (MUST NOT BE NON-EXPIRED/ACTIVE UNLESS OTHERWISE STATED)\n\nCurrent nursing license in the State of Ohio\nRequired Certifications by Nursing Department:\nEmergency Department- BLS/ACLS/PALS or per RN Residency plan\nMed Surg/Telemetry: BLS required, ACLS encouraged\nSTEP DOWN: BLS required; ACLS required with 6 months of hire or per RN Residency plan\nICU/CVU: BLS and ACLS required or per RN Residency plan\nFamily Birth: BLS and NRP required: NCCc-EFM within 18 months of hire required\nPerioperative: BLS required\nCath Lab: BLS and ACLS required\nCardiac Pulmonary Rehab: BLS and ACLS required\nPACU: BLS, ACLS and PALS required or per RN Residency plan\n\nMINIMUM YEARS AND TYPE OF EXPERIENCE: Three years of demonstrated leadership experience, including, but not limited to, charge nurse experience, preceptor experience, etc.\n\nOTHER KNOWLEDGE, SKILLS AND ABILITIES PREFERRED: Five years of clinical nursing experience preferred; one year of previous management experience preferred\n\nAs a Mercy Health associate, you're part of a Mission that matters. We support your well-being—personally and professionally. Our benefits are built to grow with you and meet your unique needs, every step of the way.\n\nWhat we offer\n• Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)\n• Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts\n• Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders\n• Tuition assistance, professional development and continuing education support\n\nBenefits may vary based on the market and employment status.\n\nAll applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com",
-    "job_is_remote": false,
-    "job_posted_at": "20 hours ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Cincinnati, OH",
-    "job_city": "Cincinnati",
-    "job_state": "Ohio",
-    "job_country": "US",
-    "job_latitude": 39.1031182,
-    "job_longitude": -84.5120196,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAkKGEx2wffGxQhxHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "REQUIRED MINIMUM EDUCATION: 4 year/Bachelors Degree; Specialty/Major: Nursing or related field; BSN required if no higher level nursing degree held",
-        "LICENSURE/CERTIFICATIONS (MUST NOT BE NON-EXPIRED/ACTIVE UNLESS OTHERWISE STATED)",
-        "Current nursing license in the State of Ohio",
-        "Required Certifications by Nursing Department:",
-        "Emergency Department- BLS/ACLS/PALS or per RN Residency plan",
-        "Med Surg/Telemetry: BLS required, ACLS encouraged",
-        "STEP DOWN: BLS required; ACLS required with 6 months of hire or per RN Residency plan",
-        "ICU/CVU: BLS and ACLS required or per RN Residency plan",
-        "Family Birth: BLS and NRP required: NCCc-EFM within 18 months of hire required",
-        "Perioperative: BLS required",
-        "Cath Lab: BLS and ACLS required",
-        "Cardiac Pulmonary Rehab: BLS and ACLS required",
-        "PACU: BLS, ACLS and PALS required or per RN Residency plan",
-        "MINIMUM YEARS AND TYPE OF EXPERIENCE: Three years of demonstrated leadership experience, including, but not limited to, charge nurse experience, preceptor experience, etc"
-      ],
-      "Benefits": [
-        "Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)",
-        "Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts",
-        "Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders",
-        "Tuition assistance, professional development and continuing education support"
-      ],
-      "Responsibilities": [
-        "Oversees the daily operations of one or more nursing departments, including but not limited to: daily operations, program planning, financial planning and budget oversight, quality improvement, quality patient care and supervision/development of staff in accordance with all professional, regulatory, and accreditation standards",
-        "Oversees 24/7 operations of the department, facilitates departmental compliance with all professional, local, state, national, and Joint Commission standards; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; develops and maintains relevant policies, procedures, and standards of care; represents department/service at site and regional meetings, including medical staff meetings as appropriate, interdisciplinary committees, and management meetings; collaborates with leadership on program plans and operations; assumes technical",
-        "FINANCIAL MANAGEMENT",
-        "Collaborates with finance department and site leadership in preparing the annual operating and capital budgets, which reflect an understanding of strategic initiatives and financial goals of Mercy Health; manages services in accordance with approved budgetary guidelines; ensures appropriate revenue capture; manages inventory of equipment and supplies; collaborates with revenue cycle specialists to maintain a working knowledge of current regulatory guidelines",
-        "Provides leadership to staff in a collaborative environment that offers job satisfaction, education, empowerment, recognition and stimulates innovative thinking; collaborates with Human Resources to recruit, hire, orient and train new employees; develops and maintains staffing levels that are responsive to patient care needs and that optimizes productivity; conducts annual and ongoing appraisal of employee performance; develops and communicates job standards and expectations; leads regular meetings with employees and fosters environment for effective communication",
-        "Develops and implements a comprehensive quality assurance / performance improvement program based on relevant indicators and standards of patient care; develops expectations for customer service and educates and measures staff on outcomes of service; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; incorporates rounding into regular activities; develops and maintains processes to assure equipment function and safety; collaborates with interdisciplinary team members to identify and improve patient care processes"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "careers-mercy-com-us-en-job-r264813-clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital",
     "_source": "new_jobs"
   },
   {
@@ -1710,75 +1769,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "75HEVnLle6v6odxRAAAAAA==",
-    "job_title": "Registered Nurse (RN), Women and Infant",
-    "employer_name": "Hospital Sisters Health System",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbp9lS0YUWyp_y_oyytq21xfVeK0uEhhbkpwOg&s=0",
-    "employer_website": null,
-    "job_publisher": "Hospital Sisters Health System",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-women-and-infant-madison-il-698995dc31197103c1ec3143?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Hospital Sisters Health System",
-        "apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-women-and-infant-madison-il-698995dc31197103c1ec3143?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Pay Range:\n\n$32.00 - $48.00\n\nThe pay rate for a successful candidate will be influenced by factors such as their experience, skills, training, certifications, and level of education.\n\nHospital Sisters Health System (HSHS) is recruiting a Registered Nurse (RN) to be a part of the Women & Infant team. The ideal candidates are empathetic caregivers who are dedicated to the mission, and are excited about the opportunity to use their clinical knowledge to provide direct acute patient care at the bedside.\n\nPosition Specifics:\n• Department: Women & Infant\n• Core Function: Nursing\n• Schedule: Full Time, Days, 36 hrs/wk,\n• Facility: St. Elizabeth's Hospital\n• Location: O’Fallon, IL\n\nApplicants with 2+ years RN experience - preferred\n\nEducation Qualifications\n• Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required.\n• Bachelor’s degree in Nursing is preferred.\n\nExperience Qualifications\n• Experience in healthcare is preferred.\n\nCertifications, Licenses and Registrations\n• Licensed as a Registered Nurse (RN) in state of practice is required.\n• Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules.\n• Basic Life Support (BLS) is required.\n\nJob Description\n\nScheduled Weekly Hours:\n\n36\n\nWithin Illinois and Wisconsin, a coalition of 13 hospitals, along with a multitude of community-based health centers and clinics, has cultivated a cohesive environment grounded in key values like respect, empathy, proficiency, and fulfillment. These guiding ideals govern our operations and relationships, serving as the pillars of our culture.\n\nRooted in a legacy of over 145 years of service to our communities, we are now setting our sights on the future and our role in it as a healthcare system that aims to continuously enhance procedures, practices, and outcomes utilizing the most advanced technologies and therapies.\n\nIrrespective of how deeply our zeal for perfection motivates us, we will continuously prioritize the most critical individual in our entire structure: The patient.\n\nVaccination against COVID-19 or an official medical or religious exemption is obligatory for all staff members at HSHS.\n\nThe benefits offered by HSHS are tailored to enhance the overall well-being of our team members, addressing areas like physical wellness, emotional balance, financial security, spiritual nourishment, and occupational health. Eligibility for the HSHS benefits is extended to employees with a commitment of at least 32 hours in each pay period.\n• Health coverage for full-time and part-time workers is inclusive and economical, incorporating medical, prescription, dental, and vision care.\n• Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need.\n• Retirement benefits encompass various advantages, including contributions made by HSHS.\n• Education Assistance provides individuals with the opportunity to access $4,000 in aid per calendar year for educational needs and reduced tuition fees at certain colleges without a waiting period.\n• Adoption Assistance provides up to $7,500 in financial support to colleagues who are in the process of growing their families through adoption, reimbursing expenses including application fees, legal charges, transportation costs, and other relevant fees\n• Among the perks offered are a wellness program accompanied by incentives, life insurance paid by the employer, short-term and long-term disability coverage, flexible spending accounts, an employee support program, identity theft protection, a recognition and rewards program for employees, a discount program, and various other benefits\n\nBenefits\n\nHSHS and affiliates is an Equal Opportunity Employer (EOE).\n\nHSHS is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Madison, IL",
-    "job_city": "Madison",
-    "job_state": "Illinois",
-    "job_country": "US",
-    "job_latitude": 38.6825502,
-    "job_longitude": -90.1570536,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D75HEVnLle6v6odxRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 32,
-    "job_max_salary": 48,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required",
-        "Certifications, Licenses and Registrations",
-        "Licensed as a Registered Nurse (RN) in state of practice is required",
-        "Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules",
-        "Basic Life Support (BLS) is required"
-      ],
-      "Benefits": [
-        "$32.00 - $48.00",
-        "The pay rate for a successful candidate will be influenced by factors such as their experience, skills, training, certifications, and level of education",
-        "Eligibility for the HSHS benefits is extended to employees with a commitment of at least 32 hours in each pay period",
-        "Health coverage for full-time and part-time workers is inclusive and economical, incorporating medical, prescription, dental, and vision care",
-        "Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need",
-        "Retirement benefits encompass various advantages, including contributions made by HSHS",
-        "Education Assistance provides individuals with the opportunity to access $4,000 in aid per calendar year for educational needs and reduced tuition fees at certain colleges without a waiting period",
-        "Adoption Assistance provides up to $7,500 in financial support to colleagues who are in the process of growing their families through adoption, reimbursing expenses including application fees, legal charges, transportation costs, and other relevant fees",
-        "Among the perks offered are a wellness program accompanied by incentives, life insurance paid by the employer, short-term and long-term disability coverage, flexible spending accounts, an employee support program, identity theft protection, a recognition and rewards program for employees, a discount program, and various other benefits"
-      ],
-      "Responsibilities": [
-        "The ideal candidates are empathetic caregivers who are dedicated to the mission, and are excited about the opportunity to use their clinical knowledge to provide direct acute patient care at the bedside",
-        "Schedule: Full Time, Days, 36 hrs/wk,"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-hshs-org-gfj-registered-nurse-rn-women-and-infant-madison-il-698995dc31197103c1ec3143",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "QhLYBJ0ItQh-HgdnAAAAAA==",
     "job_title": "Nurse Practitioner (NP)",
     "employer_name": "CVS Health",
@@ -1830,9 +1820,9 @@
     ],
     "job_description": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.\n• *Fulltime is: 30-35 hours per week. This position supports the Danvers, MA area clinics in Boston and North Shore MA, including Watertown, Wellesley, Medford, Andover, Salem, Danvers, Amesbury**\n\nEnjoy comprehensive benefits, CME allowance, 401K plan, and every other weekend off. Eligible for full time benefits at 30 hours/ week\n\nPosition Summary:\nAs the largest retail health care provider in the nation, and an industry‑leading Fortune Top 10 company, MinuteClinic offers the unique opportunity to deliver affordable, accessible, comprehensive, high‑quality care that meets the needs of our patients, their families, and our communities. You’ll be empowered to provide holistic patient care with support, guidance, collaboration, and a “one store, one team” mindset.\n\nMinuteClinic has been awarded the American Nurses Credentialing Center (ANCC) Pathway to Excellence® designation, recognizing organizations committed to healthy work environments through Transformational Leadership, Quality, Safety, Shared Governance, Well‑being, and Professional Development.\n\nOur Providers Enjoy:\n• Autonomy to run your own practice with dedicated collaborator and organizational support\n• Flexible scheduling\n• Strong work–life balance\n• Exceptional tools, training, and clinical resources\n• Evidence‑based guidelines and access to assessment and treatment planning tools\n• Ability to practice at the top of your clinical license with support from the clinical care team\n• Significant career growth and development opportunities\n• Charting and follow‑up completed during your scheduled shift—no work taken home\n\nYou Will:\n• Provide evidence‑based primary and family care, including assessment, diagnosis, treatment, management of acute and chronic conditions, health counseling, and disposition planning\n• Complete administrative duties such as inventory management, opening/closing the clinic, patient follow‑up, insurance verification, and payment collection\n• Manage patient appointments and perform routine examinations supporting strong health outcomes\n• Perform diagnostic testing, provide preventive counseling, treat injuries and illnesses, and coordinate care with other healthcare professionals\n• Promote patient engagement through screenings, wellness services, and chronic disease management\n\nRequired Qualifications:\n• Minimum one year of NP experience is preferred; however, qualified new graduate NPs will be considered\n• Active Family Nurse Practitioner (FNP) license in good standing\n• Ability to provide holistic, evidence‑based care including counseling around pregnancy prevention, STI prevention, and safer‑sex practices\n• Ability to order/administer vaccines and injections (COVID‑19, influenza, TB testing, Depo‑Provera, etc.)\n• Completion of DOT certification exam required within 30 days of employment\n• Bilingual proficiency may be required depending on market\n• Active Basic Life Support (BLS) certification (CPR/AED)\n• Ability to pass a respirator FIT test\n\nEducation Requirements:\n• Master’s Degree from an accredited Family Nurse Practitioner program\n• Current National Board Certification (AANP or ANCC)\n• Active state APRN license\n\nPreferred Qualifications:\n• EPIC EHR experience preferred\n\nPay Range\n\nThe typical pay range for this role is:\n\n$46.03 - $99.14\n\nThis pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above.\n\nOur people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong.\n\nGreat benefits for great people\n\nWe take pride in our comprehensive and competitive mix of pay and benefits – investing in the physical, emotional and financial wellness of our colleagues and their families to help them be the healthiest they can be. In addition to our competitive wages, our great benefits include:\n• Affordable medical plan options, a 401(k) plan (including matching company contributions), and an employee stock purchase plan.\n• No-cost programs for all colleagues including wellness screenings, tobacco cessation and weight management programs, confidential counseling and financial coaching.\n• Benefit solutions that address the different needs and preferences of our colleagues including paid time off, flexible work schedules, family leave, dependent care resources, colleague assistance programs, tuition assistance, retiree medical access and many other benefits depending on eligibility.\n\nFor more information, visit https://jobs.cvshealth.com/us/en/benefits\n\nWe anticipate the application window for this opening will close on: 03/26/2026\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.",
     "job_is_remote": false,
-    "job_posted_at": "20 hours ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_posted_at": "21 hours ago",
+    "job_posted_at_timestamp": 1771023600,
+    "job_posted_at_datetime_utc": "2026-02-13T23:00:00.000Z",
     "job_location": "Danvers, MA",
     "job_city": "Danvers",
     "job_state": "Massachusetts",
@@ -1894,98 +1884,6 @@
     "job_onet_soc": "29117100",
     "job_onet_job_zone": "5",
     "id": "jobs-cvshealth-com-us-en-job-r0835958-nurse-practitioner-np",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "NTgsLFQBn9AGoIMpAAAAAA==",
-    "job_title": "Registered Nurse- Med/Surg",
-    "employer_name": "HealthPartners",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9u2MF8BE29LRYU93eCD9VJhFScR5lWnCiFEXk&s=0",
-    "employer_website": "https://www.healthpartners.com",
-    "job_publisher": "Oracle",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/healthpartners/job/117353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Oracle",
-        "apply_link": "https://fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/healthpartners/job/117353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/HealthPartners/Job/Registered-Nurse-Med-Surg/-in-Stillwater,MN?jid=ecd123eb888c726f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=617b65341a190787&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-med-surg-at-lakeview-hospital-4372161037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/registered-nurse-med-surg_7ea1a3d953ecd1c9fbf098732f3e7744116fe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Local Job Network",
-        "apply_link": "https://jobs.localjobnetwork.com/j/t-Registered-Nurse-MedSurg-e-Lakeview-Hospital-l-Stillwater,-MN-jobs-j86265097.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Employer.circaworks.com",
-        "apply_link": "https://employer.circaworks.com/j/t-Registered-Nurse-MedSurg-e-Lakeview-Hospital-l-Stillwater,-MN-jobs-j86265097.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/9c78741da9896967252830d23b702084?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "As a Registered Nurse you will assess, plan, perform, document, and evaluate professional independent nursing practice at Lakeview Hospital; to provide work direction for and oversight of the nursing care provided by unlicensed assistive personnel; to perform and document functions such as carrying out the practitioner orders; to assist with diagnostic and treatment procedures; to provide a safe and therapeutic environment; to coordinate, communicate, interpret, and explain patient care services to the patient, their family, health professionals and others; to perform related duties as assigned.\n\nWork Schedule: 0.5FTE Day Shift RN with every other weekend\n\nRequired Qualifications:\n• Associate Degree in Nursing, or equivalent.\n• Licensed as an RN by Minnesota Board of Nursing or has a Wisconsin RN License and Minnesota Boarder State Registry\n• Registered nurses re-entering the nursing field, who have not completed 520 hours of nursing practice in the past four (4) years must successfully complete a recognized refresher course to qualify for employment. Written information of certification validating successful completion of a refresher course must be provided before employment.\n• Current BLS – American Heart Association or BLS – American Red Cross (CPR/AED for Professional Rescuer & Health Care Provider)\n• Those without telemetry experience: Completion of telemetry course within 1 year of start date.\n• Those with telemetry experience: Completion of competency validation.\n\nPreferred Qualifications:\n• Baccalaureate or Master’s degree in Nursing\n• Associate Degree prepared nurses enrolled in Baccalaureate in Nursing program\n• Specialty Certification in the RN’s area of expertise (e.g. CCRN, PCCN, CNOR, CPAN, CAPA, etc)",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Stillwater, MN",
-    "job_city": "Stillwater",
-    "job_state": "Minnesota",
-    "job_country": "US",
-    "job_latitude": 45.056004,
-    "job_longitude": -92.80884429999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNTgsLFQBn9AGoIMpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Associate Degree in Nursing, or equivalent",
-        "Licensed as an RN by Minnesota Board of Nursing or has a Wisconsin RN License and Minnesota Boarder State Registry",
-        "Registered nurses re-entering the nursing field, who have not completed 520 hours of nursing practice in the past four (4) years must successfully complete a recognized refresher course to qualify for employment",
-        "Written information of certification validating successful completion of a refresher course must be provided before employment",
-        "Current BLS – American Heart Association or BLS – American Red Cross (CPR/AED for Professional Rescuer & Health Care Provider)",
-        "Those without telemetry experience: Completion of telemetry course within 1 year of start date",
-        "Those with telemetry experience: Completion of competency validation"
-      ],
-      "Responsibilities": [
-        "As a Registered Nurse you will assess, plan, perform, document, and evaluate professional independent nursing practice at Lakeview Hospital; to provide work direction for and oversight of the nursing care provided by unlicensed assistive personnel; to perform and document functions such as carrying out the practitioner orders; to assist with diagnostic and treatment procedures; to provide a safe and therapeutic environment; to coordinate, communicate, interpret, and explain patient care services to the patient, their family, health professionals and others; to perform related duties as assigned",
-        "Work Schedule: 0.5FTE Day Shift RN with every other weekend"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "fa-etnv-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-healthpartners-job-117353",
     "_source": "new_jobs"
   },
   {
@@ -2084,111 +1982,289 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "WUZaNunsKAuKmNQdAAAAAA==",
-    "job_title": "Med Surg Licensed Practical Nurse",
-    "employer_name": "LewisGale Hospital Montgomery",
-    "employer_logo": null,
+    "job_id": "3tyAYIitWOlDOL0lAAAAAA==",
+    "job_title": "Inpatient Registered Nurse (RN) Medical Units 1 & 2 Night Shifts",
+    "employer_name": "Hospital Sisters Health System",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbp9lS0YUWyp_y_oyytq21xfVeK0uEhhbkpwOg&s=0",
     "employer_website": null,
-    "job_publisher": "HCA Healthcare",
+    "job_publisher": "Hospital Sisters Health System",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17337595-med-surg-licensed-practical-nurse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "HCA Healthcare",
-        "apply_link": "https://careers.hcahealthcare.com/jobs/17337595-med-surg-licensed-practical-nurse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Hospital Sisters Health System",
+        "apply_link": "https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=8606a6ab2f1423d0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/LewisGale-Hospital-Montgomery/Job/Med-Surg-Licensed-Practical-Nurse/-in-Blacksburg,VA?jid=8650d45a6e4001c4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Digitalhire",
+        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/2mqTsC6ZtcxfcTmNXKWAnY?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
-      },
+      }
+    ],
+    "job_description": "NIGHTS / FTE – 36h / 35k SOB\nPosition Specificso Department: Medical Units 1 & 2\no Schedule: Full time, 36 hrs/wk, Nights (7p-7a) and weekend rotation\no Facility: St. John’s Hospital\no Location: Springfield, IL\no Sign On: Up to $35,000 for external candidates\no Compensation: Aligns with experience\no Differentials: Shift and Weekend available for qualified hours worked\n\nIdeal Candidates: Patient-focused, mission-driven caregivers with clinical knowledge who are comfortable working in a fast-paced environment with complex acuities.\n\nEducation Qualifications\n• Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required.\n• Bachelor’s of science in nursing is preferred.\n\nExperience Qualifications\n• Critical Care Nursing experience is preferred.\n\nCertifications, Licenses and Registrations\n• Licensed Registered Nurse (RN) in state of practice is required. Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules.\n• Basic Life Support (BLS) is required.\n• Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked.\n• Speciality certifications based on patient population such as Critical Care Registered Nurse (CCRN), and Certified Emergency Nurse (CEN) are preferred.\n\nJob Description\n\nScheduled Weekly Hours:\n36\n\nThroughout communities in Illinois and Wisconsin, 13 hospitals, numerous community-based health centers and clinics, our 13,000+ colleagues have built a culture based on our solid core values of respect, care, competence, and joy. These are the ideals we believe in, work by, and live each day.\n\nBuilt upon more than 145 years of service to the communities we serve, we now look to the future and our place in it as a health care system that strives to continually improve processes, procedures, and outcomes with the latest and most advanced technologies and treatments.\n\nRegardless of how far our passion for excellence carries us, our focus will always remain on the most important person in our entire organization: The patient.\n\nHSHS requires COVID-19 vaccines or an approved medical or religious exemption for all colleagues.\n\nBenefits: HSHS provides a benefits package designed to support the overall well-being of our colleagues including their physical, emotional, financial, spiritual, and work health. Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits.\n• Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues.\n• Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need.\n• Retirement benefits including HSHS\ncontributions.\n• Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period.\n• Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!\n• Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!\n\nBenefits\n\nHSHS and affiliates is an Equal Opportunity Employer (EOE).\n\nHSHS is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.\n\nPay Range:\n$34.00 - $51.00\n\nA successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Clinton, IL",
+    "job_city": "Clinton",
+    "job_state": "Illinois",
+    "job_country": "US",
+    "job_latitude": 40.153647899999996,
+    "job_longitude": -88.96452529999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3tyAYIitWOlDOL0lAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 34,
+    "job_max_salary": 51,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Ideal Candidates: Patient-focused, mission-driven caregivers with clinical knowledge who are comfortable working in a fast-paced environment with complex acuities",
+        "Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required",
+        "Certifications, Licenses and Registrations",
+        "Licensed Registered Nurse (RN) in state of practice is required",
+        "Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules",
+        "Basic Life Support (BLS) is required",
+        "Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked"
+      ],
+      "Benefits": [
+        "Compensation: Aligns with experience",
+        "Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits",
+        "Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues",
+        "Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need",
+        "Retirement benefits including HSHS",
+        "Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period",
+        "Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!",
+        "Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!",
+        "$34.00 - $51.00",
+        "A successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education"
+      ],
+      "Responsibilities": [
+        "NIGHTS / FTE – 36h / 35k SOB",
+        "Schedule: Full time, 36 hrs/wk, Nights (7p-7a) and weekend rotation",
+        "Differentials: Shift and Weekend available for qualified hours worked"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-hshs-org-gfj-inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "AJN5Em0nGg45PeIwAAAAAA==",
+    "job_title": "Registered Nurse (RN) - Full-time, Days",
+    "employer_name": "Select Medical",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-q0P5V-AO3e-vXlzEQZeJGDlUq7A5prL35O23&s=0",
+    "employer_website": "https://www.selectmedical.com",
+    "job_publisher": "IntelyCare",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.intelycare.com/jobs/169290293-registered-nurse-rn-full-time-days?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/med-surg-licensed-practical-nurse-at-lewisgale-regional-health-system-4372147497?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "IntelyCare",
+        "apply_link": "https://www.intelycare.com/jobs/169290293-registered-nurse-rn-full-time-days?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/Arxcez5rD4-CJepsF8RGSB3S_ys7s8dXvcCx_u5NdHsmC6PHlJvruw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/registered-nurse-rn_7ea1aa759ef41819907048da6ed2bf1916e61?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5628568710?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/939cf984d3427997c1d3ef055cd0d8da?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/en/view?id=4f7fcc0a8580&trigger_from=related_jobs&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Currently offering a sign-on bonus up to 7K\n\nStrong Float Pool Support when it matters most. Technology and tools that streamline patient monitoring and communication to help you work more efficiently. Robust supply chains to keep you fully equipped. Ongoing clinical education to improve your skills. As a Registered Nurse at LewisGale Hospital Montgomery, you’ll have all the staffing support, technology and resources you need to deliver safe, high-quality care—so you can focus on what you do best.\n\nAre you a continuous learner? With more than 94,000 nurses throughout HCA Healthcare, we are one of the largest employers of nurses in the United States. Education is key to excellence! As a majority owner of Galen College of Nursing, which joins Research College of Nursing and Mercy School of Nursing as educational facilities within the HCA Healthcare family, we make it easier and more affordable to gain certifications and job skills. Apply today for our Med Surg Licensed Practical Nurse opening and continue to learn!\nJob Summary and Qualifications\n\nAs a Licensed Practical Nurse/Licensed Vocational Nurse (LPN/LVN) at HCA Healthcare, you’ll play a key role in delivering safe, high-quality care that puts patients first. Your clinical skills, attention to detail, and compassionate presence help create healing experiences and support a team that’s committed to the care and improvement of human life.\n\nYour responsibilities will include:\n• Providing focused nursing care for patients with complex needs by administering medications, managing lines or drains, and assisting with interventions like cardiac monitoring or respiratory support\n• Closely observing patients for subtle changes in status — including shifts in heart rhythm, oxygen levels, or neurological signs — and escalating concerns quickly to support early intervention\n• Documenting timely, accurate updates that help the care team coordinate effectively in a high-acuity environment\n• Helping patients and families understand complex conditions and recovery steps with clarity and comfort\n• Working closely with RNs, providers, and specialists to stabilize patients and guide them through the transition from intensive care toward recovery\n\nWhat qualifications you will need:\n• Basic Cardiac Life Support must be obtained within 30 days of employment start date\n• PALS Pediatric Adv Life Supt must be obtained within 90 days of employment start date\n• (LPN/LVN) Licensed Practical or Vocational Nurse\n\nBenefits\n\nLewisGale Hospital Montgomery, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive benefits for medical, prescription drug, dental, vision, behavioral health and telemedicine services\n• Wellbeing support, including free counseling and referral services\n• Time away from work programs for paid time off, paid family leave, long- and short-term disability coverage and leaves of absence\n• Savings and retirement resources, including a 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service), Employee Stock Purchase Plan, flexible spending accounts, preferred banking partnerships, retirement readiness tools, rollover support and financial wellbeing counseling\n• Education support through tuition assistance, student loan assistance, certification support, dependent scholarships and a partnership with Galen College of Nursing\n• Additional benefits for fertility and family building, adoption assistance, life insurance, supplemental health protection plans, auto and home insurance, legal counseling, identity theft protection and consumer discounts\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location\n\nLewisGale Hospital Montgomery has provided quality healthcare services since 1910. We give patients access to trained physicians and advanced technology. Our 140+ bed hospital is one of the leading acute care facilities in Southwest Virginia and New River Valley. We specialize in heart and vascular care—with the only cardiac catheterization lab in the New River Valley. We perform percutaneous coronary intervention - (stent and angioplasty). We provide services in orthopedic and spine care, and heartburn treatment at LewisGale Hospital Montgomery’s Heartburn Treatment Center. Our maternity services through our family-focused Birthing Center facilities have award-winning lactation consultants.\n\nAt LewisGale Hospital Montgomery, our care like family culture extends to our patients, our people and our community. We are committed to each other because when we join together, our patients are cared for in the safest and most compassionate way.\n\nHCA Healthcare has been recognized as one of the World’s Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated 3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\nIf growth and continued learning is important to you, we encourage you to apply for our Med Surg Licensed Practical Nurse opening. Our team will promptly review your application. Highly qualified candidates will be contacted for interviews. Unlock the possibilities apply today!\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "job_description": "Overview\n\nPosition: Registered Nurse (RN)\n\nLocation: Lake Worth, FL\n\nSchedule: Full-time, Day shift (7a-7p)\n\nSelect Specialty Hospital is a critical illness recovery hospital committed to providing world-class inpatient post-ICU services to chronic, critically ill patients who require extended healing and recovery. We help patients during some of the most vulnerable, painful moments of their lives – and Registered Nurses (RNs) play a central role in providing compassionate, excellent treatment every step of the way.\n\nAt our company, we support your career growth and personal well-being.\n• Start Strong: Extensive and thorough Registered Nurse (RN) orientation program to ensure a smooth transition into our setting.\n• Advance Your Career:100% company-paid scholarship (BSN), tuition reimbursement, and continuing education.\n• Elevate Your Skills: Clinical ladder program and certifications such as PCCN and CCRN.\n• Ease the Burden: Student Debt benefit program.\n• Recharge & Refresh: Generous PTO for full-time team members to maintain a healthy work-life balance\n• Your Health Matters: Comprehensive medical/RX, health, vision, and dental plan offerings for full-time team members\n• Invest in Your Future: Company-matching 401(k) retirement plan, as well as life and disability protection for full-time team members\n• Your Impact Matters: Join a team of over 44,000 committed to providing exceptional patient care\n\nResponsibilities\n• Receive admissions and/or transfers to the unit\n• Initial and ongoing systematic patient assessment\n• Timely and accurate documentation using appropriate systems\n• Interpret assessment/diagnostic data including labs and telemetry\n• Ensure medical orders are transcribed and processed accurately\n• Competence in Rapid Response and code events\n• Instruct and counsel patients/families\n• Performs other duties as assigned\n\nQualifications\n\nMinimum Qualifications:\n• Valid State Registered Nurse (RN) License\n• BLS is required at hire.\n• ACLS is required within 6 months of hire\n\nPreferred Qualifications:\n• 2 years hospital experience preferred\n• Not accepting New Graduate nurses at this time\n\nAdditional Data\n\nEqual Opportunity Employer/including Disabled/Veterans",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Blacksburg, VA",
-    "job_city": "Blacksburg",
-    "job_state": "Virginia",
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770076800,
+    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+    "job_location": "Palm Springs, FL",
+    "job_city": "Palm Springs",
+    "job_state": "Florida",
     "job_country": "US",
-    "job_latitude": 37.230066799999996,
-    "job_longitude": -80.4150745,
+    "job_latitude": 26.6359009,
+    "job_longitude": -80.0961538,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWUZaNunsKAuKmNQdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAJN5Em0nGg45PeIwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Basic Cardiac Life Support must be obtained within 30 days of employment start date",
-        "PALS Pediatric Adv Life Supt must be obtained within 90 days of employment start date",
-        "(LPN/LVN) Licensed Practical or Vocational Nurse"
+        "Valid State Registered Nurse (RN) License",
+        "BLS is required at hire",
+        "ACLS is required within 6 months of hire"
       ],
       "Benefits": [
-        "Currently offering a sign-on bonus up to 7K",
-        "LewisGale Hospital Montgomery, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
-        "The available plans and programs include:",
-        "Comprehensive benefits for medical, prescription drug, dental, vision, behavioral health and telemedicine services",
-        "Wellbeing support, including free counseling and referral services",
-        "Time away from work programs for paid time off, paid family leave, long- and short-term disability coverage and leaves of absence",
-        "Savings and retirement resources, including a 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service), Employee Stock Purchase Plan, flexible spending accounts, preferred banking partnerships, retirement readiness tools, rollover support and financial wellbeing counseling",
-        "Education support through tuition assistance, student loan assistance, certification support, dependent scholarships and a partnership with Galen College of Nursing",
-        "Additional benefits for fertility and family building, adoption assistance, life insurance, supplemental health protection plans, auto and home insurance, legal counseling, identity theft protection and consumer discounts",
-        "Learn more about Employee Benefits"
+        "Start Strong: Extensive and thorough Registered Nurse (RN) orientation program to ensure a smooth transition into our setting",
+        "Advance Your Career:100% company-paid scholarship (BSN), tuition reimbursement, and continuing education",
+        "Elevate Your Skills: Clinical ladder program and certifications such as PCCN and CCRN",
+        "Ease the Burden: Student Debt benefit program",
+        "Recharge & Refresh: Generous PTO for full-time team members to maintain a healthy work-life balance",
+        "Your Health Matters: Comprehensive medical/RX, health, vision, and dental plan offerings for full-time team members",
+        "Invest in Your Future: Company-matching 401(k) retirement plan, as well as life and disability protection for full-time team members",
+        "Your Impact Matters: Join a team of over 44,000 committed to providing exceptional patient care"
       ],
       "Responsibilities": [
-        "Technology and tools that streamline patient monitoring and communication to help you work more efficiently",
-        "Robust supply chains to keep you fully equipped",
-        "Ongoing clinical education to improve your skills",
-        "As a Registered Nurse at LewisGale Hospital Montgomery, you’ll have all the staffing support, technology and resources you need to deliver safe, high-quality care—so you can focus on what you do best",
-        "As a Licensed Practical Nurse/Licensed Vocational Nurse (LPN/LVN) at HCA Healthcare, you’ll play a key role in delivering safe, high-quality care that puts patients first",
-        "Your clinical skills, attention to detail, and compassionate presence help create healing experiences and support a team that’s committed to the care and improvement of human life",
-        "Providing focused nursing care for patients with complex needs by administering medications, managing lines or drains, and assisting with interventions like cardiac monitoring or respiratory support",
-        "Closely observing patients for subtle changes in status — including shifts in heart rhythm, oxygen levels, or neurological signs — and escalating concerns quickly to support early intervention",
-        "Documenting timely, accurate updates that help the care team coordinate effectively in a high-acuity environment",
-        "Helping patients and families understand complex conditions and recovery steps with clarity and comfort",
-        "Working closely with RNs, providers, and specialists to stabilize patients and guide them through the transition from intensive care toward recovery"
+        "Receive admissions and/or transfers to the unit",
+        "Initial and ongoing systematic patient assessment",
+        "Timely and accurate documentation using appropriate systems",
+        "Interpret assessment/diagnostic data including labs and telemetry",
+        "Ensure medical orders are transcribed and processed accurately",
+        "Competence in Rapid Response and code events",
+        "Instruct and counsel patients/families",
+        "Performs other duties as assigned"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-intelycare-com-jobs-169290293-registered-nurse-rn-full-time-days",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "KxzqK6aYVTp4oPczAAAAAA==",
+    "job_title": "Practical Nurse (Ambulatory Care)",
+    "employer_name": "Fayetteville NC VA Medical Center",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "USAJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.usajobs.gov/job/857063100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "USAJobs",
+        "apply_link": "https://www.usajobs.gov/job/857063100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/SD-Department-of-Veterans-Affairs/Job/Practical-Nurse-(Ambulatory-Care)/-in-Jacksonville,NC?jid=6fe2b63f7ce4559e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/practical-nurse-ambulatory-care-jacksonville-department-of-veterans-affairs-04810b89d4d044c9fe1952320d06546f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "International Safety Equipment Association (ISEA), Safety Equipment Industry Career Center",
+        "apply_link": "https://careers.safetyequipment.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Senior Living Career Center - Argentum",
+        "apply_link": "https://seniorlivingcareers.argentum.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/practical-nurse-ambulatory-care-at-u-s-department-of-veterans-affairs-4371010644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "The Beryl Institute (The Beryl Institute), The Beryl Institute Career Center",
+        "apply_link": "https://pxcareers.theberylinstitute.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career Center",
+        "apply_link": "https://careercenter.rehabnurse.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "The Nursing, Ambulatory Care department is seeking a Licensed Practical Nurse (LPN) who will provide direct and indirect care to assigned patients while under the supervision of a registered nurse (RN). The LPN will provide care to Veterans that will promote the Veteran attaining and maintaining maximum functionality.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Jacksonville, NC",
+    "job_city": "Jacksonville",
+    "job_state": "North Carolina",
+    "job_country": "US",
+    "job_latitude": 34.7540524,
+    "job_longitude": -77.4302414,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKxzqK6aYVTp4oPczAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Responsibilities": [
+        "The Nursing, Ambulatory Care department is seeking a Licensed Practical Nurse (LPN) who will provide direct and indirect care to assigned patients while under the supervision of a registered nurse (RN)",
+        "The LPN will provide care to Veterans that will promote the Veteran attaining and maintaining maximum functionality"
       ]
     },
     "job_onet_soc": "29206100",
     "job_onet_job_zone": "3",
-    "id": "careers-hcahealthcare-com-jobs-17337595-med-surg-licensed-practical-nurse",
+    "id": "www-usajobs-gov-job-857063100",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "_VdVE0QgV20P-HQMAAAAAA==",
+    "job_title": "Registered Nurse, Full Time Days, 8a – 8:30p, Cardiac Catheterization Lab, Morristown, NJ",
+    "employer_name": "Atlantic Health System",
+    "employer_logo": null,
+    "employer_website": "https://www.atlantichealth.org",
+    "job_publisher": "Tallo",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://tallo.com/jobs/healthcare/registered-nurse/nj/morris/registered-nurse-full-time-days-8a-830p-cardiac-e101ba001bcd/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Tallo",
+        "apply_link": "https://tallo.com/jobs/healthcare/registered-nurse/nj/morris/registered-nurse-full-time-days-8a-830p-cardiac-e101ba001bcd/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This job listing in Morris - NJ has been recently added. Tallo will add a summary here for this job shortly.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Morris Twp, NJ",
+    "job_city": "Morris Twp",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.815459,
+    "job_longitude": -74.51846929999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_VdVE0QgV20P-HQMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "tallo-com-jobs-healthcare-registered-nurse-nj-morris-registered-nurse-full-time-days-8a-830p-cardiac-e101ba001bcd",
     "_source": "new_jobs"
   }
 ]
