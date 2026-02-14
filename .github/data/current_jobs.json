@@ -31,9 +31,9 @@
     "job_latitude": 30.0873153,
     "job_longitude": -97.501432,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DniNf4rUBKbFGRJdXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -209,8 +209,8 @@
     "job_longitude": -121.4944209,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZ_u33OpqFUR2x0-uAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -463,6 +463,61 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "JKVyXIj_w19QNaCoAAAAAA==",
+    "job_title": "LPN/RN Pediatric Nurse",
+    "employer_name": "Phoenix Home Care & Hospice",
+    "employer_logo": null,
+    "employer_website": "https://phoenixhomehc.com",
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/lpn-rn-pediatric-nurse?id=2433301583&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/lpn-rn-pediatric-nurse?id=2433301583&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Join Phoenix\n\nJoin a company that stands by its word because at Phoenix, our promises aren't just spoken they're signed.\n\nWe're hiring immediately and offering more than a job we're offering a career with purpose. Whether you're an experienced nurse or just starting out, Phoenix empowers you to thrive personally and professionally.\n\nAt Phoenix, you're never just a number you're part of a supportive team that feels like family. We believe in lifting each other up, celebrating wins, and creating a culture where nurses truly feel valued and heard. From hands-on training to ongoing support, you'll gain the skills, confidence, and community to build a career you love.\nWhy Choose Phoenix? Amazing culture built on respect, teamwork, and compassion Full-Time, Part-Time, and PRN shifts available Annual stay bonus for Full-Time & Part-Time Nurses Tuition assistance for LPN students still in school Health, dental, vision, PTO, and 401K options Part-Time employees now eligible for benefits! Supportive leadership that listens, encourages, and helps you grow What You'll Do: Provide one-on-one care to pediatric and young adult patients in their homes Deliver skilled, compassionate support for complex medical needs Build lasting relationships with patients, families, and your care team What We're Looking For: Active LPN or RN license Pediatric experience preferred training provided! A heart for patient-centered care and a team-first attitude\n\nOur Mission Matters\n\nAt Phoenix, we're creating New Beginnings for both our clients and our team members. Our care is rooted in innovation, skill, and Christ-like values of compassion, honesty, and patience.\nApply Today!\n\nReady to work evenings and weekends in a fulfilling home health role in Bonnots Mill? Join the team at Phoenix Home Care & Hospice. Apply now on Indeed or visit to learn more.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Brazito, MO",
+    "job_city": "Brazito",
+    "job_state": "Missouri",
+    "job_country": "US",
+    "job_latitude": 38.4455878,
+    "job_longitude": -92.3026828,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJKVyXIj_w19QNaCoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "A heart for patient-centered care and a team-first attitude"
+      ],
+      "Benefits": [
+        "Amazing culture built on respect, teamwork, and compassion Full-Time, Part-Time, and PRN shifts available Annual stay bonus for Full-Time & Part-Time Nurses Tuition assistance for LPN students still in school Health, dental, vision, PTO, and 401K options Part-Time employees now eligible for benefits!"
+      ]
+    },
+    "job_onet_soc": "29206100",
+    "job_onet_job_zone": "3",
+    "id": "www-whatjobs-com-jobs-lpn-rn-pediatric-nurse",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "CJgTdXn5pZUHna4eAAAAAA==",
     "job_title": "Registered Nurse (RN) - DUH - Peds Med/Surg (1A/2A)",
     "employer_name": "Duke Careers",
@@ -591,61 +646,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "JKVyXIj_w19QNaCoAAAAAA==",
-    "job_title": "LPN/RN Pediatric Nurse",
-    "employer_name": "Phoenix Home Care & Hospice",
-    "employer_logo": null,
-    "employer_website": "https://phoenixhomehc.com",
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/lpn-rn-pediatric-nurse?id=2433301583&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/lpn-rn-pediatric-nurse?id=2433301583&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Join Phoenix\n\nJoin a company that stands by its word because at Phoenix, our promises aren't just spoken they're signed.\n\nWe're hiring immediately and offering more than a job we're offering a career with purpose. Whether you're an experienced nurse or just starting out, Phoenix empowers you to thrive personally and professionally.\n\nAt Phoenix, you're never just a number you're part of a supportive team that feels like family. We believe in lifting each other up, celebrating wins, and creating a culture where nurses truly feel valued and heard. From hands-on training to ongoing support, you'll gain the skills, confidence, and community to build a career you love.\nWhy Choose Phoenix? Amazing culture built on respect, teamwork, and compassion Full-Time, Part-Time, and PRN shifts available Annual stay bonus for Full-Time & Part-Time Nurses Tuition assistance for LPN students still in school Health, dental, vision, PTO, and 401K options Part-Time employees now eligible for benefits! Supportive leadership that listens, encourages, and helps you grow What You'll Do: Provide one-on-one care to pediatric and young adult patients in their homes Deliver skilled, compassionate support for complex medical needs Build lasting relationships with patients, families, and your care team What We're Looking For: Active LPN or RN license Pediatric experience preferred training provided! A heart for patient-centered care and a team-first attitude\n\nOur Mission Matters\n\nAt Phoenix, we're creating New Beginnings for both our clients and our team members. Our care is rooted in innovation, skill, and Christ-like values of compassion, honesty, and patience.\nApply Today!\n\nReady to work evenings and weekends in a fulfilling home health role in Bonnots Mill? Join the team at Phoenix Home Care & Hospice. Apply now on Indeed or visit to learn more.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Brazito, MO",
-    "job_city": "Brazito",
-    "job_state": "Missouri",
-    "job_country": "US",
-    "job_latitude": 38.4455878,
-    "job_longitude": -92.3026828,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJKVyXIj_w19QNaCoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "A heart for patient-centered care and a team-first attitude"
-      ],
-      "Benefits": [
-        "Amazing culture built on respect, teamwork, and compassion Full-Time, Part-Time, and PRN shifts available Annual stay bonus for Full-Time & Part-Time Nurses Tuition assistance for LPN students still in school Health, dental, vision, PTO, and 401K options Part-Time employees now eligible for benefits!"
-      ]
-    },
-    "job_onet_soc": "29206100",
-    "job_onet_job_zone": "3",
-    "id": "www-whatjobs-com-jobs-lpn-rn-pediatric-nurse",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "wE0BOnQF6OufvdRgAAAAAA==",
     "job_title": "Registered Nurse Pediatric Flight Nurse",
     "employer_name": "HCA Houston Healthcare AirLife TWHT",
@@ -712,9 +712,9 @@
     "job_latitude": 29.7600771,
     "job_longitude": -95.37011079999999,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwE0BOnQF6OufvdRgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -840,8 +840,8 @@
     "job_latitude": 34.7295497,
     "job_longitude": -86.5853155,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8yyZ4FH_9_YS8sw6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1025,8 +1025,8 @@
     "job_longitude": -89.3985283,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPJRXryAcStJPrpnUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 37,
@@ -1240,9 +1240,9 @@
     "job_latitude": 32.9029017,
     "job_longitude": -96.56388,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiUKbUE7zJgAfUKALAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1543,9 +1543,9 @@
     "job_latitude": 44.8341639,
     "job_longitude": -87.3770419,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLsl4AunzZpq9zbB7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 36.5,
@@ -1581,77 +1581,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-hshs-org-gfj-registered-nurse-rn-neonatal-intensive-care-nicu-sturgeon-bay-wi-69860ea37e3d7e043272e893",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "apYqvYz1Q9D8g5r9AAAAAA==",
-    "job_title": "Registered Nurse-Radiology PACU",
-    "employer_name": "Texas Children's Careers",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Oracle",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/422856/?mode=location&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Oracle",
-        "apply_link": "https://eohh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/422856/?mode=location&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "We are searching for an Inpatient Registered Nurse for Radiology PACU at TCH, Austin-- someone who works well in a fast-paced setting. In this position, you will provide nursing care to patients by assessing, planning, educating, implementing, and evaluating age-appropriate care that incorporates family-centered principles and cost-effective care.\n\nThink you’ve got what it takes?\n\nJob Duties & Responsibilities\n• Assist with five modalities of radiology nursing services, including interventional radiology support in the operating rooms\n• Prep and recover patients for radiological inpatient and outpatient procedures\n• Assists in the collection of patient/family data that may include biophysical, psychosocial, developmental, cultural, and environmental information per site protocol\n• Collects and documents vital signs, height/weight and reason for visit\n• Prepares patient for examination per site protocol\n• Assists provider, as directed, during treatments, examinations and testing as directed by provider and within scope of site\n• Administers medication as directed by physician per site protocol\n• Documents administration of medication and immunizations in the medical record per site protocol\n• Provides patient/family education as instructed by the physician or site protocol\n• Documents such education in the medical record\n• Triages presenting patient complaint per site protocol\n• Verifies provider order and patient per site protocol\n• Collects and processes specimen according to manufacturer’s instructions and using proper technique\n• As part of our commitment to maintaining a safe and healthy workplace, all successful candidates will be required to undergo respiratory fit testing in compliance with occupational health and safety standards.\n\nSkills & Requirements\n• Bachelor's degree in nursing or one of the following:\n• Associate degree in nursing/related field accepted by the Texas Board of Nursing for the purposes of obtaining and maintaining an RN license with acceptance or current enrollment in a BSN program and a signed agreement\n• Technical Diploma in Nursing with acceptance or current enrollment in a BSN program and signed agreement\n• Must be currently enrolled in A Nursing Bridge Program working toward an MSN. Verified BSN-equivalency or a signed agreement is required.\n• RN License – Texas Board of Nursing or Nurse Licensure Compact\n• Basic Life Support from the American Heart Association required\n• 1 Year Professional Nursing Experience Required\n• 1 Year Critical Care experience and Pediatric nursing preferred.\n• ACLS and PALS preferred.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "The Woodlands, TX",
-    "job_city": "The Woodlands",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 30.165765399999998,
-    "job_longitude": -95.46113199999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DapYqvYz1Q9D8g5r9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's degree in nursing or one of the following:",
-        "Associate degree in nursing/related field accepted by the Texas Board of Nursing for the purposes of obtaining and maintaining an RN license with acceptance or current enrollment in a BSN program and a signed agreement",
-        "Technical Diploma in Nursing with acceptance or current enrollment in a BSN program and signed agreement",
-        "Must be currently enrolled in A Nursing Bridge Program working toward an MSN",
-        "Verified BSN-equivalency or a signed agreement is required",
-        "RN License – Texas Board of Nursing or Nurse Licensure Compact",
-        "Basic Life Support from the American Heart Association required",
-        "1 Year Professional Nursing Experience Required"
-      ],
-      "Responsibilities": [
-        "In this position, you will provide nursing care to patients by assessing, planning, educating, implementing, and evaluating age-appropriate care that incorporates family-centered principles and cost-effective care",
-        "Assist with five modalities of radiology nursing services, including interventional radiology support in the operating rooms",
-        "Prep and recover patients for radiological inpatient and outpatient procedures",
-        "Assists in the collection of patient/family data that may include biophysical, psychosocial, developmental, cultural, and environmental information per site protocol",
-        "Collects and documents vital signs, height/weight and reason for visit",
-        "Prepares patient for examination per site protocol",
-        "Assists provider, as directed, during treatments, examinations and testing as directed by provider and within scope of site",
-        "Administers medication as directed by physician per site protocol",
-        "Documents administration of medication and immunizations in the medical record per site protocol",
-        "Provides patient/family education as instructed by the physician or site protocol",
-        "Documents such education in the medical record",
-        "Triages presenting patient complaint per site protocol",
-        "Verifies provider order and patient per site protocol",
-        "Collects and processes specimen according to manufacturer’s instructions and using proper technique",
-        "As part of our commitment to maintaining a safe and healthy workplace, all successful candidates will be required to undergo respiratory fit testing in compliance with occupational health and safety standards"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "eohh-fa-us2-oraclecloud-com-hcmui-candidateexperience-en-sites-cx-job-422856",
     "_source": "new_jobs"
   },
   {
@@ -1706,9 +1635,9 @@
     "job_latitude": 40.2201787,
     "job_longitude": -74.7642295,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D-0BJcm7tYDGTl-sCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1753,119 +1682,6 @@
     "job_onet_soc": "29206100",
     "job_onet_job_zone": "3",
     "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "TAtvH6j2Mw09mhX0AAAAAA==",
-    "job_title": "RN Float - Registered Nurse Children's Resource Team",
-    "employer_name": "Sanford Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ41-pZBhEnINayl5wmRtv0BT3nZWNTJG33Z52j&s=0",
-    "employer_website": "https://www.sanfordhealth.org",
-    "job_publisher": "Sanford Health",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://sanfordcareers.com/fargo-nd/rn-float-registered-nurse-childrens-resource-team/51379A9064B94D34A049BD74BBF1A81B/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Sanford Health",
-        "apply_link": "https://sanfordcareers.com/fargo-nd/rn-float-registered-nurse-childrens-resource-team/51379A9064B94D34A049BD74BBF1A81B/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Sanford-Health/Job/RN-Float-Registered-Nurse-Childrens-Resource-Team/-in-Fargo,ND?jid=7a169e8c517cbdaf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=dc80dd5d204b38f8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/rn-float-registered-nurse-children-s-resource-team_7ea1a14ba9c6ac11699638f7c89f1bf4c8918?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/rn-float-registered-nurse-children-s-resource-team-at-sanford-health-4367367024?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "National Labor Exchange",
-        "apply_link": "https://usnlx.com/fargo-nd/rn-float-registered-nurse-childrens-resource-team/51379A9064B94D34A049BD74BBF1A81B/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/rn-float-registered-nurse-children-s-resource-team-fargo-nd--0b2898fe-de9c-40c5-9bb4-7d3321317c5c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/rn-float-registered-nurse-children-s-resource-team-sanford-health-JV_IC1156255_KO0,50_KE51,65.htm?jl=1010015987292&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Careers With Purpose\n\nSanford Health is one of the largest and fastest-growing not-for-profit health systems in the United States. We're proud to offer many development and advancement opportunities to our nearly 50,000 members of the Sanford Family who are dedicated to the work of health and healing across our broad footprint.\n\nFacility: Sanford Med Ctr Fargo\n\nLocation: Fargo, ND\n\nAddress: 5225 23rd Ave S, Fargo, ND 58104, USA\n\nShift: Rotating\n\nJob Schedule: Full time\n\nWeekly Hours: 36.00\n\nSalary Range: $32.00 - $48.00\n\nPay Info: ** Float team premium for children's resource team position!\n\nDepartment Details\n• Days & nights rotating position, every 3rd holiday, every 2nd or 3rd weekend\n\nA team of RNs who work in all areas of the Children’s Hospital including Pediatrics, Pediatric Day Unit, Pediatric Intensive Care Unit, and Neonatal Intensive Care Unit. Staff who are members of this team fill unit needs that occur due to above average census or acuity, vacations and medical leaves. The nurse working in this area has the ability to be flexible and intelligent as their assignment can be different every day. This group also fills the role of the Children’s Hospital Rescue Nurse who responds to Pediatric Rapid Response, Pediatric Trauma Codes and Pediatric Code Blues. A Children’s Rescue Nurse also provides Nitrous Oxide for pediatric procedures and acts as one of many resources for nurses providing direct patient care.\n• This position will have additional float pool incentive as well being eligible for additional night and weekend shift differential pay.\n• Applicable experience would be reviewed and factored into any potential offer.\n• Various growth opportunities available within this position and Sanford\n• $10,000 sign-on bonus with commitment for eligible applicants\n• One year of RN experience required. Sanford interns & practicum students may be considered.\n\nJob Summary\n\nThe Registered Nurse (RN) is responsible for utilizing the nursing process (assessment, diagnosis, outcomes/planning, implementation and evaluation) to provide individualized nursing care to patients. We’re looking for positive, compassionate, hardworking registered nurses (RN) who can provide high-quality care patients and families deserve. Registered nurses who thrive are adaptable, great communicators, detail-oriented and have excellent time management skills. Because innovation impacts everything we do, our nursing team is full of critical thinkers. Our Education team works hard to develop curricula that integrates evidence-based practices and engages with partners across our organization to provide our RNs the necessary skills and tools to succeed in your goals throughout your career.\n\nAvailable for you:\n• Nurse Residency Program\n• Robust on-boarding and training programs for continued growth and development.\n• Investment in technology to support efficiencies and new models of care.\n• A team-focused employee experience.\n\nQualifications\n\nGraduate from an accredited nursing program required, including, but not limited to, American Association of Colleges of Nursing (AACN), Accreditation Commission for Education in Nursing (ACEN), and National League for Nursing Commission for Nursing Education Accreditation (NLN CNEA). Bachelor’s Degree in nursing preferred.\n\nCurrently holds an unencumbered RN license with the State Board of Nursing where the practice of nursing is occurring and/or possess multistate licensure if in a Nurse Licensure Compact (NLC) state. Obtains and subsequently maintains required department specific competencies and certifications.\n\nBenefits\n\nSanford Health offers an attractive benefits package for qualifying full-time and part-time employees. Depending on eligibility, a variety of benefits include health insurance, dental insurance, vision insurance, life insurance, a 401(k) retirement plan, work/life balance benefits, and a generous time off package to maintain a healthy home-work balance. For more information about Total Rewards, visit https://sanfordcareers.com/benefits .\n\nSanford is an EEO/AA Employer M/F/Disability/Vet. If you are an individual with a disability and would like to request an accommodation for help with your online application, please call 1-877-673-0854 or send an email to talent@sanfordhealth.org .\n\nSanford Health has a Drug Free Workplace Policy. An accepted offer will require a drug screen and pre-employment background screening as a condition of employment.\n\nReq Number: R-0247479\n\nJob Function: Nursing\n\nFeatured: No",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Fargo, ND",
-    "job_city": "Fargo",
-    "job_state": "North Dakota",
-    "job_country": "US",
-    "job_latitude": 46.8771863,
-    "job_longitude": -96.7898034,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DTAtvH6j2Mw09mhX0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Applicable experience would be reviewed and factored into any potential offer",
-        "One year of RN experience required",
-        "Registered nurses who thrive are adaptable, great communicators, detail-oriented and have excellent time management skills",
-        "A team-focused employee experience",
-        "Graduate from an accredited nursing program required, including, but not limited to, American Association of Colleges of Nursing (AACN), Accreditation Commission for Education in Nursing (ACEN), and National League for Nursing Commission for Nursing Education Accreditation (NLN CNEA)",
-        "Currently holds an unencumbered RN license with the State Board of Nursing where the practice of nursing is occurring and/or possess multistate licensure if in a Nurse Licensure Compact (NLC) state",
-        "Obtains and subsequently maintains required department specific competencies and certifications",
-        "An accepted offer will require a drug screen and pre-employment background screening as a condition of employment"
-      ],
-      "Benefits": [
-        "Weekly Hours: 36.00",
-        "Salary Range: $32.00 - $48.00",
-        "Pay Info: ** Float team premium for children's resource team position!",
-        "Various growth opportunities available within this position and Sanford",
-        "$10,000 sign-on bonus with commitment for eligible applicants",
-        "Nurse Residency Program",
-        "Robust on-boarding and training programs for continued growth and development",
-        "Investment in technology to support efficiencies and new models of care",
-        "Sanford Health offers an attractive benefits package for qualifying full-time and part-time employees",
-        "Depending on eligibility, a variety of benefits include health insurance, dental insurance, vision insurance, life insurance, a 401(k) retirement plan, work/life balance benefits, and a generous time off package to maintain a healthy home-work balance",
-        "For more information about Total Rewards, visit https://sanfordcareers.com/benefits "
-      ],
-      "Responsibilities": [
-        "Days & nights rotating position, every 3rd holiday, every 2nd or 3rd weekend",
-        "A team of RNs who work in all areas of the Children’s Hospital including Pediatrics, Pediatric Day Unit, Pediatric Intensive Care Unit, and Neonatal Intensive Care Unit. Staff who are members of this team fill unit needs that occur due to above average census or acuity, vacations and medical leaves. The nurse working in this area has the ability to be flexible and intelligent as their assignment can be different every day. This group also fills the role of the Children’s Hospital Rescue Nurse who responds to Pediatric Rapid Response, Pediatric Trauma Codes and Pediatric Code Blues",
-        "A Children’s Rescue Nurse also provides Nitrous Oxide for pediatric procedures and acts as one of many resources for nurses providing direct patient care",
-        "This position will have additional float pool incentive as well being eligible for additional night and weekend shift differential pay",
-        "The Registered Nurse (RN) is responsible for utilizing the nursing process (assessment, diagnosis, outcomes/planning, implementation and evaluation) to provide individualized nursing care to patients"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "sanfordcareers-com-fargo-nd-rn-float-registered-nurse-childrens-resource-team-51379a9064b94d34a049bd74bbf1a81b-job",
     "_source": "new_jobs"
   },
   {
@@ -1920,8 +1736,8 @@
     "job_latitude": 38.794595199999996,
     "job_longitude": -106.5348379,
     "job_benefits": [
-      "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D6mzBwu1SmJ5oJUhXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1935,114 +1751,224 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "R6OvKfXlE0SOeNMgAAAAAA==",
-    "job_title": "Pediatric Home Health RN/LPN for Kiddos in Grand Island & Henderson, NE",
-    "employer_name": "Pediatric Home Service",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQvjd6nuwzT2b5nxcoUe2mtvfM5HpoFoxfY_0T&s=0",
-    "employer_website": "https://www.pediatrichomeservice.com",
-    "job_publisher": "Glassdoor",
-    "job_employment_type": "Full-time and Part-time",
+    "job_id": "FnJMNhCu5Z8bBP_vAAAAAA==",
+    "job_title": "LPN / RN Pediatric Home Health Nurse",
+    "employer_name": "Angels of Care Pediatric Home Health",
+    "employer_logo": null,
+    "employer_website": "https://angelsofcare.com",
+    "job_publisher": "Jobvite",
+    "job_employment_type": "Full-time",
     "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
+      "FULLTIME"
     ],
-    "job_apply_link": "https://www.glassdoor.com/job-listing/pediatric-home-health-rn-lpn-for-kiddos-in-grand-island-henderson-ne-pediatric-home-service-JV_IC1136313_KO0,68_KE69,91.htm?jl=1010029842254&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
+    "job_apply_link": "https://jobs.jobvite.com/angelsofcare/job/oh6Azfwg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/pediatric-home-health-rn-lpn-for-kiddos-in-grand-island-henderson-ne-pediatric-home-service-JV_IC1136313_KO0,68_KE69,91.htm?jl=1010029842254&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobvite",
+        "apply_link": "https://jobs.jobvite.com/angelsofcare/job/oh6Azfwg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Angels-of-Care-Pediatric-Home-Health/Job/LPN-RN-Pediatric-Home-Health-Nurse/-in-Fort-Pierce,FL?jid=5d80305e5393cef0&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/f1c794b993eb13e451ae7c6b62f30902?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/remote-rn-lpn-pediatric-home-health-fort-pierce-nursing-solutions-4f95618f98d0c21c032a6f75a3d4fb97?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
       },
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/rn-lpn-home-health-nurse-in-ogallala-ne-at-pediatric-home-service-4372031109?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/lpn-rn-pediatric-home-health-nurse-at-angels-of-care-pediatric-home-health-4370546392?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Getwork",
-        "apply_link": "https://www.getwork.com/details/4793407924?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/lpn-rn-pediatric-home-health-nurse-fort-pierce-florida/2593287286-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/3608304170429317120?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/rn-lpn-pediatric-home-health-nurse_efea5e58-54dd-4d78-b55b-64245ecdc662?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/grand-island/nebraska/nursing/4838636418/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1202404538?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-4112-af93d089c843cea6b9cec48376555384?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
+        "publisher": "KHON2 Jobs",
+        "apply_link": "https://jobs.khon2.com/jobs/lpn-rn-pediatric-home-health-nurse-fort-pierce-florida/2593287286-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       }
     ],
-    "job_description": "Fall into a Fun and Fulfilling Career\n\nAre you ready to make this fall unforgettable? Join our team of pediatric nurses and dive into a season of care, compassion, and colorful adventures! At Pediatric Home Service, we believe in nurturing young hearts and minds with every step of the way.\n\nTHE POSITION\n• Location: Grand Island, NE\n• Hours: Occasional Friday & Saturday nights 10p-7a\n• Client Specifics: 3 year old with g-tube, trach, and vent\n• Location: Grand Island, NE\n• Hours: 3 days a week from 3:15p- 8:30p / Occasional days when out of school 7a-4:30p / Occasional weekend coverage 8a-8p\n• Client Specifics: 16 year old with g-tube\n• Location: Henderson, NE\n• Hours: Tuesday/Thursday-Saturday 9:30p-7:30a / 3 days a week from 7:30a-5:30p\n• Client Specifics: 5 year old with trach, vent, and g-tube\n\nAsk about our Sign-on Bonus!\n\nTHE COMPANY\n\nSince 1990, Pediatric Home Service has been creating heartwarming memories in the world of pediatric nursing. We're all about providing top-notch one-on-one care to kids with medical complexities, helping them live their best lives at home, school, and within their communities. From tiny tots to young adults, we've got a variety of patients who might have trach, ventilator, or g-tubes.\n\nTRAINING & SUPPORT\n\nJoin our dynamic team and get ready for some serious teamwork! We offer specialized, hands-on training in ventilator, trach, and g-tube care—so no experience is required to get started. We’ll help you breeze through the learning curve and into a role that truly makes a difference. With 24/7 support from our dedicated team, you’ll never feel alone. Pediatric experience is a plus, but if you’ve got heart and a willingness to learn, you’ll fit right in with our warm and welcoming crew!\n\nBENEFITS\n\nDive into a pile of perks when you join our crew:\n• Flexible Scheduling\n• Medical, Dental, & Vision\n• Company-paid Life Insurance\n• 401k Matching\n• 100+ Hours of Paid Time Off for full-time employees, their first year\n• Tuition Reimbursement\n\nReady to fall in love with your nursing career? RNs and LPNs Apply Now and let's embrace the warmth of teamwork and the beauty of pediatric care at PHS!\n\nCheck out our Facebook (Pediatric Home Service Careers - Nebraska) and Instagram page (@PHSKidsHomeCare) to see our openings, photos of our clients and case specifics!\n\nPediatric Home Service is an equal opportunity employer; we are committed to affirmative action and equal employment opportunities for all regardless of protected veteran status, race, color, creed, religion, national origin, sex, sexual orientation or identity, disability, age, marital status, familial status, membership or activity in a local human rights commission, or status with regard to public assistance.\n\n#GreatPlainsPDN\n\nJob Types: Full-time, Part-time, PRN\n\nBenefits:\n• 401(k)\n• 401(k) matching\n• Dental insurance\n• Employee assistance program\n• Flexible schedule\n• Health insurance\n• Life insurance\n• Paid time off\n• Referral program\n• Tuition reimbursement\n• Vision insurance\n\nApplication Question(s):\n• Please provide a good email for us to contact you!\n• Please provide RN or LPN Nursing License Number:\n\nLicense/Certification:\n• RN or LPN Nursing License (Required)\n\nWork Location: In person",
+    "job_description": "Angels of Care Pediatric Home Health is looking for Registered Nurses (RN) and Licensed Practical Nurses (LPN) in Fort Pierce, FL and surrounding areas.\n\nAngels of Care has been caring for the medically fragile community across the nation since 2000! We pride ourselves on our values: Heart, Advocacy, Love, Outreach, and Speed! #HALOS\n\nPay Range: $27-$32/hr\n\nAngels of Care nurses provide direct, one-on-one medical care and make a difference in the lives of their patients and families.\nWe are looking for Registered Nurses (RN) & Licensed Practical Nurses (LPN) to work full-time and part-time shifts (days, nights and weekends available). Job duties include but are not limited to:\n• Focus on the medical needs and treatment of infants, children, and/or adolescents primarily in their home according to the active plan of care, as given by the physician and other appropriate personnel.\n• Conduct on-going patient care and assessments.\n• Administration of prescribed medication, treatments, and therapies.\n• Coordination of care\n• Educate family members on patient clinical care to enhance positive outcomes\n• Preventative initiatives to protect quality of care for patient\n\nWhy Angels of Care:\n\nWe have a full benefits package, outlined below. Among these great benefits, we LOVE our employees! We advocate for our field staff, go above and beyond for you and we keep you informed on ways you can help advocate for the clients we serve!\n• Patient centered care\n• Company culture founded on loving and supporting our employees and patients\n• Medical, Dental, & Vision Health Plans\n• Paid Time Off\n• Competitive Weekly pay\n• Flexible/dependable scheduling (8/10/12/16 hour shifts available)\n• 1:1 patient care ratio\n• Competitive pay\n• Company paid Life Insurance\n• 24/7 Clinical Support\n• Paid/unlimited exceptional SIM lab and live client training\n• Ongoing clinical education and professional growth opportunities\n• Annual Car Giveaway\n\nAre You the Right Candidate?\n\nPlease apply if you have the following qualifications.\n• Active RN or LPN/LVN license (New Grads Welcome, training provided!)\n• Provide care in a client home setting\n• Ability to make a positive and lasting impression!\n\nU.S. Equal Employment Opportunity/Affirmative Action Information\n\nIndividuals seeking employment at Angels of Care Pediatric Home Health are considered without regards to race, color, religion, sex, sexual orientation, gender identification, national origin, age, marital status, ancestry, physical or mental disability, or veteran status.\n\nOur Mission\n\nWe provide children and young adults in need with high-quality home health care in a loving, caring and professional manner.\nOur Vision\n\nWe want to be considered the very best pediatric home health agency.\nOur Values\n\nHeart – Our clients are the heart of everything we do. Every decision made at Angels of Care is made with the client’s best interest in mind. We go above and beyond to ensure appropriate services are provided to these families through continuity of care.\n\nAdvocacy – We will advocate for our clients, industry, providers, and compliance. Our team has a significant presence in both the Texas Association of Home Care and Hospice and the Home Care Association of Colorado. Our team is frequently involved in meetings with legislatures, home care state executives, managed care organizations and other industry leaders to ensure the appropriate services are accessible to the families we serve. Compliance is an integral part of all Angels of Care processes. The robust compliance team and compliance program at Angels of Care works to ensure that all rules and regulations are followed to allow for clinical and compliance excellence.\n\nLove – We love our employees and will go above and beyond for them. We believe that if our employees feel the love that they will love their job. If our employees love their job they can help us love our clients, which is the heart of everything we do. Our employees are truly part of the AOC family.\n\nOutreach – We will have outreach into the special needs community. We encourage employees to become part of the special needs community. Being involved in this community drives a sense of purpose behind the job that our employees do.\n\nSpeed – We will act with speed to ensure our employees, clients and families are taken care of with the upmost priority. We understand that every minute counts and that these families rely on us to act quickly and be responsive to the needs of their children.",
     "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Grand Island, NE",
-    "job_city": "Grand Island",
-    "job_state": "Nebraska",
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Fort Pierce, FL",
+    "job_city": "Fort Pierce",
+    "job_state": "Florida",
     "job_country": "US",
-    "job_latitude": 40.9263957,
-    "job_longitude": -98.3420118,
+    "job_latitude": 27.4469878,
+    "job_longitude": -80.3259631,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DR6OvKfXlE0SOeNMgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFnJMNhCu5Z8bBP_vAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Client Specifics: 16 year old with g-tube",
-        "Client Specifics: 5 year old with trach, vent, and g-tube",
-        "We offer specialized, hands-on training in ventilator, trach, and g-tube care—so no experience is required to get started",
-        "RN or LPN Nursing License (Required)"
+        "Active RN or LPN/LVN license (New Grads Welcome, training provided!)",
+        "Provide care in a client home setting",
+        "Ability to make a positive and lasting impression!"
       ],
       "Benefits": [
-        "Dive into a pile of perks when you join our crew:",
-        "Flexible Scheduling",
-        "Medical, Dental, & Vision",
-        "Company-paid Life Insurance",
-        "401k Matching",
-        "100+ Hours of Paid Time Off for full-time employees, their first year",
-        "Tuition Reimbursement",
-        "401(k)",
-        "401(k) matching",
-        "Dental insurance",
-        "Employee assistance program",
-        "Flexible schedule",
-        "Health insurance",
-        "Life insurance",
-        "Paid time off",
-        "Referral program",
-        "Tuition reimbursement",
-        "Vision insurance"
+        "Pay Range: $27-$32/hr",
+        "We have a full benefits package, outlined below",
+        "Among these great benefits, we LOVE our employees!",
+        "Medical, Dental, & Vision Health Plans",
+        "Paid Time Off",
+        "Competitive Weekly pay",
+        "Flexible/dependable scheduling (8/10/12/16 hour shifts available)",
+        "1:1 patient care ratio",
+        "Competitive pay",
+        "Company paid Life Insurance",
+        "24/7 Clinical Support",
+        "Ongoing clinical education and professional growth opportunities",
+        "Annual Car Giveaway"
       ],
       "Responsibilities": [
-        "Hours: Occasional Friday & Saturday nights 10p-7a",
-        "Client Specifics: 3 year old with g-tube, trach, and vent",
-        "Hours: 3 days a week from 3:15p- 8:30p / Occasional days when out of school 7a-4:30p / Occasional weekend coverage 8a-8p",
-        "Hours: Tuesday/Thursday-Saturday 9:30p-7:30a / 3 days a week from 7:30a-5:30p"
+        "Focus on the medical needs and treatment of infants, children, and/or adolescents primarily in their home according to the active plan of care, as given by the physician and other appropriate personnel",
+        "Conduct on-going patient care and assessments",
+        "Administration of prescribed medication, treatments, and therapies",
+        "Coordination of care",
+        "Educate family members on patient clinical care to enhance positive outcomes",
+        "Preventative initiatives to protect quality of care for patient",
+        "Patient centered care",
+        "Paid/unlimited exceptional SIM lab and live client training",
+        "Compliance is an integral part of all Angels of Care processes"
       ]
     },
     "job_onet_soc": "29206100",
     "job_onet_job_zone": "3",
-    "id": "www-glassdoor-com-job-listing-pediatric-home-health-rn-lpn-for-kiddos-in-grand-island-henderson-ne-pediatric-home-service-jv_ic1136313_ko0-68_ke69-91-htm",
+    "id": "jobs-jobvite-com-angelsofcare-job-oh6azfwg",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "VWkNgAl8huDxTNMjAAAAAA==",
+    "job_title": "RN Triage - Pediatrics West Fargo Clinic",
+    "employer_name": "Sanford Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ41-pZBhEnINayl5wmRtv0BT3nZWNTJG33Z52j&s=0",
+    "employer_website": "https://www.sanfordhealth.org",
+    "job_publisher": "Sanford Health",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://sanfordcareers.com/west-fargo-nd/rn-triage-pediatrics-west-fargo-clinic/396F42CFE2624B8ABD96793AAA169DE7/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Sanford Health",
+        "apply_link": "https://sanfordcareers.com/west-fargo-nd/rn-triage-pediatrics-west-fargo-clinic/396F42CFE2624B8ABD96793AAA169DE7/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Sanford-Health/Job/PCT-Pediatrics-West-Fargo-Clinic/-in-West-Fargo,ND?jid=f9b29ff9bf4d7fea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=674d51568bd4f01a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/rn-obgyn_7ea1adce0d896bbf910c6356ede6d45ecec49?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/rn-triage-pediatrics-west-fargo-clinic-sanford-health-JV_IC1156266_KO0,38_KE39,53.htm?jl=1009852894927&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Workday",
+        "apply_link": "https://sanford.wd5.myworkdayjobs.com/en-US/SanfordHealth/job/RN-Triage---Pediatrics-West-Fargo-Clinic_R-0233432?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/HJashnHD08mYfPOohcagJwdlckAr_gDkiyOdk3knPkuH7vx-_m3tZg?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1202351194?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Careers With Purpose\n\nSanford Health is one of the largest and fastest-growing not-for-profit health systems in the United States. We're proud to offer many development and advancement opportunities to our nearly 50,000 members of the Sanford Family who are dedicated to the work of health and healing across our broad footprint.\n\nFacility: West Fargo Clinic\n\nLocation: West Fargo, ND\n\nAddress: 1220 Sheyenne St, West Fargo, ND 58078, USA\n\nShift: Day\n\nJob Schedule: Flex\n\nWeekly Hours: 28.00\n\nSalary Range: $29.50 - $44.50\n\nPay Info: . $15,000 Sign On Bonus available for Qualified Candidates!\n\nDepartment Details\n\nJoin our super fun environment at the West Fargo Pediatrics Clinic working as a phone nurse supporting the children in our community.\n\nThe clinic is open Monday through Friday 8:00 - 5:00.\n\nJob Summary\n\nAnswers patient inquiries over the telephone, assessing the severity of the patient's symptoms and medical needs according to triage algorithms. Guides the patient to the appropriate level of care; schedules patient appointments over the phone with appropriate healthcare providers/facilities/physicians. Documents information provided to patients during triage in health record systems; records patients health conditions for follow-up patient care. Maintains and develops triage protocols; ensures patients' healthcare information is updated on time. Role does answer inquiries through multiple variations of technology, depending on department. Educate patients based on calls that come in.\n\nQualifications\n\nGraduate from an accredited nursing program preferred, including, but not limited to, American Association of Colleges of Nursing (AACN), Accreditation Commission for Education in Nursing (ACEN), and National League for Nursing Commission for Nursing Education Accreditation (NLN CNEA). Bachelor’s Degree in nursing preferred.\n\nOne year of healthcare experience preferred.\n\nCurrently holds an unencumbered RN license with the State Board of Nursing where the practice of nursing is occurring and/or possess multistate licensure if in a Nurse Licensure Compact (NLC) state. Nurses performing nursing practice over the telephone require licensure in the states where the patients being served reside. Within first 30 days of employment, all requirements to obtain license needed for role is completed. Obtains and subsequently maintains required department specific competencies and certifications. Obtains and subsequently maintains required department specific competencies and certifications.\n\nBenefits\n\nSanford Health offers an attractive benefits package for qualifying full-time and part-time employees. Depending on eligibility, a variety of benefits include health insurance, dental insurance, vision insurance, life insurance, a 401(k) retirement plan, work/life balance benefits, and a generous time off package to maintain a healthy home-work balance. For more information about Total Rewards, visit https://sanfordcareers.com/benefits .\n\nSanford is an EEO/AA Employer M/F/Disability/Vet. If you are an individual with a disability and would like to request an accommodation for help with your online application, please call 1-877-673-0854 or send an email to talent@sanfordhealth.org .\n\nSanford Health has a Drug Free Workplace Policy. An accepted offer will require a drug screen and pre-employment background screening as a condition of employment.\n\nReq Number: R-0233432\n\nJob Function: Nursing\n\nFeatured: No",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "West Fargo, ND",
+    "job_city": "West Fargo",
+    "job_state": "North Dakota",
+    "job_country": "US",
+    "job_latitude": 46.8769487,
+    "job_longitude": -96.89990569999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVWkNgAl8huDxTNMjAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Currently holds an unencumbered RN license with the State Board of Nursing where the practice of nursing is occurring and/or possess multistate licensure if in a Nurse Licensure Compact (NLC) state",
+        "Nurses performing nursing practice over the telephone require licensure in the states where the patients being served reside",
+        "Within first 30 days of employment, all requirements to obtain license needed for role is completed",
+        "Obtains and subsequently maintains required department specific competencies and certifications",
+        "Obtains and subsequently maintains required department specific competencies and certifications",
+        "An accepted offer will require a drug screen and pre-employment background screening as a condition of employment"
+      ],
+      "Benefits": [
+        "Weekly Hours: 28.00",
+        "Salary Range: $29.50 - $44.50",
+        "Pay Info: . $15,000 Sign On Bonus available for Qualified Candidates!",
+        "Sanford Health offers an attractive benefits package for qualifying full-time and part-time employees",
+        "Depending on eligibility, a variety of benefits include health insurance, dental insurance, vision insurance, life insurance, a 401(k) retirement plan, work/life balance benefits, and a generous time off package to maintain a healthy home-work balance",
+        "For more information about Total Rewards, visit https://sanfordcareers.com/benefits "
+      ],
+      "Responsibilities": [
+        "Answers patient inquiries over the telephone, assessing the severity of the patient's symptoms and medical needs according to triage algorithms",
+        "Guides the patient to the appropriate level of care; schedules patient appointments over the phone with appropriate healthcare providers/facilities/physicians",
+        "Documents information provided to patients during triage in health record systems; records patients health conditions for follow-up patient care",
+        "Maintains and develops triage protocols; ensures patients' healthcare information is updated on time",
+        "Role does answer inquiries through multiple variations of technology, depending on department",
+        "Educate patients based on calls that come in"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "sanfordcareers-com-west-fargo-nd-rn-triage-pediatrics-west-fargo-clinic-396f42cfe2624b8abd96793aaa169de7-job",
     "_source": "new_jobs"
   },
   {
@@ -2151,177 +2077,203 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "hInfSBAbA0IU9XNdAAAAAA==",
-    "job_title": "Pediatric Nurse; LPN",
-    "employer_name": "Aveanna Healthcare",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQvcRf-HCJ31S5x52_PUiTsAsG5iiUh7CTaa9m&s=0",
-    "employer_website": "https://www.aveanna.com",
-    "job_publisher": "Learn4Good",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.learn4good.com/jobs/minnesota/nursing/4838841087/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/minnesota/nursing/4838841087/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position: Pediatric Nurse (LPN)\nLocation: Sauk Centre\n\nLicensed Practical Nurse – Home & School Pediatric Nursing\n\nThis kiddo needs a school nurse - Apply today or call\n\nSpecial school rate applies to this position.\n\nJoin a Company That Puts People First! We Are One Of The Largest Homecare Nursing Companies In The Nation And Growing! At Aveanna, We’re Proud To Foster a Workplace Culture That Celebrates Diversity, Encourages Connection, And Supports Our Team Members Every Step Of The Way.\nAward-Winning Culture\n• Indeed’s Work Wellbeing Top 100 Company in 2024\n• Best Company for Work-Life Balance, Happiest Employees and Culture and Best CEO in 2024, as ranked by Comparably\nWhy Join Us?\n• Health, Dental, Vision and Company-Paid Life Insurance\n• Paid Time Off Available\n• Flexible scheduling- full-time, part-time, or PRN. Days, nights, and weekend shifts— we will work with your availability!\n• 24/7 Local support from operators and clinicians\n• Aveanna has a tablet in each patient’s home allowing for electronic documentation\n• Career Pathing with opportunities for skill advancement\n• Weekly and/or Daily Pay\n• Employee Stock Purchase Plan with 15% discount\n• Employee Relief Fund\n• Newly hired Variable Hour and Part Time employees are measured for eligibility into our ACA Benefits plans over their first twelve months of employment (also known as the Initial Measurement Period). Employees who work at least 130 hours per calendar month over this Initial Measurement Period will be invited to enroll in our ACA Benefits Plans, which offer an array of enhanced benefit plan options.\n\nIf you meet the requirement under the twelve-month Measurement Period, you will also be eligible for your choice of major medical plans, dental and vision coverage.\n• Benefit eligibility can vary and is dependent upon employment status and employment location\n\nWe consider it both a privilege and an honor when we welcome a new patient into our Aveanna family. Our homecare is always delivered from a place of heartfelt compassion and empathy, and every one of our Registered Nurses (RN) s works together to make sure we achieve outstanding clinical outcomes. Aveanna isn’t just a provider of compassionate homecare to children and adults.\n\nWe are a national leader.\nQualifications\n• Must have and maintain an active, unencumbered license (RN) in the state in which the clinician will practice\n• Current CPR certification (with hands-on component)- Aveanna can assist in obtaining this requirement after hire, if necessary.\n• TB skin test (current within last 12 months)\n• Six months prior hands-on nursing experience preferred but not required\n• Must have reliable transportation\n\nAveanna Healthcare is an Equal Opportunity Employer and encourages applicants from diverse backgrounds to apply.\n\nAs an employer accepting Medicare and Medicaid funds, employees must comply with all health-related requirements in all relevant jurisdictions, including required vaccinations and testing, subject to exemptions for medical or religious reasons as appropriate.\n\nNotice for Job Applicants Residing in California\n\nNotice for Job Applicants Residing in Florida\n#J-18808-Ljbffr",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1769990400,
-    "job_posted_at_datetime_utc": "2026-02-02T00:00:00.000Z",
-    "job_location": "Sauk Centre, MN",
-    "job_city": "Sauk Centre",
-    "job_state": "Minnesota",
-    "job_country": "US",
-    "job_latitude": 45.737465,
-    "job_longitude": -94.9525216,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DhInfSBAbA0IU9XNdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 60000,
-    "job_max_salary": 80000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Must have and maintain an active, unencumbered license (RN) in the state in which the clinician will practice",
-        "Current CPR certification (with hands-on component)- Aveanna can assist in obtaining this requirement after hire, if necessary",
-        "TB skin test (current within last 12 months)",
-        "Must have reliable transportation"
-      ],
-      "Benefits": [
-        "Health, Dental, Vision and Company-Paid Life Insurance",
-        "Paid Time Off Available",
-        "Flexible scheduling- full-time, part-time, or PRN",
-        "Days, nights, and weekend shifts— we will work with your availability!",
-        "Career Pathing with opportunities for skill advancement",
-        "Weekly and/or Daily Pay",
-        "Employee Stock Purchase Plan with 15% discount",
-        "Employee Relief Fund",
-        "Newly hired Variable Hour and Part Time employees are measured for eligibility into our ACA Benefits plans over their first twelve months of employment (also known as the Initial Measurement Period)",
-        "Employees who work at least 130 hours per calendar month over this Initial Measurement Period will be invited to enroll in our ACA Benefits Plans, which offer an array of enhanced benefit plan options",
-        "If you meet the requirement under the twelve-month Measurement Period, you will also be eligible for your choice of major medical plans, dental and vision coverage",
-        "Benefit eligibility can vary and is dependent upon employment status and employment location"
-      ],
-      "Responsibilities": [
-        "24/7 Local support from operators and clinicians",
-        "Aveanna has a tablet in each patient’s home allowing for electronic documentation"
-      ]
-    },
-    "job_onet_soc": "29206100",
-    "job_onet_job_zone": "3",
-    "id": "www-learn4good-com-jobs-minnesota-nursing-4838841087-e",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "A_H3l7biLgyQ2hZdAAAAAA==",
-    "job_title": "Pediatric In-Home Care Nurse (FLORESVILLE)",
-    "employer_name": "Care Options for Kids",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQr3gdYQ6Pus6TdoV9TSi0F8lhZCJPLOsqUSjYJ&s=0",
-    "employer_website": "https://careoptionsforkids.com",
+    "job_id": "qrJ-o6TAZAVqEvhIAAAAAA==",
+    "job_title": "LPN / RN PDN (Pediatric to Young Adult) Fri / Sat overnight",
+    "employer_name": "Phoenix Home Care & Hospice",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtnBe0cRNlS4DrecQii2JkdM3v_nLacW1kAjVs&s=0",
+    "employer_website": "https://phoenixhomehc.com",
     "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=6d25ee46e3ac&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=867bb2918954&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=6d25ee46e3ac&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/registered-nurse?id=2458058784&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/b3bcae49547765fe357bb7d2cd85ab34?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobted",
-        "apply_link": "https://www.jobted.com/job/a715a77799107f74a6f9a7c00264b8c8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/3022150948249141248?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=867bb2918954&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "About the Role\n\nWe are seeking a warm, dedicated nurses to care for our kiddos in Floresville with Days and night shifts open. If you're a compassionate professional with experience in pediatric complex care, we would love to hear from you. Your heart and skill could make all the difference.\n\nAt Care Options for Kids, a pediatric home health care company providing one-on-one care in the home, we do things a little differently. There's no revolving door of patients or hospital setting chaos blinking call lights, scurrying doctors, and wards bursting at the seams. You work with self-sufficient autonomy, empowered to make a real difference in your clients' lives. We value your clinical knowledge and respect the deep one-on-one bond you establish with the families you care for.\n\nBenefits forLicensed Vocational Nurses (LVNs)\n\nPaid Time Off (PTO) and flexible schedule\n\nMedical, dental, and vision coverage\n\n401(k) retirement plan\n\nWeekly pay and direct deposit\n\nEmployee events\n\nNumerous Top Workplace awards\n\n24 / 7 on-call for support\n\nTraining opportunities\n\nSign on bonus for eligible nurses\n\nNurse Referral Bonus\n\nCompetitive pay with overtime built into your schedule\n\nResponsibilities forLicensed Vocational Nurses (LVNs)\n\nMedication administration per physician orders\n\nPhysician ordered treatments for :\n\nNutrition via a feeding tube\n\nTracheostomy care\n\nSuctioningnasal, oral and / or endotracheal\n\nVentilation care\n\nSeizure assessment and treatment\n\nRequirements for Licensed Vocational Nurses (LVNs)\n\nCurrent, active Texas LVN license\n\nCurrent BLS CPR card (obtained in-person, not online)\n\nG-tube, trach, vent experience, or willing to train\n\nAbout Care Options for Kids\n\nCare Options for Kids is the leading provider of pediatric nursing services. Our mission is to provide high-quality pediatric services that help children and families live their best lives. Achieving that mission can only be accomplished with talented and caring nurses like you.\n\nWith locations in Colorado, Texas, Arizona, Nevada, Florida, Oregon, Washington, California, Wyoming, New Jersey, Delaware, and Pennsylvania, the Care Options for Kids Community offers a wide range of pediatric health services, including pediatric nursing and therapies, ABA therapy, nursing, Family Caregiver Services, and school-based services.\n• Bonus for eligible cases only. The eligible employee will receive $500 for every 250 billable hours worked up to $2,500. Eligible employees must complete the pre-onboarding process within 10 days of submission of the initial application. Valid for first-time employees only and on completion of all required documents. Parents and / or Guardians of a Care Options for Kids clients or a potential Care Options for Kids clients are not eligible to receive a bonus. Not to be combined with any other Care Options for Kids offers. Talk with your dedicated recruiter for more information.\n\n#APPNUSATX\n\n#RDNUSATX\n\nSalary :\n\n$23.00 - $30.00 / hour",
+    "job_description": "PRIVATE DUTY NURSE – SMALL TOWN CARE, BIG IMPACT\n\nLocation : Villa Ridge, MO\n\nFull-Time, Part-Time, and PRN Shifts Available in most areas.\n\nTired of running from room to room?\n\nReady to actually KNOW your patient?\n\nPrivate Duty Nursing with Phoenix means slowing down, connecting deeply, and providing true one-on-one care in the comfort of a patient’s home.\n\nThis is nursing the way many nurses imagined it would be — relationship-based, focused, and meaningful.\n\nWHAT MAKES THIS DIFFERENT\n• One patient at a time\n• No facility chaos or overloaded assignments\n• Consistent schedules and long-term cases\n• Work close to home in your community\n• Build real bonds with patients and families\n\nYou’re not just providing care — you’re becoming part of someone’s support system during the moments that matter most.\n\nPAY & PERKS\n• Competitive pay based on experience\n• Weekly pay\n• Days, nights, and weekends available\n• Paid training and ongoing support\n• Mileage reimbursement (where applicable)\n\nBENEFITS AVAILABLE\n• Medical, Dental, and Vision plans\n• 401(k) options\n• Paid Time Off\n• Life Insurance & Disability options\n• Employee recognition programs\n\nWHAT YOU’LL DO\n• Provide skilled, one-on-one nursing care in the home\n• Medication administration and management\n• Monitor and document patient condition\n• Perform treatments as ordered by the physician\n• Educate and support family members\n• Work closely with the Phoenix clinical team for ongoing support\n\nWHAT YOU NEED\n• Active MO RN or LPN license (or Compact License)\n• Strong assessment and communication skills\n• Compassionate, dependable, and self-motivated\n• Valid driver’s license and reliable transportation\n\nWHO THIS ROLE IS PERFECT FOR\n• Nurses burned out from facility work\n• Nurses who want more meaningful patient relationships\n• Nurses looking for flexible schedules\n• Semi-retired nurses who still want to make a difference\n• Nurses who want to serve patients in their own community\n\nAt Phoenix Home Care & Hospice, our mission is to create New Beginnings — for our patients and for our nurses. We lead with compassion, integrity, and a deep commitment to supporting our clinical teams every step of the way.\n\nIf you’re ready for nursing that feels personal again, we’d love to talk with you.\n\nApply today and bring your nursing skills back to what matters most.\n\nCheck out this video to see a little glimpse into working for Phoenix!\n\nRequirements",
     "job_is_remote": false,
     "job_posted_at": "4 days ago",
     "job_posted_at_timestamp": 1770681600,
     "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Floresville, TX",
-    "job_city": "Floresville",
-    "job_state": "Texas",
+    "job_location": "Villa Ridge, MO",
+    "job_city": "Villa Ridge",
+    "job_state": "Missouri",
     "job_country": "US",
-    "job_latitude": 29.133578099999998,
-    "job_longitude": -98.15611919999999,
+    "job_latitude": 38.4725525,
+    "job_longitude": -90.8868042,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DA_H3l7biLgyQ2hZdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqrJ-o6TAZAVqEvhIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Requirements for Licensed Vocational Nurses (LVNs)",
-        "Current, active Texas LVN license",
-        "Current BLS CPR card (obtained in-person, not online)",
-        "G-tube, trach, vent experience, or willing to train"
+        "Active MO RN or LPN license (or Compact License)",
+        "Strong assessment and communication skills",
+        "Compassionate, dependable, and self-motivated",
+        "Valid driver’s license and reliable transportation",
+        "Nurses who want to serve patients in their own community"
       ],
       "Benefits": [
-        "Licensed Vocational Nurses (LVNs)",
-        "Paid Time Off (PTO) and flexible schedule",
-        "Medical, dental, and vision coverage",
-        "401(k) retirement plan",
-        "Weekly pay and direct deposit",
-        "Numerous Top Workplace awards",
-        "24 / 7 on-call for support",
-        "Sign on bonus for eligible nurses",
-        "Nurse Referral Bonus",
-        "Competitive pay with overtime built into your schedule",
-        "Bonus for eligible cases only",
-        "The eligible employee will receive $500 for every 250 billable hours worked up to $2,500",
-        "Parents and / or Guardians of a Care Options for Kids clients or a potential Care Options for Kids clients are not eligible to receive a bonus",
-        "Not to be combined with any other Care Options for Kids offers",
-        "$23.00 - $30.00 / hour"
+        "No facility chaos or overloaded assignments",
+        "Consistent schedules and long-term cases",
+        "Work close to home in your community",
+        "Build real bonds with patients and families",
+        "PAY & PERKS",
+        "Competitive pay based on experience",
+        "Weekly pay",
+        "Days, nights, and weekends available",
+        "Paid training and ongoing support",
+        "Mileage reimbursement (where applicable)",
+        "BENEFITS AVAILABLE",
+        "Medical, Dental, and Vision plans",
+        "401(k) options",
+        "Paid Time Off",
+        "Life Insurance & Disability options",
+        "Employee recognition programs"
       ],
       "Responsibilities": [
-        "You work with self-sufficient autonomy, empowered to make a real difference in your clients' lives",
-        "Licensed Vocational Nurses (LVNs)",
-        "Medication administration per physician orders",
-        "Physician ordered treatments for :",
-        "Nutrition via a feeding tube",
-        "Tracheostomy care",
-        "Suctioningnasal, oral and / or endotracheal",
-        "Ventilation care",
-        "Seizure assessment and treatment"
+        "Full-Time, Part-Time, and PRN Shifts Available in most areas",
+        "Private Duty Nursing with Phoenix means slowing down, connecting deeply, and providing true one-on-one care in the comfort of a patient’s home",
+        "You’re not just providing care — you’re becoming part of someone’s support system during the moments that matter most",
+        "Provide skilled, one-on-one nursing care in the home",
+        "Medication administration and management",
+        "Monitor and document patient condition",
+        "Perform treatments as ordered by the physician",
+        "Educate and support family members",
+        "Work closely with the Phoenix clinical team for ongoing support"
       ]
     },
-    "job_onet_soc": "29106500",
-    "job_onet_job_zone": "5",
+    "job_onet_soc": "29206100",
+    "job_onet_job_zone": "3",
     "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "EarVad7WOG4EtxleAAAAAA==",
+    "job_title": "Clinical Nurse Coordinator Pediatrics ICU",
+    "employer_name": "Las Palmas Medical Center",
+    "employer_logo": null,
+    "employer_website": "https://www.laspalmasdelsolhealthcare.com",
+    "job_publisher": "HCA Healthcare",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17044262-clinical-nurse-coordinator-pediatrics-icu?utm_source=bandana&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "HCA Healthcare",
+        "apply_link": "https://careers.hcahealthcare.com/jobs/17044262-clinical-nurse-coordinator-pediatrics-icu?utm_source=bandana&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=d3539dcfba8aac4f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "IntelyCare",
+        "apply_link": "https://www.intelycare.com/jobs/169287775-clinical-nurse-coordinator-pediatrics-icu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/clinical-nurse-coordinator-pediatrics-icu-el-paso-tx--8dbe9feb-fa7e-48d1-a98e-e35b61948200?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/clinical-nurse-coordinator-pediatric-icu-el-paso-hca-7785257d6a4de0beee41e52f24be02cb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/94PkmpmJbdePI8V6db0Vk1avrcCqWni2QNszDT9wba3eZRhrwMOAKw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Women In Business & Industry",
+        "apply_link": "https://wib-i.com/el-paso-tx/clinical-nurse-coordinator-pediatrics-icu/151ED5A72C1243F7B836FDFD36B1DC4C/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/clinical-nurse-coordinator-pediatrics-icu-at-las-palmas-medical-center-4336205391?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Introduction\n\nDo you have the career opportunities as a Clinical Nurse Coordinator Pediatrics ICU you want in your current role? We invest in what matters most to nurses like you – at home, at work, and at every stage in your career. We have an exciting opportunity for you to join Las Palmas Medical Center which is a part of the nation’s leading provider of healthcare services, HCA Healthcare.\n\nDo you want to work where you have a voice? Nurses are at the forefront of our commitment to the care and improvement of human life. At HCA Healthcare, there are many ways for nurses to have a voice through professional practice councils, advisory councils, vital voices surveys, and units of distinction. We learn from our multi-generational nursing family. We partner with our Nurses at Las Palmas Medical Center!\n\nJob Summary and Qualifications\n\nAs the PICU Clinical Coordinator you will collaborate with all other healthcare disciplines to achieve successful execution of the patient’s plan-of-care and goals of the department. You will serves as a professional role-model and interfaces directly with patients, families, physicians and staff. You will utilizes physical assessment skills and advanced diagnostic technology to aid in the assessment of the patient’s nursing care needs. You will continues to monitor and assess the patient’s physical condition, emotional and social needs, continually refining the plan-of-care to ensure achievement of the desired goals of the patient and facility outcomes.\n• You will develop/approve unit schedules according to staffing guidelines.\n• You coordinate employees’ attendance at scheduled/required education programs\n• You will interpret hospital and personnel policies to physician, nursing staff, patients, visitors and other hospital personnel.\n• You complete patient and employee incident reports and related paperwork within 24 hours of incident.\n• You will coordinate unit functions with other hospital departments.\n• You will maintain complete staff/patient assignment records 100% of the time.\n• Assign staff according to staff abilities and skills and the patient’s acuity.\n\nWhat qualifications you will need:\n\nExperience\n• 1 Year of RN experience - Required\n\nEducation\n• Associates degree in Nursing\n• Bachelors in Science in Nursing - Preferred\n\nLicenses and Certifications\n• Texas registered nurse license\n• Basic Life Support certification (BLS)\n• Advanced Cardiac Life Support (ACLS)\n• PALS must be obtained within six months of hire.\n\nBenefits\n\nLas Palmas Medical Center, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive benefits for medical, prescription drug, dental, vision, behavioral health and telemedicine services\n• Wellbeing support, including free counseling and referral services\n• Time away from work programs for paid time off, paid family leave, long- and short-term disability coverage and leaves of absence\n• Savings and retirement resources, including a 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service), Employee Stock Purchase Plan, flexible spending accounts, preferred banking partnerships, retirement readiness tools, rollover support and financial wellbeing counseling\n• Education support through tuition assistance, student loan assistance, certification support, dependent scholarships and a partnership with Galen College of Nursing\n• Additional benefits for fertility and family building, adoption assistance, life insurance, supplemental health protection plans, auto and home insurance, legal counseling, identity theft protection and consumer discounts\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\n\"Nurses play a pivotal role and are the backbone of healthcare delivery. At HCA Healthcare, we are dedicated to ensuring nurses have necessary tools and resources to provide world-class patient care, advocating for the profession and helping to shape the future of nursing.\"\n\nSammie Mosier, DHA, MA, BSN, NE-BC\n\nSenior Vice President and Chief Nursing Executive, HCA Healthcare\n\nLas Palmas Medical Centeris a 300+ bed full-service hospital in El Paso. It is home to the region’s only kidney transplant center. The facility offers a range of services including emergency care with a Level III trauma center, cardiac care, women’s services, pediatric care and NICU, cancer care, and more. Las Palmas Medical Center is part of Las Palmas Del Sol Healthcare. We are a leading healthcare provider for El Paso and the surrounding region that is part of HCA Healthcare.\n\nHCA Healthcare has been recognized as one of the World’s Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated 3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\nIf this opportunity is your next step in your career path, we encourage you to apply for our Clinical Nurse Coordinator Pediatrics ICU opening. We review all applications. Qualified candidates will be contacted by a member of our team. We are interviewing apply today!\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "job_is_remote": false,
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "El Paso, TX",
+    "job_city": "El Paso",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 31.761877799999997,
+    "job_longitude": -106.48502169999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DEarVad7WOG4EtxleAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "1 Year of RN experience - Required",
+        "Associates degree in Nursing",
+        "Licenses and Certifications",
+        "Texas registered nurse license",
+        "Basic Life Support certification (BLS)",
+        "Advanced Cardiac Life Support (ACLS)",
+        "PALS must be obtained within six months of hire"
+      ],
+      "Benefits": [
+        "Las Palmas Medical Center, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
+        "The available plans and programs include:",
+        "Comprehensive benefits for medical, prescription drug, dental, vision, behavioral health and telemedicine services",
+        "Wellbeing support, including free counseling and referral services",
+        "Time away from work programs for paid time off, paid family leave, long- and short-term disability coverage and leaves of absence",
+        "Savings and retirement resources, including a 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service), Employee Stock Purchase Plan, flexible spending accounts, preferred banking partnerships, retirement readiness tools, rollover support and financial wellbeing counseling",
+        "Education support through tuition assistance, student loan assistance, certification support, dependent scholarships and a partnership with Galen College of Nursing",
+        "Additional benefits for fertility and family building, adoption assistance, life insurance, supplemental health protection plans, auto and home insurance, legal counseling, identity theft protection and consumer discounts",
+        "Learn more about Employee Benefits"
+      ],
+      "Responsibilities": [
+        "As the PICU Clinical Coordinator you will collaborate with all other healthcare disciplines to achieve successful execution of the patient’s plan-of-care and goals of the department",
+        "You will serves as a professional role-model and interfaces directly with patients, families, physicians and staff",
+        "You will utilizes physical assessment skills and advanced diagnostic technology to aid in the assessment of the patient’s nursing care needs",
+        "You will continues to monitor and assess the patient’s physical condition, emotional and social needs, continually refining the plan-of-care to ensure achievement of the desired goals of the patient and facility outcomes",
+        "You will develop/approve unit schedules according to staffing guidelines",
+        "You coordinate employees’ attendance at scheduled/required education programs",
+        "You will interpret hospital and personnel policies to physician, nursing staff, patients, visitors and other hospital personnel",
+        "You complete patient and employee incident reports and related paperwork within 24 hours of incident",
+        "You will coordinate unit functions with other hospital departments",
+        "You will maintain complete staff/patient assignment records 100% of the time",
+        "Assign staff according to staff abilities and skills and the patient’s acuity"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "careers-hcahealthcare-com-jobs-17044262-clinical-nurse-coordinator-pediatrics-icu",
     "_source": "new_jobs"
   }
 ]
