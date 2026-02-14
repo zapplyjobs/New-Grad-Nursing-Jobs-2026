@@ -1,7 +1,7 @@
 {
   "date": "Sat Feb 14 2026",
-  "requests": 7,
-  "remaining": 23,
+  "requests": 8,
+  "remaining": 22,
   "queries_executed": [
     "nurse supervisor",
     "travel nurse",
@@ -9,6 +9,7 @@
     "travel nurse",
     "icu nurse",
     "icu nurse",
+    "critical care nurse",
     "critical care nurse"
   ]
 }
