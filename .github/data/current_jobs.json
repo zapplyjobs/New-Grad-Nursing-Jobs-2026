@@ -1,78 +1,5 @@
 [
   {
-    "job_id": "WtJtGYS9FR0XmVE4AAAAAA==",
-    "job_title": "Day Shift ICU Nurse - St. Peter's Health Partners (Hiring Immediately)",
-    "employer_name": "St. Peter's Health Partners",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPShDSu2uQPb-7dfBjwLdIsZhHkuvB9zYOQU6U&s=0",
-    "employer_website": null,
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=bac540043ec2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=bac540043ec2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobted",
-        "apply_link": "https://www.jobted.com/job/e380d28dbb64f800533a090538eeeb2d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/3474158941477273600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Employment Type : Part time\n\nShift : 12 Hour Day Shift\n\nDescription :\n\nRN - ICU – Samaritan Hospital\n\nIf you are looking for an RN position in ICU, to meet your schedule, this could be your opportunity. Here at St. Peter's Health Partner's, we care for more people in more places.\n\nPosition Highlights :\n• Recognized leader : Magnet Hospital in the Capital Region\n• Quality of Life : Where career opportunities and quality of life converge\n• Advancement : Strong orientation program, generous tuition allowance and career development\n• Work / Life : Positions and shifts to accommodate all schedules\n\nWhat will you do :\n\nThe ICU is a 16-bed unit moving into a 20 bed unit which serves patients who are critically ill. The patients can be either medical or surgical in various stages of recuperation from diagnostic, therapeutic or surgical interventions. The highest volume of patients includes those that are recovering from high-risk surgery, pulmonary disease, neurological disorders, renal disease, endocrine disorders, gastrointestinal disorders, or cardiovascular disease. Multiple medical / surgical units serve as step-down facilities due to the excellent telemetry and ventilator management capabilities of their staff.\n\nWe are a cohesive team of Critical Care Nurses, Mid-Level Providers, and Pulmonary Intensivists. The ICU functions as an interdisciplinary unit, the input from each team member is heard and considered. Rewarding : We are rewarded by our excellent outcomes, and we believe in recognizing each other for the contributions we make in improving the lives of others.\n\nNurses working in critical care have the support of regional critical care courses, on-site ACLS classes, and comprehensive orientation developed by clinical nurse specialists in critical care nursing. Our clinical ladder program provides the opportunity for professional growth through mentoring, opportunities for leadership, and generous educational funding..\n\nRequirements\n• Current NYS RN license\n• ASN, BSN preferred\n• one plus years of nursing experience, critical care or med / surg with telemetry experience preferred\n\nPay Range : $35.00 - $49.95\n\nPay is based on experience, skills, and education. Exempt positions under the Fair Labor Standards Act (FLSA) will be paid within the base salary equivalent of the stated hourly rates. The pay range may also vary within the stated range based on location.\n\nOur Commitment\n\nRooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "New York",
-    "job_city": "New York",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 40.7127753,
-    "job_longitude": -74.0059728,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWtJtGYS9FR0XmVE4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Current NYS RN license"
-      ],
-      "Benefits": [
-        "Quality of Life : Where career opportunities and quality of life converge",
-        "Advancement : Strong orientation program, generous tuition allowance and career development",
-        "Work / Life : Positions and shifts to accommodate all schedules",
-        "Our clinical ladder program provides the opportunity for professional growth through mentoring, opportunities for leadership, and generous educational funding.",
-        "Pay Range : $35.00 - $49.95",
-        "Pay is based on experience, skills, and education",
-        "Exempt positions under the Fair Labor Standards Act (FLSA) will be paid within the base salary equivalent of the stated hourly rates",
-        "The pay range may also vary within the stated range based on location"
-      ],
-      "Responsibilities": [
-        "Shift : 12 Hour Day Shift",
-        "Recognized leader : Magnet Hospital in the Capital Region",
-        "The patients can be either medical or surgical in various stages of recuperation from diagnostic, therapeutic or surgical interventions",
-        "The highest volume of patients includes those that are recovering from high-risk surgery, pulmonary disease, neurological disorders, renal disease, endocrine disorders, gastrointestinal disorders, or cardiovascular disease"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "UFOekHXu5dOsF4V-AAAAAA==",
     "job_title": "Registered Nurse (RN) - ICU",
     "employer_name": "Duke Health",
@@ -200,79 +127,76 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "AVc9U6KeFzfKiBEvAAAAAA==",
-    "job_title": "Registered Nurse (RN) - ICU",
-    "employer_name": "Saint Vincent Hospital",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmhpDxcpgCEdNlKsnvLbPjI0Ei3ZL75696MLsT&s=0",
-    "employer_website": "https://www.stvincenthospital.com",
-    "job_publisher": "LinkedIn",
+    "job_id": "WtJtGYS9FR0XmVE4AAAAAA==",
+    "job_title": "Day Shift ICU Nurse - St. Peter's Health Partners (Hiring Immediately)",
+    "employer_name": "St. Peter's Health Partners",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPShDSu2uQPb-7dfBjwLdIsZhHkuvB9zYOQU6U&s=0",
+    "employer_website": null,
+    "job_publisher": "Talent.com",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-rn-icu-at-saint-vincent-hospital-4372009574?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=bac540043ec2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-rn-icu-at-saint-vincent-hospital-4372009574?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=bac540043ec2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/registered-nurse-rn-icu_7ea1ac8dc29631c6f5e935fa2b0795b5ff5af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobted",
+        "apply_link": "https://www.jobted.com/job/e380d28dbb64f800533a090538eeeb2d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/6809015761932124160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Recruit.net",
-        "apply_link": "https://www.recruit.net/job/registered-nurse-rn-icu-jobs/0F0E34E41F65A3A7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://us.jobrapido.com/jobpreview/3474158941477273600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Up to $25,000 Sign-on Bonus Based on Eligibility\n\nSaint Vincent Hospital offers a whole new experience in health care. By combining our advanced, state-of-the-art facility with our commitment to providing the best quality of life to the many members of our Worcester community. Saint Vincent Hospital excels at offering the best care in a friendly atmosphere. From our advanced heart and vascular services, to our comprehensive orthopedics and rehabilitation programs, our robust surgical facility including our Da Vinci robotic surgery and Cyberknife technology, to our comfortable and compassionate women & infants programs - you don't have to travel far for high-quality health care: We're right here, in the heart of Worcester.\n\nOnboarding Process: Please be advised that candidates must successfully complete a background check and pre-employment health screening which includes a drug screen.\n\nPosition Summary:\n\nThis role provides direct clinical patient care. The role will assume responsibility for assessing, planning, implementing direct clinical care to assigned patients on a per shift basis, and unit level. The role is responsible for supervision of staff to which appropriate care is delegated. The role is accountable to support CNO to ensure high quality, safe and appropriate nursing care, competency of clinical staff, and appropriate resource management related to patient care.\n\nHas effective interpersonal and communication skills and ability to serve as role model and advocate for the professional discipline of nursing.\n\nQualifications:\n\nEducation:\n\nRequired: Graduated from a state approved school of nursing or an accredited school.\n\nPreferred: Academic degree in nursing (bachelor's or master's degree).\n\nCertifications:\n\nRequired: Currently licensed, certified, or registered to practice profession as required by law, regulation in state of practice or policy; CPR.\n\nTenet complies with federal, state, and/or local laws regarding mandatory vaccination of its workforce. If you are offered this position and must be vaccinated under any applicable law, you will be required to show proof of full vaccination or obtain an approval of a religious or medical exemption prior to your start date. If you receive an exemption from the vaccination requirement, you will be required to submit to regular testing in accordance with the law.\n\nWho We Are\nWe are a community built on care. Our caregivers and supporting staff extend compassion to those in need, helping to improve the health and well-being of those we serve, and provide comfort and healing. Your community is our community.\n\nOur Story\n\nWe started out as a small operation in California. In May 1969, we acquired four hospitals, some additional care facilities and real estate for the future development of hospitals. Over the years, we've grown tremendously in size, scope and capability, building a home in new markets over time, and curating those homes to provide a compassionate environment for those entrusting us with their care.\n\nWe have a rich history at Tenet. There are so many stories of compassionate care; so many \"firsts\" in terms of medical innovation; so many examples of enhancing healthcare delivery and shaping a business that is truly centered around patients and community need. Tenet and our predecessors have enabled us to touch many different elements of healthcare and make a difference in the lives of others.\n\nOur Impact Today\n\nToday, we are leading health system and services platform that continues to evolve in lockstep with community need. Tenet's operations include three businesses - our hospitals and physicians, USPI and Conifer Health Solutions.\n\nOur impact spreads far and deep with 65 hospitals and approximately 510 outpatient centers and additional sites of care. We are differentiated by our top notch medical specialists and service lines that are tailored within each community we serve. The work Conifer is doing will help provide the foundation for better health for clients across the country, through the delivery of healthcare-focused revenue cycle management and value-based care solutions.\n\nTogether as an enterprise, we work to save lives and can accept nothing less than excellence from ourselves in service of our patients and their families, every day.\n\nCareers at Tenet\nAt Tenet Healthcare, the heart of what we do centers on caring with compassion, which ultimately creates a bond between our caregivers and patients. Everyone contributes to these moments, whether providing care directly or supporting those who do.\n\nAs an organization, we provide employees with resources, tools and support to serve our patients and customers in the best way possible. We also take care of one another, helping team members further develop their career pathways and maximize their potential.",
+    "job_description": "Employment Type : Part time\n\nShift : 12 Hour Day Shift\n\nDescription :\n\nRN - ICU – Samaritan Hospital\n\nIf you are looking for an RN position in ICU, to meet your schedule, this could be your opportunity. Here at St. Peter's Health Partner's, we care for more people in more places.\n\nPosition Highlights :\n• Recognized leader : Magnet Hospital in the Capital Region\n• Quality of Life : Where career opportunities and quality of life converge\n• Advancement : Strong orientation program, generous tuition allowance and career development\n• Work / Life : Positions and shifts to accommodate all schedules\n\nWhat will you do :\n\nThe ICU is a 16-bed unit moving into a 20 bed unit which serves patients who are critically ill. The patients can be either medical or surgical in various stages of recuperation from diagnostic, therapeutic or surgical interventions. The highest volume of patients includes those that are recovering from high-risk surgery, pulmonary disease, neurological disorders, renal disease, endocrine disorders, gastrointestinal disorders, or cardiovascular disease. Multiple medical / surgical units serve as step-down facilities due to the excellent telemetry and ventilator management capabilities of their staff.\n\nWe are a cohesive team of Critical Care Nurses, Mid-Level Providers, and Pulmonary Intensivists. The ICU functions as an interdisciplinary unit, the input from each team member is heard and considered. Rewarding : We are rewarded by our excellent outcomes, and we believe in recognizing each other for the contributions we make in improving the lives of others.\n\nNurses working in critical care have the support of regional critical care courses, on-site ACLS classes, and comprehensive orientation developed by clinical nurse specialists in critical care nursing. Our clinical ladder program provides the opportunity for professional growth through mentoring, opportunities for leadership, and generous educational funding..\n\nRequirements\n• Current NYS RN license\n• ASN, BSN preferred\n• one plus years of nursing experience, critical care or med / surg with telemetry experience preferred\n\nPay Range : $35.00 - $49.95\n\nPay is based on experience, skills, and education. Exempt positions under the Fair Labor Standards Act (FLSA) will be paid within the base salary equivalent of the stated hourly rates. The pay range may also vary within the stated range based on location.\n\nOur Commitment\n\nRooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.",
     "job_is_remote": false,
-    "job_posted_at": "20 hours ago",
-    "job_posted_at_timestamp": 1771009200,
-    "job_posted_at_datetime_utc": "2026-02-13T19:00:00.000Z",
-    "job_location": "Massachusetts",
-    "job_city": null,
-    "job_state": "Massachusetts",
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "New York",
+    "job_city": "New York",
+    "job_state": "New York",
     "job_country": "US",
-    "job_latitude": 42.4072107,
-    "job_longitude": -71.3824374,
+    "job_latitude": 40.7127753,
+    "job_longitude": -74.0059728,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAVc9U6KeFzfKiBEvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWtJtGYS9FR0XmVE4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Required: Graduated from a state approved school of nursing or an accredited school",
-        "Required: Currently licensed, certified, or registered to practice profession as required by law, regulation in state of practice or policy; CPR",
-        "Tenet complies with federal, state, and/or local laws regarding mandatory vaccination of its workforce",
-        "If you are offered this position and must be vaccinated under any applicable law, you will be required to show proof of full vaccination or obtain an approval of a religious or medical exemption prior to your start date",
-        "If you receive an exemption from the vaccination requirement, you will be required to submit to regular testing in accordance with the law"
+        "Current NYS RN license"
       ],
       "Benefits": [
-        "Up to $25,000 Sign-on Bonus Based on Eligibility"
+        "Quality of Life : Where career opportunities and quality of life converge",
+        "Advancement : Strong orientation program, generous tuition allowance and career development",
+        "Work / Life : Positions and shifts to accommodate all schedules",
+        "Our clinical ladder program provides the opportunity for professional growth through mentoring, opportunities for leadership, and generous educational funding.",
+        "Pay Range : $35.00 - $49.95",
+        "Pay is based on experience, skills, and education",
+        "Exempt positions under the Fair Labor Standards Act (FLSA) will be paid within the base salary equivalent of the stated hourly rates",
+        "The pay range may also vary within the stated range based on location"
       ],
       "Responsibilities": [
-        "This role provides direct clinical patient care",
-        "The role will assume responsibility for assessing, planning, implementing direct clinical care to assigned patients on a per shift basis, and unit level",
-        "The role is responsible for supervision of staff to which appropriate care is delegated",
-        "The role is accountable to support CNO to ensure high quality, safe and appropriate nursing care, competency of clinical staff, and appropriate resource management related to patient care",
-        "Has effective interpersonal and communication skills and ability to serve as role model and advocate for the professional discipline of nursing"
+        "Shift : 12 Hour Day Shift",
+        "Recognized leader : Magnet Hospital in the Capital Region",
+        "The patients can be either medical or surgical in various stages of recuperation from diagnostic, therapeutic or surgical interventions",
+        "The highest volume of patients includes those that are recovering from high-risk surgery, pulmonary disease, neurological disorders, renal disease, endocrine disorders, gastrointestinal disorders, or cardiovascular disease"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-registered-nurse-rn-icu-at-saint-vincent-hospital-4372009574",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -350,128 +274,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-hshs-org-gfj-registered-nurse-rn-intensive-care-unit-icu-kohler-wi-68fb5dda87f3d7042f044c08",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "bNSQ8bPxFNJ3gnr_AAAAAA==",
-    "job_title": "RN Intensive Care Unit ICU Registered Nurse",
-    "employer_name": "Parkland Medical Center",
-    "employer_logo": null,
-    "employer_website": "https://parklandmedicalcenter.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Parkland-Medical-Center/Job/RN-Intensive-Care-Unit-ICU-Registered-Nurse/-in-Exeter,NH?jid=2104cecfbf765531&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Parkland-Medical-Center/Job/RN-Intensive-Care-Unit-ICU-Registered-Nurse/-in-Exeter,NH?jid=2104cecfbf765531&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/cc4f2e05e418c3c1538e3ca26751d23a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Hire The Better",
-        "apply_link": "https://www.hirethebetter.com/jobs/rn-intensive-care-unit-icu-registered-nurse-exeter-new-hampshire/2598370658-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "FOX4KC Jobs",
-        "apply_link": "https://jobs.fox4kc.com/jobs/rn-intensive-care-unit-icu-registered-nurse-exeter-new-hampshire/2598370658-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.com",
-        "apply_link": "https://www.career.com/job/parkland-medical-center/rn-intensive-care-unit-icu-registered-nurse/j202503271604246532532?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/478475310430420992?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LifeworQ",
-        "apply_link": "https://lifeworq.com/job/718b7cee-0f94-4b84-8583-08aeb7683f01?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Trabajo.org",
-        "apply_link": "https://us.trabajo.org/job-2850-a772db62eae18c247e13328a8b6b8f1d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "• ** Up to a $12,000 Sign on Bonus***\n\nIntroduction\n\nAre you looking for a place to deliver excellent care patients deserve? At Parkland Medical Center we support our colleagues in their positions. Join our Team as a(an) RN Intensive Care Unit ICU Registered Nurse and access programs to assist with every stage of your career.\nBenefits\n\nParkland Medical Center, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation.\n• Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more.\n• Free counseling services and resources for emotional, physical and financial wellbeing\n• 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\n• Employee Stock Purchase Plan with 10% off HCA Healthcare stock\n• Family support through fertility and family building benefits with Progyny and adoption assistance.\n• Referral services for child, elder and pet care, home and auto repair, event planning and more\n• Consumer discounts through Abenity and Consumer Discounts\n• Retirement readiness, rollover assistance services and preferred banking partnerships\n• Education assistance (tuition, student loan, certification support, dependent scholarships)\n• Colleague recognition program\n• Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\n• Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nAre you a continuous learner? With more than 94,000 nurses throughout HCA Healthcare, we are one of the largest employers of nurses in the United States. Education is key to excellence! As a majority owner of Galen College of Nursing, which joins Research College of Nursing and Mercy School of Nursing as educational facilities within the HCA Healthcare family, we make it easier and more affordable to gain certifications and job skills. Apply today for our RN Intensive Care Unit ICU Registered Nurse opening and continue to learn!\nJob Summary and Qualifications\n\nThe Registered Nurse coordinates and delivers high quality, patient-centered care in accordance with the nature and specific requirements of the department, and consistent with the scope and standards of practice for the relevant state and specialty. In collaboration with medical providers and other members of the care team, the RN provides individualized, comprehensive, and compassionate care using established nursing models such as “Assess, Perform, Teach, and Manage.” The RN serves as an advocate for patients/families/caregivers and models a commitment to the organization’s vision/mission/values to support an unparalleled patient experience and clinical outcomes that contribute to overall departmental performance.\n• Performs procedures, monitoring, or other functions as ordered by the medical provider(s). Documents the administration of care in the patient medical record in a timely and thorough manner.\n• Teaches patients/families/caregivers about patient medical condition, patient status, treatment plan, medications and possible side effects, and follow-up measures. Translates complex medical terminology to ensure complete understanding.\n• Teaches patients/families/caregivers about any non-medicinal follow-up measures, such as healthy diet and exercise, disease prevention, and/or other lifestyle changes. Prepares patients and families/caregivers for future self-management.\n• Manages evidence-based practices and continuous process improvement initiatives to meet and exceed quality measures and enhance the exceptional care provided to patients.\n• Manages the quality of care by collaborating with a multidisciplinary team to coordinate, evaluate, customize, and deliver a holistic patient treatment plan that promotes and supports recovery.\n\nWhat qualifications you will need:\n• Active NH Registered Nurse license or Compact State Registered Nurse License\n• Associate Degree in Nursing\n• 1-2 years of related experience\n• Advanced Cardiac Life Spt must be obtained within 30 days of employment start date\n• Basic Cardiac Life Support\n\nGrow your career where your work truly matters—at Parkland Medical Center.\n\nLocated in Derry, NH, Parkland is an 86-bed regional acute-care hospital and a designated Level III Trauma Center, delivering high-quality care to the community with compassion and innovation. As part of HCA Healthcare’s trusted network, you’ll be connected to Catholic Medical Center in Manchester, Portsmouth Regional Hospital in Portsmouth, Frisbie Memorial Hospital in Rochester, three freestanding ERs, and more than 70 care sites across New Hampshire.\n\nWith nearly 5,000 colleagues—including 1,500 nurses and 1,000 affiliated physicians—HCA Healthcare offers a supportive, team-oriented environment where your contributions are valued, your growth is encouraged, and your impact is felt every day. Join us and be part of something bigger.\n\nHCA Healthcare has been recognized as one of the World's Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\n\"Good people beget good people.\"- Dr. Thomas Frist, Sr.\nHCA Healthcare Co-Founder\n\nIf growth and continued learning is important to you, we encourage you to apply for our RN Intensive Care Unit ICU Registered Nurse opening. Our team will promptly review your application. Highly qualified candidates will be contacted for interviews. Unlock the possibilities apply today!\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770422400,
-    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
-    "job_location": "Exeter, NH",
-    "job_city": "Exeter",
-    "job_state": "New Hampshire",
-    "job_country": "US",
-    "job_latitude": 42.981369799999996,
-    "job_longitude": -70.9461778,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DbNSQ8bPxFNJ3gnr_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Active NH Registered Nurse license or Compact State Registered Nurse License",
-        "Associate Degree in Nursing",
-        "1-2 years of related experience",
-        "Advanced Cardiac Life Spt must be obtained within 30 days of employment start date",
-        "Basic Cardiac Life Support"
-      ],
-      "Benefits": [
-        "** Up to a $12,000 Sign on Bonus***",
-        "Parkland Medical Center, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
-        "Comprehensive medical coverage that covers many common services at no cost or for a low copay",
-        "Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation",
-        "Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more",
-        "Free counseling services and resources for emotional, physical and financial wellbeing",
-        "401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)",
-        "Employee Stock Purchase Plan with 10% off HCA Healthcare stock",
-        "Family support through fertility and family building benefits with Progyny and adoption assistance",
-        "Referral services for child, elder and pet care, home and auto repair, event planning and more",
-        "Consumer discounts through Abenity and Consumer Discounts",
-        "Retirement readiness, rollover assistance services and preferred banking partnerships",
-        "Education assistance (tuition, student loan, certification support, dependent scholarships)",
-        "Colleague recognition program",
-        "Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)",
-        "Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income",
-        "Learn more about Employee Benefits"
-      ],
-      "Responsibilities": [
-        "The Registered Nurse coordinates and delivers high quality, patient-centered care in accordance with the nature and specific requirements of the department, and consistent with the scope and standards of practice for the relevant state and specialty",
-        "In collaboration with medical providers and other members of the care team, the RN provides individualized, comprehensive, and compassionate care using established nursing models such as “Assess, Perform, Teach, and Manage.” The RN serves as an advocate for patients/families/caregivers and models a commitment to the organization’s vision/mission/values to support an unparalleled patient experience and clinical outcomes that contribute to overall departmental performance",
-        "Performs procedures, monitoring, or other functions as ordered by the medical provider(s)",
-        "Documents the administration of care in the patient medical record in a timely and thorough manner",
-        "Teaches patients/families/caregivers about patient medical condition, patient status, treatment plan, medications and possible side effects, and follow-up measures",
-        "Translates complex medical terminology to ensure complete understanding",
-        "Teaches patients/families/caregivers about any non-medicinal follow-up measures, such as healthy diet and exercise, disease prevention, and/or other lifestyle changes",
-        "Prepares patients and families/caregivers for future self-management",
-        "Manages evidence-based practices and continuous process improvement initiatives to meet and exceed quality measures and enhance the exceptional care provided to patients",
-        "Manages the quality of care by collaborating with a multidisciplinary team to coordinate, evaluate, customize, and deliver a holistic patient treatment plan that promotes and supports recovery"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-parkland-medical-center-job-rn-intensive-care-unit-icu-registered-nurse-in-exeter-nh",
     "_source": "new_jobs"
   },
   {
@@ -677,6 +479,204 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "bNSQ8bPxFNJ3gnr_AAAAAA==",
+    "job_title": "RN Intensive Care Unit ICU Registered Nurse",
+    "employer_name": "Parkland Medical Center",
+    "employer_logo": null,
+    "employer_website": "https://parklandmedicalcenter.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Parkland-Medical-Center/Job/RN-Intensive-Care-Unit-ICU-Registered-Nurse/-in-Exeter,NH?jid=2104cecfbf765531&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Parkland-Medical-Center/Job/RN-Intensive-Care-Unit-ICU-Registered-Nurse/-in-Exeter,NH?jid=2104cecfbf765531&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/cc4f2e05e418c3c1538e3ca26751d23a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hire The Better",
+        "apply_link": "https://www.hirethebetter.com/jobs/rn-intensive-care-unit-icu-registered-nurse-exeter-new-hampshire/2598370658-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "FOX4KC Jobs",
+        "apply_link": "https://jobs.fox4kc.com/jobs/rn-intensive-care-unit-icu-registered-nurse-exeter-new-hampshire/2598370658-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.com",
+        "apply_link": "https://www.career.com/job/parkland-medical-center/rn-intensive-care-unit-icu-registered-nurse/j202503271604246532532?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/478475310430420992?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LifeworQ",
+        "apply_link": "https://lifeworq.com/job/718b7cee-0f94-4b84-8583-08aeb7683f01?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-2850-a772db62eae18c247e13328a8b6b8f1d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "• ** Up to a $12,000 Sign on Bonus***\n\nIntroduction\n\nAre you looking for a place to deliver excellent care patients deserve? At Parkland Medical Center we support our colleagues in their positions. Join our Team as a(an) RN Intensive Care Unit ICU Registered Nurse and access programs to assist with every stage of your career.\nBenefits\n\nParkland Medical Center, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation.\n• Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more.\n• Free counseling services and resources for emotional, physical and financial wellbeing\n• 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\n• Employee Stock Purchase Plan with 10% off HCA Healthcare stock\n• Family support through fertility and family building benefits with Progyny and adoption assistance.\n• Referral services for child, elder and pet care, home and auto repair, event planning and more\n• Consumer discounts through Abenity and Consumer Discounts\n• Retirement readiness, rollover assistance services and preferred banking partnerships\n• Education assistance (tuition, student loan, certification support, dependent scholarships)\n• Colleague recognition program\n• Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\n• Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nAre you a continuous learner? With more than 94,000 nurses throughout HCA Healthcare, we are one of the largest employers of nurses in the United States. Education is key to excellence! As a majority owner of Galen College of Nursing, which joins Research College of Nursing and Mercy School of Nursing as educational facilities within the HCA Healthcare family, we make it easier and more affordable to gain certifications and job skills. Apply today for our RN Intensive Care Unit ICU Registered Nurse opening and continue to learn!\nJob Summary and Qualifications\n\nThe Registered Nurse coordinates and delivers high quality, patient-centered care in accordance with the nature and specific requirements of the department, and consistent with the scope and standards of practice for the relevant state and specialty. In collaboration with medical providers and other members of the care team, the RN provides individualized, comprehensive, and compassionate care using established nursing models such as “Assess, Perform, Teach, and Manage.” The RN serves as an advocate for patients/families/caregivers and models a commitment to the organization’s vision/mission/values to support an unparalleled patient experience and clinical outcomes that contribute to overall departmental performance.\n• Performs procedures, monitoring, or other functions as ordered by the medical provider(s). Documents the administration of care in the patient medical record in a timely and thorough manner.\n• Teaches patients/families/caregivers about patient medical condition, patient status, treatment plan, medications and possible side effects, and follow-up measures. Translates complex medical terminology to ensure complete understanding.\n• Teaches patients/families/caregivers about any non-medicinal follow-up measures, such as healthy diet and exercise, disease prevention, and/or other lifestyle changes. Prepares patients and families/caregivers for future self-management.\n• Manages evidence-based practices and continuous process improvement initiatives to meet and exceed quality measures and enhance the exceptional care provided to patients.\n• Manages the quality of care by collaborating with a multidisciplinary team to coordinate, evaluate, customize, and deliver a holistic patient treatment plan that promotes and supports recovery.\n\nWhat qualifications you will need:\n• Active NH Registered Nurse license or Compact State Registered Nurse License\n• Associate Degree in Nursing\n• 1-2 years of related experience\n• Advanced Cardiac Life Spt must be obtained within 30 days of employment start date\n• Basic Cardiac Life Support\n\nGrow your career where your work truly matters—at Parkland Medical Center.\n\nLocated in Derry, NH, Parkland is an 86-bed regional acute-care hospital and a designated Level III Trauma Center, delivering high-quality care to the community with compassion and innovation. As part of HCA Healthcare’s trusted network, you’ll be connected to Catholic Medical Center in Manchester, Portsmouth Regional Hospital in Portsmouth, Frisbie Memorial Hospital in Rochester, three freestanding ERs, and more than 70 care sites across New Hampshire.\n\nWith nearly 5,000 colleagues—including 1,500 nurses and 1,000 affiliated physicians—HCA Healthcare offers a supportive, team-oriented environment where your contributions are valued, your growth is encouraged, and your impact is felt every day. Join us and be part of something bigger.\n\nHCA Healthcare has been recognized as one of the World's Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\n\"Good people beget good people.\"- Dr. Thomas Frist, Sr.\nHCA Healthcare Co-Founder\n\nIf growth and continued learning is important to you, we encourage you to apply for our RN Intensive Care Unit ICU Registered Nurse opening. Our team will promptly review your application. Highly qualified candidates will be contacted for interviews. Unlock the possibilities apply today!\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "job_is_remote": false,
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770422400,
+    "job_posted_at_datetime_utc": "2026-02-07T00:00:00.000Z",
+    "job_location": "Exeter, NH",
+    "job_city": "Exeter",
+    "job_state": "New Hampshire",
+    "job_country": "US",
+    "job_latitude": 42.981369799999996,
+    "job_longitude": -70.9461778,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DbNSQ8bPxFNJ3gnr_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Active NH Registered Nurse license or Compact State Registered Nurse License",
+        "Associate Degree in Nursing",
+        "1-2 years of related experience",
+        "Advanced Cardiac Life Spt must be obtained within 30 days of employment start date",
+        "Basic Cardiac Life Support"
+      ],
+      "Benefits": [
+        "** Up to a $12,000 Sign on Bonus***",
+        "Parkland Medical Center, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
+        "Comprehensive medical coverage that covers many common services at no cost or for a low copay",
+        "Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation",
+        "Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more",
+        "Free counseling services and resources for emotional, physical and financial wellbeing",
+        "401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)",
+        "Employee Stock Purchase Plan with 10% off HCA Healthcare stock",
+        "Family support through fertility and family building benefits with Progyny and adoption assistance",
+        "Referral services for child, elder and pet care, home and auto repair, event planning and more",
+        "Consumer discounts through Abenity and Consumer Discounts",
+        "Retirement readiness, rollover assistance services and preferred banking partnerships",
+        "Education assistance (tuition, student loan, certification support, dependent scholarships)",
+        "Colleague recognition program",
+        "Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)",
+        "Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income",
+        "Learn more about Employee Benefits"
+      ],
+      "Responsibilities": [
+        "The Registered Nurse coordinates and delivers high quality, patient-centered care in accordance with the nature and specific requirements of the department, and consistent with the scope and standards of practice for the relevant state and specialty",
+        "In collaboration with medical providers and other members of the care team, the RN provides individualized, comprehensive, and compassionate care using established nursing models such as “Assess, Perform, Teach, and Manage.” The RN serves as an advocate for patients/families/caregivers and models a commitment to the organization’s vision/mission/values to support an unparalleled patient experience and clinical outcomes that contribute to overall departmental performance",
+        "Performs procedures, monitoring, or other functions as ordered by the medical provider(s)",
+        "Documents the administration of care in the patient medical record in a timely and thorough manner",
+        "Teaches patients/families/caregivers about patient medical condition, patient status, treatment plan, medications and possible side effects, and follow-up measures",
+        "Translates complex medical terminology to ensure complete understanding",
+        "Teaches patients/families/caregivers about any non-medicinal follow-up measures, such as healthy diet and exercise, disease prevention, and/or other lifestyle changes",
+        "Prepares patients and families/caregivers for future self-management",
+        "Manages evidence-based practices and continuous process improvement initiatives to meet and exceed quality measures and enhance the exceptional care provided to patients",
+        "Manages the quality of care by collaborating with a multidisciplinary team to coordinate, evaluate, customize, and deliver a holistic patient treatment plan that promotes and supports recovery"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-ziprecruiter-com-c-parkland-medical-center-job-rn-intensive-care-unit-icu-registered-nurse-in-exeter-nh",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "AVc9U6KeFzfKiBEvAAAAAA==",
+    "job_title": "Registered Nurse (RN) - ICU",
+    "employer_name": "Saint Vincent Hospital",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmhpDxcpgCEdNlKsnvLbPjI0Ei3ZL75696MLsT&s=0",
+    "employer_website": "https://www.stvincenthospital.com",
+    "job_publisher": "LinkedIn",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-rn-icu-at-saint-vincent-hospital-4372009574?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-rn-icu-at-saint-vincent-hospital-4372009574?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/registered-nurse-rn-icu_7ea1ac8dc29631c6f5e935fa2b0795b5ff5af?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/6809015761932124160?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Recruit.net",
+        "apply_link": "https://www.recruit.net/job/registered-nurse-rn-icu-jobs/0F0E34E41F65A3A7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Up to $25,000 Sign-on Bonus Based on Eligibility\n\nSaint Vincent Hospital offers a whole new experience in health care. By combining our advanced, state-of-the-art facility with our commitment to providing the best quality of life to the many members of our Worcester community. Saint Vincent Hospital excels at offering the best care in a friendly atmosphere. From our advanced heart and vascular services, to our comprehensive orthopedics and rehabilitation programs, our robust surgical facility including our Da Vinci robotic surgery and Cyberknife technology, to our comfortable and compassionate women & infants programs - you don't have to travel far for high-quality health care: We're right here, in the heart of Worcester.\n\nOnboarding Process: Please be advised that candidates must successfully complete a background check and pre-employment health screening which includes a drug screen.\n\nPosition Summary:\n\nThis role provides direct clinical patient care. The role will assume responsibility for assessing, planning, implementing direct clinical care to assigned patients on a per shift basis, and unit level. The role is responsible for supervision of staff to which appropriate care is delegated. The role is accountable to support CNO to ensure high quality, safe and appropriate nursing care, competency of clinical staff, and appropriate resource management related to patient care.\n\nHas effective interpersonal and communication skills and ability to serve as role model and advocate for the professional discipline of nursing.\n\nQualifications:\n\nEducation:\n\nRequired: Graduated from a state approved school of nursing or an accredited school.\n\nPreferred: Academic degree in nursing (bachelor's or master's degree).\n\nCertifications:\n\nRequired: Currently licensed, certified, or registered to practice profession as required by law, regulation in state of practice or policy; CPR.\n\nTenet complies with federal, state, and/or local laws regarding mandatory vaccination of its workforce. If you are offered this position and must be vaccinated under any applicable law, you will be required to show proof of full vaccination or obtain an approval of a religious or medical exemption prior to your start date. If you receive an exemption from the vaccination requirement, you will be required to submit to regular testing in accordance with the law.\n\nWho We Are\nWe are a community built on care. Our caregivers and supporting staff extend compassion to those in need, helping to improve the health and well-being of those we serve, and provide comfort and healing. Your community is our community.\n\nOur Story\n\nWe started out as a small operation in California. In May 1969, we acquired four hospitals, some additional care facilities and real estate for the future development of hospitals. Over the years, we've grown tremendously in size, scope and capability, building a home in new markets over time, and curating those homes to provide a compassionate environment for those entrusting us with their care.\n\nWe have a rich history at Tenet. There are so many stories of compassionate care; so many \"firsts\" in terms of medical innovation; so many examples of enhancing healthcare delivery and shaping a business that is truly centered around patients and community need. Tenet and our predecessors have enabled us to touch many different elements of healthcare and make a difference in the lives of others.\n\nOur Impact Today\n\nToday, we are leading health system and services platform that continues to evolve in lockstep with community need. Tenet's operations include three businesses - our hospitals and physicians, USPI and Conifer Health Solutions.\n\nOur impact spreads far and deep with 65 hospitals and approximately 510 outpatient centers and additional sites of care. We are differentiated by our top notch medical specialists and service lines that are tailored within each community we serve. The work Conifer is doing will help provide the foundation for better health for clients across the country, through the delivery of healthcare-focused revenue cycle management and value-based care solutions.\n\nTogether as an enterprise, we work to save lives and can accept nothing less than excellence from ourselves in service of our patients and their families, every day.\n\nCareers at Tenet\nAt Tenet Healthcare, the heart of what we do centers on caring with compassion, which ultimately creates a bond between our caregivers and patients. Everyone contributes to these moments, whether providing care directly or supporting those who do.\n\nAs an organization, we provide employees with resources, tools and support to serve our patients and customers in the best way possible. We also take care of one another, helping team members further develop their career pathways and maximize their potential.",
+    "job_is_remote": false,
+    "job_posted_at": "20 hours ago",
+    "job_posted_at_timestamp": 1771009200,
+    "job_posted_at_datetime_utc": "2026-02-13T19:00:00.000Z",
+    "job_location": "Massachusetts",
+    "job_city": null,
+    "job_state": "Massachusetts",
+    "job_country": "US",
+    "job_latitude": 42.4072107,
+    "job_longitude": -71.3824374,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAVc9U6KeFzfKiBEvAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Required: Graduated from a state approved school of nursing or an accredited school",
+        "Required: Currently licensed, certified, or registered to practice profession as required by law, regulation in state of practice or policy; CPR",
+        "Tenet complies with federal, state, and/or local laws regarding mandatory vaccination of its workforce",
+        "If you are offered this position and must be vaccinated under any applicable law, you will be required to show proof of full vaccination or obtain an approval of a religious or medical exemption prior to your start date",
+        "If you receive an exemption from the vaccination requirement, you will be required to submit to regular testing in accordance with the law"
+      ],
+      "Benefits": [
+        "Up to $25,000 Sign-on Bonus Based on Eligibility"
+      ],
+      "Responsibilities": [
+        "This role provides direct clinical patient care",
+        "The role will assume responsibility for assessing, planning, implementing direct clinical care to assigned patients on a per shift basis, and unit level",
+        "The role is responsible for supervision of staff to which appropriate care is delegated",
+        "The role is accountable to support CNO to ensure high quality, safe and appropriate nursing care, competency of clinical staff, and appropriate resource management related to patient care",
+        "Has effective interpersonal and communication skills and ability to serve as role model and advocate for the professional discipline of nursing"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-linkedin-com-jobs-view-registered-nurse-rn-icu-at-saint-vincent-hospital-4372009574",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "QVWEKHYtqPpM9gVtAAAAAA==",
     "job_title": "Registered Nurse (RN) -- ICU",
     "employer_name": "Hospital Sisters Health System",
@@ -708,8 +708,8 @@
     "job_latitude": 40.054753,
     "job_longitude": -88.2517165,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQVWEKHYtqPpM9gVtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -953,9 +953,9 @@
     "job_latitude": 32.9762327,
     "job_longitude": -96.5952703,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwKzetiVrqAym7RoVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1040,8 +1040,8 @@
     "job_latitude": 40.6993303,
     "job_longitude": -99.0816784,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DtI-oFKiUWWZpMHsQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 1884,
@@ -1417,152 +1417,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "e57AjGMbneBZ49LrAAAAAA==",
-    "job_title": "RN ICU Intensive Care Night",
-    "employer_name": "Baylor Scott & White Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTToVdBgP8q3yFaOrhDJugE01509vuSH1CeUjaN&s=0",
-    "employer_website": "https://www.bswhealth.com",
-    "job_publisher": "Careers At Baylor Scott & White Health",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.bswhealth.com/us/en/job/BSWHUS25019849EXTERNALENUS/RN-ICU-Intensive-Care-Night?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Careers At Baylor Scott & White Health",
-        "apply_link": "https://jobs.bswhealth.com/us/en/job/BSWHUS25019849EXTERNALENUS/RN-ICU-Intensive-Care-Night?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JMIR Publications (JMIR), JMIR Career Center",
-        "apply_link": "https://careers.jmir.org/jobs/22039795/rn-icu-intensive-care-night?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Baylor-Scott-&-White-Health/Job/RN-ICU-Intensive-Care-Night/-in-Austin,TX?jid=66af338606ad0861&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Mississippi Nurses Association",
-        "apply_link": "https://careers.msnurses.org/jobs/21981750/rn-icu-intensive-care-night?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "340B Health (340b Health), 340B Employed",
-        "apply_link": "https://careers.340bemployed.org/jobs/21981750/rn-icu-intensive-care-night?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/rn-icu-intensive-care-night-baylor-scott-white-health-JV_IC1161491_KO0,27_KE28,53.htm?jl=1009938122787&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=be1d8570cacd2bd8&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Kaplan Community Career Center",
-        "apply_link": "https://jobs.community.kaplan.com/job/rn-icu-intensive-care-night-lakeway-texas-210940?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Facility: Baylor Scott & White Medical Center - Lakeway, TX\n\nStatus: Full Time, 36 hrs. per week\n\nShift: Night Shift, (7pm-7am- self-scheduling with rotating weekends)\n\n18 beds\n\nPatient Ratio: 2:1 ICU; 3:1 IMC\n\nLakeway ICU is a unique gem that has a great mix of experience, personalities and patient populations. The Lakeway area and BSWH itself are all growing and the opportunities to advance, or usher in new technologies or clinical expertise remains high.\n\nSpecializes in neurosurgery, often utilizing the most advanced clinical technologies to treat chronic neurological deficits\n\nMixed ICU and IMC level of care. Stemi, Balloon pumps, CRRT, and Artic Sun. Neurosurgical services, EVDs, Primary Stroke, DKA, Septic Shock\n\nWe have a highly experienced staff with great teaching skills to help grow new nurses into the field.\n\nWe enjoy a great relationship with our intensivists who work closely with nurses, pharmacy, case management and hospitalists to ensure our patients have the best outcome.\n\nLakeway has very low turnover rate, and the team works well together. Many of the ICU nurses have greater than 10 yrs. of varying ICU experience.\n\nBSWH is growing in the Austin region and opportunities for advancement are plentiful. The ICU focuses on clinical advancement and positive patient outcomes by utilizing the expertise of the beside nurses to act as champions in an area of their choosing. Theis helps to raise engaged nurses who have a positive impact on our patients\n\nJOB SUMMARY\n\nThe Registered Nurse (RN) is a licensed professional who uses the BSWH nursing professional practice model to coordinate patient care delivery by the health care team. Using the nursing process, the RN assesses the patient, identifies nursing diagnoses based on responses to health problems, develops and implements an individualized plan of care, and evaluates the patient's response. The RN promotes safe passage for their patients by using knowledge of patient needs and the healthcare environment to assist patients to transition through the healthcare encounter without any preventable complications or delays. The RN delegates interventions to health care personnel based on the Texas Nursing Practice Act, each patient's condition and the competencies of the employee.\n\nRN job is to be used for RNs in hospital inpatient and outpatient departments with 24X7 staffing which include those departments with on-call staffing on the off shifts. Examples of hospital inpatient and outpatient procedural areas: GI Lab, Pain Management, Dialysis, Infusion Centers and IV Services.\n\nESSENTIAL FUNCTIONS OF THE ROLE\n\nClinical Judgment: Using clinical reasoning, conducts accurate clinical assessments according to practice standards. Identifies and prioritizes patient and family needs. Develops, implements and evaluates the nursing plan of care. Modifies plan to meet clinical outcomes.\n\nClinical Inquiry: Systematically evaluates the quality and effectiveness of nursing practice, including, but not limited to, nursing sensitive indicators. Supports evidence-based practice changes through research utilization and experiential learning. Participates in quality/performance improvement initiatives.\n\nCaring Practices: Creates a compassionate, supportive, safe and therapeutic environment for patients, families and staff. Develops therapeutic relationships with patient and family and maintains appropriate boundaries. Manages both emotional and physical pain with the aim of promoting comfort and healing and preventing unnecessary suffering.\n\nResponse to Diversity: Recognizes, appreciates and incorporates a patient's and family's unique differences, such as culture, spiritual beliefs, gender, race, ethnicity, lifestyle, socioeconomic status, age, and values, into an individualized plan of care.\n\nAdvocacy and Moral Agency: Preserves and protects the confidentiality, autonomy, dignity and rights of patient and family and represents their concerns. Creates an individualized plan that accurately reflects patient and family values and goals. Identifies and helps resolve ethical and clinical concerns.\n\nFacilitation of Learning: Facilitates learning for patients and families, nursing staff, other members of the health care team and community; integrating appropriate education throughout the continuum of care to help them participate and/or make informed decisions about their health care and treatments, including health promotion and disease prevention. Assesses and documents learning needs and outcomes.\n\nCollaboration: Works collaboratively and interdependently with colleagues and community to develop and implement an integrated plan of care. Open and sensitive to all team members' unique contributions. Delegates tasks and care to appropriate staff and ensures timely follow-up.\n\nSystems Thinking: Uses strategies and available resources for problem-solving for patients, family and staff. Recognizes that resources are limited and considers factors related to safety, effectiveness and efficiency in planning and delivering patient care.\n\nProfessionalism: Improves nursing practice and the work environment through participating in shared governance and decision-making processes and meaningfully recognizing the contributions of others. Participates in the staffing process from education and planning to evaluation. Identifies personal goals and commits to ongoing professional growth through continuing education, networking with professional colleagues, membership and involvement in professional nursing organizations, self-study, professional reading, certification and seeking advanced degrees. Contributes to the professional development of peers, colleagues and others. Demonstrates commitment to community service.\n\nKEY SUCCESS FACTORS\n\nKnowledge and understanding of nursing and patient care standards and procedures.\n\nKnowledge of laws, rules and regulations; standards and guidelines of certifying and accrediting bodies; hospital and department/unit standards, protocols, policies and procedures governing the provision of nursing care applicable to the area of assignment.\n\nKnowledge of medical terminology; principles and practices of health promotion, risk reduction, illness and disease prevention and management; medications and drugs, common dosages, their physical and physiological effects, and possible adverse reactions.\n\nKnowledge of medical and professional nursing ethics and patient privacy rights.\n\nMust be able to communicate thoughts clearly, both verbally and in writing.\n\nInterpersonal skills to interact with a wide-range of constituencies.\n\nMust have critical thinking and problem-solving skills.\n\nAbility to observe changes in the medical condition of patients and effectively communicate these changes to other nursing staff members and physicians/providers.\n\nAbility to provide age-specific, quality, patient-centered care to all patients through the nursing process and standards of nursing practice with sensitivity and respect for the diversity of human experience and to develop, evaluate, implement and, as necessary, modify a patient care plan to meet the needs of individual patients.\n\nGeneral computer skills, including but not limited to: Microsoft Office, information security, scheduling and payroll systems, electronic medical documentation, and email.\n\nBENEFITS\n\nOur competitive benefits package includes the following\n- Immediate eligibility for health and welfare benefits\n- 401(k) savings plan with dollar-for-dollar match up to 5%\n- Tuition Reimbursement\n- PTO accrual beginning Day 1\nNote: Benefits may vary based upon position type and/or level\n\nQUALIFICATIONS\n\n- EDUCATION - Grad of an Accredited Program\n\n- MAJOR - Nursing\n\n- MAJOR - Nursing\n\n- MAJOR - Nursing\n\n- EXPERIENCE - 2 Years of Experience\n\n- CERTIFICATION/LICENSE/REGISTRATION -\nRegistered Nurse (RN)\n\nBasic Life Support (BLS): BLS or BLS within 30 days of hire or transfer.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Lakeway, TX",
-    "job_city": "Lakeway",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 30.3679788,
-    "job_longitude": -97.99167899999999,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De57AjGMbneBZ49LrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Many of the ICU nurses have greater than 10 yrs. of varying ICU experience",
-        "Knowledge and understanding of nursing and patient care standards and procedures",
-        "Knowledge of laws, rules and regulations; standards and guidelines of certifying and accrediting bodies; hospital and department/unit standards, protocols, policies and procedures governing the provision of nursing care applicable to the area of assignment",
-        "Knowledge of medical terminology; principles and practices of health promotion, risk reduction, illness and disease prevention and management; medications and drugs, common dosages, their physical and physiological effects, and possible adverse reactions",
-        "Knowledge of medical and professional nursing ethics and patient privacy rights",
-        "Must be able to communicate thoughts clearly, both verbally and in writing",
-        "Interpersonal skills to interact with a wide-range of constituencies",
-        "Must have critical thinking and problem-solving skills",
-        "Ability to observe changes in the medical condition of patients and effectively communicate these changes to other nursing staff members and physicians/providers",
-        "Ability to provide age-specific, quality, patient-centered care to all patients through the nursing process and standards of nursing practice with sensitivity and respect for the diversity of human experience and to develop, evaluate, implement and, as necessary, modify a patient care plan to meet the needs of individual patients",
-        "General computer skills, including but not limited to: Microsoft Office, information security, scheduling and payroll systems, electronic medical documentation, and email",
-        "EDUCATION - Grad of an Accredited Program",
-        "MAJOR - Nursing",
-        "MAJOR - Nursing",
-        "MAJOR - Nursing",
-        "EXPERIENCE - 2 Years of Experience",
-        "CERTIFICATION/LICENSE/REGISTRATION -",
-        "Basic Life Support (BLS): BLS or BLS within 30 days of hire or transfer"
-      ],
-      "Benefits": [
-        "Our competitive benefits package includes the following",
-        "Immediate eligibility for health and welfare benefits",
-        "401(k) savings plan with dollar-for-dollar match up to 5%",
-        "Tuition Reimbursement",
-        "PTO accrual beginning Day 1"
-      ],
-      "Responsibilities": [
-        "Status: Full Time, 36 hrs",
-        "Shift: Night Shift, (7pm-7am- self-scheduling with rotating weekends)",
-        "18 beds",
-        "The Registered Nurse (RN) is a licensed professional who uses the BSWH nursing professional practice model to coordinate patient care delivery by the health care team",
-        "Using the nursing process, the RN assesses the patient, identifies nursing diagnoses based on responses to health problems, develops and implements an individualized plan of care, and evaluates the patient's response",
-        "The RN promotes safe passage for their patients by using knowledge of patient needs and the healthcare environment to assist patients to transition through the healthcare encounter without any preventable complications or delays",
-        "The RN delegates interventions to health care personnel based on the Texas Nursing Practice Act, each patient's condition and the competencies of the employee",
-        "RN job is to be used for RNs in hospital inpatient and outpatient departments with 24X7 staffing which include those departments with on-call staffing on the off shifts",
-        "Examples of hospital inpatient and outpatient procedural areas: GI Lab, Pain Management, Dialysis, Infusion Centers and IV Services",
-        "Clinical Judgment: Using clinical reasoning, conducts accurate clinical assessments according to practice standards",
-        "Identifies and prioritizes patient and family needs",
-        "Develops, implements and evaluates the nursing plan of care",
-        "Modifies plan to meet clinical outcomes",
-        "Clinical Inquiry: Systematically evaluates the quality and effectiveness of nursing practice, including, but not limited to, nursing sensitive indicators",
-        "Supports evidence-based practice changes through research utilization and experiential learning",
-        "Participates in quality/performance improvement initiatives",
-        "Caring Practices: Creates a compassionate, supportive, safe and therapeutic environment for patients, families and staff",
-        "Develops therapeutic relationships with patient and family and maintains appropriate boundaries",
-        "Manages both emotional and physical pain with the aim of promoting comfort and healing and preventing unnecessary suffering",
-        "Response to Diversity: Recognizes, appreciates and incorporates a patient's and family's unique differences, such as culture, spiritual beliefs, gender, race, ethnicity, lifestyle, socioeconomic status, age, and values, into an individualized plan of care",
-        "Advocacy and Moral Agency: Preserves and protects the confidentiality, autonomy, dignity and rights of patient and family and represents their concerns",
-        "Creates an individualized plan that accurately reflects patient and family values and goals",
-        "Identifies and helps resolve ethical and clinical concerns",
-        "Facilitation of Learning: Facilitates learning for patients and families, nursing staff, other members of the health care team and community; integrating appropriate education throughout the continuum of care to help them participate and/or make informed decisions about their health care and treatments, including health promotion and disease prevention",
-        "Assesses and documents learning needs and outcomes",
-        "Collaboration: Works collaboratively and interdependently with colleagues and community to develop and implement an integrated plan of care",
-        "Open and sensitive to all team members' unique contributions",
-        "Delegates tasks and care to appropriate staff and ensures timely follow-up",
-        "Systems Thinking: Uses strategies and available resources for problem-solving for patients, family and staff",
-        "Recognizes that resources are limited and considers factors related to safety, effectiveness and efficiency in planning and delivering patient care",
-        "Professionalism: Improves nursing practice and the work environment through participating in shared governance and decision-making processes and meaningfully recognizing the contributions of others",
-        "Participates in the staffing process from education and planning to evaluation",
-        "Identifies personal goals and commits to ongoing professional growth through continuing education, networking with professional colleagues, membership and involvement in professional nursing organizations, self-study, professional reading, certification and seeking advanced degrees",
-        "Contributes to the professional development of peers, colleagues and others",
-        "Demonstrates commitment to community service"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "jobs-bswhealth-com-us-en-job-bswhus25019849externalenus-rn-icu-intensive-care-night",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "Ps3-qmEEmMKxWOWIAAAAAA==",
     "job_title": "Registered Nurse - Med Surg ICU",
     "employer_name": "Mercy",
@@ -1630,8 +1484,8 @@
     "job_longitude": -90.422618,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPs3-qmEEmMKxWOWIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1675,6 +1529,84 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-intelycare-com-jobs-169290357-registered-nurse-med-surg-icu",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "J5sR9QMrNkNbHCK2AAAAAA==",
+    "job_title": "Registered Nurse - Trauma ICU",
+    "employer_name": "Incredible Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2_5gg9xegQ7Dy9jR7dFtr77LLo6l-4Mqw5Svb&s=0",
+    "employer_website": "https://www.incrediblehealth.com",
+    "job_publisher": "Incredible Health",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.incrediblehealth.com/jobs/nurse/xczB4F4Lfjj3uz65Ln4jbsRA/n-trauma-icu-rn-new-brunswick-nj?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Incredible Health",
+        "apply_link": "https://www.incrediblehealth.com/jobs/nurse/xczB4F4Lfjj3uz65Ln4jbsRA/n-trauma-icu-rn-new-brunswick-nj?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/registered-nurse-trauma-icu--new-brunswick--e1db2efc8acab19f29ad9a7c04d2bd407?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "RN Lineup Jobs - Care Talent Center",
+        "apply_link": "https://rnlineup.caretalentcenter.com/jobpage/ahef8s4rsnhn-75da11-1ce70fed9cec6-119638-d3caefa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Care Jobs - Work Wave Link",
+        "apply_link": "https://carejobs.workwavelink.com/jobpage/v0bvu9wbaeuc-ad3a-dce1041fdfb0e-925-9a7067ea5a59?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Hospitals on Incredible Health are actively hiring and accepting applications in the New Brunswick, NJ area for the following position: Registered Nurse - Trauma ICU.\n• Shift(s) available: day shift, night shift, and mid shift\n• Job types available: full time, part time, and per diem\n• Employer features: 401(K), Community hospital, Cross training, Magnet recognized, Medical, PTO, Teaching Hospital, U.S. News best hospital\nQualifications:\n• ADN/ASN degree or higher from an accredited school of nursing\n• Active and unencumbered Registered Nurse license in the state of New Jersey\nBenefits:\n• Healthcare coverage: Medical, Dental, Vision\n• 401K\n• Paid Time Off\n• Tuition Assistance\nSalary: $70,920 to $117,990 /year",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770076800,
+    "job_posted_at_datetime_utc": "2026-02-03T00:00:00.000Z",
+    "job_location": "New Brunswick, NJ",
+    "job_city": "New Brunswick",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.496656699999996,
+    "job_longitude": -74.4442802,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJ5sR9QMrNkNbHCK2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 70920,
+    "job_max_salary": 117990,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "ADN/ASN degree or higher from an accredited school of nursing",
+        "Active and unencumbered Registered Nurse license in the state of New Jersey"
+      ],
+      "Benefits": [
+        "Job types available: full time, part time, and per diem",
+        "Employer features: 401(K), Community hospital, Cross training, Magnet recognized, Medical, PTO, Teaching Hospital, U.S. News best hospital",
+        "Healthcare coverage: Medical, Dental, Vision",
+        "401K",
+        "Paid Time Off",
+        "Tuition Assistance",
+        "Salary: $70,920 to $117,990 /year"
+      ],
+      "Responsibilities": [
+        "Shift(s) available: day shift, night shift, and mid shift"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-incrediblehealth-com-jobs-nurse-xczb4f4lfjj3uz65ln4jbsra-n-trauma-icu-rn-new-brunswick-nj",
     "_source": "new_jobs"
   },
   {
@@ -1744,8 +1676,8 @@
     "job_latitude": 41.4169974,
     "job_longitude": -81.6059581,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSRKlRdUWnIfSpdSrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1856,9 +1788,9 @@
     "job_latitude": 40.7195342,
     "job_longitude": -74.0430133,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dzj05xctkpoROa23XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1908,7 +1840,7 @@
     "job_title": "RN Registered Nurse RN Full Time ICU 10K RN",
     "employer_name": "Vibra Healthcare Inc.",
     "employer_logo": null,
-    "employer_website": null,
+    "employer_website": "https://career.io",
     "job_publisher": "Career.io",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -1935,8 +1867,8 @@
     "job_latitude": 46.950797699999995,
     "job_longitude": -96.80258049999999,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DXJcwQTvRzZaNabf7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1985,67 +1917,208 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "lXnQwIgi9KWGL7XpAAAAAA==",
-    "job_title": "Local ICU (Intensive Care Unit) RN (Registered Nurse) in Metairie, LA",
-    "employer_name": "Medical Solutions",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzBCis9moy6Gsdp3oP0tguFYJVwEEnbom2UkLb&s=0",
-    "employer_website": "https://www.medicalsolutions.com",
-    "job_publisher": "Medical Solutions",
+    "job_id": "L6AzjwO0702j4QKJAAAAAA==",
+    "job_title": "*Registered Nurse - Float Pool \"Critical Care\" - Full Time - Days/Nights - Up to $10K Sign-on Bonus",
+    "employer_name": "Mohawk Valley Health System",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyR0JYHyn4PKAW-NtoyOrPO_4W39v5CExPailM&s=0",
+    "employer_website": "https://www.mvhealthsystem.org",
+    "job_publisher": "Mohawk Valley Health System Careers",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.medicalsolutions.com/jobs/Local/RN_(Registered_Nurse)/LA/ICU_(Intensive_Care_Unit)/5d5030f4-3008-f111-8406-7ced8d3ccda0/725030f4-3008-f111-8406-7ced8d3ccda0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
+    "job_apply_link": "https://careers.mvhealthsystem.org/job/UTICA-Registered-Nurse-Float-Pool-Critical-Care-Full-Time-DaysNights-Up-to-%2410K-Sign-on-Bonus-NY-13502/1142642800/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Medical Solutions",
-        "apply_link": "https://www.medicalsolutions.com/jobs/Local/RN_(Registered_Nurse)/LA/ICU_(Intensive_Care_Unit)/5d5030f4-3008-f111-8406-7ced8d3ccda0/725030f4-3008-f111-8406-7ced8d3ccda0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Mohawk Valley Health System Careers",
+        "apply_link": "https://careers.mvhealthsystem.org/job/UTICA-Registered-Nurse-Float-Pool-Critical-Care-Full-Time-DaysNights-Up-to-%2410K-Sign-on-Bonus-NY-13502/1142642800/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Mohawk-Valley-Health-Systems/Job/%2ARegistered-Nurse-Float-Pool-Critical-Care--Full-Time-Days-Nights-Up-to-$10K-Sign-on-Bonus/-in-Utica,NY?jid=aae9f58569aa40d3&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-float-pool-non-critical-care-full-time-days-nights-up-to-%2410k-sign-on-bonus-utica-ny-at-mohawk-valley-health-system-4363877367?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs For Stevenage Fans",
+        "apply_link": "https://jobs.stevenagefc.com/jobs/registered-nurse-float-pool-non-critical-care-full-time-days-nights-with-up-to-10k-sign-on-bo-utica-/2602716858-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/registered-nurse-float-pool-non-critical-care-full-time-days-nights-with-up-to-10k-sign-on-bo-utica-/2602716858-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "| USNLX Veterans Jobs - National Labor Exchange",
+        "apply_link": "https://veterans.usnlx.com/utica-ny/registered-nurse-float-pool-critical-care-full-time-daysnights-up-to-10k-sign-on-bonus/C22776AD771249088E4B2646E6C169E2/job/?vs=28&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/registered-nurse-float-pool-non-critical-care-full-time-days-nights-with-up-to-10k-sign-on-bo-utica-/2602716858-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KGET Jobs",
+        "apply_link": "https://jobs.kget.com/jobs/registered-nurse-float-pool-non-critical-care-full-time-days-nights-with-up-to-10k-sign-on-bo-utica-/2602716858-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
       }
     ],
-    "job_description": "A facility in Metairie, LA is looking for an exceptional RN (Registered Nurse) for a Local Contract. If you’re seeking flexibility and variety in your career, this could be the perfect opportunity for you!\n\nWhen you work with Medical Solutions, we’ve got your back 100% — starting with your co-captain and sidekick, your trusty recruiter. In addition to providing the industry’s best recruiters, we offer tons of high-paying jobs, clinical support, and incredible benefits, including:\n\nA compensation package that reflects your goals!\n401(k) with company contribution\nPriority access to exclusive jobs with top-rated healthcare systems nationwide\nCompensation packages designed to support the career and lifestyle you want\nWorld-class support with a dedicated recruiter who’s with you every step\nCareer flexibility through travel, local, virtual, and PRN opportunities\nUnlimited $1,000 referral bonuses\nLicensure/certification reimbursement\nDay-one medical, dental, and vision insurance\nVoluntary insurance benefits\nExclusive discounts at leading brands around the world\nFree Employee Assistance Program (EAP) to support your mental well-being\n24/7 support access to tech and real people whenever you need help\nEqual opportunity employer that celebrates diversity\n• Estimated pay and benefits package based on bill rate at time job was posted. Bill rates can change frequently and without notice. Exact pay and benefits package may vary based on several factors, including, but not limited to, guaranteed hours, travel distance, demand, experience, eligibility, etc.",
+    "job_description": "Bonuses and Benefits\n\nMVHS is offering a sign-on bonus for new and experienced RNs!\n• RNs with up to 3 years of relevant experience qualify for a $5,000 sign-on bonus.*\n• RNs with 3 or more years of relevant experience qualify for a $10,000 sign-on bonus.*\n\nThis bonus will be paid over the course of two years working at MVHS and will scale based on experience and employee status when hired. Submit your application and join our team of talented nurses as they support healthcare in the Mohawk Valley!\n\nOther benefits include: RN preceptor incentive, 401(k) plus match; health, dental, life, and vision insurance; FSA and HSA accounts; paid time off; tuition reimbursement.\n\nJob Summary\n\nAt MVHS, a Registered Nurse promotes and restores patient's health by completing the nursing process: collaborating with physicians and multidisciplinary team members, providing support to patients, visitors and families.\n\nRegistered Nurses with our team have many shift opportunities including days, nights, and weekends with opportunities for full-time, part-time and per-diem positions.\n\nA Registered Nurse is responsible for assessing, planning, promoting and evaluating quality patient care, as well as providing teaching to patients, families and the public. A Registered Nurse will follow the mission, vision, I-CARE values, policies and procedures of Mohawk Valley Health System.\n\nAbout Mohawk Valley Health System\n\nThis is an exciting time for MVHS as we have just moved into the Wynn Hospital, a brand new, state-of-the-art hospital in downtown Utica. You will be joining a team of nearly 4,800 clinical and healthcare professionals and will be provided opportunities to advance your career. MVHS is committed to creating an environment that supports professional nursing practice and excellence in patient care, become part of the team taking care of our community today!\n\nLicensure/Certification Requirements\n\nRequired:\n• Current New York State licensure as a Registered Nurse\n\nPreferred:\n• Basic Life Support Certification\n\nEducation/Experience Requirements\n\nRequired:\n• Graduate of an accredited associate degree\n• Minimum of one year experience in Emergency Department and/or Intensive Care Unit\n\nPreferred:\n• Bachelor of Science in Nursing from accredited nursing program or higher degree.\n• Previous Experience\n\nDisclaimer\n\nQualified applicants will receive consideration for employment without regard to their age, race, religion, national origin, ethnicity, age, gender (including pregnancy, childbirth, et al), sexual orientation, gender identity or expression, protected veteran status, or disability.\n\nSuccessful candidates might be required to undergo a background verification with an external vendor.",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Metairie, LA",
-    "job_city": "Metairie",
-    "job_state": "Louisiana",
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770336000,
+    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
+    "job_location": "Utica, NY",
+    "job_city": "Utica",
+    "job_state": "New York",
     "job_country": "US",
-    "job_latitude": 29.9840922,
-    "job_longitude": -90.1528519,
+    "job_latitude": 43.1010949,
+    "job_longitude": -75.23558059999999,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DlXnQwIgi9KWGL7XpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 1909,
-    "job_max_salary": 2102,
-    "job_salary_period": "WEEK",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DL6AzjwO0702j4QKJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
     "job_highlights": {
+      "Qualifications": [
+        "Current New York State licensure as a Registered Nurse",
+        "Graduate of an accredited associate degree",
+        "Minimum of one year experience in Emergency Department and/or Intensive Care Unit",
+        "Successful candidates might be required to undergo a background verification with an external vendor"
+      ],
       "Benefits": [
-        "A compensation package that reflects your goals!",
-        "401(k) with company contribution",
-        "Priority access to exclusive jobs with top-rated healthcare systems nationwide",
-        "Compensation packages designed to support the career and lifestyle you want",
-        "World-class support with a dedicated recruiter who’s with you every step",
-        "Career flexibility through travel, local, virtual, and PRN opportunities",
-        "Unlimited $1,000 referral bonuses",
-        "Licensure/certification reimbursement",
-        "Day-one medical, dental, and vision insurance",
-        "Voluntary insurance benefits",
-        "Exclusive discounts at leading brands around the world",
-        "Free Employee Assistance Program (EAP) to support your mental well-being",
-        "24/7 support access to tech and real people whenever you need help",
-        "Estimated pay and benefits package based on bill rate at time job was posted",
-        "Bill rates can change frequently and without notice",
-        "Exact pay and benefits package may vary based on several factors, including, but not limited to, guaranteed hours, travel distance, demand, experience, eligibility, etc"
+        "MVHS is offering a sign-on bonus for new and experienced RNs!",
+        "RNs with up to 3 years of relevant experience qualify for a $5,000 sign-on bonus.*",
+        "RNs with 3 or more years of relevant experience qualify for a $10,000 sign-on bonus.*",
+        "This bonus will be paid over the course of two years working at MVHS and will scale based on experience and employee status when hired",
+        "Other benefits include: RN preceptor incentive, 401(k) plus match; health, dental, life, and vision insurance; FSA and HSA accounts; paid time off; tuition reimbursement"
+      ],
+      "Responsibilities": [
+        "At MVHS, a Registered Nurse promotes and restores patient's health by completing the nursing process: collaborating with physicians and multidisciplinary team members, providing support to patients, visitors and families",
+        "Registered Nurses with our team have many shift opportunities including days, nights, and weekends with opportunities for full-time, part-time and per-diem positions",
+        "A Registered Nurse is responsible for assessing, planning, promoting and evaluating quality patient care, as well as providing teaching to patients, families and the public",
+        "A Registered Nurse will follow the mission, vision, I-CARE values, policies and procedures of Mohawk Valley Health System"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "www-medicalsolutions-com-jobs-local-rn_-registered_nurse-la-icu_-intensive_care_unit-5d5030f4-3008-f111-8406-7ced8d3ccda0-725030f4-3008-f111-8406-7ced8d3ccda0",
+    "id": "careers-mvhealthsystem-org-job-utica-registered-nurse-float-pool-critical-care-full-time-daysnights-up-to-2410k-sign-on-bonus-ny-13502-1142642800",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "AkKGEx2wffGxQhxHAAAAAA==",
+    "job_title": "Clinical Nurse Manager - Intensive Care Unit (ICU) - Progressive Care Unit (PCU) - Med Surg - Kings Mills Hospital",
+    "employer_name": "Mercy Health BSMH",
+    "employer_logo": null,
+    "employer_website": "https://bsmhealth.org",
+    "job_publisher": "Mercy Health",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.mercy.com/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Mercy Health",
+        "apply_link": "https://careers.mercy.com/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Careers At Bon Secours Mercy Health",
+        "apply_link": "https://careers.bsmhealth.org/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital-at-bon-secours-mercy-health-4364415691?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/clinical-nurse-manager_7ea1a51062fbf65facdc1c8229d38612a33cf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/y_3o0u79qKfxPgDOfzAeyC10mVs5SX4-Et-Jyil7DuA0yguszHfsEQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talentify",
+        "apply_link": "https://www.talentify.io/job/clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital-cincinnati-ohio-us-mercy-health-1-r264813?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.\n\nMercy Health\n\nAbout Us\n\nAs a faith-based and patient-focused organization, Mercy Health exists to enhance the health and well-being of all people in mind, body and spirit through exceptional patient care. Success in this goal requires a culture of compassion, collaboration, excellence and respect. Mercy Health seeks people that are committed to our values of compassion, human dignity, integrity, service and stewardship to create an environment where associates want to work and help communities thrive.\n\nClinical Nurse Manager - Intensive Care Unit (ICU) - Progressive Care Unit (PCU) - Med Surg - Kings Mills Hospital\n\nJOB SUMMARY\n\nOversees the daily operations of one or more nursing departments, including but not limited to: daily operations, program planning, financial planning and budget oversight, quality improvement, quality patient care and supervision/development of staff in accordance with all professional, regulatory, and accreditation standards\n\nESSENTIAL FUNCTIONS:\n\nOPERATIONS MANAGEMENT\nOversees 24/7 operations of the department, facilitates departmental compliance with all professional, local, state, national, and Joint Commission standards; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; develops and maintains relevant policies, procedures, and standards of care; represents department/service at site and regional meetings, including medical staff meetings as appropriate, interdisciplinary committees, and management meetings; collaborates with leadership on program plans and operations; assumes technical\n\nFINANCIAL MANAGEMENT\nCollaborates with finance department and site leadership in preparing the annual operating and capital budgets, which reflect an understanding of strategic initiatives and financial goals of Mercy Health; manages services in accordance with approved budgetary guidelines; ensures appropriate revenue capture; manages inventory of equipment and supplies; collaborates with revenue cycle specialists to maintain a working knowledge of current regulatory guidelines\n\nHR LEADERSHIP SKILLS/MANAGEMENT\nProvides leadership to staff in a collaborative environment that offers job satisfaction, education, empowerment, recognition and stimulates innovative thinking; collaborates with Human Resources to recruit, hire, orient and train new employees; develops and maintains staffing levels that are responsive to patient care needs and that optimizes productivity; conducts annual and ongoing appraisal of employee performance; develops and communicates job standards and expectations; leads regular meetings with employees and fosters environment for effective communication\n\nPERFORMANCE IMPROVEMENT\nDevelops and implements a comprehensive quality assurance / performance improvement program based on relevant indicators and standards of patient care; develops expectations for customer service and educates and measures staff on outcomes of service; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; incorporates rounding into regular activities; develops and maintains processes to assure equipment function and safety; collaborates with interdisciplinary team members to identify and improve patient care processes\n\nMINUMUM EDUCATAION:\n\nREQUIRED MINIMUM EDUCATION: 4 year/Bachelors Degree; Specialty/Major: Nursing or related field; BSN required if no higher level nursing degree held\n\nPREFERRED: Graduate Degree (Masters) Specialty/Major: Nursing or related field; MSN required if BSN is not held\n\nLICENSURE/CERTIFICATIONS (MUST NOT BE NON-EXPIRED/ACTIVE UNLESS OTHERWISE STATED)\n\nCurrent nursing license in the State of Ohio\nRequired Certifications by Nursing Department:\nEmergency Department- BLS/ACLS/PALS or per RN Residency plan\nMed Surg/Telemetry: BLS required, ACLS encouraged\nSTEP DOWN: BLS required; ACLS required with 6 months of hire or per RN Residency plan\nICU/CVU: BLS and ACLS required or per RN Residency plan\nFamily Birth: BLS and NRP required: NCCc-EFM within 18 months of hire required\nPerioperative: BLS required\nCath Lab: BLS and ACLS required\nCardiac Pulmonary Rehab: BLS and ACLS required\nPACU: BLS, ACLS and PALS required or per RN Residency plan\n\nMINIMUM YEARS AND TYPE OF EXPERIENCE: Three years of demonstrated leadership experience, including, but not limited to, charge nurse experience, preceptor experience, etc.\n\nOTHER KNOWLEDGE, SKILLS AND ABILITIES PREFERRED: Five years of clinical nursing experience preferred; one year of previous management experience preferred\n\nAs a Mercy Health associate, you're part of a Mission that matters. We support your well-being—personally and professionally. Our benefits are built to grow with you and meet your unique needs, every step of the way.\n\nWhat we offer\n• Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)\n• Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts\n• Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders\n• Tuition assistance, professional development and continuing education support\n\nBenefits may vary based on the market and employment status.\n\nAll applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Cincinnati, OH",
+    "job_city": "Cincinnati",
+    "job_state": "Ohio",
+    "job_country": "US",
+    "job_latitude": 39.1031182,
+    "job_longitude": -84.5120196,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAkKGEx2wffGxQhxHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "REQUIRED MINIMUM EDUCATION: 4 year/Bachelors Degree; Specialty/Major: Nursing or related field; BSN required if no higher level nursing degree held",
+        "LICENSURE/CERTIFICATIONS (MUST NOT BE NON-EXPIRED/ACTIVE UNLESS OTHERWISE STATED)",
+        "Current nursing license in the State of Ohio",
+        "Required Certifications by Nursing Department:",
+        "Emergency Department- BLS/ACLS/PALS or per RN Residency plan",
+        "Med Surg/Telemetry: BLS required, ACLS encouraged",
+        "STEP DOWN: BLS required; ACLS required with 6 months of hire or per RN Residency plan",
+        "ICU/CVU: BLS and ACLS required or per RN Residency plan",
+        "Family Birth: BLS and NRP required: NCCc-EFM within 18 months of hire required",
+        "Perioperative: BLS required",
+        "Cath Lab: BLS and ACLS required",
+        "Cardiac Pulmonary Rehab: BLS and ACLS required",
+        "PACU: BLS, ACLS and PALS required or per RN Residency plan",
+        "MINIMUM YEARS AND TYPE OF EXPERIENCE: Three years of demonstrated leadership experience, including, but not limited to, charge nurse experience, preceptor experience, etc"
+      ],
+      "Benefits": [
+        "Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)",
+        "Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts",
+        "Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders",
+        "Tuition assistance, professional development and continuing education support"
+      ],
+      "Responsibilities": [
+        "Oversees the daily operations of one or more nursing departments, including but not limited to: daily operations, program planning, financial planning and budget oversight, quality improvement, quality patient care and supervision/development of staff in accordance with all professional, regulatory, and accreditation standards",
+        "Oversees 24/7 operations of the department, facilitates departmental compliance with all professional, local, state, national, and Joint Commission standards; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; develops and maintains relevant policies, procedures, and standards of care; represents department/service at site and regional meetings, including medical staff meetings as appropriate, interdisciplinary committees, and management meetings; collaborates with leadership on program plans and operations; assumes technical",
+        "FINANCIAL MANAGEMENT",
+        "Collaborates with finance department and site leadership in preparing the annual operating and capital budgets, which reflect an understanding of strategic initiatives and financial goals of Mercy Health; manages services in accordance with approved budgetary guidelines; ensures appropriate revenue capture; manages inventory of equipment and supplies; collaborates with revenue cycle specialists to maintain a working knowledge of current regulatory guidelines",
+        "Provides leadership to staff in a collaborative environment that offers job satisfaction, education, empowerment, recognition and stimulates innovative thinking; collaborates with Human Resources to recruit, hire, orient and train new employees; develops and maintains staffing levels that are responsive to patient care needs and that optimizes productivity; conducts annual and ongoing appraisal of employee performance; develops and communicates job standards and expectations; leads regular meetings with employees and fosters environment for effective communication",
+        "Develops and implements a comprehensive quality assurance / performance improvement program based on relevant indicators and standards of patient care; develops expectations for customer service and educates and measures staff on outcomes of service; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; incorporates rounding into regular activities; develops and maintains processes to assure equipment function and safety; collaborates with interdisciplinary team members to identify and improve patient care processes"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "careers-mercy-com-us-en-job-r264813-clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital",
     "_source": "new_jobs"
   }
 ]
