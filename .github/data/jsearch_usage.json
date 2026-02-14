@@ -1,7 +1,7 @@
 {
   "date": "Sat Feb 14 2026",
-  "requests": 11,
-  "remaining": 19,
+  "requests": 12,
+  "remaining": 18,
   "queries_executed": [
     "nurse supervisor",
     "travel nurse",
@@ -13,6 +13,7 @@
     "critical care nurse",
     "emergency room nurse",
     "emergency room nurse",
-    "emergency room nurse"
+    "emergency room nurse",
+    "er nurse"
   ]
 }
