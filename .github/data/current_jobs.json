@@ -31,8 +31,8 @@
     "job_latitude": 38.8816208,
     "job_longitude": -77.09098089999999,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDxCZZXK1eOXsZ3A0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 1778,
@@ -130,9 +130,9 @@
     "job_latitude": 38.291238,
     "job_longitude": -76.63579419999999,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DquuZffUkwgerfAzDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -166,53 +166,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "careers-uspi-com-job-leonardtown-registered-nurse-operating-room-35934-91420631632",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "xjFAw_h_iYoefY43AAAAAA==",
-    "job_title": "OPERATING ROOM NURSING ASSISTANT",
-    "employer_name": "JT-DD83DB CENTRAL DHN - BROOKE",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "USAJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.usajobs.gov/job/857475700?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "USAJobs",
-        "apply_link": "https://www.usajobs.gov/job/857475700?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "FreeJobAlert",
-        "apply_link": "https://us.freejobalert.com/job/operating-room-nursing-assistant-military-treatment-facilities-under-dha-fort-sam-houston-texas-hsjw-26-12882849-dha-r?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "About the Position: This position is within the DIR of Nursing Operating Room at the Brooke Army Medical Center, Fort Sam Houston, Texas.\n\nThis is a Direct Hire Solicitation",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Texas",
-    "job_city": null,
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 31.9685988,
-    "job_longitude": -99.9018131,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxjFAw_h_iYoefY43AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {},
-    "job_onet_soc": "31101400",
-    "job_onet_job_zone": "2",
-    "id": "www-usajobs-gov-job-857475700",
     "_source": "new_jobs"
   },
   {
@@ -325,119 +278,50 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "H6Ctv3kn1b9J-euJAAAAAA==",
-    "job_title": "Operating Room Nurse - Sign on Bonus - Full and Part Time - Day Shift",
-    "employer_name": "Incredible Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4KntA4ZTo1eZNXtRCZLBiNrq-TCsCWsYOj3e&s=0",
-    "employer_website": "https://www.incrediblehealth.com",
-    "job_publisher": "Talent.com",
+    "job_id": "xjFAw_h_iYoefY43AAAAAA==",
+    "job_title": "OPERATING ROOM NURSING ASSISTANT",
+    "employer_name": "JT-DD83DB CENTRAL DHN - BROOKE",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "USAJobs",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=7e739c378bfd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.usajobs.gov/job/857475700?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=7e739c378bfd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "USAJobs",
+        "apply_link": "https://www.usajobs.gov/job/857475700?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "LifeworQ",
-        "apply_link": "https://lifeworq.com/job/edbdd575-9a3e-4683-9b8a-1bfc964fefa3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "FreeJobAlert",
+        "apply_link": "https://us.freejobalert.com/job/operating-room-nursing-assistant-military-treatment-facilities-under-dha-fort-sam-houston-texas-hsjw-26-12882849-dha-r?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Hospitals on Incredible Health are actively hiring and accepting applications in the Memphis, TN area for the following position : Registered Nurse - Operating Room Charge Nurse. Nurses with experience in any of the following areas are strongly encouraged to apply : Assistant Nurse Manager, CNO, CVOR, Charge, Circulate, Clinical Nurse Coordinator, Director, Manager, Neuro, On-call required, Open heart, Ortho, PACU experience, Pediatric, RNFA, Robotic surgery, Scrub, Supervisor, Transplant, VP, or Vascular.\n\nShift(s) available : day shift, night shift, and mid shift\n\nJob types available : full time, part time, and per diem\n\nEmployer features : 401(K), Academic medical center, Community hospital, Cross training, Cross training, Health Insurance, Life Insurance, Life Insurance, Medical, Offers sign on bonus, Offers sign on bonus, PTO, Retirement Plan, Teaching Hospital, U.S. News best hospital Qualifications :\n\nRN Diploma degree or higher from an accredited school of nursing\n\nActive and unencumbered Registered Nurse license in the state of Tennessee\n\nBenefits :\n\nHealthcare coverage : Medical, Dental, Vision\n\n401K\n\nPaid Time Off\n\nTuition Assistance\n\nSalary : $48,920 to $94,690 / year",
+    "job_description": "About the Position: This position is within the DIR of Nursing Operating Room at the Brooke Army Medical Center, Fort Sam Houston, Texas.\n\nThis is a Direct Hire Solicitation",
     "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Red Banks, MS",
-    "job_city": "Red Banks",
-    "job_state": "Mississippi",
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Texas",
+    "job_city": null,
+    "job_state": "Texas",
     "job_country": "US",
-    "job_latitude": 34.8281516,
-    "job_longitude": -89.5645253,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DH6Ctv3kn1b9J-euJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
+    "job_latitude": 31.9685988,
+    "job_longitude": -99.9018131,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxjFAw_h_iYoefY43AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
     "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "RN Diploma degree or higher from an accredited school of nursing",
-        "Active and unencumbered Registered Nurse license in the state of Tennessee"
-      ],
-      "Benefits": [
-        "Employer features : 401(K), Academic medical center, Community hospital, Cross training, Cross training, Health Insurance, Life Insurance, Life Insurance, Medical, Offers sign on bonus, Offers sign on bonus, PTO, Retirement Plan, Teaching Hospital, U.S. News best hospital Qualifications :",
-        "Healthcare coverage : Medical, Dental, Vision",
-        "401K",
-        "Paid Time Off",
-        "Tuition Assistance",
-        "Salary : $48,920 to $94,690 / year"
-      ],
-      "Responsibilities": [
-        "Shift(s) available : day shift, night shift, and mid shift"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "DVKHQKnmYc9RjsbfAAAAAA==",
-    "job_title": "Operating Room Nurse",
-    "employer_name": "Grand Dunes Surgery Center",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/operating-room-nurse?id=2453509005&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/operating-room-nurse?id=2453509005&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description\nIntroduction\n\nDo you want to be appreciated daily? Our nurses are celebrated for being on the front line, empathetic for patients. At Grande Dunes Surgery Center our nurses set us apart from any other healthcare provider. We are seeking a Operating Room Registered Nurse to join our healthcare family.\nBenefits\n\nGrande Dunes Surgery Center offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\nComprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation. Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more. Free counseling services and resources for emotional, physical and financial wellbeing\n401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\nEmployee Stock Purchase Plan with 10% off HCA Healthcare stock\nFamily support through fertility and family building benefits with Progyny and adoption assistance.\nReferral services for child, elder and pet care, home and auto repair, event planning and more\nConsumer discounts through Abenity and Consumer Discounts\nRetirement readiness, rollover assistance services and preferred banking partnerships\nEducation assistance (tuition, student loan, certification support, dependent scholarships)\nColleague recognition program\nTime Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\nEmployee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nAt Grande Dunes Surgery Center, our nurses play a vital part. We know that every nurse's path and purpose is unique. Do you want to create your own personal career path in nursing? HCA Healthcare is your career destination! Our scale makes it possible for nurses to create the career path that fits their life - for life - and empowers their passion for patient care. Apply today for our Operating Room Registered Nurse opportunity.\nJob Summary and Qualifications\n\nWe are seeking an Operating Room Nurse for our ambulatory surgery center who demonstrates the values of our company by caring like family. You will be an amazing addition to our team by contributing your expertise in the circulating or scrub role. You will ensure safe and effective nursing care until your patient is transferred from your care to recovery.\n\nWhat you will do in this role:\nEvaluate patients prior to surgery Provide patient and family education surrounding the procedure and peri-operative process Assume responsibility for patient preparation, including intravenous therapy, preoperative medications, and surgical site verification Participate in surgical site verification, including briefing, time out, debriefing, and universal protocols, according to hospital policy Recognize and respond to patient emergencies Deliver high-quality, patient-centered care while managing evidence-based practices and continuous improvement initiatives Be an integral member of a dynamic interdisciplinary team - consisting of the provider(s), surgeons, surgical technologists and more Consistently apply the nursing process, critical thinking skills, scientific judgment, technical skills and leadership to independently deliver safe nursing care to patients Assess patient condition, monitor throughout your shift, and document changes in patient condition along with the care provided thoroughly Educate patients and families/caregivers about the patient's medical condition, treatment and follow-up measures\n\nQualifications you will need:\nGraduate from an accredited school of professional nursing Minimum 1 year of experience in an operating room setting, preferably in an ambulatory surgery center Active RN license as required by state of employment or appropriate compact licensure Valid BCLS Certification upon employment ***online certification not acceptable ACLS as required by facility CNOR certification preferred\n\nGrande Dunes Surgery Center is located just blocks away from the ocean in Myrtle Beach, South Carolina and isthe leading provider of outpatient surgical services in the Horry County area. Our AAAHCaccredited center performs over 750 cases a month in many specialties and is the only center to offerfull service ophthalmology services. We also have ENT, gastroenterology, gynecology,orthopedics, plastics and podiatry services available. The center has had rapid growth over thelast five years and is in one of the fastest growing areas in the nation.\n\nHCA Healthcare has been recognized as one of the World's Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3.7 billion in cost for thedelivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\nJoin a family that cares about every stage in your career! We are interviewing candidates for our Operating Room Registered Nurse opening. Apply today and a member of our Talent Acquisition team will reach out.\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Garden City, SC",
-    "job_city": "Garden City",
-    "job_state": "South Carolina",
-    "job_country": "US",
-    "job_latitude": 33.5929472,
-    "job_longitude": -79.0086464,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDVKHQKnmYc9RjsbfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_salary_period": "YEAR",
     "job_highlights": {},
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-whatjobs-com-jobs-operating-room-nurse",
+    "job_onet_soc": "31101400",
+    "job_onet_job_zone": "2",
+    "id": "www-usajobs-gov-job-857475700",
     "_source": "new_jobs"
   },
   {
@@ -545,6 +429,244 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "H6Ctv3kn1b9J-euJAAAAAA==",
+    "job_title": "Operating Room Nurse - Sign on Bonus - Full and Part Time - Day Shift",
+    "employer_name": "Incredible Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4KntA4ZTo1eZNXtRCZLBiNrq-TCsCWsYOj3e&s=0",
+    "employer_website": "https://www.incrediblehealth.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=7e739c378bfd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=7e739c378bfd&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LifeworQ",
+        "apply_link": "https://lifeworq.com/job/edbdd575-9a3e-4683-9b8a-1bfc964fefa3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Hospitals on Incredible Health are actively hiring and accepting applications in the Memphis, TN area for the following position : Registered Nurse - Operating Room Charge Nurse. Nurses with experience in any of the following areas are strongly encouraged to apply : Assistant Nurse Manager, CNO, CVOR, Charge, Circulate, Clinical Nurse Coordinator, Director, Manager, Neuro, On-call required, Open heart, Ortho, PACU experience, Pediatric, RNFA, Robotic surgery, Scrub, Supervisor, Transplant, VP, or Vascular.\n\nShift(s) available : day shift, night shift, and mid shift\n\nJob types available : full time, part time, and per diem\n\nEmployer features : 401(K), Academic medical center, Community hospital, Cross training, Cross training, Health Insurance, Life Insurance, Life Insurance, Medical, Offers sign on bonus, Offers sign on bonus, PTO, Retirement Plan, Teaching Hospital, U.S. News best hospital Qualifications :\n\nRN Diploma degree or higher from an accredited school of nursing\n\nActive and unencumbered Registered Nurse license in the state of Tennessee\n\nBenefits :\n\nHealthcare coverage : Medical, Dental, Vision\n\n401K\n\nPaid Time Off\n\nTuition Assistance\n\nSalary : $48,920 to $94,690 / year",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Red Banks, MS",
+    "job_city": "Red Banks",
+    "job_state": "Mississippi",
+    "job_country": "US",
+    "job_latitude": 34.8281516,
+    "job_longitude": -89.5645253,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DH6Ctv3kn1b9J-euJAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "RN Diploma degree or higher from an accredited school of nursing",
+        "Active and unencumbered Registered Nurse license in the state of Tennessee"
+      ],
+      "Benefits": [
+        "Employer features : 401(K), Academic medical center, Community hospital, Cross training, Cross training, Health Insurance, Life Insurance, Life Insurance, Medical, Offers sign on bonus, Offers sign on bonus, PTO, Retirement Plan, Teaching Hospital, U.S. News best hospital Qualifications :",
+        "Healthcare coverage : Medical, Dental, Vision",
+        "401K",
+        "Paid Time Off",
+        "Tuition Assistance",
+        "Salary : $48,920 to $94,690 / year"
+      ],
+      "Responsibilities": [
+        "Shift(s) available : day shift, night shift, and mid shift"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "DVKHQKnmYc9RjsbfAAAAAA==",
+    "job_title": "Operating Room Nurse",
+    "employer_name": "Grand Dunes Surgery Center",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "WhatJobs",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.whatjobs.com/jobs/operating-room-nurse?id=2453509005&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/operating-room-nurse?id=2453509005&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Description\nIntroduction\n\nDo you want to be appreciated daily? Our nurses are celebrated for being on the front line, empathetic for patients. At Grande Dunes Surgery Center our nurses set us apart from any other healthcare provider. We are seeking a Operating Room Registered Nurse to join our healthcare family.\nBenefits\n\nGrande Dunes Surgery Center offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\nComprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation. Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more. Free counseling services and resources for emotional, physical and financial wellbeing\n401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\nEmployee Stock Purchase Plan with 10% off HCA Healthcare stock\nFamily support through fertility and family building benefits with Progyny and adoption assistance.\nReferral services for child, elder and pet care, home and auto repair, event planning and more\nConsumer discounts through Abenity and Consumer Discounts\nRetirement readiness, rollover assistance services and preferred banking partnerships\nEducation assistance (tuition, student loan, certification support, dependent scholarships)\nColleague recognition program\nTime Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\nEmployee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nAt Grande Dunes Surgery Center, our nurses play a vital part. We know that every nurse's path and purpose is unique. Do you want to create your own personal career path in nursing? HCA Healthcare is your career destination! Our scale makes it possible for nurses to create the career path that fits their life - for life - and empowers their passion for patient care. Apply today for our Operating Room Registered Nurse opportunity.\nJob Summary and Qualifications\n\nWe are seeking an Operating Room Nurse for our ambulatory surgery center who demonstrates the values of our company by caring like family. You will be an amazing addition to our team by contributing your expertise in the circulating or scrub role. You will ensure safe and effective nursing care until your patient is transferred from your care to recovery.\n\nWhat you will do in this role:\nEvaluate patients prior to surgery Provide patient and family education surrounding the procedure and peri-operative process Assume responsibility for patient preparation, including intravenous therapy, preoperative medications, and surgical site verification Participate in surgical site verification, including briefing, time out, debriefing, and universal protocols, according to hospital policy Recognize and respond to patient emergencies Deliver high-quality, patient-centered care while managing evidence-based practices and continuous improvement initiatives Be an integral member of a dynamic interdisciplinary team - consisting of the provider(s), surgeons, surgical technologists and more Consistently apply the nursing process, critical thinking skills, scientific judgment, technical skills and leadership to independently deliver safe nursing care to patients Assess patient condition, monitor throughout your shift, and document changes in patient condition along with the care provided thoroughly Educate patients and families/caregivers about the patient's medical condition, treatment and follow-up measures\n\nQualifications you will need:\nGraduate from an accredited school of professional nursing Minimum 1 year of experience in an operating room setting, preferably in an ambulatory surgery center Active RN license as required by state of employment or appropriate compact licensure Valid BCLS Certification upon employment ***online certification not acceptable ACLS as required by facility CNOR certification preferred\n\nGrande Dunes Surgery Center is located just blocks away from the ocean in Myrtle Beach, South Carolina and isthe leading provider of outpatient surgical services in the Horry County area. Our AAAHCaccredited center performs over 750 cases a month in many specialties and is the only center to offerfull service ophthalmology services. We also have ENT, gastroenterology, gynecology,orthopedics, plastics and podiatry services available. The center has had rapid growth over thelast five years and is in one of the fastest growing areas in the nation.\n\nHCA Healthcare has been recognized as one of the World's Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3.7 billion in cost for thedelivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\nJoin a family that cares about every stage in your career! We are interviewing candidates for our Operating Room Registered Nurse opening. Apply today and a member of our Talent Acquisition team will reach out.\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Garden City, SC",
+    "job_city": "Garden City",
+    "job_state": "South Carolina",
+    "job_country": "US",
+    "job_latitude": 33.5929472,
+    "job_longitude": -79.0086464,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDVKHQKnmYc9RjsbfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-whatjobs-com-jobs-operating-room-nurse",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "uWCPIHheHAGrEO07AAAAAA==",
+    "job_title": "RN, Operating Room",
+    "employer_name": "RWJBarnabas Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nRrj6VAqf1jJ1F6LvZW8vNpbHxjE-xpT6DE7&s=0",
+    "employer_website": null,
+    "job_publisher": "RWJBarnabas Health",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.rwjbarnabashealthcareers.org/job/143452/rn-operating-room-nurses-us-nj-new-brunswick-one-robert-wood-johnson-place/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "RWJBarnabas Health",
+        "apply_link": "https://www.rwjbarnabashealthcareers.org/job/143452/rn-operating-room-nurses-us-nj-new-brunswick-one-robert-wood-johnson-place/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=536bd464a3126f76&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/RWJBarnabas-Health/Job/RN,-Pediatric-Operating-Room/-in-New-Brunswick,NJ?jid=75394d696a03f3ef&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/ee5340f8c12460f0f90d51f98009f838?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Health Jobs Nationwide",
+        "apply_link": "https://www.healthjobsnationwide.com/job/rn-operating-room-14942136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/rn-pediatric-operating-room-at-rwjbarnabas-health-4346037268?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/rn_7ea1a8c852c3a13f51f796d51cdc99864e1e0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/rn-pediatric-operating-room-rwjbarnabas-health-JV_IC1126901_KO0,27_KE28,46.htm?jl=1009860071809&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Title: RN\n\nLocation: Main Hospital - New Brunswick\n\nDepartment Name: Operating Room\n\nReq #: 0000229347\n\nStatus: Hourly\n\nShift: Night\n\nPay Range: $47.85 - $71.72 per hour\n\nPay Transparency:\n\nThe above reflects the anticipated hourly wage range for this position if hired to work in New Jersey.\n\nThe compensation offered to the candidate selected for the position will depend on several factors, including the candidate's educational background, skills and professional experience.\n\nJob Overview:\n\nRWJBarnabas Health is seeking a highly dedicated Registered Nurse for our Level 1 Trauma Center Main Operating Room on the New Brunswick campus.\n\nPosition Summary: The OR Nurse will provide high-quality patient care in the surgical setting, working collaboratively with surgeons, anesthesiologists, and other healthcare professionals. This role requires a detail-oriented and proactive individual who thrives in a fast-paced environment and is dedicated to improving surgical outcomes for our patients,\n\nLearn about our Operating Room - Link: https://vimeo.com/1078694208\n\nQualifications:\n\nRequired:\n• ASN or Nursing Diploma\n• Minimum of one 1 year OR RN experience or recent graduate of a periop 101 program\n• Strong communication and organizational skills\n• Proficient computer skills\n\nPreferred:\n• BSN or must be completed within 5 years upon hire\n• CNOR\n\nCertifications and Licenses Required:\n• BLS and ACLS certification\n• Active New Jersey Registered Nurse License\n\nScheduling Requirements:\n• Night Shift, 40 hours per week, 9:00pm – 7:30am\n• Weekends, Holidays and on call as assigned\n• Full Time\n\nEssential Functions:\n• The Registered Nurse provides nursing care in the health care system within the scope of practice defined by the Nurse Practice Act and regulatory standards and assures awareness of ethical standards of practice as defined by the ANA code of ethics.\n• The Registered Nurse assures safety in practice and is inclusive of the principles of evidence-based practice by maintaining a realization of own individual level of knowledge and experience and assumes responsibility for advancing knowledge of self and others of the patient care team by communication with and utilizing resource persons and programs available.\n• The Registered Nurse is responsible for reporting identified safety issues such as hazardous environments (i.e. damaged floors/walls/ceiling tiles/unsecured areas) and medical errors.\n• The Registered Nurse is responsible for knowledge of the patient population served.\n• The Registered Nurse is responsible for supervising and directing the delegation of tasks to appropriate team members and collaborates with other patient care providers.\n• The Registered Nurse is responsible for consistently setting and evaluating priorities through appropriate interventions with measurable outcomes toward improvement.\n• The Registered Nurse is an individual practitioner and the interdisciplinary team manager, utilizes the nursing process to integrate all aspects of the provision of care and individualizes the plan of care to address a specific patient’s needs.\n\nBenefits and Perks:\n\nAt RWJBarnabas Health, our market-competitive Total Rewards package provides comprehensive benefits and resources to support our employees’ physical, emotional, social, and financial health.\n• Paid Time Off (PTO)\n• Medical and Prescription Drug Insurance\n• Dental and Vision Insurance\n• Retirement Plans\n• Short & Long Term Disability\n• Life & Accidental Death Insurance\n• Tuition Reimbursement\n• Health Care/Dependent Care Flexible Spending Accounts\n• Wellness Programs\n• Voluntary Benefits (e.g., Pet Insurance)\n• Discounts Through our Partners such as NJ Devils, NJ PAC, Verizon, and more!\n\nChoosing RWJBarnabas Health!\n\nRWJBarnabas Health is the premier health care destination providing patient-centered, high-quality academic medicine in a compassionate and equitable manner, while delivering a best-in-class work experience to every member of the team. We honor and appreciate the privilege of creating and sustaining healthier communities, one person and one community at a time. As the leading academic health system in New Jersey, we advance innovative strategies in high-quality patient care, education, and research to address both the clinical and social determinants of health.\n\nRWJBarnabas Health aims to truly make a unique impact in local communities throughout New Jersey. From vastly improving the health of local residents to creating educational and career opportunities, this combination greatly benefits the state. We understand the growing and evolving needs of residents in New Jersey—whether that be enhancing the coordination for treating complex health conditions or improving community health through local programs and education.\n\nEqual Opportunity Employer",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "New Brunswick, NJ",
+    "job_city": "New Brunswick",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 40.496656699999996,
+    "job_longitude": -74.4442802,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuWCPIHheHAGrEO07AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "ASN or Nursing Diploma",
+        "Minimum of one 1 year OR RN experience or recent graduate of a periop 101 program",
+        "Strong communication and organizational skills",
+        "Proficient computer skills",
+        "BLS and ACLS certification",
+        "Active New Jersey Registered Nurse License",
+        "Full Time"
+      ],
+      "Benefits": [
+        "Pay Range: $47.85 - $71.72 per hour",
+        "The above reflects the anticipated hourly wage range for this position if hired to work in New Jersey",
+        "The compensation offered to the candidate selected for the position will depend on several factors, including the candidate's educational background, skills and professional experience",
+        "At RWJBarnabas Health, our market-competitive Total Rewards package provides comprehensive benefits and resources to support our employees’ physical, emotional, social, and financial health",
+        "Paid Time Off (PTO)",
+        "Medical and Prescription Drug Insurance",
+        "Dental and Vision Insurance",
+        "Retirement Plans",
+        "Short & Long Term Disability",
+        "Life & Accidental Death Insurance",
+        "Tuition Reimbursement",
+        "Health Care/Dependent Care Flexible Spending Accounts",
+        "Wellness Programs",
+        "Voluntary Benefits (e.g., Pet Insurance)",
+        "Discounts Through our Partners such as NJ Devils, NJ PAC, Verizon, and more!"
+      ],
+      "Responsibilities": [
+        "Position Summary: The OR Nurse will provide high-quality patient care in the surgical setting, working collaboratively with surgeons, anesthesiologists, and other healthcare professionals",
+        "This role requires a detail-oriented and proactive individual who thrives in a fast-paced environment and is dedicated to improving surgical outcomes for our patients,",
+        "Night Shift, 40 hours per week, 9:00pm – 7:30am",
+        "Weekends, Holidays and on call as assigned",
+        "The Registered Nurse provides nursing care in the health care system within the scope of practice defined by the Nurse Practice Act and regulatory standards and assures awareness of ethical standards of practice as defined by the ANA code of ethics",
+        "The Registered Nurse assures safety in practice and is inclusive of the principles of evidence-based practice by maintaining a realization of own individual level of knowledge and experience and assumes responsibility for advancing knowledge of self and others of the patient care team by communication with and utilizing resource persons and programs available",
+        "The Registered Nurse is responsible for reporting identified safety issues such as hazardous environments (i.e. damaged floors/walls/ceiling tiles/unsecured areas) and medical errors",
+        "The Registered Nurse is responsible for knowledge of the patient population served",
+        "The Registered Nurse is responsible for supervising and directing the delegation of tasks to appropriate team members and collaborates with other patient care providers",
+        "The Registered Nurse is responsible for consistently setting and evaluating priorities through appropriate interventions with measurable outcomes toward improvement",
+        "The Registered Nurse is an individual practitioner and the interdisciplinary team manager, utilizes the nursing process to integrate all aspects of the provision of care and individualizes the plan of care to address a specific patient’s needs"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-rwjbarnabashealthcareers-org-job-143452-rn-operating-room-nurses-us-nj-new-brunswick-one-robert-wood-johnson-place",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "sWDrL_D9NpOxSIu_AAAAAA==",
     "job_title": "Registered Nurse (RN) - Operating Room",
     "employer_name": "Saint Vincent Hospital",
@@ -621,125 +743,99 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "uWCPIHheHAGrEO07AAAAAA==",
-    "job_title": "RN, Operating Room",
-    "employer_name": "RWJBarnabas Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6nRrj6VAqf1jJ1F6LvZW8vNpbHxjE-xpT6DE7&s=0",
-    "employer_website": null,
-    "job_publisher": "RWJBarnabas Health",
-    "job_employment_type": "Full-time",
+    "job_id": "X5DmRbaJnrAp0MGdAAAAAA==",
+    "job_title": "Registered Nurse - RN - Operating Room - Plymouth Medical Center",
+    "employer_name": "Trinity Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSM9CRkMHxiKFibOIqpC4n0S2MkXIRAioGY8St&s=0",
+    "employer_website": "https://www.trinity-health.org",
+    "job_publisher": "Trinity Health Careers",
+    "job_employment_type": "Part-time",
     "job_employment_types": [
-      "FULLTIME"
+      "PARTTIME"
     ],
-    "job_apply_link": "https://www.rwjbarnabashealthcareers.org/job/143452/rn-operating-room-nurses-us-nj-new-brunswick-one-robert-wood-johnson-place/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobs.trinity-health.org/sjhs/job/TRHEUS00647407SJHSENUS/Registered-Nurse-RN-Operating-Room-Plymouth-Medical-Center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "RWJBarnabas Health",
-        "apply_link": "https://www.rwjbarnabashealthcareers.org/job/143452/rn-operating-room-nurses-us-nj-new-brunswick-one-robert-wood-johnson-place/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=536bd464a3126f76&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/RWJBarnabas-Health/Job/RN,-Pediatric-Operating-Room/-in-New-Brunswick,NJ?jid=75394d696a03f3ef&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/ee5340f8c12460f0f90d51f98009f838?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Health Jobs Nationwide",
-        "apply_link": "https://www.healthjobsnationwide.com/job/rn-operating-room-14942136?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Trinity Health Careers",
+        "apply_link": "https://jobs.trinity-health.org/sjhs/job/TRHEUS00647407SJHSENUS/Registered-Nurse-RN-Operating-Room-Plymouth-Medical-Center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/rn-pediatric-operating-room-at-rwjbarnabas-health-4346037268?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-rn-operating-room-plymouth-medical-center-at-trinity-health-4372214240?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/rn_7ea1a8c852c3a13f51f796d51cdc99864e1e0?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "National Labor Exchange",
+        "apply_link": "https://usnlx.com/plymouth-in/registered-nurse-rn-operating-room-or/7C6D2FAD5B874759895284D78FD2B032/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/rn-pediatric-operating-room-rwjbarnabas-health-JV_IC1126901_KO0,27_KE28,46.htm?jl=1009860071809&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=7684b440c062&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Hire The Better",
+        "apply_link": "https://www.hirethebetter.com/jobs/registered-nurse-rn-operating-room-or-plymouth-indiana/2596381102-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-plymouth-registered-nurse-rn-operating-room-saint-joseph-health?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Job Title: RN\n\nLocation: Main Hospital - New Brunswick\n\nDepartment Name: Operating Room\n\nReq #: 0000229347\n\nStatus: Hourly\n\nShift: Night\n\nPay Range: $47.85 - $71.72 per hour\n\nPay Transparency:\n\nThe above reflects the anticipated hourly wage range for this position if hired to work in New Jersey.\n\nThe compensation offered to the candidate selected for the position will depend on several factors, including the candidate's educational background, skills and professional experience.\n\nJob Overview:\n\nRWJBarnabas Health is seeking a highly dedicated Registered Nurse for our Level 1 Trauma Center Main Operating Room on the New Brunswick campus.\n\nPosition Summary: The OR Nurse will provide high-quality patient care in the surgical setting, working collaboratively with surgeons, anesthesiologists, and other healthcare professionals. This role requires a detail-oriented and proactive individual who thrives in a fast-paced environment and is dedicated to improving surgical outcomes for our patients,\n\nLearn about our Operating Room - Link: https://vimeo.com/1078694208\n\nQualifications:\n\nRequired:\n• ASN or Nursing Diploma\n• Minimum of one 1 year OR RN experience or recent graduate of a periop 101 program\n• Strong communication and organizational skills\n• Proficient computer skills\n\nPreferred:\n• BSN or must be completed within 5 years upon hire\n• CNOR\n\nCertifications and Licenses Required:\n• BLS and ACLS certification\n• Active New Jersey Registered Nurse License\n\nScheduling Requirements:\n• Night Shift, 40 hours per week, 9:00pm – 7:30am\n• Weekends, Holidays and on call as assigned\n• Full Time\n\nEssential Functions:\n• The Registered Nurse provides nursing care in the health care system within the scope of practice defined by the Nurse Practice Act and regulatory standards and assures awareness of ethical standards of practice as defined by the ANA code of ethics.\n• The Registered Nurse assures safety in practice and is inclusive of the principles of evidence-based practice by maintaining a realization of own individual level of knowledge and experience and assumes responsibility for advancing knowledge of self and others of the patient care team by communication with and utilizing resource persons and programs available.\n• The Registered Nurse is responsible for reporting identified safety issues such as hazardous environments (i.e. damaged floors/walls/ceiling tiles/unsecured areas) and medical errors.\n• The Registered Nurse is responsible for knowledge of the patient population served.\n• The Registered Nurse is responsible for supervising and directing the delegation of tasks to appropriate team members and collaborates with other patient care providers.\n• The Registered Nurse is responsible for consistently setting and evaluating priorities through appropriate interventions with measurable outcomes toward improvement.\n• The Registered Nurse is an individual practitioner and the interdisciplinary team manager, utilizes the nursing process to integrate all aspects of the provision of care and individualizes the plan of care to address a specific patient’s needs.\n\nBenefits and Perks:\n\nAt RWJBarnabas Health, our market-competitive Total Rewards package provides comprehensive benefits and resources to support our employees’ physical, emotional, social, and financial health.\n• Paid Time Off (PTO)\n• Medical and Prescription Drug Insurance\n• Dental and Vision Insurance\n• Retirement Plans\n• Short & Long Term Disability\n• Life & Accidental Death Insurance\n• Tuition Reimbursement\n• Health Care/Dependent Care Flexible Spending Accounts\n• Wellness Programs\n• Voluntary Benefits (e.g., Pet Insurance)\n• Discounts Through our Partners such as NJ Devils, NJ PAC, Verizon, and more!\n\nChoosing RWJBarnabas Health!\n\nRWJBarnabas Health is the premier health care destination providing patient-centered, high-quality academic medicine in a compassionate and equitable manner, while delivering a best-in-class work experience to every member of the team. We honor and appreciate the privilege of creating and sustaining healthier communities, one person and one community at a time. As the leading academic health system in New Jersey, we advance innovative strategies in high-quality patient care, education, and research to address both the clinical and social determinants of health.\n\nRWJBarnabas Health aims to truly make a unique impact in local communities throughout New Jersey. From vastly improving the health of local residents to creating educational and career opportunities, this combination greatly benefits the state. We understand the growing and evolving needs of residents in New Jersey—whether that be enhancing the coordination for treating complex health conditions or improving community health through local programs and education.\n\nEqual Opportunity Employer",
+    "job_description": "Employment Type:\nPart timeShift:\nDay Shift\n\nDescription:\n\nSaint Joseph Health System is proud to offer Daily Pay. Work Today, Get Paid Today!\n\nWhy Saint Joseph Health System?\nAt Saint Joseph Health System, our values give us strength. That character guides every decision we make - even when those decisions are complicated, costly or hard. We honor our mission to care for every man, woman and child who needs us by investing in technology, people and capabilities that allow us to set the standard for quality care.\n\nWhat we offer:\n• Tuition reimbursement for all full and part-time colleagues effective first day of employment\n• 100% paid tuition for ASN to BSN program (paid directly to learning partner)\n• Benefits day one (Including: Medical, Dental, Vision, PTO, Life, STD/LTD, etc.)\n• Retirement savings account with employer match\n• Generous paid time off program + 7 paid holidays\n• Colleague well-being resources\n• No mandatory overtime\n• Employee referral incentive program\n• State of the art equipment, unlimited CEU’s and supportive team approach\n\nAbout the job:\nAs a Registered Nurse at Saint Joseph Health System you are responsible for implementing, directing, communicating, and documenting the nursing process in accordance with current established standards of care and the Indiana Nurse Practice Act. Our RNs are patient advocates who provide a safe environment for patients, visitors, and colleagues.\n\nRequirements:\n• Education: Graduate of an accredited RN program.\n• Licensure: RN Indiana License. CPR certification on hire or able to attain within 60 days.\n• Experience: None.\n\nOur Commitment to Diversity and Inclusion\n\nTrinity Health is a family of 115,000 colleagues and nearly 26,000 physicians and clinicians across 25 states. Because we serve diverse populations, our colleagues are trained to recognize the cultural beliefs, values, traditions, language preferences, and health practices of the communities that we serve and to apply that knowledge to produce positive health outcomes. We also recognize that each of us has a different way of thinking and perceiving our world and that these differences often lead to innovative solutions. Our dedication to diversity includes a unified workforce (through training and education, recruitment, retention, and development), commitment and accountability, communication, community partnerships, and supplier diversity.\n\nOur Commitment\n\nRooted in our Mission and Core Values, we honor the dignity of every person and recognize the unique perspectives, experiences, and talents each colleague brings. By finding common ground and embracing our differences, we grow stronger together and deliver more compassionate, person-centered care. We are an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, veteran status, or any other status protected by federal, state, or local law.",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "New Brunswick, NJ",
-    "job_city": "New Brunswick",
-    "job_state": "New Jersey",
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Plymouth, IN",
+    "job_city": "Plymouth",
+    "job_state": "Indiana",
     "job_country": "US",
-    "job_latitude": 40.496656699999996,
-    "job_longitude": -74.4442802,
+    "job_latitude": 41.343655399999996,
+    "job_longitude": -86.30972779999999,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuWCPIHheHAGrEO07AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DX5DmRbaJnrAp0MGdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "ASN or Nursing Diploma",
-        "Minimum of one 1 year OR RN experience or recent graduate of a periop 101 program",
-        "Strong communication and organizational skills",
-        "Proficient computer skills",
-        "BLS and ACLS certification",
-        "Active New Jersey Registered Nurse License",
-        "Full Time"
+        "Education: Graduate of an accredited RN program",
+        "Licensure: RN Indiana License",
+        "CPR certification on hire or able to attain within 60 days",
+        "Experience: None"
       ],
       "Benefits": [
-        "Pay Range: $47.85 - $71.72 per hour",
-        "The above reflects the anticipated hourly wage range for this position if hired to work in New Jersey",
-        "The compensation offered to the candidate selected for the position will depend on several factors, including the candidate's educational background, skills and professional experience",
-        "At RWJBarnabas Health, our market-competitive Total Rewards package provides comprehensive benefits and resources to support our employees’ physical, emotional, social, and financial health",
-        "Paid Time Off (PTO)",
-        "Medical and Prescription Drug Insurance",
-        "Dental and Vision Insurance",
-        "Retirement Plans",
-        "Short & Long Term Disability",
-        "Life & Accidental Death Insurance",
-        "Tuition Reimbursement",
-        "Health Care/Dependent Care Flexible Spending Accounts",
-        "Wellness Programs",
-        "Voluntary Benefits (e.g., Pet Insurance)",
-        "Discounts Through our Partners such as NJ Devils, NJ PAC, Verizon, and more!"
+        "Saint Joseph Health System is proud to offer Daily Pay",
+        "Work Today, Get Paid Today!",
+        "Tuition reimbursement for all full and part-time colleagues effective first day of employment",
+        "100% paid tuition for ASN to BSN program (paid directly to learning partner)",
+        "Benefits day one (Including: Medical, Dental, Vision, PTO, Life, STD/LTD, etc.)",
+        "Retirement savings account with employer match",
+        "Generous paid time off program + 7 paid holidays",
+        "Colleague well-being resources",
+        "No mandatory overtime",
+        "Employee referral incentive program",
+        "State of the art equipment, unlimited CEU’s and supportive team approach"
       ],
       "Responsibilities": [
-        "Position Summary: The OR Nurse will provide high-quality patient care in the surgical setting, working collaboratively with surgeons, anesthesiologists, and other healthcare professionals",
-        "This role requires a detail-oriented and proactive individual who thrives in a fast-paced environment and is dedicated to improving surgical outcomes for our patients,",
-        "Night Shift, 40 hours per week, 9:00pm – 7:30am",
-        "Weekends, Holidays and on call as assigned",
-        "The Registered Nurse provides nursing care in the health care system within the scope of practice defined by the Nurse Practice Act and regulatory standards and assures awareness of ethical standards of practice as defined by the ANA code of ethics",
-        "The Registered Nurse assures safety in practice and is inclusive of the principles of evidence-based practice by maintaining a realization of own individual level of knowledge and experience and assumes responsibility for advancing knowledge of self and others of the patient care team by communication with and utilizing resource persons and programs available",
-        "The Registered Nurse is responsible for reporting identified safety issues such as hazardous environments (i.e. damaged floors/walls/ceiling tiles/unsecured areas) and medical errors",
-        "The Registered Nurse is responsible for knowledge of the patient population served",
-        "The Registered Nurse is responsible for supervising and directing the delegation of tasks to appropriate team members and collaborates with other patient care providers",
-        "The Registered Nurse is responsible for consistently setting and evaluating priorities through appropriate interventions with measurable outcomes toward improvement",
-        "The Registered Nurse is an individual practitioner and the interdisciplinary team manager, utilizes the nursing process to integrate all aspects of the provision of care and individualizes the plan of care to address a specific patient’s needs"
+        "As a Registered Nurse at Saint Joseph Health System you are responsible for implementing, directing, communicating, and documenting the nursing process in accordance with current established standards of care and the Indiana Nurse Practice Act",
+        "Our RNs are patient advocates who provide a safe environment for patients, visitors, and colleagues"
       ]
     },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-rwjbarnabashealthcareers-org-job-143452-rn-operating-room-nurses-us-nj-new-brunswick-one-robert-wood-johnson-place",
+    "job_onet_soc": "29106700",
+    "job_onet_job_zone": "5",
+    "id": "jobs-trinity-health-org-sjhs-job-trheus00647407sjhsenus-registered-nurse-rn-operating-room-plymouth-medical-center",
     "_source": "new_jobs"
   },
   {
@@ -1112,8 +1208,8 @@
     "job_latitude": 32.974846899999996,
     "job_longitude": -97.34779569999999,
     "job_benefits": [
-      "dental_coverage",
       "health_insurance",
+      "dental_coverage",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzZlzT70UsPqWEZhcAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1125,6 +1221,94 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-gothamenterprisesltd-com-find-jobs-registered-nurse-jobs-cmlhvrw8l0g4oosni8sp3dr26-operating-room-nurse-in-haslet-tx",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "0t9h8e5yZcQNJJyMAAAAAA==",
+    "job_title": "Operating Room Nurse",
+    "employer_name": "Reston Surgery Center",
+    "employer_logo": null,
+    "employer_website": "https://restonsurgerycenter.com",
+    "job_publisher": "Women For Hire- Job Board",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://jobs.womenforhire.com/job/usa/yorkshire-va/operating-room-nurse-208899/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Women For Hire- Job Board",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/yorkshire-va/operating-room-nurse-208899/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Description\nIntroduction\n\nLast year our HCA Healthcare colleagues invested over 156,000 hours volunteering in our communities. As an Operating Room Nurse with Reston Surgery Center you can be a part of an organization that is devoted to giving back!\nBenefits\n\nReston Surgery Center offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation.\n• Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more.\n• Free counseling services and resources for emotional, physical and financial wellbeing\n• 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\n• Employee Stock Purchase Plan with 10% off HCA Healthcare stock\n• Family support through fertility and family building benefits with Progyny and adoption assistance.\n• Referral services for child, elder and pet care, home and auto repair, event planning and more\n• Consumer discounts through Abenity and Consumer Discounts\n• Retirement readiness, rollover assistance services and preferred banking partnerships\n• Education assistance (tuition, student loan, certification support, dependent scholarships)\n• Colleague recognition program\n• Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\n• Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nWould you like to unlock your potential with a leading healthcare provider dedicated to the growth and development of our colleagues? Join the Reston Surgery Center family! We will give you the tools and resources you need to succeed in our organization. We are looking for an enthusiastic Operating Room Nurse to help us reach our goals. Unlock your potential!\nJob Summary and Qualifications\n\nWe are seeking an Operating Room Nurse for our ambulatory surgery center who demonstrates the values of our company by caring like family. You will be an amazing addition to our team by contributing your expertise in the circulating or scrub role. You will ensure safe and effective nursing care until your patient is transferred from your care to recovery.\n\nWhat you will do in this role:\n• Evaluate patients prior to surgery\n• Provide patient and family education surrounding the procedure and peri-operative process\n• Assume responsibility for patient preparation, including intravenous therapy, preoperative medications, and surgical site verification\n• Participate in surgical site verification, including briefing, time out, debriefing, and universal protocols, according to hospital policy\n• Recognize and respond to patient emergencies\n• Deliver high-quality, patient-centered care while managing evidence-based practices and continuous improvement initiatives\n• Be an integral member of a dynamic interdisciplinary team – consisting of the provider(s), surgeons, surgical technologists and more\n• Consistently apply the nursing process, critical thinking skills, scientific judgment, technical skills and leadership to independently deliver safe nursing care to patients\n• Assess patient condition, monitor throughout your shift, and document changes in patient condition along with the care provided thoroughly\n• Educate patients and families/caregivers about the patient’s medical condition, treatment and follow-up measures\n\nQualifications you will need:\n• Graduate from an accredited school of professional nursing\n• Minimum 1 year of experience in an operating room setting, preferably in an ambulatory surgery center\n• Active RN license as required by state of employment or appropriate compact licensure\n• Valid BCLS Certification upon employment ***online certification not acceptable\n• ACLS as required by facility\n• CNOR certification preferred\n\nReston Surgery Center is aleading healthcare provider in Reston, Virginia. We have provided these services since 2004. Ourfacility has six large surgical suites, and specialty procedure rooms. We perform a broad range ofprocedures. Our center is AAAHC accredited. We offer services in gastroenterology, generalsurgery, gynecology, ophthalmology, oral, orthopedic, otolaryngology, plastics, podiatry andurology. We are a member of Surgery Ventures powered by HCA Healthcare.\n\nHCA Healthcare has been recognized as one of the World’s Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3.7 billion in cost for thedelivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\n\"There is so much good to do in the world and so many different ways to do it.\"- Dr. Thomas Frist, Sr.\nHCA Healthcare Co-Founder\n\nBe a part of an organization that invests in you! We are reviewing applications for our Operating Room Nurse opening. Qualified candidates will be contacted for interviews. Submit your application and help us raise the bar in patient care!\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1769904000,
+    "job_posted_at_datetime_utc": "2026-02-01T00:00:00.000Z",
+    "job_location": "Yorkshire, VA",
+    "job_city": "Yorkshire",
+    "job_state": "Virginia",
+    "job_country": "US",
+    "job_latitude": 38.793169899999995,
+    "job_longitude": -77.44776619999999,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0t9h8e5yZcQNJJyMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Graduate from an accredited school of professional nursing",
+        "Minimum 1 year of experience in an operating room setting, preferably in an ambulatory surgery center",
+        "Active RN license as required by state of employment or appropriate compact licensure",
+        "Valid BCLS Certification upon employment ***online certification not acceptable",
+        "ACLS as required by facility"
+      ],
+      "Benefits": [
+        "Reston Surgery Center offers a total rewards package that supports the health, life, career and retirement of our colleagues",
+        "Comprehensive medical coverage that covers many common services at no cost or for a low copay",
+        "Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation",
+        "Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more",
+        "Free counseling services and resources for emotional, physical and financial wellbeing",
+        "401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)",
+        "Employee Stock Purchase Plan with 10% off HCA Healthcare stock",
+        "Family support through fertility and family building benefits with Progyny and adoption assistance",
+        "Referral services for child, elder and pet care, home and auto repair, event planning and more",
+        "Consumer discounts through Abenity and Consumer Discounts",
+        "Retirement readiness, rollover assistance services and preferred banking partnerships",
+        "Education assistance (tuition, student loan, certification support, dependent scholarships)",
+        "Colleague recognition program",
+        "Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)",
+        "Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income",
+        "Learn more about Employee Benefits"
+      ],
+      "Responsibilities": [
+        "You will be an amazing addition to our team by contributing your expertise in the circulating or scrub role",
+        "You will ensure safe and effective nursing care until your patient is transferred from your care to recovery",
+        "Evaluate patients prior to surgery",
+        "Provide patient and family education surrounding the procedure and peri-operative process",
+        "Assume responsibility for patient preparation, including intravenous therapy, preoperative medications, and surgical site verification",
+        "Participate in surgical site verification, including briefing, time out, debriefing, and universal protocols, according to hospital policy",
+        "Recognize and respond to patient emergencies",
+        "Deliver high-quality, patient-centered care while managing evidence-based practices and continuous improvement initiatives",
+        "Be an integral member of a dynamic interdisciplinary team – consisting of the provider(s), surgeons, surgical technologists and more",
+        "Consistently apply the nursing process, critical thinking skills, scientific judgment, technical skills and leadership to independently deliver safe nursing care to patients",
+        "Assess patient condition, monitor throughout your shift, and document changes in patient condition along with the care provided thoroughly",
+        "Educate patients and families/caregivers about the patient’s medical condition, treatment and follow-up measures"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "jobs-womenforhire-com-job-usa-yorkshire-va-operating-room-nurse-208899",
     "_source": "new_jobs"
   },
   {
@@ -1195,9 +1379,9 @@
     "job_latitude": 44.260059299999995,
     "job_longitude": -72.5753869,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4FtcG8rTLFrQZaW2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 31.25,
@@ -1225,108 +1409,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-monster-com-job-openings-registered-nurse-operating-room-montpelier-vt-73cf0400-bdde-4fc3-a6b4-f40f44041ed4",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "RzieDzKVfCILKv7gAAAAAA==",
-    "job_title": "RN, Operating Room FT Day Methodist",
-    "employer_name": "Thomas Jefferson University Hospitals, Inc.",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Thomas-Jefferson-University-Hospitals,-Inc./Job/RN,-Operating-Room-FT-Day-Methodist/-in-Philadelphia,PA?jid=2cc894450a5a6eba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Thomas-Jefferson-University-Hospitals,-Inc./Job/RN,-Operating-Room-FT-Day-Methodist/-in-Philadelphia,PA?jid=2cc894450a5a6eba&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=9392b503e861f34a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/8f07908cdaf530e55cad8ec047c889b2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/rn-operating-room-ft-day-methodist-at-jefferson-health-4325349083?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/rn-operating-room_7ea1af153f3bc129ab2c6e2257360a696e292?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Swooped",
-        "apply_link": "https://swooped.co/job-postings/rn-operating-room-ft-day-methodist-south-philadelphia-aria-health-4c506?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talentify",
-        "apply_link": "https://www.talentify.io/job/rn-operating-room-ft-day-methodist-philadelphia-pennsylvania-us-thomas-jefferson-university-jefferson-health-req-0018399?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.com",
-        "apply_link": "https://www.career.com/job/jefferson-health/rn-operating-room-ft-day-methodist/j202512242305230906807?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Details\nTJH MHD FT OR RN - must have one or more years of experience in the operating room.\nFull Time Day, Methodist\n\n3 12s 6:30a - 7p\n\nJob Description\n\nJoin the mission of Improving Lives as a Staff Nurse at Jefferson Health. With more than 42,000 employees, we're the second largest employer in Philadelphia and the largest health system in the Philadelphia region. And our work to improve lives is never done.\n\nStaff Nurses are responsible for the following:\n• Performs patient procedures within the nursing scope of practice.\n• Practices safe medication administration and assesses patient responses to medication.\n• Participates in reviewing and/or implementing clinical pathways and care coordination.\n\nThe Staff Nurse will provide professional nursing care to a group of patients within a specified time period and complete all required documentation.\n\nQualifications for this position include:\n• BSN Degree preferred\n• State Issued RN license\n• Basic Life Support (BLS) certification from the American Heart Association\n\nBenefits include, but are not limited to:\n• Comprehensive Medical, Dental, & Vision Plans\n• Retirement Plans\n• Tuition Reimbursement\n• Health Coaching, Commuter Discounts, Day Care Services, etc.\n\nWork Shift\nWorkday Day (United States of America)\n\nWorker Sub Type\nRegular\n\nEmployee Entity\nThomas Jefferson University Hospitals, Inc.\nPrimary Location Address\n2301 South Broad Street,, Philadelphia, Pennsylvania, United States of America\n\nNationally ranked, Jefferson, which is principally located in the greater Philadelphia region, Lehigh Valley and Northeastern Pennsylvania and southern New Jersey, is reimagining health care and higher education to create unparalleled value. Jefferson is more than 65,000 people strong, dedicated to providing the highest-quality, compassionate clinical care for patients; making our communities healthier and stronger; preparing tomorrow's professional leaders for 21st-century careers; and creating new knowledge through basic/programmatic, clinical and applied research. Thomas Jefferson University, home of Sidney Kimmel Medical College, Jefferson College of Nursing, and the Kanbar College of Design, Engineering and Commerce, dates back to 1824 and today comprises 10 colleges and three schools offering 200+ undergraduate and graduate programs to more than 8,300 students. Jefferson Health, nationally ranked as one of the top 15 not-for-profit health care systems in the country and the largest provider in the Philadelphia and Lehigh Valley areas, serves patients through millions of encounters each year at 32 hospitals campuses and more than 700 outpatient and urgent care locations throughout the region. Jefferson Health Plans is a not-for-profit managed health care organization providing a broad range of health coverage options in Pennsylvania and New Jersey for more than 35 years.\n\nJefferson is committed to providing equal educational and employment opportunities for all persons without regard to age, race, color, religion, creed, sexual orientation, gender, gender identity, marital status, pregnancy, national origin, ancestry, citizenship, military status, veteran status, handicap or disability or any other protected group or status.\n\nBenefits\n\nJefferson offers a comprehensive package of benefits for full-time and part-time colleagues, including medical (including prescription), supplemental insurance, dental, vision, life and AD&D insurance, short- and long-term disability, flexible spending accounts, retirement plans, tuition assistance, as well as voluntary benefits, which provide colleagues with access to group rates on insurance and discounts. Colleagues have access to tuition discounts at Thomas Jefferson University after one year of full time service or two years of part time service. All colleagues, including those who work less than part-time (including per diem colleagues, adjunct faculty, and Jeff Temps), have access to medical (including prescription) insurance.\n\nFor more benefits information, please click here",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Philadelphia, PA",
-    "job_city": "Philadelphia",
-    "job_state": "Pennsylvania",
-    "job_country": "US",
-    "job_latitude": 39.9525839,
-    "job_longitude": -75.1652215,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRzieDzKVfCILKv7gAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "TJH MHD FT OR RN - must have one or more years of experience in the operating room",
-        "State Issued RN license",
-        "Basic Life Support (BLS) certification from the American Heart Association"
-      ],
-      "Benefits": [
-        "Comprehensive Medical, Dental, & Vision Plans",
-        "Retirement Plans",
-        "Tuition Reimbursement",
-        "Health Coaching, Commuter Discounts, Day Care Services, etc",
-        "Jefferson offers a comprehensive package of benefits for full-time and part-time colleagues, including medical (including prescription), supplemental insurance, dental, vision, life and AD&D insurance, short- and long-term disability, flexible spending accounts, retirement plans, tuition assistance, as well as voluntary benefits, which provide colleagues with access to group rates on insurance and discounts",
-        "Colleagues have access to tuition discounts at Thomas Jefferson University after one year of full time service or two years of part time service",
-        "All colleagues, including those who work less than part-time (including per diem colleagues, adjunct faculty, and Jeff Temps), have access to medical (including prescription) insurance"
-      ],
-      "Responsibilities": [
-        "Performs patient procedures within the nursing scope of practice",
-        "Practices safe medication administration and assesses patient responses to medication",
-        "Participates in reviewing and/or implementing clinical pathways and care coordination",
-        "The Staff Nurse will provide professional nursing care to a group of patients within a specified time period and complete all required documentation"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-thomas-jefferson-university-hospitals-inc-job-rn-operating-room-ft-day-methodist-in-philadelphia-pa",
     "_source": "new_jobs"
   },
   {
@@ -1376,94 +1458,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "us-bebee-com-job-51673dbeebc7727898314f088a85cd8f",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "0t9h8e5yZcQNJJyMAAAAAA==",
-    "job_title": "Operating Room Nurse",
-    "employer_name": "Reston Surgery Center",
-    "employer_logo": null,
-    "employer_website": "https://restonsurgerycenter.com",
-    "job_publisher": "Women For Hire- Job Board",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/yorkshire-va/operating-room-nurse-208899/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Women For Hire- Job Board",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/yorkshire-va/operating-room-nurse-208899/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description\nIntroduction\n\nLast year our HCA Healthcare colleagues invested over 156,000 hours volunteering in our communities. As an Operating Room Nurse with Reston Surgery Center you can be a part of an organization that is devoted to giving back!\nBenefits\n\nReston Surgery Center offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation.\n• Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more.\n• Free counseling services and resources for emotional, physical and financial wellbeing\n• 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\n• Employee Stock Purchase Plan with 10% off HCA Healthcare stock\n• Family support through fertility and family building benefits with Progyny and adoption assistance.\n• Referral services for child, elder and pet care, home and auto repair, event planning and more\n• Consumer discounts through Abenity and Consumer Discounts\n• Retirement readiness, rollover assistance services and preferred banking partnerships\n• Education assistance (tuition, student loan, certification support, dependent scholarships)\n• Colleague recognition program\n• Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\n• Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nWould you like to unlock your potential with a leading healthcare provider dedicated to the growth and development of our colleagues? Join the Reston Surgery Center family! We will give you the tools and resources you need to succeed in our organization. We are looking for an enthusiastic Operating Room Nurse to help us reach our goals. Unlock your potential!\nJob Summary and Qualifications\n\nWe are seeking an Operating Room Nurse for our ambulatory surgery center who demonstrates the values of our company by caring like family. You will be an amazing addition to our team by contributing your expertise in the circulating or scrub role. You will ensure safe and effective nursing care until your patient is transferred from your care to recovery.\n\nWhat you will do in this role:\n• Evaluate patients prior to surgery\n• Provide patient and family education surrounding the procedure and peri-operative process\n• Assume responsibility for patient preparation, including intravenous therapy, preoperative medications, and surgical site verification\n• Participate in surgical site verification, including briefing, time out, debriefing, and universal protocols, according to hospital policy\n• Recognize and respond to patient emergencies\n• Deliver high-quality, patient-centered care while managing evidence-based practices and continuous improvement initiatives\n• Be an integral member of a dynamic interdisciplinary team – consisting of the provider(s), surgeons, surgical technologists and more\n• Consistently apply the nursing process, critical thinking skills, scientific judgment, technical skills and leadership to independently deliver safe nursing care to patients\n• Assess patient condition, monitor throughout your shift, and document changes in patient condition along with the care provided thoroughly\n• Educate patients and families/caregivers about the patient’s medical condition, treatment and follow-up measures\n\nQualifications you will need:\n• Graduate from an accredited school of professional nursing\n• Minimum 1 year of experience in an operating room setting, preferably in an ambulatory surgery center\n• Active RN license as required by state of employment or appropriate compact licensure\n• Valid BCLS Certification upon employment ***online certification not acceptable\n• ACLS as required by facility\n• CNOR certification preferred\n\nReston Surgery Center is aleading healthcare provider in Reston, Virginia. We have provided these services since 2004. Ourfacility has six large surgical suites, and specialty procedure rooms. We perform a broad range ofprocedures. Our center is AAAHC accredited. We offer services in gastroenterology, generalsurgery, gynecology, ophthalmology, oral, orthopedic, otolaryngology, plastics, podiatry andurology. We are a member of Surgery Ventures powered by HCA Healthcare.\n\nHCA Healthcare has been recognized as one of the World’s Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3.7 billion in cost for thedelivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\n\"There is so much good to do in the world and so many different ways to do it.\"- Dr. Thomas Frist, Sr.\nHCA Healthcare Co-Founder\n\nBe a part of an organization that invests in you! We are reviewing applications for our Operating Room Nurse opening. Qualified candidates will be contacted for interviews. Submit your application and help us raise the bar in patient care!\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1769904000,
-    "job_posted_at_datetime_utc": "2026-02-01T00:00:00.000Z",
-    "job_location": "Yorkshire, VA",
-    "job_city": "Yorkshire",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 38.793169899999995,
-    "job_longitude": -77.44776619999999,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0t9h8e5yZcQNJJyMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Graduate from an accredited school of professional nursing",
-        "Minimum 1 year of experience in an operating room setting, preferably in an ambulatory surgery center",
-        "Active RN license as required by state of employment or appropriate compact licensure",
-        "Valid BCLS Certification upon employment ***online certification not acceptable",
-        "ACLS as required by facility"
-      ],
-      "Benefits": [
-        "Reston Surgery Center offers a total rewards package that supports the health, life, career and retirement of our colleagues",
-        "Comprehensive medical coverage that covers many common services at no cost or for a low copay",
-        "Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation",
-        "Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more",
-        "Free counseling services and resources for emotional, physical and financial wellbeing",
-        "401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)",
-        "Employee Stock Purchase Plan with 10% off HCA Healthcare stock",
-        "Family support through fertility and family building benefits with Progyny and adoption assistance",
-        "Referral services for child, elder and pet care, home and auto repair, event planning and more",
-        "Consumer discounts through Abenity and Consumer Discounts",
-        "Retirement readiness, rollover assistance services and preferred banking partnerships",
-        "Education assistance (tuition, student loan, certification support, dependent scholarships)",
-        "Colleague recognition program",
-        "Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)",
-        "Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income",
-        "Learn more about Employee Benefits"
-      ],
-      "Responsibilities": [
-        "You will be an amazing addition to our team by contributing your expertise in the circulating or scrub role",
-        "You will ensure safe and effective nursing care until your patient is transferred from your care to recovery",
-        "Evaluate patients prior to surgery",
-        "Provide patient and family education surrounding the procedure and peri-operative process",
-        "Assume responsibility for patient preparation, including intravenous therapy, preoperative medications, and surgical site verification",
-        "Participate in surgical site verification, including briefing, time out, debriefing, and universal protocols, according to hospital policy",
-        "Recognize and respond to patient emergencies",
-        "Deliver high-quality, patient-centered care while managing evidence-based practices and continuous improvement initiatives",
-        "Be an integral member of a dynamic interdisciplinary team – consisting of the provider(s), surgeons, surgical technologists and more",
-        "Consistently apply the nursing process, critical thinking skills, scientific judgment, technical skills and leadership to independently deliver safe nursing care to patients",
-        "Assess patient condition, monitor throughout your shift, and document changes in patient condition along with the care provided thoroughly",
-        "Educate patients and families/caregivers about the patient’s medical condition, treatment and follow-up measures"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "jobs-womenforhire-com-job-usa-yorkshire-va-operating-room-nurse-208899",
     "_source": "new_jobs"
   },
   {
@@ -1660,9 +1654,9 @@
     "job_latitude": 39.5362858,
     "job_longitude": -104.8855322,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D_df2sGlhmZ42-PLaAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1746,9 +1740,9 @@
     "job_latitude": 44.551620899999996,
     "job_longitude": -73.1636932,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DSNlIabLxtwjc3ropAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1964,8 +1958,8 @@
     "job_longitude": -96.731265,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFICwqmBPr5NKtp5AAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -2000,6 +1994,150 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "sanfordcareers-com-sioux-falls-sd-rn-registered-nurse-operating-room-or-part-time-straight-nights-straight-weekends-f2de65052d6b461e8649075d45569d22-job",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "OOT8xoteh5bchTpYAAAAAA==",
+    "job_title": "Registered Nurse - Cardiac Operating Room Mainland - Full Time",
+    "employer_name": "AtlantiCare Regional Medical Center",
+    "employer_logo": null,
+    "employer_website": "https://www.atlanticare.org",
+    "job_publisher": "Women For Hire- Job Board",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.womenforhire.com/job/usa/somers-point-nj/registered-nurse-cardiac-operating-room-mainland-full-time-452232/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Women For Hire- Job Board",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/somers-point-nj/registered-nurse-cardiac-operating-room-mainland-full-time-452232/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "AtlantiCare Regional Medical Center\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability or protected veteran status.\nDescription\nPOSITION SUMMARY\nThe Registered Nurse is a member of the interdisciplinary team working in collaboration with the Physician. The Registered Nurse utilizes the nursing care process consistent with their license and/or certification including initiation of culturally competent continuum of care including inpatient, outpatient and community settings. The Cardiac Operating Room Registered Nurse is responsible to oversee any necessary coordination of the interdisciplinary surgical plan of care and provides for its consistency with the surgical treatment plan.\nQUALIFICATIONS\nEDUCATION/LICENSE: Graduate of an accredited school of nursing; BSN preferred. Current Licensure as a Registered Nurse in the State of New Jersey or current multi state license required. BLS required. Valid NJ Driver's License is required for all employees in the Adult and Child Partial Programs.\nEXPERIENCE: Proficiency in Clinical Applications preferred at time of hire; incumbents within position will be trained appropriately and then skill will be required for this position within 30-60 days from date of hire.\nSpecialty\nExperience\nAdvanced Certification Required\nCertification\n\nPreferred\nEmergency Room\nCity\n2-4 years medical/surgical experience preferred; 2 years emergency room experience preferred.\nACLS required within 6 months of initial assignment and continuously maintained thereafter. All registered professional nurses after 24 months of initial assignment will have completion of ATCN or TNCC. Minimum of 8 contact hours of education every 1 year in basic trauma assessment, intervention and stabilization; PALS or ENPC, with PALS or ENPC provider status attained within 12 months of initial assignment and continuously maintained thereafter.\n\nAll registered professional nurses after 24 months of initial assignment will have completion of ATCN. Minimum of 8 contact hours of education every 1 year in basic stroke assessment, intervention and NIHSS to be completed by 6 months of hire and continuously maintained thereafter.\nSpecialty\nExperience\nAdvanced Certification Required\nCertification\n\nPreferred\nEmergency Room\nMainland\n2-4 years medical/surgical experience preferred; 2 years emergency room experience preferred.\nACLS required within 6 months of initial assignment\nAll registered professional nurses after 24 months of initial assignment will have completion of ATCN or TNCC. Minimum of 8 contact hours of education every 1 year in basic trauma assessment, intervention and stabilization; PALS or ENPC, with PALS or ENPC provider status attained within 12 months of initial assignment and continuously maintained thereafter. Minimum of 8 contact hours of education every 1 year in basic stroke assessment, intervention and NIHSS to be completed by 6 months of hire and continuously maintained thereafter.\nLabor and Delivery\n2-4 years labor and delivery experience preferred\nACLS required within 6mo of hire or transfer. NRP (NALS) required within 1 year from date of hire or transfer.\nNeonatal Intensive Care Unit/Intermediate Care Unit\n2-4 years neonatal Intensive Care Unit experience preferred.\nNRP (NALS), required within 1 year from date of hire or transfer.\nMother/Baby Unit (OB)\n2-4 years mother/baby experience preferred.\nNRP (NALS), required within 1 year from date of hire or transfer.\nPerinatology\n3 years labor and deliver experience preferred.\nOB certification required\nSpecialty\nExperience\nAdvanced Certification Required\nCertification\n\nPreferred\nOperating Room\nMinimum 1 year medical/surgical experience desired; 1-2 years operating room experience preferred.\nCNOR preferred.\nACLS preferred.\nCardiac Operating Room\nMinimum of 1 year surgical experience; 6 months of cardiac operating room preferred\nCNOR preferred.\nACLS preferred\nCritical Care (ICU)\n2-4 years medical/surgical experience preferred; 1-2 years critical care experience preferred.\nACLS required within\n1 year from date of hire or transfer.\nCCRN preferred\nMedical/Surgical\n3 Pines/3 Central\n1-2 years medical/surgical experience preferred.\nEffective February 18th 2020, ACLS is required for all currently hired employees on 3 Pines. Current Incumbents are required ACLS by December 31st 2021.\nIncumbents hired after December 31st, 2021, will have 6 mos from date of hire or transfer to obtain ACLS.\nMedical/Surgical\n(2S, 4H, 5H, 7H, 4 M)\n1-2 years medical/surgical experience preferred.\nDialysis\n(renal, acute)\n1-2 years medical/surgical experience preferred; 1-2 years dialysis experience preferred.\nACLS required within one year of date of hire or transfer.\nPsychiatry\n(1 West 1 Pines)\nPIP if not a screener\n1-2 years medical/surgical experience preferred; 1-2 years psychiatry experience preferred. (QPRT) annual education required within 6 months from date of hire or transfer Crisis Prevention; Intervention annual education preferred and both are tracked by department leadership.\n.\nSpecialty\nExperience\nAdvanced Certification Required\nCertification\n\nPreferred\nPIP if Screener\n(Psychiatric intervention program)\n1-2 yrs medical/surgical experience preferred; 3 years psychiatry experience one of which is in a crisis setting required. Crisis Prevention Intervention annual education preferred and is tracked by department leadership.\nCurrent NJ State Certification as a Mental Health Screener required.\nValid New Jersey Drivers License is required and MVA check upon hire or transfer\nPediatrics\n1-2 years medical/surgical experience preferred; 1-2 years pediatric experience strongly preferred.\nPALS required within\n1 year from date of hire or transfer.\nRadiology\n(radiology adm )\n2-4 years medical/surgical experience preferred; 1-2 interventional experience preferred. Critical Care experience preferred.\nACLS\nPALS required within 1 year from date of hire or transfer.\nCath Lab\n(cath lab, EP)\n1-2 years critical care, emergency room or telemetry experience preferred; 1 year cath-lab experience preferred.\nACLS\nTrauma ICU\n1 year trauma experience required 2 years preferred.\nACLS, at time of hire PALS & ATCN required within 1 year from date of hire or transfer\nOncology\n(1 south/ 1 Meadow)\n1 --2 years medical/surgical experience preferred. Chemotherapy experience preferred.\nEffective 2/21, all employees within job codes are required to ACLS; within 1 year from date of hire or transfer.\nChemotherapy certification preferred.\nEndoscopy\nMinimum 2 years medical/surgical experience preferred; 1-2 yrs. endoscopy, telemetry and critical care experience preferred.\nACLS required a 6\nmos from hire or transfer.\nPALS, CCRN, and CGRN preferred.\nCardiac Diagnostic\n1 --2 years medical/surgical experience preferred; 1-2 years critical care experience preferred.\nACLS required at 6 mos. from hire or transfer.\nSpecialty\nExperience\nAdvanced Certification Required\nCertification\n\nPreferred\nCardiovascular ICU(CVU)\n2-4 years critical care experience preferred.\n2-4 years cardiovascular ICU experience preferred.\nACLS required at 1yr. from hire or transfer.\nCCRN preferred.\nProgressive Cardiac Care unit (PCCU)\n2-5 years telemetry experience preferred.\nACLS required within 6 mos of date of hire or transfer.\nProgressive Care unit (PCU)\n2-5 years telemetry\nexperience preferred.\nACLS required within 6 mos from date of hire or transfer\nTelemetry\n(2West/2 Pines, 6 Harmony)\n1-2 years medical/surgical experience preferred.\nEffective 5/05-ACLS required within 1 year from date of hire or transfer.\nRadiation\nOncology\n1--3 years oncology experience preferred.\nOCN preferred.\nMedical Oncology Infusion Services\n1-3 years oncology experience preferred.\nONS Chemotherapy and Biotherapy Competency Provider required within 6 mos. from date of hire or transfer.\nOCN preferred\nPACU/SDS\n1-3 years critical care or PACU experience required.\nACLS required; PALS required within 6 mos from date of hire or transfer.\nPre-Admission Testing (PAT)\n1-3 years medical/surgical experience preferred.\nNone\nAcute Partial/Child\nAdolescent Program\n1 yr experience in behavioral health setting. Crisis intervention Prevention Preferred; tracked by department leadership.\nBloodless Surgery\n1-2 years medical/surgical experience preferred\nWound Care Out Patient\n1-2 years medical/surgical experience preferred.\nWound care and HBO Training course through Healogics is required within 1 year from date of hire or transfer.\nACLS required within 6 months of date of hire or transfer.\nSpecialty\nExperience\nAdvanced Certification Required\nCertification\n\nPreferred\nHammonton Satellite Emergency Department\n2-4 years medical/surgical experience preferred; 2 years emergency room experience preferred\nACLS required Within 6months of initial assignment and continuously maintained thereafter. Minimum of 8 contact hours of education every 1 year in basic trauma assessment, intervention and stabilization; PALS or ENPC, with PALS or ENPC provider status attained within 12 months of initial assignment and continuously maintained thereafter. Minimum of 8 contact hours of education every 1 year in basic stroke assessment, intervention and NIHSS to be completed by 6 months of hire and continuously maintained thereafter.\nStructural Heart\n2-3 year experience in cardiology\nAble to perform:\nPhlebotomy\nEKG\nIV insertion\nBLS & ACLS required\nTotal Rewards at AtlantiCare\nAt AtlantiCare, we believe in supporting the whole person. Our market-competitive Total Rewards package is designed to promote the physical, emotional, social, and financial well-being of our team members. We offer a comprehensive suite of benefits and resources, including:\nGenerous Paid Time Off (PTO)\nMedical, Prescription Drug, Dental & Vision Insurance\nRetirement Plans with employer contributions\nShort-Term & Long-Term Disability Coverage\nLife & Accidental Death & Dismemberment Insurance\nTuition Reimbursement to support your educational goals\nFlexible Spending Accounts (FSAs) for healthcare and dependent care\nWellness Programs to help you thrive\nVoluntary Benefits, including Pet Insurance and more\nBenefits offerings may vary based on position and are subject to eligibility requirements.\nJoin a team that values your well-being and invests in your future.\nJob Category\nNursing\nHours Per Week\n37.5\nWeekends Required?\nYes\nHolidays Required?\nYes\nShift\nVaries\nPosititon Status\nFull-Time\nJob Details\nPay Range\n$47.5 - $67\nPay Transparency\nIn order to support the Fair Compensation Strategy by the US Govt., HR Dept., clients are required to adhere to Pay Transparency Law; in the impacted states; that have mandated the employers to list the salary ranges in Job advertisements or postings for job opportunities and Job promotions.\n\nEqual employment opportunity, including veterans and individuals with disabilities.\n\nPI281784097",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Somers Point, NJ",
+    "job_city": "Somers Point",
+    "job_state": "New Jersey",
+    "job_country": "US",
+    "job_latitude": 39.3160129,
+    "job_longitude": -74.60540929999999,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOOT8xoteh5bchTpYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Current Licensure as a Registered Nurse in the State of New Jersey or current multi state license required",
+        "BLS required",
+        "Valid NJ Driver's License is required for all employees in the Adult and Child Partial Programs",
+        "Advanced Certification Required",
+        "ACLS required within 6 months of initial assignment and continuously maintained thereafter",
+        "Minimum of 8 contact hours of education every 1 year in basic trauma assessment, intervention and stabilization; PALS or ENPC, with PALS or ENPC provider status attained within 12 months of initial assignment and continuously maintained thereafter",
+        "Minimum of 8 contact hours of education every 1 year in basic stroke assessment, intervention and NIHSS to be completed by 6 months of hire and continuously maintained thereafter",
+        "Advanced Certification Required",
+        "ACLS required within 6 months of initial assignment",
+        "Minimum of 8 contact hours of education every 1 year in basic trauma assessment, intervention and stabilization; PALS or ENPC, with PALS or ENPC provider status attained within 12 months of initial assignment and continuously maintained thereafter",
+        "Minimum of 8 contact hours of education every 1 year in basic stroke assessment, intervention and NIHSS to be completed by 6 months of hire and continuously maintained thereafter",
+        "ACLS required within 6mo of hire or transfer",
+        "NRP (NALS) required within 1 year from date of hire or transfer",
+        "NRP (NALS), required within 1 year from date of hire or transfer",
+        "NRP (NALS), required within 1 year from date of hire or transfer",
+        "OB certification required",
+        "Advanced Certification Required",
+        "Cardiac Operating Room",
+        "ACLS required within",
+        "1 year from date of hire or transfer",
+        "Effective February 18th 2020, ACLS is required for all currently hired employees on 3 Pines",
+        "Current Incumbents are required ACLS by December 31st 2021",
+        "ACLS required within one year of date of hire or transfer",
+        "Psychiatry",
+        "Advanced Certification Required",
+        "(Psychiatric intervention program)",
+        "Current NJ State Certification as a Mental Health Screener required",
+        "Valid New Jersey Drivers License is required and MVA check upon hire or transfer",
+        "PALS required within",
+        "1 year from date of hire or transfer",
+        "ACLS",
+        "PALS required within 1 year from date of hire or transfer",
+        "Cath Lab",
+        "ACLS",
+        "Trauma ICU",
+        "ACLS, at time of hire PALS & ATCN required within 1 year from date of hire or transfer",
+        "Oncology",
+        "Effective 2/21, all employees within job codes are required to ACLS; within 1 year from date of hire or transfer",
+        "ACLS required a 6",
+        "mos from hire or transfer",
+        "ACLS required at 6 mos",
+        "Advanced Certification Required",
+        "Certification",
+        "Cardiovascular ICU(CVU)",
+        "ACLS required at 1yr",
+        "Progressive Cardiac Care unit (PCCU)",
+        "ACLS required within 6 mos of date of hire or transfer",
+        "Progressive Care unit (PCU)",
+        "2-5 years telemetry",
+        "ACLS required within 6 mos from date of hire or transfer",
+        "Telemetry",
+        "Effective 5/05-ACLS required within 1 year from date of hire or transfer",
+        "Radiation",
+        "ONS Chemotherapy and Biotherapy Competency Provider required within 6 mos",
+        "1-3 years critical care or PACU experience required",
+        "ACLS required; PALS required within 6 mos from date of hire or transfer",
+        "Pre-Admission Testing (PAT)",
+        "1 yr experience in behavioral health setting",
+        "Wound care and HBO Training course through Healogics is required within 1 year from date of hire or transfer",
+        "ACLS required within 6 months of date of hire or transfer",
+        "Advanced Certification Required",
+        "Certification",
+        "ACLS required Within 6months of initial assignment and continuously maintained thereafter",
+        "Minimum of 8 contact hours of education every 1 year in basic trauma assessment, intervention and stabilization; PALS or ENPC, with PALS or ENPC provider status attained within 12 months of initial assignment and continuously maintained thereafter",
+        "Minimum of 8 contact hours of education every 1 year in basic stroke assessment, intervention and NIHSS to be completed by 6 months of hire and continuously maintained thereafter",
+        "2-3 year experience in cardiology",
+        "Phlebotomy",
+        "EKG",
+        "BLS & ACLS required"
+      ],
+      "Benefits": [
+        "Total Rewards at AtlantiCare",
+        "We offer a comprehensive suite of benefits and resources, including:",
+        "Generous Paid Time Off (PTO)",
+        "Medical, Prescription Drug, Dental & Vision Insurance",
+        "Retirement Plans with employer contributions",
+        "Short-Term & Long-Term Disability Coverage",
+        "Life & Accidental Death & Dismemberment Insurance",
+        "Tuition Reimbursement to support your educational goals",
+        "Flexible Spending Accounts (FSAs) for healthcare and dependent care",
+        "Wellness Programs to help you thrive",
+        "Voluntary Benefits, including Pet Insurance and more",
+        "Benefits offerings may vary based on position and are subject to eligibility requirements",
+        "$47.5 - $67",
+        "In order to support the Fair Compensation Strategy by the US Govt., HR Dept., clients are required to adhere to Pay Transparency Law; in the impacted states; that have mandated the employers to list the salary ranges in Job advertisements or postings for job opportunities and Job promotions"
+      ],
+      "Responsibilities": [
+        "The Registered Nurse is a member of the interdisciplinary team working in collaboration with the Physician",
+        "The Registered Nurse utilizes the nursing care process consistent with their license and/or certification including initiation of culturally competent continuum of care including inpatient, outpatient and community settings",
+        "The Cardiac Operating Room Registered Nurse is responsible to oversee any necessary coordination of the interdisciplinary surgical plan of care and provides for its consistency with the surgical treatment plan",
+        "All registered professional nurses after 24 months of initial assignment will have completion of ATCN or TNCC",
+        "All registered professional nurses after 24 months of initial assignment will have completion of ATCN",
+        "All registered professional nurses after 24 months of initial assignment will have completion of ATCN or TNCC",
+        "Neonatal Intensive Care Unit/Intermediate Care Unit"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "jobs-womenforhire-com-job-usa-somers-point-nj-registered-nurse-cardiac-operating-room-mainland-full-time-452232",
     "_source": "new_jobs"
   }
 ]
