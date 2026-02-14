@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-8-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-8-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-9-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-9-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 7+ top companies and healthcare facilities. Updated every 15 minutes with 8+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 8+ top companies and healthcare facilities. Updated every 15 minutes with 9+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,13 +69,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (8 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (9 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Vivian Health** | Operating Room Nurse in Parma, MI | Parma, Michigan | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/51673dbeebc7727898314f088a85cd8f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **JT-DD83DB CENTRAL DHN - BROOKE** | OPERATING ROOM NURSING ASSISTANT | Texas | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857475700?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Sanford Health** | RN - Registered Nurse - Operatin... | Sioux Falls, South Dakota | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://sanfordcareers.com/sioux-falls-sd/rn-registered-nurse-operating-room-or-part-time-straight-nights-straight-weekends/F2DE65052D6B461E8649075D45569D22/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **AMN Healthcare Nursing** | Registered Nurse – Perioperative... | Bronxville, New York | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/registered-nurse-%E2%80%93-perioperative-nurse-operating-room-travel-or-rn-at-amn-healthcare-nursing-4370978458?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **IntelyCare** | Registered Nurse / RN - Operatin... | Lindsay, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lensa.com/job-v1/intelycare/lindsay-tx/operating-room-registered-nurse-full-time-evening-shift/ee5d7b9c6bd2d68e59171aaf974fd1b2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **University of Vermont Health - Central Vermont Medical Center** | Registered Nurse - Operating Room | Montpelier, Vermont | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.monster.com/job-openings/registered-nurse-operating-room-montpelier-vt--73cf0400-bdde-4fc3-a6b4-f40f44041ed4?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **USPI** | Registered Nurse Operating Room | Leonardtown, Maryland | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.uspi.com/job/leonardtown/registered-nurse-operating-room/35934/91420631632?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -145,7 +146,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 0 positions
-- **🏢 Companies**: 7 companies
+- **🏢 Companies**: 8 companies
 - **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Posted | Level | Apply |
@@ -160,7 +161,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 8 current opportunities from 7 companies**
+**🎯 9 current opportunities from 8 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
