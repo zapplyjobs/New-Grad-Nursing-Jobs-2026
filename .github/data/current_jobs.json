@@ -103,6 +103,83 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "CEOiTjBbbytu45XSAAAAAA==",
+    "job_title": "Registered Nurse - Acute Care Inpatient (Part Time)",
+    "employer_name": "Clement J Zablocki Veterans Administration Medical Center",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "USAJobs",
+    "job_employment_type": "Part-time",
+    "job_employment_types": [
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.usajobs.gov/job/856493000?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "USAJobs",
+        "apply_link": "https://www.usajobs.gov/job/856493000?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Veterans-Health-Administration/Job/Registered-Nurse-Acute-Care-Inpatient-(Part-Time)/-in-Milwaukee,WI?jid=8bfdbd5f731647bb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "APHA Careers",
+        "apply_link": "https://careers.apha.org/jobs/22024633/registered-nurse-acute-care-inpatient-part-time?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JMIR Publications (JMIR), JMIR Career Center",
+        "apply_link": "https://careers.jmir.org/jobs/22024633/registered-nurse-acute-care-inpatient-part-time?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Nursing Jobs Plus",
+        "apply_link": "https://nursingjobs.lww.com/job/133436585/registered-nurse-acute-care-inpatient-part-time-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=31991fc4dd493829&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/Hqpp_c7Hges9k7MPe3olYvDBoyRN5sxORID660IKGA-7jZyM63UTXA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "National Rural Health Association (NRHA), NRHA Career Center",
+        "apply_link": "https://careers.ruralhealth.us/jobs/22024633/registered-nurse-acute-care-inpatient-part-time?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This position is located at the Clement J. Zablocki VA Medical Center, Milwaukee, Wisconsin, in the Acute Care Inpatient Nursing Division on 7C. The function of the Medical-Surgical Registered Nurse (RN) is to provide, direct, and supervise the delivery of quality nursing care toa veteran population of varying complexity.",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Milwaukee, WI",
+    "job_city": "Milwaukee",
+    "job_state": "Wisconsin",
+    "job_country": "US",
+    "job_latitude": 43.0410344,
+    "job_longitude": -87.9096783,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCEOiTjBbbytu45XSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {},
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-usajobs-gov-job-856493000",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "vDI9Atvcrga0xgqWAAAAAA==",
     "job_title": "Registered Nurse - Medical Surgical",
     "employer_name": "U.S. Department of Veterans Affairs",
@@ -164,9 +241,9 @@
     "job_latitude": 39.4562099,
     "job_longitude": -77.96388689999999,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvDI9Atvcrga0xgqWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 70938,
@@ -250,165 +327,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "CEOiTjBbbytu45XSAAAAAA==",
-    "job_title": "Registered Nurse - Acute Care Inpatient (Part Time)",
-    "employer_name": "Clement J Zablocki Veterans Administration Medical Center",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "USAJobs",
-    "job_employment_type": "Part-time",
-    "job_employment_types": [
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.usajobs.gov/job/856493000?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "USAJobs",
-        "apply_link": "https://www.usajobs.gov/job/856493000?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Veterans-Health-Administration/Job/Registered-Nurse-Acute-Care-Inpatient-(Part-Time)/-in-Milwaukee,WI?jid=8bfdbd5f731647bb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "APHA Careers",
-        "apply_link": "https://careers.apha.org/jobs/22024633/registered-nurse-acute-care-inpatient-part-time?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JMIR Publications (JMIR), JMIR Career Center",
-        "apply_link": "https://careers.jmir.org/jobs/22024633/registered-nurse-acute-care-inpatient-part-time?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Nursing Jobs Plus",
-        "apply_link": "https://nursingjobs.lww.com/job/133436585/registered-nurse-acute-care-inpatient-part-time-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=31991fc4dd493829&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/Hqpp_c7Hges9k7MPe3olYvDBoyRN5sxORID660IKGA-7jZyM63UTXA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "National Rural Health Association (NRHA), NRHA Career Center",
-        "apply_link": "https://careers.ruralhealth.us/jobs/22024633/registered-nurse-acute-care-inpatient-part-time?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "This position is located at the Clement J. Zablocki VA Medical Center, Milwaukee, Wisconsin, in the Acute Care Inpatient Nursing Division on 7C. The function of the Medical-Surgical Registered Nurse (RN) is to provide, direct, and supervise the delivery of quality nursing care toa veteran population of varying complexity.",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Milwaukee, WI",
-    "job_city": "Milwaukee",
-    "job_state": "Wisconsin",
-    "job_country": "US",
-    "job_latitude": 43.0410344,
-    "job_longitude": -87.9096783,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCEOiTjBbbytu45XSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {},
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-usajobs-gov-job-856493000",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "KxzqK6aYVTp4oPczAAAAAA==",
-    "job_title": "Practical Nurse (Ambulatory Care)",
-    "employer_name": "Fayetteville NC VA Medical Center",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "USAJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.usajobs.gov/job/857063100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "USAJobs",
-        "apply_link": "https://www.usajobs.gov/job/857063100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/SD-Department-of-Veterans-Affairs/Job/Practical-Nurse-(Ambulatory-Care)/-in-Jacksonville,NC?jid=6fe2b63f7ce4559e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/practical-nurse-ambulatory-care-jacksonville-department-of-veterans-affairs-04810b89d4d044c9fe1952320d06546f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "International Safety Equipment Association (ISEA), Safety Equipment Industry Career Center",
-        "apply_link": "https://careers.safetyequipment.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Senior Living Career Center - Argentum",
-        "apply_link": "https://seniorlivingcareers.argentum.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/practical-nurse-ambulatory-care-at-u-s-department-of-veterans-affairs-4371010644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "The Beryl Institute (The Beryl Institute), The Beryl Institute Career Center",
-        "apply_link": "https://pxcareers.theberylinstitute.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career Center",
-        "apply_link": "https://careercenter.rehabnurse.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "The Nursing, Ambulatory Care department is seeking a Licensed Practical Nurse (LPN) who will provide direct and indirect care to assigned patients while under the supervision of a registered nurse (RN). The LPN will provide care to Veterans that will promote the Veteran attaining and maintaining maximum functionality.",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Jacksonville, NC",
-    "job_city": "Jacksonville",
-    "job_state": "North Carolina",
-    "job_country": "US",
-    "job_latitude": 34.7540524,
-    "job_longitude": -77.4302414,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKxzqK6aYVTp4oPczAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Responsibilities": [
-        "The Nursing, Ambulatory Care department is seeking a Licensed Practical Nurse (LPN) who will provide direct and indirect care to assigned patients while under the supervision of a registered nurse (RN)",
-        "The LPN will provide care to Veterans that will promote the Veteran attaining and maintaining maximum functionality"
-      ]
-    },
-    "job_onet_soc": "29206100",
-    "job_onet_job_zone": "3",
-    "id": "www-usajobs-gov-job-857063100",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "hO4IhFIuDAPcgfFuAAAAAA==",
     "job_title": "Staff Nurse- Emergency Department",
     "employer_name": "Main Line Health",
@@ -475,188 +393,93 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "Cc2sRoAQ_Fa85wcHAAAAAA==",
-    "job_title": "Registered Nurse (RN) - Endoscopy",
-    "employer_name": "Saint Vincent Hospital",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmhpDxcpgCEdNlKsnvLbPjI0Ei3ZL75696MLsT&s=0",
-    "employer_website": "https://www.stvincenthospital.com",
-    "job_publisher": "LinkedIn",
+    "job_id": "JIH2vdG1j4uIrAU4AAAAAA==",
+    "job_title": "ENDOSCOPY REGISTERED NURSE (Intermittent)",
+    "employer_name": "CW Bill Young Department of Veterans Affairs Medical Center",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "USAJobs",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-rn-endoscopy-at-saint-vincent-hospital-4372016595?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.usajobs.gov/job/857175700?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-rn-endoscopy-at-saint-vincent-hospital-4372016595?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "USAJobs",
+        "apply_link": "https://www.usajobs.gov/job/857175700?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/registered-nurse-rn-endoscopy-holden-ma--42156564-4a65-4bd5-92b5-7d919e0d5380?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Get.It",
-        "apply_link": "https://www.get.it/job/registered-nurse-rn-endoscopy-in-holden-ma-at-saint-vincent-hospital-606473962477585416?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "This role provides direct clinical patient care. The role will assume responsibility for assessing, planning, implementing direct clinical care to assigned patients on a per shift basis, and unit level. The role is responsible for supervision of staff to which appropriate care is delegated. The role is accountable to support CNO to ensure high quality, safe and appropriate nursing care, competency of clinical staff, and appropriate resource management related to patient care.\n• The RN provides high-quality, safe, cost-effective, total nursing care to all patients. The RN assumes responsibility for overall coordination and integration of patient care based on the nursing process.\n• The RN directs care according to established standards of safety, risk management, QI, and Infection Control, with the goal being to discharge the patient with an optimum level of care provided.\n• Assumes responsibility for coordination and planning of patient care within the prescribed medical regime.\n• Performs and fulfills all HICS (hospital incident command system) responsibilities, assignments, tasks, and roles as directed and needed by the facility in times of emergency and/or disaster.\n• Responsible for knowing the Hospital's emergency codes, including the purpose and appropriate action for each, and adheres to the Hospital policies and procedures for each emergency code.\n• Performs related duties as required\n\nJoin our dedicated healthcare team where compassion meets innovation! As a Registered Nurse with us, you'll have the opportunity to make a meaningful impact in patients' lives while enjoying a supportive work environment that fosters professional growth and work-life balance. Ready to be a vital part of our mission? Apply today and bring your passion for nursing to a place where it truly matters!\n\nAt Metrowest Medical Center - Consolidated, we understand that our greatest asset is our dedicated team of professionals. That's why we offer more than a job - we provide a comprehensive benefit package that prioritizes your health, professional development, and work-life balance. The available plans and programs include:\n• Medical, dental, vision, and life insurance\n• 401(k) retirement savings plan with employer match\n• Generous paid time off\n• Career development and continuing education opportunities\n• Health savings accounts, healthcare & dependent flexible spending accounts\n• Employee Assistance program, Employee discount program\n• Voluntary benefits include pet insurance, legal insurance, accident and critical illness insurance, long term care, elder & childcare, auto & home insurance\n\nNote: Eligibility for benefits may vary by location and is determined by employment status\n\nMetroWest Medical Center has been serving the community since we opened as the first public medical facility in Framingham in 1893. MetroWest Medical Center is comprised of Framingham Union Hospital and Leonard Morse Hospital, a unique behavioral health specialty center located in Natick dedicated to the mental health of our community. At Framingham Union Hospital, youll find comprehensive health care services for the entire family including 24-hour emergency care, advanced cardiac care, high-tech cancer treatments and advanced maternity care including our Special Care Level IIB nursery and high-risk pregnancy care. MetroWest Medical Center was recognized by the Joint Commission with a Gold Seal of Approval, a symbol of quality that reflects our commitment to meeting performance standards and providing safe and effective patient care. Our skilled cardiac team was recognized as one of Healthgrades Americas 100 best hospitals for Coronary Intervention and ranked among the top 5% in the nation for coronary interventional procedures in 2023. At MetroWest Medical Center, you can grow your career skills and be a vital member of our team dedicated to improving the health of our community. Join us!\n• Required:\n• Education: Graduated from a state approved school of nursing or an accredited school.\n• Certification:\n• Currently licensed, certified, or registered to practice profession as required by law, regulation in state of practice or policy\n• CPR\n• Preferred:\n• Education: Academic degree in nursing (bachelor's or master's degree).",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Holden, MA",
-    "job_city": "Holden",
-    "job_state": "Massachusetts",
-    "job_country": "US",
-    "job_latitude": 42.351758499999995,
-    "job_longitude": -71.8634062,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCc2sRoAQ_Fa85wcHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Education: Graduated from a state approved school of nursing or an accredited school",
-        "Certification:",
-        "Currently licensed, certified, or registered to practice profession as required by law, regulation in state of practice or policy",
-        "CPR",
-        "Education: Academic degree in nursing (bachelor's or master's degree)"
-      ],
-      "Benefits": [
-        "That's why we offer more than a job - we provide a comprehensive benefit package that prioritizes your health, professional development, and work-life balance",
-        "The available plans and programs include:",
-        "Medical, dental, vision, and life insurance",
-        "401(k) retirement savings plan with employer match",
-        "Generous paid time off",
-        "Career development and continuing education opportunities",
-        "Health savings accounts, healthcare & dependent flexible spending accounts",
-        "Employee Assistance program, Employee discount program",
-        "Voluntary benefits include pet insurance, legal insurance, accident and critical illness insurance, long term care, elder & childcare, auto & home insurance"
-      ],
-      "Responsibilities": [
-        "The role will assume responsibility for assessing, planning, implementing direct clinical care to assigned patients on a per shift basis, and unit level",
-        "The role is responsible for supervision of staff to which appropriate care is delegated",
-        "The role is accountable to support CNO to ensure high quality, safe and appropriate nursing care, competency of clinical staff, and appropriate resource management related to patient care",
-        "The RN provides high-quality, safe, cost-effective, total nursing care to all patients",
-        "The RN assumes responsibility for overall coordination and integration of patient care based on the nursing process",
-        "The RN directs care according to established standards of safety, risk management, QI, and Infection Control, with the goal being to discharge the patient with an optimum level of care provided",
-        "Assumes responsibility for coordination and planning of patient care within the prescribed medical regime",
-        "Performs and fulfills all HICS (hospital incident command system) responsibilities, assignments, tasks, and roles as directed and needed by the facility in times of emergency and/or disaster",
-        "Responsible for knowing the Hospital's emergency codes, including the purpose and appropriate action for each, and adheres to the Hospital policies and procedures for each emergency code",
-        "Performs related duties as required"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-registered-nurse-rn-endoscopy-at-saint-vincent-hospital-4372016595",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "NTgsLFQBn9AGoIMpAAAAAA==",
-    "job_title": "Registered Nurse- Med/Surg",
-    "employer_name": "HealthPartners",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9u2MF8BE29LRYU93eCD9VJhFScR5lWnCiFEXk&s=0",
-    "employer_website": "https://www.healthpartners.com",
-    "job_publisher": "Oracle",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/healthpartners/job/117353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Oracle",
-        "apply_link": "https://fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/healthpartners/job/117353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "APHA Careers",
+        "apply_link": "https://careers.apha.org/jobs/22040294/endoscopy-registered-nurse-intermittent?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/HealthPartners/Job/Registered-Nurse-Med-Surg/-in-Stillwater,MN?jid=ecd123eb888c726f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.ziprecruiter.com/c/SD-Department-of-Veterans-Affairs/Job/ENDOSCOPY-REGISTERED-NURSE-(Intermittent)/-in-Bay-Pines,FL?jid=196152996919d5ee&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
         "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=617b65341a190787&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.indeed.com/viewjob?jk=ccc4f650bbc69836&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/efe994627f4b6fc8d5c068478e6d9cf5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Senior Living Career Center - Argentum",
+        "apply_link": "https://seniorlivingcareers.argentum.org/jobs/22040294/endoscopy-registered-nurse-intermittent?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-med-surg-at-lakeview-hospital-4372161037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.linkedin.com/jobs/view/endoscopy-registered-nurse-intermittent-at-u-s-department-of-veterans-affairs-4371239471?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/registered-nurse-med-surg_7ea1a3d953ecd1c9fbf098732f3e7744116fe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Local Job Network",
-        "apply_link": "https://jobs.localjobnetwork.com/j/t-Registered-Nurse-MedSurg-e-Lakeview-Hospital-l-Stillwater,-MN-jobs-j86265097.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Employer.circaworks.com",
-        "apply_link": "https://employer.circaworks.com/j/t-Registered-Nurse-MedSurg-e-Lakeview-Hospital-l-Stillwater,-MN-jobs-j86265097.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Breakroom",
-        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/28376281-healthpartners-registered-nurse-med-surg-stillwater?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "The Beryl Institute (The Beryl Institute), The Beryl Institute Career Center",
+        "apply_link": "https://pxcareers.theberylinstitute.org/jobs/22040294/endoscopy-registered-nurse-intermittent?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "As a Registered Nurse you will assess, plan, perform, document, and evaluate professional independent nursing practice at Lakeview Hospital; to provide work direction for and oversight of the nursing care provided by unlicensed assistive personnel; to perform and document functions such as carrying out the practitioner orders; to assist with diagnostic and treatment procedures; to provide a safe and therapeutic environment; to coordinate, communicate, interpret, and explain patient care services to the patient, their family, health professionals and others; to perform related duties as assigned.\n\nWork Schedule: 0.5FTE Day Shift RN with every other weekend\n\nRequired Qualifications:\n• Associate Degree in Nursing, or equivalent.\n• Licensed as an RN by Minnesota Board of Nursing or has a Wisconsin RN License and Minnesota Boarder State Registry\n• Registered nurses re-entering the nursing field, who have not completed 520 hours of nursing practice in the past four (4) years must successfully complete a recognized refresher course to qualify for employment. Written information of certification validating successful completion of a refresher course must be provided before employment.\n• Current BLS – American Heart Association or BLS – American Red Cross (CPR/AED for Professional Rescuer & Health Care Provider)\n• Those without telemetry experience: Completion of telemetry course within 1 year of start date.\n• Those with telemetry experience: Completion of competency validation.\n\nPreferred Qualifications:\n• Baccalaureate or Master’s degree in Nursing\n• Associate Degree prepared nurses enrolled in Baccalaureate in Nursing program\n• Specialty Certification in the RN’s area of expertise (e.g. CCRN, PCCN, CNOR, CPAN, CAPA, etc)",
+    "job_description": "Demonstrate proficiency in practice based on conscious and deliberate planning. Self-directed in goal setting for managing complex client situations. Assumes responsibility for the coordination of care focused on patient education, self-management, and customer satisfaction throughout the continuum of care. Administers medications and procedures per established policies and guidelines. Influences outcomes by collaborating with members of the interdisciplinary team.",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Stillwater, MN",
-    "job_city": "Stillwater",
-    "job_state": "Minnesota",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Bay Pines, FL",
+    "job_city": "Bay Pines",
+    "job_state": "Florida",
     "job_country": "US",
-    "job_latitude": 45.056004,
-    "job_longitude": -92.80884429999999,
+    "job_latitude": 27.809222899999998,
+    "job_longitude": -82.7751622,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNTgsLFQBn9AGoIMpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DJIH2vdG1j4uIrAU4AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": null,
     "job_max_salary": null,
-    "job_salary_period": null,
+    "job_salary_period": "YEAR",
     "job_highlights": {
-      "Qualifications": [
-        "Associate Degree in Nursing, or equivalent",
-        "Licensed as an RN by Minnesota Board of Nursing or has a Wisconsin RN License and Minnesota Boarder State Registry",
-        "Registered nurses re-entering the nursing field, who have not completed 520 hours of nursing practice in the past four (4) years must successfully complete a recognized refresher course to qualify for employment",
-        "Written information of certification validating successful completion of a refresher course must be provided before employment",
-        "Current BLS – American Heart Association or BLS – American Red Cross (CPR/AED for Professional Rescuer & Health Care Provider)",
-        "Those without telemetry experience: Completion of telemetry course within 1 year of start date",
-        "Those with telemetry experience: Completion of competency validation"
-      ],
       "Responsibilities": [
-        "As a Registered Nurse you will assess, plan, perform, document, and evaluate professional independent nursing practice at Lakeview Hospital; to provide work direction for and oversight of the nursing care provided by unlicensed assistive personnel; to perform and document functions such as carrying out the practitioner orders; to assist with diagnostic and treatment procedures; to provide a safe and therapeutic environment; to coordinate, communicate, interpret, and explain patient care services to the patient, their family, health professionals and others; to perform related duties as assigned",
-        "Work Schedule: 0.5FTE Day Shift RN with every other weekend"
+        "Demonstrate proficiency in practice based on conscious and deliberate planning",
+        "Self-directed in goal setting for managing complex client situations",
+        "Assumes responsibility for the coordination of care focused on patient education, self-management, and customer satisfaction throughout the continuum of care",
+        "Administers medications and procedures per established policies and guidelines",
+        "Influences outcomes by collaborating with members of the interdisciplinary team"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "fa-etnv-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-healthpartners-job-117353",
+    "id": "www-usajobs-gov-job-857175700",
     "_source": "new_jobs"
   },
   {
-    "job_id": "uH7sLfSX-BCRvQ9eAAAAAA==",
-    "job_title": "Registered Nurse (RN) - Various Units (Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR)",
+    "job_id": "3tyAYIitWOlDOL0lAAAAAA==",
+    "job_title": "Inpatient Registered Nurse (RN) Medical Units 1 & 2 Night Shifts",
     "employer_name": "Hospital Sisters Health System",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbp9lS0YUWyp_y_oyytq21xfVeK0uEhhbkpwOg&s=0",
     "employer_website": null,
@@ -665,135 +488,71 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-various-units-med-surg-cardiac-icu-er-cath-lab-pacu-or-mahomet-il-68d2939157d7ae0404f9295c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Hospital Sisters Health System",
-        "apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-various-units-med-surg-cardiac-icu-er-cath-lab-pacu-or-mahomet-il-68d2939157d7ae0404f9295c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Digitalhire",
-        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/7EuDCEER6IqgYPqkMNB78o?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/2mqTsC6ZtcxfcTmNXKWAnY?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       }
     ],
-    "job_description": "Pay Range:\n$34.00 - $51.00\n\nA successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education.\n\nHospital Sisters Health System (HSHS) is seeking a Registered Nurse (RN) to join our Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR, etc. units. Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge in a fast-paced environment.\n\nEstablishes a compassionate environment by providing emotional, psychological, and spiritual support to patients, friends, and families. Promotes and restores patients' health by completing the nursing process, collaborating with physicians and multidisciplinary team members, providing physical and psychological support to patients, friends, and families, and supervising assigned team members. Promotes patient's independence by establishing patient care goals, teaching patient, friends, and family to understand condition, medications, and self-care skills, and answering questions. Assures quality of care by adhering to therapeutic standards, measuring health outcomes against patient care goals and standards, making or recommending necessary adjustments, and following nursing philosophies and standards of care set by state board of nursing, state nurse practice act, and other governing agency regulations.\n\nPosition Specifics:\n• Department: Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR, etc.\n• Core Function: Nursing\n• Schedule: Day and Night Shift with weekend rotation\n• Facility: St. Mary's Hospital\n• Clinic Location: Decatur, IL\n• Sign On Bonus: $20,000 for Full-Time\n• Compensation that aligns with experience. Shift differentials for night, weekend, and call on top of base rate. Part-Time is benefit eligible!\n\nEducation Qualifications\n• Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required.\n• Bachelor’s degree in Nursing is preferred.\n\nExperience Qualifications\n• Experience in healthcare is preferred.\n\nCertifications, Licenses and Registrations\n• Licensed as a Registered Nurse (RN) in state of practice is required.\n• Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules.\n• Basic Life Support (BLS) is required.\n\nJob Description\n\nScheduled Weekly Hours:\n0\n\nThroughout communities in Illinois and Wisconsin, 13 hospitals, numerous community-based health centers and clinics, our 13,000+ colleagues have built a culture based on our solid core values of respect, care, competence, and joy. These are the ideals we believe in, work by, and live each day.\n\nBuilt upon more than 145 years of service to the communities we serve, we now look to the future and our place in it as a health care system that strives to continually improve processes, procedures, and outcomes with the latest and most advanced technologies and treatments.\n\nRegardless of how far our passion for excellence carries us, our focus will always remain on the most important person in our entire organization: The patient.\n\nHSHS requires COVID-19 vaccines or an approved medical or religious exemption for all colleagues.\n\nBenefits: HSHS provides a benefits package designed to support the overall well-being of our colleagues including their physical, emotional, financial, spiritual, and work health. Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits.\n• Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues.\n• Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need.\n• Retirement benefits including HSHS\ncontributions.\n• Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period.\n• Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!\n• Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!\n\nBenefits\n\nHSHS and affiliates is an Equal Opportunity Employer (EOE).\n\nHSHS is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.",
+    "job_description": "NIGHTS / FTE – 36h / 35k SOB\nPosition Specificso Department: Medical Units 1 & 2\no Schedule: Full time, 36 hrs/wk, Nights (7p-7a) and weekend rotation\no Facility: St. John’s Hospital\no Location: Springfield, IL\no Sign On: Up to $35,000 for external candidates\no Compensation: Aligns with experience\no Differentials: Shift and Weekend available for qualified hours worked\n\nIdeal Candidates: Patient-focused, mission-driven caregivers with clinical knowledge who are comfortable working in a fast-paced environment with complex acuities.\n\nEducation Qualifications\n• Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required.\n• Bachelor’s of science in nursing is preferred.\n\nExperience Qualifications\n• Critical Care Nursing experience is preferred.\n\nCertifications, Licenses and Registrations\n• Licensed Registered Nurse (RN) in state of practice is required. Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules.\n• Basic Life Support (BLS) is required.\n• Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked.\n• Speciality certifications based on patient population such as Critical Care Registered Nurse (CCRN), and Certified Emergency Nurse (CEN) are preferred.\n\nJob Description\n\nScheduled Weekly Hours:\n36\n\nThroughout communities in Illinois and Wisconsin, 13 hospitals, numerous community-based health centers and clinics, our 13,000+ colleagues have built a culture based on our solid core values of respect, care, competence, and joy. These are the ideals we believe in, work by, and live each day.\n\nBuilt upon more than 145 years of service to the communities we serve, we now look to the future and our place in it as a health care system that strives to continually improve processes, procedures, and outcomes with the latest and most advanced technologies and treatments.\n\nRegardless of how far our passion for excellence carries us, our focus will always remain on the most important person in our entire organization: The patient.\n\nHSHS requires COVID-19 vaccines or an approved medical or religious exemption for all colleagues.\n\nBenefits: HSHS provides a benefits package designed to support the overall well-being of our colleagues including their physical, emotional, financial, spiritual, and work health. Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits.\n• Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues.\n• Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need.\n• Retirement benefits including HSHS\ncontributions.\n• Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period.\n• Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!\n• Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!\n\nBenefits\n\nHSHS and affiliates is an Equal Opportunity Employer (EOE).\n\nHSHS is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.\n\nPay Range:\n$34.00 - $51.00\n\nA successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education.",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Mahomet, IL",
-    "job_city": "Mahomet",
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Clinton, IL",
+    "job_city": "Clinton",
     "job_state": "Illinois",
     "job_country": "US",
-    "job_latitude": 40.1953106,
-    "job_longitude": -88.40422339999999,
+    "job_latitude": 40.153647899999996,
+    "job_longitude": -88.96452529999999,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuH7sLfSX-BCRvQ9eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3tyAYIitWOlDOL0lAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 34,
     "job_max_salary": 51,
     "job_salary_period": "HOUR",
     "job_highlights": {
       "Qualifications": [
+        "Ideal Candidates: Patient-focused, mission-driven caregivers with clinical knowledge who are comfortable working in a fast-paced environment with complex acuities",
         "Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required",
         "Certifications, Licenses and Registrations",
-        "Licensed as a Registered Nurse (RN) in state of practice is required",
+        "Licensed Registered Nurse (RN) in state of practice is required",
         "Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules",
-        "Basic Life Support (BLS) is required"
+        "Basic Life Support (BLS) is required",
+        "Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked"
       ],
       "Benefits": [
-        "$34.00 - $51.00",
-        "A successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education",
-        "Sign On Bonus: $20,000 for Full-Time",
-        "Compensation that aligns with experience",
-        "Shift differentials for night, weekend, and call on top of base rate",
-        "Part-Time is benefit eligible!",
+        "Compensation: Aligns with experience",
         "Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits",
         "Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues",
         "Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need",
         "Retirement benefits including HSHS",
         "Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period",
         "Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!",
-        "Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!"
+        "Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!",
+        "$34.00 - $51.00",
+        "A successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education"
       ],
       "Responsibilities": [
-        "Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge in a fast-paced environment",
-        "Establishes a compassionate environment by providing emotional, psychological, and spiritual support to patients, friends, and families",
-        "Promotes and restores patients' health by completing the nursing process, collaborating with physicians and multidisciplinary team members, providing physical and psychological support to patients, friends, and families, and supervising assigned team members",
-        "Promotes patient's independence by establishing patient care goals, teaching patient, friends, and family to understand condition, medications, and self-care skills, and answering questions",
-        "Assures quality of care by adhering to therapeutic standards, measuring health outcomes against patient care goals and standards, making or recommending necessary adjustments, and following nursing philosophies and standards of care set by state board of nursing, state nurse practice act, and other governing agency regulations",
-        "Department: Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR, etc",
-        "Core Function: Nursing",
-        "Schedule: Day and Night Shift with weekend rotation"
+        "NIGHTS / FTE – 36h / 35k SOB",
+        "Schedule: Full time, 36 hrs/wk, Nights (7p-7a) and weekend rotation",
+        "Differentials: Shift and Weekend available for qualified hours worked"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "www-hshs-org-gfj-registered-nurse-rn-various-units-med-surg-cardiac-icu-er-cath-lab-pacu-or-mahomet-il-68d2939157d7ae0404f9295c",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "FnDoql5T1ltNqNoEAAAAAA==",
-    "job_title": "Registered Nurse - Multi Specialty - Flint, MI, United States",
-    "employer_name": "Veterans Health Administration",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
-    "employer_website": null,
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.talent.com/view?id=b6da982989b9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=b6da982989b9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/clinical-nurse?id=2433555828&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-mi-flint-registered-nurse-multi-specialty-veterans-health-administration?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "This is an Open Continuous Announcement (OCA) that will be used to fill multiple Registered Nursing vacancies at the VA Health Care System. Eligible candidates will be referred as long as there are vacancies.Qualifications : Basic Requirements :\n\nEnglish Language Proficiency. In accordance with 38 U.S.C. 7403(f), no person shall serve in direct patient care positions unless they are proficient in basic written and spoken English.\n\nGraduate of a school of professional nursing approved by the appropriate accrediting agency and accredited by one of the following accrediting bodies at the time the program was completed by the applicant : The Accreditation Commission for Education in Nursing (ACEN) or The Commission on Collegiate Nursing Education (CCNE); OR Individuals attending a master's level bridge program in nursing who have completed coursework equivalent to a bachelor's level degree in Nursing may",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Flint, MI",
-    "job_city": "Flint",
-    "job_state": "Michigan",
-    "job_country": "US",
-    "job_latitude": 43.012527399999996,
-    "job_longitude": -83.6874562,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFnDoql5T1ltNqNoEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "English Language Proficiency",
-        "Graduate of a school of professional nursing approved by the appropriate accrediting agency and accredited by one of the following accrediting bodies at the time the program was completed by the applicant : The Accreditation Commission for Education in Nursing (ACEN) or The Commission on Collegiate Nursing Education (CCNE); OR Individuals attending a master's level bridge program in nursing who have completed coursework equivalent to a bachelor's level degree in Nursing may"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
+    "id": "www-hshs-org-gfj-inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca",
     "_source": "new_jobs"
   },
   {
@@ -913,6 +672,322 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "uH7sLfSX-BCRvQ9eAAAAAA==",
+    "job_title": "Registered Nurse (RN) - Various Units (Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR)",
+    "employer_name": "Hospital Sisters Health System",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbp9lS0YUWyp_y_oyytq21xfVeK0uEhhbkpwOg&s=0",
+    "employer_website": null,
+    "job_publisher": "Hospital Sisters Health System",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-various-units-med-surg-cardiac-icu-er-cath-lab-pacu-or-mahomet-il-68d2939157d7ae0404f9295c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Hospital Sisters Health System",
+        "apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-various-units-med-surg-cardiac-icu-er-cath-lab-pacu-or-mahomet-il-68d2939157d7ae0404f9295c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Digitalhire",
+        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/7EuDCEER6IqgYPqkMNB78o?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Pay Range:\n$34.00 - $51.00\n\nA successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education.\n\nHospital Sisters Health System (HSHS) is seeking a Registered Nurse (RN) to join our Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR, etc. units. Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge in a fast-paced environment.\n\nEstablishes a compassionate environment by providing emotional, psychological, and spiritual support to patients, friends, and families. Promotes and restores patients' health by completing the nursing process, collaborating with physicians and multidisciplinary team members, providing physical and psychological support to patients, friends, and families, and supervising assigned team members. Promotes patient's independence by establishing patient care goals, teaching patient, friends, and family to understand condition, medications, and self-care skills, and answering questions. Assures quality of care by adhering to therapeutic standards, measuring health outcomes against patient care goals and standards, making or recommending necessary adjustments, and following nursing philosophies and standards of care set by state board of nursing, state nurse practice act, and other governing agency regulations.\n\nPosition Specifics:\n• Department: Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR, etc.\n• Core Function: Nursing\n• Schedule: Day and Night Shift with weekend rotation\n• Facility: St. Mary's Hospital\n• Clinic Location: Decatur, IL\n• Sign On Bonus: $20,000 for Full-Time\n• Compensation that aligns with experience. Shift differentials for night, weekend, and call on top of base rate. Part-Time is benefit eligible!\n\nEducation Qualifications\n• Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required.\n• Bachelor’s degree in Nursing is preferred.\n\nExperience Qualifications\n• Experience in healthcare is preferred.\n\nCertifications, Licenses and Registrations\n• Licensed as a Registered Nurse (RN) in state of practice is required.\n• Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules.\n• Basic Life Support (BLS) is required.\n\nJob Description\n\nScheduled Weekly Hours:\n0\n\nThroughout communities in Illinois and Wisconsin, 13 hospitals, numerous community-based health centers and clinics, our 13,000+ colleagues have built a culture based on our solid core values of respect, care, competence, and joy. These are the ideals we believe in, work by, and live each day.\n\nBuilt upon more than 145 years of service to the communities we serve, we now look to the future and our place in it as a health care system that strives to continually improve processes, procedures, and outcomes with the latest and most advanced technologies and treatments.\n\nRegardless of how far our passion for excellence carries us, our focus will always remain on the most important person in our entire organization: The patient.\n\nHSHS requires COVID-19 vaccines or an approved medical or religious exemption for all colleagues.\n\nBenefits: HSHS provides a benefits package designed to support the overall well-being of our colleagues including their physical, emotional, financial, spiritual, and work health. Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits.\n• Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues.\n• Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need.\n• Retirement benefits including HSHS\ncontributions.\n• Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period.\n• Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!\n• Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!\n\nBenefits\n\nHSHS and affiliates is an Equal Opportunity Employer (EOE).\n\nHSHS is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Mahomet, IL",
+    "job_city": "Mahomet",
+    "job_state": "Illinois",
+    "job_country": "US",
+    "job_latitude": 40.1953106,
+    "job_longitude": -88.40422339999999,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DuH7sLfSX-BCRvQ9eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 34,
+    "job_max_salary": 51,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required",
+        "Certifications, Licenses and Registrations",
+        "Licensed as a Registered Nurse (RN) in state of practice is required",
+        "Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules",
+        "Basic Life Support (BLS) is required"
+      ],
+      "Benefits": [
+        "$34.00 - $51.00",
+        "A successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education",
+        "Sign On Bonus: $20,000 for Full-Time",
+        "Compensation that aligns with experience",
+        "Shift differentials for night, weekend, and call on top of base rate",
+        "Part-Time is benefit eligible!",
+        "Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits",
+        "Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues",
+        "Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need",
+        "Retirement benefits including HSHS",
+        "Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period",
+        "Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!",
+        "Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!"
+      ],
+      "Responsibilities": [
+        "Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge in a fast-paced environment",
+        "Establishes a compassionate environment by providing emotional, psychological, and spiritual support to patients, friends, and families",
+        "Promotes and restores patients' health by completing the nursing process, collaborating with physicians and multidisciplinary team members, providing physical and psychological support to patients, friends, and families, and supervising assigned team members",
+        "Promotes patient's independence by establishing patient care goals, teaching patient, friends, and family to understand condition, medications, and self-care skills, and answering questions",
+        "Assures quality of care by adhering to therapeutic standards, measuring health outcomes against patient care goals and standards, making or recommending necessary adjustments, and following nursing philosophies and standards of care set by state board of nursing, state nurse practice act, and other governing agency regulations",
+        "Department: Med Surg/Cardiac, ICU, ER, Cath Lab, PACU, OR, etc",
+        "Core Function: Nursing",
+        "Schedule: Day and Night Shift with weekend rotation"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-hshs-org-gfj-registered-nurse-rn-various-units-med-surg-cardiac-icu-er-cath-lab-pacu-or-mahomet-il-68d2939157d7ae0404f9295c",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "FnDoql5T1ltNqNoEAAAAAA==",
+    "job_title": "Registered Nurse - Multi Specialty - Flint, MI, United States",
+    "employer_name": "Veterans Health Administration",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxZcedD_3dF93ViStyNIWTQoxuaUqovO_AbE5a&s=0",
+    "employer_website": null,
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=b6da982989b9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=b6da982989b9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WhatJobs",
+        "apply_link": "https://www.whatjobs.com/jobs/clinical-nurse?id=2433555828&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-mi-flint-registered-nurse-multi-specialty-veterans-health-administration?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "This is an Open Continuous Announcement (OCA) that will be used to fill multiple Registered Nursing vacancies at the VA Health Care System. Eligible candidates will be referred as long as there are vacancies.Qualifications : Basic Requirements :\n\nEnglish Language Proficiency. In accordance with 38 U.S.C. 7403(f), no person shall serve in direct patient care positions unless they are proficient in basic written and spoken English.\n\nGraduate of a school of professional nursing approved by the appropriate accrediting agency and accredited by one of the following accrediting bodies at the time the program was completed by the applicant : The Accreditation Commission for Education in Nursing (ACEN) or The Commission on Collegiate Nursing Education (CCNE); OR Individuals attending a master's level bridge program in nursing who have completed coursework equivalent to a bachelor's level degree in Nursing may",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Flint, MI",
+    "job_city": "Flint",
+    "job_state": "Michigan",
+    "job_country": "US",
+    "job_latitude": 43.012527399999996,
+    "job_longitude": -83.6874562,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFnDoql5T1ltNqNoEAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "English Language Proficiency",
+        "Graduate of a school of professional nursing approved by the appropriate accrediting agency and accredited by one of the following accrediting bodies at the time the program was completed by the applicant : The Accreditation Commission for Education in Nursing (ACEN) or The Commission on Collegiate Nursing Education (CCNE); OR Individuals attending a master's level bridge program in nursing who have completed coursework equivalent to a bachelor's level degree in Nursing may"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "KxzqK6aYVTp4oPczAAAAAA==",
+    "job_title": "Practical Nurse (Ambulatory Care)",
+    "employer_name": "Fayetteville NC VA Medical Center",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "USAJobs",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.usajobs.gov/job/857063100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "USAJobs",
+        "apply_link": "https://www.usajobs.gov/job/857063100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/SD-Department-of-Veterans-Affairs/Job/Practical-Nurse-(Ambulatory-Care)/-in-Jacksonville,NC?jid=6fe2b63f7ce4559e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/practical-nurse-ambulatory-care-jacksonville-department-of-veterans-affairs-04810b89d4d044c9fe1952320d06546f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "International Safety Equipment Association (ISEA), Safety Equipment Industry Career Center",
+        "apply_link": "https://careers.safetyequipment.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Senior Living Career Center - Argentum",
+        "apply_link": "https://seniorlivingcareers.argentum.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/practical-nurse-ambulatory-care-at-u-s-department-of-veterans-affairs-4371010644?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "The Beryl Institute (The Beryl Institute), The Beryl Institute Career Center",
+        "apply_link": "https://pxcareers.theberylinstitute.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career Center",
+        "apply_link": "https://careercenter.rehabnurse.org/jobs/22040264/practical-nurse-ambulatory-care?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "The Nursing, Ambulatory Care department is seeking a Licensed Practical Nurse (LPN) who will provide direct and indirect care to assigned patients while under the supervision of a registered nurse (RN). The LPN will provide care to Veterans that will promote the Veteran attaining and maintaining maximum functionality.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Jacksonville, NC",
+    "job_city": "Jacksonville",
+    "job_state": "North Carolina",
+    "job_country": "US",
+    "job_latitude": 34.7540524,
+    "job_longitude": -77.4302414,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKxzqK6aYVTp4oPczAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Responsibilities": [
+        "The Nursing, Ambulatory Care department is seeking a Licensed Practical Nurse (LPN) who will provide direct and indirect care to assigned patients while under the supervision of a registered nurse (RN)",
+        "The LPN will provide care to Veterans that will promote the Veteran attaining and maintaining maximum functionality"
+      ]
+    },
+    "job_onet_soc": "29206100",
+    "job_onet_job_zone": "3",
+    "id": "www-usajobs-gov-job-857063100",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "NTgsLFQBn9AGoIMpAAAAAA==",
+    "job_title": "Registered Nurse- Med/Surg",
+    "employer_name": "HealthPartners",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9u2MF8BE29LRYU93eCD9VJhFScR5lWnCiFEXk&s=0",
+    "employer_website": "https://www.healthpartners.com",
+    "job_publisher": "Oracle",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/healthpartners/job/117353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Oracle",
+        "apply_link": "https://fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/healthpartners/job/117353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/HealthPartners/Job/Registered-Nurse-Med-Surg/-in-Stillwater,MN?jid=ecd123eb888c726f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=617b65341a190787&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-med-surg-at-lakeview-hospital-4372161037?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/registered-nurse-med-surg_7ea1a3d953ecd1c9fbf098732f3e7744116fe?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Local Job Network",
+        "apply_link": "https://jobs.localjobnetwork.com/j/t-Registered-Nurse-MedSurg-e-Lakeview-Hospital-l-Stillwater,-MN-jobs-j86265097.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Employer.circaworks.com",
+        "apply_link": "https://employer.circaworks.com/j/t-Registered-Nurse-MedSurg-e-Lakeview-Hospital-l-Stillwater,-MN-jobs-j86265097.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Breakroom",
+        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/28376281-healthpartners-registered-nurse-med-surg-stillwater?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "As a Registered Nurse you will assess, plan, perform, document, and evaluate professional independent nursing practice at Lakeview Hospital; to provide work direction for and oversight of the nursing care provided by unlicensed assistive personnel; to perform and document functions such as carrying out the practitioner orders; to assist with diagnostic and treatment procedures; to provide a safe and therapeutic environment; to coordinate, communicate, interpret, and explain patient care services to the patient, their family, health professionals and others; to perform related duties as assigned.\n\nWork Schedule: 0.5FTE Day Shift RN with every other weekend\n\nRequired Qualifications:\n• Associate Degree in Nursing, or equivalent.\n• Licensed as an RN by Minnesota Board of Nursing or has a Wisconsin RN License and Minnesota Boarder State Registry\n• Registered nurses re-entering the nursing field, who have not completed 520 hours of nursing practice in the past four (4) years must successfully complete a recognized refresher course to qualify for employment. Written information of certification validating successful completion of a refresher course must be provided before employment.\n• Current BLS – American Heart Association or BLS – American Red Cross (CPR/AED for Professional Rescuer & Health Care Provider)\n• Those without telemetry experience: Completion of telemetry course within 1 year of start date.\n• Those with telemetry experience: Completion of competency validation.\n\nPreferred Qualifications:\n• Baccalaureate or Master’s degree in Nursing\n• Associate Degree prepared nurses enrolled in Baccalaureate in Nursing program\n• Specialty Certification in the RN’s area of expertise (e.g. CCRN, PCCN, CNOR, CPAN, CAPA, etc)",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Stillwater, MN",
+    "job_city": "Stillwater",
+    "job_state": "Minnesota",
+    "job_country": "US",
+    "job_latitude": 45.056004,
+    "job_longitude": -92.80884429999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNTgsLFQBn9AGoIMpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Associate Degree in Nursing, or equivalent",
+        "Licensed as an RN by Minnesota Board of Nursing or has a Wisconsin RN License and Minnesota Boarder State Registry",
+        "Registered nurses re-entering the nursing field, who have not completed 520 hours of nursing practice in the past four (4) years must successfully complete a recognized refresher course to qualify for employment",
+        "Written information of certification validating successful completion of a refresher course must be provided before employment",
+        "Current BLS – American Heart Association or BLS – American Red Cross (CPR/AED for Professional Rescuer & Health Care Provider)",
+        "Those without telemetry experience: Completion of telemetry course within 1 year of start date",
+        "Those with telemetry experience: Completion of competency validation"
+      ],
+      "Responsibilities": [
+        "As a Registered Nurse you will assess, plan, perform, document, and evaluate professional independent nursing practice at Lakeview Hospital; to provide work direction for and oversight of the nursing care provided by unlicensed assistive personnel; to perform and document functions such as carrying out the practitioner orders; to assist with diagnostic and treatment procedures; to provide a safe and therapeutic environment; to coordinate, communicate, interpret, and explain patient care services to the patient, their family, health professionals and others; to perform related duties as assigned",
+        "Work Schedule: 0.5FTE Day Shift RN with every other weekend"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "fa-etnv-saasfaprod1-fa-ocs-oraclecloud-com-hcmui-candidateexperience-en-sites-healthpartners-job-117353",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "83BlTT5YHgl0ETvGAAAAAA==",
     "job_title": "Registered Nurse - Post Surgical",
     "employer_name": "HCA Healthcare",
@@ -945,9 +1020,9 @@
     "job_latitude": 29.0388615,
     "job_longitude": -95.6985608,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D83BlTT5YHgl0ETvGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1135,8 +1210,8 @@
     "job_longitude": -84.6343783,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DyVpJyHIYAD2g7zf8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1182,84 +1257,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "3tyAYIitWOlDOL0lAAAAAA==",
-    "job_title": "Inpatient Registered Nurse (RN) Medical Units 1 & 2 Night Shifts",
-    "employer_name": "Hospital Sisters Health System",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbp9lS0YUWyp_y_oyytq21xfVeK0uEhhbkpwOg&s=0",
-    "employer_website": null,
-    "job_publisher": "Hospital Sisters Health System",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Hospital Sisters Health System",
-        "apply_link": "https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Digitalhire",
-        "apply_link": "https://jobs.digitalhire.com/job-listing/opening/2mqTsC6ZtcxfcTmNXKWAnY?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "NIGHTS / FTE – 36h / 35k SOB\nPosition Specificso Department: Medical Units 1 & 2\no Schedule: Full time, 36 hrs/wk, Nights (7p-7a) and weekend rotation\no Facility: St. John’s Hospital\no Location: Springfield, IL\no Sign On: Up to $35,000 for external candidates\no Compensation: Aligns with experience\no Differentials: Shift and Weekend available for qualified hours worked\n\nIdeal Candidates: Patient-focused, mission-driven caregivers with clinical knowledge who are comfortable working in a fast-paced environment with complex acuities.\n\nEducation Qualifications\n• Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required.\n• Bachelor’s of science in nursing is preferred.\n\nExperience Qualifications\n• Critical Care Nursing experience is preferred.\n\nCertifications, Licenses and Registrations\n• Licensed Registered Nurse (RN) in state of practice is required. Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules.\n• Basic Life Support (BLS) is required.\n• Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked.\n• Speciality certifications based on patient population such as Critical Care Registered Nurse (CCRN), and Certified Emergency Nurse (CEN) are preferred.\n\nJob Description\n\nScheduled Weekly Hours:\n36\n\nThroughout communities in Illinois and Wisconsin, 13 hospitals, numerous community-based health centers and clinics, our 13,000+ colleagues have built a culture based on our solid core values of respect, care, competence, and joy. These are the ideals we believe in, work by, and live each day.\n\nBuilt upon more than 145 years of service to the communities we serve, we now look to the future and our place in it as a health care system that strives to continually improve processes, procedures, and outcomes with the latest and most advanced technologies and treatments.\n\nRegardless of how far our passion for excellence carries us, our focus will always remain on the most important person in our entire organization: The patient.\n\nHSHS requires COVID-19 vaccines or an approved medical or religious exemption for all colleagues.\n\nBenefits: HSHS provides a benefits package designed to support the overall well-being of our colleagues including their physical, emotional, financial, spiritual, and work health. Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits.\n• Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues.\n• Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need.\n• Retirement benefits including HSHS\ncontributions.\n• Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period.\n• Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!\n• Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!\n\nBenefits\n\nHSHS and affiliates is an Equal Opportunity Employer (EOE).\n\nHSHS is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.\n\nPay Range:\n$34.00 - $51.00\n\nA successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Clinton, IL",
-    "job_city": "Clinton",
-    "job_state": "Illinois",
-    "job_country": "US",
-    "job_latitude": 40.153647899999996,
-    "job_longitude": -88.96452529999999,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3tyAYIitWOlDOL0lAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 34,
-    "job_max_salary": 51,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "Ideal Candidates: Patient-focused, mission-driven caregivers with clinical knowledge who are comfortable working in a fast-paced environment with complex acuities",
-        "Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required",
-        "Certifications, Licenses and Registrations",
-        "Licensed Registered Nurse (RN) in state of practice is required",
-        "Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules",
-        "Basic Life Support (BLS) is required",
-        "Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked"
-      ],
-      "Benefits": [
-        "Compensation: Aligns with experience",
-        "Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits",
-        "Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues",
-        "Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need",
-        "Retirement benefits including HSHS",
-        "Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period",
-        "Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!",
-        "Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!",
-        "$34.00 - $51.00",
-        "A successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education"
-      ],
-      "Responsibilities": [
-        "NIGHTS / FTE – 36h / 35k SOB",
-        "Schedule: Full time, 36 hrs/wk, Nights (7p-7a) and weekend rotation",
-        "Differentials: Shift and Weekend available for qualified hours worked"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-hshs-org-gfj-inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "75HEVnLle6v6odxRAAAAAA==",
     "job_title": "Registered Nurse (RN), Women and Infant",
     "employer_name": "Hospital Sisters Health System",
@@ -1292,8 +1289,8 @@
     "job_longitude": -90.1570536,
     "job_benefits": [
       "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D75HEVnLle6v6odxRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 32,
@@ -1326,6 +1323,111 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-hshs-org-gfj-registered-nurse-rn-women-and-infant-madison-il-698995dc31197103c1ec3143",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "HQqDp5zk1ruE2JUhAAAAAA==",
+    "job_title": "New Graduate RN - Registered Nurse - Bismarck",
+    "employer_name": "Sanford Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ41-pZBhEnINayl5wmRtv0BT3nZWNTJG33Z52j&s=0",
+    "employer_website": "https://www.sanfordhealth.org",
+    "job_publisher": "Sanford Health",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://sanfordcareers.com/bismarck-nd/new-graduate-rn-registered-nurse-bismarck/8A9CD7DB19214726837271B4ABE00EEB/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Sanford Health",
+        "apply_link": "https://sanfordcareers.com/bismarck-nd/new-graduate-rn-registered-nurse-bismarck/8A9CD7DB19214726837271B4ABE00EEB/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Sanford-Health/Job/New-Graduate-RN-Registered-Nurse-Bismarck/-in-Bismarck,ND?jid=7ec9af6179f3c527&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=4b2c106f194c6cd6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/new-graduate-rn-registered-nurse-bismarck-sanford-health-JV_IC1156224_KO0,41_KE42,56.htm?jl=1009774287863&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/yLNfGxYx8mfFamZEdbmME6G9S3cUJk4iNot6tc3jShaMbHCtC6o6BA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/new-graduate-rn-registered-nurse-bismarck-sanford-health-4f2407fcb2a45f22f78e0762871f2115?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/new-graduate-rn-registered-nurse-bismarck-at-sanford-health-4213966345?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/new-graduate-rn-registered-nurse-bismarck_2e5bd678-dcdf-469a-b237-b7e36c026561?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Careers With Purpose\n\nAs one of the largest not-for-profit health systems in the United States, Sanford Health is always looking to innovate and grow. Grow with us by joining our team of over 18,000 nurses. Our workplace culture focuses on treating patients and co-workers like family. You’ll work with people who value your advancement and help you find your niche.\n\nFacility: Bismarck Med Ctr\n\nLocation: Bismarck, ND\n\nAddress: 300 N 7th St, Bismarck, ND 58501, USA\n\nShift: 12 Hours - Varied Shifts\n\nJob Schedule: Full time\n\nWeekly Hours: 36.00\n\nSalary Range: $32.00 - $48.00\n\nJob Summary\n\nWe’re looking for positive, compassionate, hardworking registered nurses (RN) who can provide the high-quality care patients and families have come to expect from us. In our fast-paced work environment, the registered nurses who thrive are adaptable, great communicators, detail-oriented and have excellent time management skills. Because innovation impacts everything we do, our nursing team is full of critical thinkers who aren’t afraid to ask tough questions. Whether you’re a newly graduated registered nurse or have years of experience as an RN, we want someone willing to work closely with our nursing leaders to advance the organization. We take pride in giving you the necessary skills and tools to succeed in your goals throughout your career.\n\nResponsibilities\n• Plans and coordinates patient care, assessment, education, triage and various other nursing interventions\n• Collaborates with colleagues, including physicians, to plan, implement and evaluate care\n• Empathetically cares for patients during all stages of preventive services, health maintenance, diagnosis, treatment and follow-up along the continuum of care\n• Demonstrates competency and uses comprehensive nursing expertise\n\nQualifications\n\nGraduate from an accredited nursing program required, including, but not limited to, American Association of Colleges of Nursing (AACN), Accreditation Commission for Education in Nursing (ACEN), and National League for Nursing Commission for Nursing Education Accreditation (NLN CNEA). Bachelor’s Degree in nursing preferred.\n\nCurrently holds an unencumbered RN license with the State Board of Nursing where the practice of nursing is occurring and/or possess multistate licensure if in a Nurse Licensure Compact (NLC) state. Obtains and subsequently maintains required department specific competencies and certifications.\n\nBenefits\n\nSanford Health offers an attractive benefits package for qualifying full-time and part-time employees. Depending on eligibility, a variety of benefits include health insurance, dental insurance, vision insurance, life insurance, a 401(k) retirement plan, work/life balance benefits, and a generous time off package to maintain a healthy home-work balance. For more information about Total Rewards, visit https://sanfordcareers.com/benefits .\n\nSanford is an EEO/AA Employer M/F/Disability/Vet. If you are an individual with a disability and would like to request an accommodation for help with your online application, please call 1-877-673-0854 or send an email to talent@sanfordhealth.org .\n\nSanford Health has a Drug Free Workplace Policy. An accepted offer will require a drug screen and pre-employment background screening as a condition of employment.\n\nReq Number: R-0217289\n\nJob Function: Nursing\n\nFeatured: No",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Bismarck, ND",
+    "job_city": "Bismarck",
+    "job_state": "North Dakota",
+    "job_country": "US",
+    "job_latitude": 46.8041643,
+    "job_longitude": -100.7877616,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHQqDp5zk1ruE2JUhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Whether you’re a newly graduated registered nurse or have years of experience as an RN, we want someone willing to work closely with our nursing leaders to advance the organization",
+        "We take pride in giving you the necessary skills and tools to succeed in your goals throughout your career",
+        "Graduate from an accredited nursing program required, including, but not limited to, American Association of Colleges of Nursing (AACN), Accreditation Commission for Education in Nursing (ACEN), and National League for Nursing Commission for Nursing Education Accreditation (NLN CNEA)",
+        "Currently holds an unencumbered RN license with the State Board of Nursing where the practice of nursing is occurring and/or possess multistate licensure if in a Nurse Licensure Compact (NLC) state",
+        "Obtains and subsequently maintains required department specific competencies and certifications",
+        "An accepted offer will require a drug screen and pre-employment background screening as a condition of employment"
+      ],
+      "Benefits": [
+        "Weekly Hours: 36.00",
+        "Salary Range: $32.00 - $48.00",
+        "Sanford Health offers an attractive benefits package for qualifying full-time and part-time employees",
+        "Depending on eligibility, a variety of benefits include health insurance, dental insurance, vision insurance, life insurance, a 401(k) retirement plan, work/life balance benefits, and a generous time off package to maintain a healthy home-work balance",
+        "For more information about Total Rewards, visit https://sanfordcareers.com/benefits "
+      ],
+      "Responsibilities": [
+        "Shift: 12 Hours - Varied Shifts",
+        "Plans and coordinates patient care, assessment, education, triage and various other nursing interventions",
+        "Collaborates with colleagues, including physicians, to plan, implement and evaluate care",
+        "Empathetically cares for patients during all stages of preventive services, health maintenance, diagnosis, treatment and follow-up along the continuum of care",
+        "Demonstrates competency and uses comprehensive nursing expertise"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "sanfordcareers-com-bismarck-nd-new-graduate-rn-registered-nurse-bismarck-8a9cd7db19214726837271b4abe00eeb-job",
     "_source": "new_jobs"
   },
   {
@@ -1395,9 +1497,9 @@
     "job_latitude": 41.1017247,
     "job_longitude": -80.7645239,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DLhF38jfOrYE487cPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1477,151 +1579,44 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "HQqDp5zk1ruE2JUhAAAAAA==",
-    "job_title": "New Graduate RN - Registered Nurse - Bismarck",
-    "employer_name": "Sanford Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ41-pZBhEnINayl5wmRtv0BT3nZWNTJG33Z52j&s=0",
-    "employer_website": "https://www.sanfordhealth.org",
-    "job_publisher": "Sanford Health",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://sanfordcareers.com/bismarck-nd/new-graduate-rn-registered-nurse-bismarck/8A9CD7DB19214726837271B4ABE00EEB/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Sanford Health",
-        "apply_link": "https://sanfordcareers.com/bismarck-nd/new-graduate-rn-registered-nurse-bismarck/8A9CD7DB19214726837271B4ABE00EEB/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Sanford-Health/Job/New-Graduate-RN-Registered-Nurse-Bismarck/-in-Bismarck,ND?jid=7ec9af6179f3c527&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=4b2c106f194c6cd6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/new-graduate-rn-registered-nurse-bismarck-sanford-health-JV_IC1156224_KO0,41_KE42,56.htm?jl=1009774287863&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/yLNfGxYx8mfFamZEdbmME6G9S3cUJk4iNot6tc3jShaMbHCtC6o6BA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/new-graduate-rn-registered-nurse-bismarck-sanford-health-4f2407fcb2a45f22f78e0762871f2115?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/new-graduate-rn-registered-nurse-bismarck-at-sanford-health-4213966345?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/new-graduate-rn-registered-nurse-bismarck_2e5bd678-dcdf-469a-b237-b7e36c026561?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Careers With Purpose\n\nAs one of the largest not-for-profit health systems in the United States, Sanford Health is always looking to innovate and grow. Grow with us by joining our team of over 18,000 nurses. Our workplace culture focuses on treating patients and co-workers like family. You’ll work with people who value your advancement and help you find your niche.\n\nFacility: Bismarck Med Ctr\n\nLocation: Bismarck, ND\n\nAddress: 300 N 7th St, Bismarck, ND 58501, USA\n\nShift: 12 Hours - Varied Shifts\n\nJob Schedule: Full time\n\nWeekly Hours: 36.00\n\nSalary Range: $32.00 - $48.00\n\nJob Summary\n\nWe’re looking for positive, compassionate, hardworking registered nurses (RN) who can provide the high-quality care patients and families have come to expect from us. In our fast-paced work environment, the registered nurses who thrive are adaptable, great communicators, detail-oriented and have excellent time management skills. Because innovation impacts everything we do, our nursing team is full of critical thinkers who aren’t afraid to ask tough questions. Whether you’re a newly graduated registered nurse or have years of experience as an RN, we want someone willing to work closely with our nursing leaders to advance the organization. We take pride in giving you the necessary skills and tools to succeed in your goals throughout your career.\n\nResponsibilities\n• Plans and coordinates patient care, assessment, education, triage and various other nursing interventions\n• Collaborates with colleagues, including physicians, to plan, implement and evaluate care\n• Empathetically cares for patients during all stages of preventive services, health maintenance, diagnosis, treatment and follow-up along the continuum of care\n• Demonstrates competency and uses comprehensive nursing expertise\n\nQualifications\n\nGraduate from an accredited nursing program required, including, but not limited to, American Association of Colleges of Nursing (AACN), Accreditation Commission for Education in Nursing (ACEN), and National League for Nursing Commission for Nursing Education Accreditation (NLN CNEA). Bachelor’s Degree in nursing preferred.\n\nCurrently holds an unencumbered RN license with the State Board of Nursing where the practice of nursing is occurring and/or possess multistate licensure if in a Nurse Licensure Compact (NLC) state. Obtains and subsequently maintains required department specific competencies and certifications.\n\nBenefits\n\nSanford Health offers an attractive benefits package for qualifying full-time and part-time employees. Depending on eligibility, a variety of benefits include health insurance, dental insurance, vision insurance, life insurance, a 401(k) retirement plan, work/life balance benefits, and a generous time off package to maintain a healthy home-work balance. For more information about Total Rewards, visit https://sanfordcareers.com/benefits .\n\nSanford is an EEO/AA Employer M/F/Disability/Vet. If you are an individual with a disability and would like to request an accommodation for help with your online application, please call 1-877-673-0854 or send an email to talent@sanfordhealth.org .\n\nSanford Health has a Drug Free Workplace Policy. An accepted offer will require a drug screen and pre-employment background screening as a condition of employment.\n\nReq Number: R-0217289\n\nJob Function: Nursing\n\nFeatured: No",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Bismarck, ND",
-    "job_city": "Bismarck",
-    "job_state": "North Dakota",
-    "job_country": "US",
-    "job_latitude": 46.8041643,
-    "job_longitude": -100.7877616,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DHQqDp5zk1ruE2JUhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Whether you’re a newly graduated registered nurse or have years of experience as an RN, we want someone willing to work closely with our nursing leaders to advance the organization",
-        "We take pride in giving you the necessary skills and tools to succeed in your goals throughout your career",
-        "Graduate from an accredited nursing program required, including, but not limited to, American Association of Colleges of Nursing (AACN), Accreditation Commission for Education in Nursing (ACEN), and National League for Nursing Commission for Nursing Education Accreditation (NLN CNEA)",
-        "Currently holds an unencumbered RN license with the State Board of Nursing where the practice of nursing is occurring and/or possess multistate licensure if in a Nurse Licensure Compact (NLC) state",
-        "Obtains and subsequently maintains required department specific competencies and certifications",
-        "An accepted offer will require a drug screen and pre-employment background screening as a condition of employment"
-      ],
-      "Benefits": [
-        "Weekly Hours: 36.00",
-        "Salary Range: $32.00 - $48.00",
-        "Sanford Health offers an attractive benefits package for qualifying full-time and part-time employees",
-        "Depending on eligibility, a variety of benefits include health insurance, dental insurance, vision insurance, life insurance, a 401(k) retirement plan, work/life balance benefits, and a generous time off package to maintain a healthy home-work balance",
-        "For more information about Total Rewards, visit https://sanfordcareers.com/benefits "
-      ],
-      "Responsibilities": [
-        "Shift: 12 Hours - Varied Shifts",
-        "Plans and coordinates patient care, assessment, education, triage and various other nursing interventions",
-        "Collaborates with colleagues, including physicians, to plan, implement and evaluate care",
-        "Empathetically cares for patients during all stages of preventive services, health maintenance, diagnosis, treatment and follow-up along the continuum of care",
-        "Demonstrates competency and uses comprehensive nursing expertise"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "sanfordcareers-com-bismarck-nd-new-graduate-rn-registered-nurse-bismarck-8a9cd7db19214726837271b4abe00eeb-job",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "ZU6_5fOqz1nFh96dAAAAAA==",
-    "job_title": "Registered Nurse - Acute General Medicine",
+    "job_id": "GkAmRpgqTvwJk74PAAAAAA==",
+    "job_title": "Registered Nurse - Medical Short-Stay Unit",
     "employer_name": "Rochester Regional Health",
     "employer_logo": null,
     "employer_website": "https://www.rochesterregional.org",
     "job_publisher": "Medical Hirings - Talent Rush HQ",
-    "job_employment_type": "Full-time",
+    "job_employment_type": "Part-time",
     "job_employment_types": [
-      "FULLTIME"
+      "PARTTIME"
     ],
-    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/09r4cg8dnwll-d8c5df2f4eb918ac6-3c529c0690fc073?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/c9rdaol358vr-0da0e5f-97a2d4ec4127c9d4c57b8f62d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Medical Hirings - Talent Rush HQ",
-        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/09r4cg8dnwll-d8c5df2f4eb918ac6-3c529c0690fc073?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/c9rdaol358vr-0da0e5f-97a2d4ec4127c9d4c57b8f62d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Job Title: Registered Nurse - Acute General Medicine\n\nDepartment: Acute General Medicine (5800)\n\nLocation: Rochester General Hospital\n\nHours Per Week: Full-Time (36 hours per week)\n\nSchedule: NIGHTS, Every Other Weekend, Every Other Holiday\n\nSign-On Bonus: Up to $15,000 (if applicable)\n\nSUMMARY: As a Registered Nurse (RN), you’re the engine and the heart of patient care at Rochester Regional Health. You make a positive difference every single day in the lives of our patients, their family members and visitors – going above and beyond to meet their needs with courtesy, kindness, respect and compassion.\n\nThe Acute Medical Unit (5800) specializes in the care of patients with complex medical conditions and multi-system health issues. Nurses on this unit have the opportunity to build and strengthen their clinical expertise by managing a wide range of acute illnesses, including cardiac conditions requiring telemetry, diabetes, kidney disease and dialysis, pulmonary disorders, and patients requiring multiple drips, drains, and catheters. In addition to medical care, RNs on 5800 play a vital role in supporting the psychosocial needs of patients, particularly those with substance use disorders and mental health challenges, providing compassionate, holistic care to a diverse patient population.\n\nCLINICAL LADDER LEVEL I-IV\n\nThe RN level will be determined at the time of hire based on the candidate’s qualifications and ability to meet Clinical Ladder requirements. An established compensation add-on is applied to each RN level.\n\nLevel expectations include:\n• RN Level II: Minimum 6 months RN experience; AAS in Nursing; completion of Clinical Ladder requirements within 12 months, including 3 activities per pillar (Leadership, Quality, Organizational Contribution), 9 CEUs, and 6 flex items.\n• RN Level III: Minimum 1 year RN experience; AAS in Nursing; demonstrated clinical and leadership skills; preceptor and/or charge experience; completion of 4 activities per pillar, 12 CEUs, and 15 flex items.\n• RN Level IV: Minimum 1 year experience in the specialty hired into; BS in Nursing required; expanded leadership role (charge, preceptor, mentor); completion of Clinical Ladder requirements within 12 months, including 5 activities per pillar, 15 CEUs, and 20 flex items.\n\nRESPONSIBILITIES:\n\n· Provides high-quality, patient-centered, clinical care\n\n· Performs initial and ongoing assessment of the patient, utilizing appropriate data (i.e. physical, psychological, educational and risk-screen data appropriate for the chronological / developmental age of the patient).\n\n· Communicates and documents assessment of patient with the interdisciplinary team. Utilizes all available resources in order to meet the needs of the patient and family.\n\n· Develops and documents plan of care, treatment and services which is individualized and appropriate for the patient needs, strengths, limitations and goals.\n\n· Complies with organizational policies, procedures and protocols including policies governing safety, medication administration and documentation.\n\n· Revises plan of care based on ongoing evaluations and updates documentation appropriately.\n\n· Completes at least one clinical research utilization (CRU) form for submission to Nursing Research Department utilizing a research article from the last 5 years from research performed in the United States. Compliance\n\n· Completes a minimum of 5 nationally approved contact hours (CNE or CEU) per year.\n\n· Completes mandatory in-services and health screens in timely manner.\n\n· Maintains Basic Life Support (BLS) certification.\n\nREQUIRED QUALIFICATIONS:\n\n· Diploma or Associate’s Degree in Nursing\n\n· Registered Nurse license in New York State.\n\n· Basic Life Support (BLS) certification.\n\nPREFERRED QUALIFICATIONS:\n\n· Bachelor’s Degree in Nursing preferred.\n\n· At least 6 months RN experience preferred.\n\nEDUCATION:\nAS: Nursing (Required)\n\nLICENSES / CERTIFICATIONS:\nBLS - Basic Life Support - American Heart Association (AHA)American Heart Association (AHA), RN - Registered Nurse - New York State Education Department (NYSED)New York State Education Department (NYSED)\n\nPHYSICAL REQUIREMENTS:\nM - Medium Work - Exerting 20 to 50 pounds of force occasionally, and/or 10 to 25 pounds of force frequently, and/or greater than negligible up to 10 pounds of force constantly to move objects; Requires frequent walking, standing or squatting.\n\nFor disease specific care programs refer to the program specific requirements of the department for further specifications on experience and educational expectations, including continuing education requirements.\n\nAny physical requirements reported by a prospective employee and/or employee’s physician or delegate will be considered for accommodations.\n\nPAY RANGE:\n$38.66 - $51.91\n\nCITY:\n\nRochester\n\nPOSTAL CODE:\n\n14621\n\nThe listed base pay range is a good faith representation of current potential base pay for a successful full time applicant. It may be modified in the future and eligible for additional pay components. Pay is determined by factors including experience, relevant qualifications, specialty, internal equity, location, and contracts.\n\nRochester Regional Health is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender identity or expression, national origin, age, disability, predisposing genetic characteristics, marital or familial status, military or veteran status, citizenship or immigration status, or any other characteristic protected by federal, state, or local law.",
+    "job_description": "Job Description\n\nJob Title: Registered Nurse I\n\nDepartment: Medical Short-Stay Unit\n\nLocation: Rochester General Hospital\n\nHours Per Week: Part-Time (24 hours)\n\nSchedule: Day/Evening/Night\n\nSign-On Bonus: Up to $7,500\n\nSUMMARY:\n\nAs a Registered Nurse (RN), you’re the engine and the heart of patient care at Rochester Regional Health. You make a positive difference every single day in the lives of our patients, their family members and visitors – going above and beyond to meet their needs with courtesy, kindness, respect and compassion.\n\nThe Medical Short-Stay Unit (MSU) at Rochester General Hospital is a 38-bed, fast-paced medical-surgical unit specializing in caring for patients with an anticipated stay of five days or less. Split between two wings (4100 and 4200), the unit features telemetry monitoring, negative pressure rooms, and a collaborative care model with on-unit providers, dedicated social work support, and strong nurse leadership. MSU focuses on rapid throughput, high discharge volume, and seamless coordination with the Emergency Department.\n\nRESPONSIBILITIES:\n• Provides high-quality, patient-centered, clinical care\n• Performs initial and ongoing assessment of the patient, utilizing appropriate data (i.e. physical, psychological, educational and risk-screen data appropriate for the chronological / developmental age of the patient).\n• Communicates and documents assessment of patient with the interdisciplinary team. Utilizes all available resources in order to meet the needs of the patient and family.\n• Develops and documents plan of care, treatment and services which is individualized and appropriate for the patient needs, strengths, limitations and goals.\n• Complies with organizational policies, procedures and protocols including policies governing safety, medication administration and documentation.\n• Revises plan of care based on ongoing evaluations and updates documentation appropriately.\n• Completes at least one clinical research utilization (CRU) form for submission to Nursing Research Department utilizing a research article from the last 5 years from research performed in the United States.\n\nCOMPLIANCE:\n• Completes a minimum of 5 nationally approved contact hours (CNE or CEU) per year.\n• Completes mandatory in-services and health screens in timely manner.\n• Maintains Basic Life Support (BLS) certification.\n\nREQUIRED QUALIFICATIONS:\n• Diploma or Associate’s Degree in Nursing\n• Registered Nurse license in New York State.\n• Basic Life Support (BLS) certification.\n\nPREFERRED QUALIFICATIONS:\n• Bachelor’s Degree in Nursing preferred.\n• At least 6 months RN experience preferred\n\nEDUCATION:\nAS: Nursing (Required)\n\nLICENSES / CERTIFICATIONS:\nBLS - Basic Life Support - American Heart Association (AHA)American Heart Association (AHA), RN - Registered Nurse - New York State Education Department (NYSED)New York State Education Department (NYSED)\n\nPHYSICAL REQUIREMENTS:\nM - Medium Work - Exerting 20 to 50 pounds of force occasionally, and/or 10 to 25 pounds of force frequently, and/or greater than negligible up to 10 pounds of force constantly to move objects; Requires frequent walking, standing or squatting.\n\nFor disease specific care programs refer to the program specific requirements of the department for further specifications on experience and educational expectations, including continuing education requirements.\n\nAny physical requirements reported by a prospective employee and/or employee’s physician or delegate will be considered for accommodations.\n\nPAY RANGE:\n$38.66 - $51.91\n\nCITY:\n\nRochester\n\nPOSTAL CODE:\n\n14621\n\nThe listed base pay range is a good faith representation of current potential base pay for a successful full time applicant. It may be modified in the future and eligible for additional pay components. Pay is determined by factors including experience, relevant qualifications, specialty, internal equity, location, and contracts.\n\nRochester Regional Health is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, creed, religion, sex (including pregnancy, childbirth, and related medical conditions), sexual orientation, gender identity or expression, national origin, age, disability, predisposing genetic characteristics, marital or familial status, military or veteran status, citizenship or immigration status, or any other characteristic protected by federal, state, or local law.",
     "job_is_remote": false,
     "job_posted_at": "5 days ago",
     "job_posted_at_timestamp": 1770681600,
     "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Oswego, NY",
-    "job_city": "Oswego",
+    "job_location": "Sterling, NY",
+    "job_city": "Sterling",
     "job_state": "New York",
     "job_country": "US",
-    "job_latitude": 43.4553133,
-    "job_longitude": -76.51155109999999,
+    "job_latitude": 43.325900499999996,
+    "job_longitude": -76.64494909999999,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZU6_5fOqz1nFh96dAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGkAmRpgqTvwJk74PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "RN Level III: Minimum 1 year RN experience; AAS in Nursing; demonstrated clinical and leadership skills; preceptor and/or charge experience; completion of 4 activities per pillar, 12 CEUs, and 15 flex items",
-        "RN Level IV: Minimum 1 year experience in the specialty hired into; BS in Nursing required; expanded leadership role (charge, preceptor, mentor); completion of Clinical Ladder requirements within 12 months, including 5 activities per pillar, 15 CEUs, and 20 flex items",
         "Diploma or Associate’s Degree in Nursing",
         "Registered Nurse license in New York State",
         "Basic Life Support (BLS) certification",
@@ -1631,16 +1626,13 @@
         "For disease specific care programs refer to the program specific requirements of the department for further specifications on experience and educational expectations, including continuing education requirements"
       ],
       "Benefits": [
-        "Sign-On Bonus: Up to $15,000 (if applicable)",
+        "Schedule: Day/Evening/Night",
+        "Sign-On Bonus: Up to $7,500",
         "$38.66 - $51.91",
         "The listed base pay range is a good faith representation of current potential base pay for a successful full time applicant"
       ],
       "Responsibilities": [
-        "Hours Per Week: Full-Time (36 hours per week)",
-        "Schedule: NIGHTS, Every Other Weekend, Every Other Holiday",
-        "Nurses on this unit have the opportunity to build and strengthen their clinical expertise by managing a wide range of acute illnesses, including cardiac conditions requiring telemetry, diabetes, kidney disease and dialysis, pulmonary disorders, and patients requiring multiple drips, drains, and catheters",
-        "In addition to medical care, RNs on 5800 play a vital role in supporting the psychosocial needs of patients, particularly those with substance use disorders and mental health challenges, providing compassionate, holistic care to a diverse patient population",
-        "RN Level II: Minimum 6 months RN experience; AAS in Nursing; completion of Clinical Ladder requirements within 12 months, including 3 activities per pillar (Leadership, Quality, Organizational Contribution), 9 CEUs, and 6 flex items",
+        "Hours Per Week: Part-Time (24 hours)",
         "Provides high-quality, patient-centered, clinical care",
         "Performs initial and ongoing assessment of the patient, utilizing appropriate data (i.e. physical, psychological, educational and risk-screen data appropriate for the chronological / developmental age of the patient)",
         "Communicates and documents assessment of patient with the interdisciplinary team",
@@ -1654,9 +1646,95 @@
         "Maintains Basic Life Support (BLS) certification"
       ]
     },
+    "job_onet_soc": "29909900",
+    "job_onet_job_zone": "4",
+    "id": "medicalhirings-talentrushhq-com-joblistingpage-c9rdaol358vr-0da0e5f-97a2d4ec4127c9d4c57b8f62d",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "PUvQFZsw4lnqKc65AAAAAA==",
+    "job_title": "Registered Nurse - NICU Level IV",
+    "employer_name": "HCA Healthcare",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLhIyF4X5LPbv7rbFGyMTQef0lmrRI76tLYOp&s=0",
+    "employer_website": "https://www.hcahealthcare.com",
+    "job_publisher": "HCA Healthcare Jobs - Pro Nurses Nearby",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://hcahealthcare.pronursesnearby.com/joblistingpage/2hsc29fwy9qr-8aa98050cba0badd-73da3ec-28a73d39c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "HCA Healthcare Jobs - Pro Nurses Nearby",
+        "apply_link": "https://hcahealthcare.pronursesnearby.com/joblistingpage/2hsc29fwy9qr-8aa98050cba0badd-73da3ec-28a73d39c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Description\nProgram runs from September 21, 2025 to April 4, 2026\n\n$62/hr base rate\n\nPROGRAM REQUIREMENTS\n\n·All seasonal RNs are required to work a minimum of 72 hours per pay period during the seasonal period.\n\n·Within a close geography, you may be asked to float to another facility that has an emergent staffing need.\n\n·Four (4) weekend shifts are required each 4 week schedule period.\n\n·During the course of the 32-week period, the employee is required to work two (2) holiday shifts (defined by Department Manager or designee).\n\n·Seasonal Staff are PRN status employees and are subject to first call-off. There are no guaranteed hours by the hospital.\nIntroduction\n\nDo you have the PRN career opportunities as a(an) Seasonal Registered Nurse NICU Level IV you want with your current employer? We have an exciting opportunity for you to join Medical City Dallas which is part of the nation's leading provider of healthcare services, HCA Healthcare.\nBenefits\n\nMedical City Dallas, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as telemedicine services and free AirMed medical transportation.\n• Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more.\n• Fertility and family building benefits through Progyny\n• Free counseling services and resources for emotional, physical and financial wellbeing\n• Family support, including adoption assistance, child and elder care resources and consumer discounts\n• 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\n• Employee Stock Purchase Plan\n• Retirement readiness and rollover services and preferred banking partnerships\n• Education assistance (tuition, student loan, certification support, dependent scholarships)\n• Colleague recognition program\n• Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nOur teams are a committed, caring group of colleagues. Do you want to work as a(an) Seasonal Registered Nurse NICU Level IV where your passion for creating positive patient interactions is valued? If you are dedicated to caring for the well-being of others, this could be your next opportunity. We want your knowledge and expertise!\nJob Summary and Qualifications\n\nOur Level IV NICU RNs raise the bar by providing clinical expertise and the highest quality care in the most compassionate way in our 108 bed NICU. We are an amazing team, that works hard to support each other and are seeking a phenomenal addition like you, who feels patient care is as meaningful as we do.\n\nWhat you will do in this role:\n• Perform comprehensive nursing assessments and provide direct patient care\n• Plan, implement and evaluate patient care plans to optimize outcomes and maximize available resources\n• Supervise non-licensed nursing staff within the RN scope of practice and in accordance with established policies\n• Incorporate teaching into all aspects of nursing practice\n\nWhat qualifications you will need:\n• ADN / BSN is required w/12 month enrollment and 24 month completion (Magnet Hospital)\n• Texas State RN license or compact license is accepted\n• Must have one (1) year recent Level III or IV NICU RN experience in an acute care hospital\n• STABLE must be obtained within 18 months of employment start date\n• Neonate Resuscitate must be obtained within 6 months of employment start date\n• Basic Cardiac Life Support, or BCLS Instructor must be obtained within 30 days of employment start date\n• Pediatric Advanced Life Support (PALS)\n\nMedical City Dallas is recognized for its advanced medical facilities and commitment to excellence in patient care. We are an 895+ bed tertiary care center. Our medical team consists of more than 1,500 physicians, many are recognized as the world's best in their specialties. Patients travel to Medical City Dallas from all over the United States and from other countries. We offer sophisticated treatment by our 400+ in-house physician specialists. Medical City Dallas has a full-service adult hospital and pediatric hospital. We have separate adult and pediatric emergency rooms, outpatient clinics and diagnostic centers. Our providers have access to state-of-the-art technology and are pioneering new medical procedures to accommodate patient needs. As a part of the Medical City network of hospitals, patients are ensured access to leading medical experts and advanced healthcare innovations across the network.\n\nHCA Healthcare has been recognized as one of the World's Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\"Bricks and mortar do not make a hospital. People do.\"- Dr. Thomas Frist, Sr.\nHCA Healthcare Co-Founder\n\nIf you are looking for an opportunity that provides satisfaction and personal growth, we encourage you to apply for our Seasonal Registered Nurse NICU Level IV opening. We review all applications. Qualified candidates will be contacted for interviews. Unlock the possibilities and apply today!\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Kennedale, TX",
+    "job_city": "Kennedale",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 32.646800999999996,
+    "job_longitude": -97.22584649999999,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPUvQFZsw4lnqKc65AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "All seasonal RNs are required to work a minimum of 72 hours per pay period during the seasonal period",
+        "Within a close geography, you may be asked to float to another facility that has an emergent staffing need",
+        "ADN / BSN is required w/12 month enrollment and 24 month completion (Magnet Hospital)",
+        "Texas State RN license or compact license is accepted",
+        "Must have one (1) year recent Level III or IV NICU RN experience in an acute care hospital",
+        "STABLE must be obtained within 18 months of employment start date",
+        "Neonate Resuscitate must be obtained within 6 months of employment start date",
+        "Basic Cardiac Life Support, or BCLS Instructor must be obtained within 30 days of employment start date",
+        "Pediatric Advanced Life Support (PALS)"
+      ],
+      "Benefits": [
+        "$62/hr base rate",
+        "Medical City Dallas, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
+        "Comprehensive medical coverage that covers many common services at no cost or for a low copay",
+        "Plans include prescription drug and behavioral health coverage as well as telemedicine services and free AirMed medical transportation",
+        "Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more",
+        "Fertility and family building benefits through Progyny",
+        "Free counseling services and resources for emotional, physical and financial wellbeing",
+        "Family support, including adoption assistance, child and elder care resources and consumer discounts",
+        "401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)",
+        "Employee Stock Purchase Plan",
+        "Retirement readiness and rollover services and preferred banking partnerships",
+        "Education assistance (tuition, student loan, certification support, dependent scholarships)",
+        "Colleague recognition program",
+        "Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)",
+        "Learn more about Employee Benefits",
+        "Note: Eligibility for benefits may vary by location"
+      ],
+      "Responsibilities": [
+        "Four (4) weekend shifts are required each 4 week schedule period",
+        "During the course of the 32-week period, the employee is required to work two (2) holiday shifts (defined by Department Manager or designee)",
+        "Seasonal Staff are PRN status employees and are subject to first call-off",
+        "Perform comprehensive nursing assessments and provide direct patient care",
+        "Plan, implement and evaluate patient care plans to optimize outcomes and maximize available resources",
+        "Supervise non-licensed nursing staff within the RN scope of practice and in accordance with established policies",
+        "Incorporate teaching into all aspects of nursing practice"
+      ]
+    },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "medicalhirings-talentrushhq-com-joblistingpage-09r4cg8dnwll-d8c5df2f4eb918ac6-3c529c0690fc073",
+    "id": "hcahealthcare-pronursesnearby-com-joblistingpage-2hsc29fwy9qr-8aa98050cba0badd-73da3ec-28a73d39c",
     "_source": "new_jobs"
   },
   {
@@ -1726,9 +1804,9 @@
     "job_latitude": 27.7671271,
     "job_longitude": -82.6384451,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DN9636xit9UT3SfxRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
