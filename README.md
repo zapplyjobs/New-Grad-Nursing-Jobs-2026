@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-8-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-5-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-10-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-10-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-6-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 8+ top companies and healthcare facilities. Updated every 15 minutes with 8+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 10+ top companies and healthcare facilities. Updated every 15 minutes with 10+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,25 +69,27 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (5 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (6 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Michael E DeBakey VA Medical Center** | Licensed Practical / Vocational ... | Sugar Land, Texas | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/GetJob/ViewDetails/857205000?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Biolife Plasma Services** | Biolife Nurse - LVN - Part Time ... | Pearland, Texas | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.biolifeplasma.com/job/pearland/biolife-nurse-lvn-part-time-evenings-and-weekends/32806/91559688640?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Texas Health** | Licensed Vocational Nurse - LVN | Dallas, Texas | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.texashealth.org/job/22953201/licensed-vocational-nurse-lvn-dallas-tx/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Vohra Wound Physicians, LLC** | Nurse Practitioner (NP) job in U... | Utica, New York | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vohrawoundcare.com/job-openings/nurse-uticany-1546/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **CVS Health** | Virtual Clinician Home Evaluatio... 🏠 | Richmond, Virginia | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cvshealth.com/us/en/job/R0828034/Virtual-Clinician-Home-Evaluations-Nurse-Practitioner-or-Physician-Assistant-Full-Time-VA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **CareSpot Urgent Care** | Nurse Practitioner/Physician Ass... | Pembroke Pines, Florida | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/CareSpot/Job/Nurse-Practitioner-Physician-Assistant-Full-Time-West-Pines/-in-Pembroke-Pines,FL?jid=aac6a9bd791bdd92&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Prisma Health** | Certified Nursing Asst (CNA) - O... | Greenville, South Carolina | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.prismahealth.org/us/en/job/R1130809/Certified-Nursing-Asst-CNA-Orthopedic-Surgery-PRN-Variable?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **The University of Iowa** | 80-100% Physician Assistant or A... | Iowa City, Iowa | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.higheredjobs.com/region/details.cfm?JobCode=179360059&Title=80-100%25+Physician+Assistant+or+Advanced+Registered+Nurse+Practitioner+-+Oculoplastics&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **UVA Health** | Certified Nurse Assistant (CNA)/... | Charlottesville, Virginia | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.uvahealth.org/us/en/job/R0077168/Certified-Nurse-Assistant-CNA-Patient-Care-Technician-PCT-Trauma-Surgical-Subspecialties?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
 <details>
-<summary><h3>💉 <strong>Licensed Practical Nurse</strong> (2 positions)</h3></summary>
+<summary><h3>⚕️ <strong>Nurse Practitioner</strong> (3 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **VA Nebraska-Western Iowa HCS - Omaha** | Licensed Practical Nurse- Primar... | Omaha, Nebraska | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857375900?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Audie L Murphy Memorial Veterans Hospital** | Licensed Practical/License Vocat... | San Antonio, Texas | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/856963200?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Northshore Home Health Care** | Nurse Practitioner - ObGyn | Oregon City, Oregon | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/nurse-practitioner-obgyn-at-northshore-home-health-care-4372920200?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **DocCafe** | Geriatrics Nurse Practitioner - ... | Clearfield, Pennsylvania | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=0a477c105ccc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **VA Northeast Ohio Healthcare System** | Advanced Practice Nurse (NP) - B... | East Liverpool, Ohio | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/856209700?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -157,21 +159,28 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 3 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 3 positions
-- **🏢 Companies**: 8 companies
+- **📁 Total Jobs**: 2 positions
+- **🏢 Companies**: 10 companies
 - **🏷️ Top Category**: Registered Nurse
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (3 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Johns Hopkins Medicine** | Certified Nursing Assistant - CN... | Columbia, Maryland | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.hopkinsmedicine.org/job/95319/certified-nursing-assistant-cna-howard-county-nursing-support-patient-care-us-md-columbia-johns-hopkins-care-at-home/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Prisma Health** | Nursing Assistant Cert Part Time... | Easley, South Carolina | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.prismahealth.org/us/en/job/R1129945/Nursing-Assistant-Cert-Part-Time-Nights?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Adventist HealthCare** | Certified Nursing Assistant, Day... | Rockville, Maryland | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169260603-certified-nursing-assistant-day-shift-med-surg-flex?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **One Medical** | Expanded Care (Urgent Care) Nurs... | Washington, District of Columbia | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.onemedical.com/job/washington/expanded-care-urgent-care-nurse-practitioner-or-physician-assistant/45973/91097556128?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>⚕️ <strong>Nurse Practitioner</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **DOT Exam Express Inc** | Nurse Practitioner/ MD/ DO | Halethorpe, Maryland | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/nurse-practitioner-md-do-at-dot-exam-express-inc-4366366245?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -185,7 +194,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 8 current opportunities from 8 companies**
+**🎯 10 current opportunities from 10 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
