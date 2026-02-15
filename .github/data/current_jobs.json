@@ -243,8 +243,8 @@
     "job_latitude": 27.6383673,
     "job_longitude": -81.8239717,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYAoHsk9r-TrNf8D6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -576,9 +576,9 @@
     "job_latitude": 40.006778499999996,
     "job_longitude": -75.2854622,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0QTC1wk6HEvcSieSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 72000,
@@ -696,9 +696,9 @@
     "job_latitude": 42.355507599999996,
     "job_longitude": -71.0565364,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUz84cprtNa-RyEjXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 98000,
@@ -795,9 +795,9 @@
     "job_latitude": 42.6518095,
     "job_longitude": -73.7544707,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsLzubZh1ptY5yRy-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 69531,
@@ -810,122 +810,54 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "9dqBNSB28P6nVlwCAAAAAA==",
-    "job_title": "Registered Nurse - PCU General - RN",
-    "employer_name": "Mayo Clinic",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5NGEOL0oBVldTW1RuK3fO_U2bqUThEc7uRUUN&s=0",
-    "employer_website": "https://www.mayoclinic.org",
-    "job_publisher": "Mayo Clinic Careers",
+    "job_id": "BXWqJ_mw00S104XQAAAAAA==",
+    "job_title": "career advancement role: lead nursing team",
+    "employer_name": "beBeeNurse",
+    "employer_logo": null,
+    "employer_website": "https://us.bebee.com",
+    "job_publisher": "Jobilize",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobs.mayoclinic.org/job/mankato/registered-nurse-pcu-general-rn/33647/91585094544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.jobilize.com/job/us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Mayo Clinic Careers",
-        "apply_link": "https://jobs.mayoclinic.org/job/mankato/registered-nurse-pcu-general-rn/33647/91585094544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=24ff26211c6f4166&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Mayo-Clinic/Job/Registered-Nurse-Med-Surg-Ped-RN/-in-Mankato,MN?jid=c258c70a191a3a13&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Sign In",
-        "apply_link": "https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Mayo-US/job/374401/?utm_source=google&via=https%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525253A%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252F%25252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252525252Fwww.internshipshq.comutm_mediumutm_mediumutm_mediumutm_medium&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/registered-nurse-med-surg-ped-rn-mankato-mn--d7cbc006-2e7e-4c61-89c5-6898c4618e6e?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/registered-nurse-med-surg-ped-rn-mayo-clinic-JV_IC1142471_KO0,32_KE33,44.htm?jl=1010001608587&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "American Association For Men In Nursing (AAMN)",
-        "apply_link": "https://jobboard.aamn.org/job/registered-nurse-pcu-general-rn-mankato-mn-3c2d764f2b826d141d18733cb2a153cbb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/registered-nurse-float-pool-rn_7ea1ac4721033e6098aff507b00e981b0bc07?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Why Mayo Clinic\n\nMayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News & World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans – to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic.\n\nBenefits Highlights\n• Medical: Multiple plan options.\n• Dental: Delta Dental or reimbursement account for flexible coverage.\n• Vision: Affordable plan with national network.\n• Pre-Tax Savings: HSA and FSAs for eligible expenses.\n• Retirement: Competitive retirement package to secure your future.\n\nResponsibilities\n\nThe registered nurse (RN) is accountable for the coordination of nursing care, including direct patient care, patient/family education and transitions of care. The RN supports professional nursing practice across practice settings and across the continuum of care to meet the needs of the patient and family. The RN will function within the Mayo Clinic Nursing Professional Practice Model, which includes accountability for planning, implementing, evaluating and communicating all phases of nursing care for assigned patients. The ANA Nursing: Scope and Standards of Practice provide a basis for the practice of the RN. The RN provides leadership through activities such as preceptor role, informal and formal leadership roles, and quality improvement efforts. The RN delegates patient care according to skill level, experience, patient acuity, fiscal accountability and availability of resources. The RN possesses excellent communication skills; is skillful in mentoring and teaching; and may participate on committees or projects. A subset of employees may be required to drive their personal vehicle as a part of the responsibility of their role.\n\nThis role is eligible for TN sponsorship. Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification.\n\nQualifications\n\nGraduate of a nursing program.\n\nAll entry-level associate degree registered nurses with a RN start date of April 1, 2020 and after must provide documented evidence of program completion of a baccalaureate degree in nursing program within five years from the last day of the month of the RN start date.\n\nAll entry-level associate degree registered nurses with a RN start date prior to April 1, 2020 must provide documented evidence of program completion of a baccalaureate degree in nursing program as stipulated by the degree requirement program in place at time of hire.\n\nOne year of RN experience in an applicable care setting or one year of LPN experience at Mayo Clinic is preferred.\n\nExcellent communication skills (verbal and written). Experience working in a team environment. Computer skills required, prior experience with electronic medical record systems preferred. Ability to work flexible hours, which may include days, evenings, nights, holidays, and weekends and on-call. Ability to adapt to unpredictable situations within the work setting. Demonstrated leadership, effective communicator, and excellent critical thinking skills.\n\nCurrent RN license by applicable state requirements. Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association or American Red Cross. Positions that are not on campus may not require current Basic Life Support (BLS) competency as determined by the work area. Additional state licensure(s) and/or specialty certification/training as required by the work area.\n\nExemption Status\n\nNonexempt\n\nCompensation Detail\n\nThe pay for this role is $42.84 - $65.84. Mayo Clinic has an innovative nursing compensation model that rewards experience, education, and dedication to the organization. Combined with our competitive tuition reimbursement program, the compensation approach empowers nurses to grow professionally and maximize their earning potential.\n\nBenefits Eligible\n\nYes\n\nSchedule\n\nFull Time\n\nHours/Pay Period\n\n60\n\nSchedule Details\n\n12 Hour Day/Night\n\nWeekend Schedule\n\nEvery 3rd weekend/holiday\n\nInternational Assignment\n\nNo\n\nSite Description\n\nJust as our reputation has spread beyond our Minnesota roots, so have our locations. Today, our employees are located at our three major campuses in Phoenix/Scottsdale, Arizona, Jacksonville, Florida, Rochester, Minnesota, and at Mayo Clinic Health System campuses throughout Midwestern communities, and at our international locations. Each Mayo Clinic location is a special place where our employees thrive in both their work and personal lives. Learn more about what each unique Mayo Clinic campus has to offer, and where your best fit is.\n\nEqual Opportunity\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, protected veteran status or disability status. Learn more about the 'EOE is the Law'. Mayo Clinic participates in E-Verify and may provide the Social Security Administration and, if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization.\n\nRecruiter\n\nCassie Schlaak",
+    "job_description": "The ideal candidate for this position is a dedicated Registered Nurse with experience in leadership roles.\nAs a Nurse Supervisor at our organization, you will have the opportunity to make a meaningful impact on patients' lives while advancing your own career through ongoing education opportunities.\nA key aspect of this job involves assisting in the development of individualized patient plans that cater to their unique needs.\nThis may include providing guidance on medication adherence,\ncollaborating with medical teams to ensure seamless transitions across different levels of care,\nand engaging with family members to address any concerns they may have about their loved one's condition.\",",
     "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Mankato, MN",
-    "job_city": "Mankato",
-    "job_state": "Minnesota",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Fairfax, VA",
+    "job_city": "Fairfax",
+    "job_state": "Virginia",
     "job_country": "US",
-    "job_latitude": 44.1661456,
-    "job_longitude": -94.0055647,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D9dqBNSB28P6nVlwCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 38.8459879,
+    "job_longitude": -77.3053035,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBXWqJ_mw00S104XQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
-      "Qualifications": [
-        "Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification",
-        "Graduate of a nursing program",
-        "All entry-level associate degree registered nurses with a RN start date of April 1, 2020 and after must provide documented evidence of program completion of a baccalaureate degree in nursing program within five years from the last day of the month of the RN start date",
-        "All entry-level associate degree registered nurses with a RN start date prior to April 1, 2020 must provide documented evidence of program completion of a baccalaureate degree in nursing program as stipulated by the degree requirement program in place at time of hire",
-        "Excellent communication skills (verbal and written)",
-        "Experience working in a team environment",
-        "Ability to work flexible hours, which may include days, evenings, nights, holidays, and weekends and on-call",
-        "Ability to adapt to unpredictable situations within the work setting",
-        "Demonstrated leadership, effective communicator, and excellent critical thinking skills",
-        "Current RN license by applicable state requirements",
-        "Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association or American Red Cross",
-        "Positions that are not on campus may not require current Basic Life Support (BLS) competency as determined by the work area",
-        "Additional state licensure(s) and/or specialty certification/training as required by the work area"
-      ],
-      "Benefits": [
-        "And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic",
-        "Medical: Multiple plan options",
-        "Dental: Delta Dental or reimbursement account for flexible coverage",
-        "Vision: Affordable plan with national network",
-        "Pre-Tax Savings: HSA and FSAs for eligible expenses",
-        "Retirement: Competitive retirement package to secure your future",
-        "The pay for this role is $42.84 - $65.84",
-        "Mayo Clinic has an innovative nursing compensation model that rewards experience, education, and dedication to the organization",
-        "Combined with our competitive tuition reimbursement program, the compensation approach empowers nurses to grow professionally and maximize their earning potential",
-        "Benefits Eligible",
-        "Full Time"
-      ],
       "Responsibilities": [
-        "The registered nurse (RN) is accountable for the coordination of nursing care, including direct patient care, patient/family education and transitions of care",
-        "The RN supports professional nursing practice across practice settings and across the continuum of care to meet the needs of the patient and family",
-        "The RN will function within the Mayo Clinic Nursing Professional Practice Model, which includes accountability for planning, implementing, evaluating and communicating all phases of nursing care for assigned patients",
-        "The ANA Nursing: Scope and Standards of Practice provide a basis for the practice of the RN",
-        "The RN provides leadership through activities such as preceptor role, informal and formal leadership roles, and quality improvement efforts",
-        "The RN delegates patient care according to skill level, experience, patient acuity, fiscal accountability and availability of resources",
-        "The RN possesses excellent communication skills; is skillful in mentoring and teaching; and may participate on committees or projects",
-        "A subset of employees may be required to drive their personal vehicle as a part of the responsibility of their role"
+        "As a Nurse Supervisor at our organization, you will have the opportunity to make a meaningful impact on patients' lives while advancing your own career through ongoing education opportunities",
+        "A key aspect of this job involves assisting in the development of individualized patient plans that cater to their unique needs",
+        "This may include providing guidance on medication adherence,",
+        "collaborating with medical teams to ensure seamless transitions across different levels of care,",
+        "and engaging with family members to address any concerns they may have about their loved one's condition.\","
       ]
     },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "jobs-mayoclinic-org-job-mankato-registered-nurse-pcu-general-rn-33647-91585094544",
+    "job_onet_soc": "11911100",
+    "job_onet_job_zone": "5",
+    "id": "www-jobilize-com-job-us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse",
     "_source": "new_jobs"
   },
   {
@@ -1114,82 +1046,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "5E6T05G5mnTEdqmHAAAAAA==",
-    "job_title": "Clinical Nurse Specialist - Outpatient Neurology Neurosurgery Spine Center",
-    "employer_name": "Mayo Clinic",
-    "employer_logo": null,
-    "employer_website": "https://www.mayoclinic.org",
-    "job_publisher": "Medical Hirings - Talent Rush HQ",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/4ch1wle6talz-77297e99cf0272150cf1bbeb2-79b7e7b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Medical Hirings - Talent Rush HQ",
-        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/4ch1wle6talz-77297e99cf0272150cf1bbeb2-79b7e7b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Why Mayo Clinic\n\nMayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News and World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans – to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic.\n\nBenefits Highlights\n• Medical: Multiple plan options.\n• Dental: Delta Dental or reimbursement account for flexible coverage.\n• Vision: Affordable plan with national network.\n• Pre-Tax Savings: HSA and FSAs for eligible expenses.\n• Retirement: Competitive retirement package to secure your future.\n\nResponsibilities\n\nThe Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice. The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System), and is an active participant in the nursing leadership team.\n\nThis role is eligible for TN sponsorship. Holders of F1 status eligible for post-completion OPT are welcome to apply. This role is NOT eligible to participate in the F-1 STEM OPT extension program. Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification.\n\nQualifications\n\nQualifications:\n• Master's degree with a major in nursing with a Clinical Nurse Specialist focus.\n• Experience as a CNS preferred.\n• Flexibility to adjust schedule to meet patient needs and CNS workload.\n• Doctorate of Nursing Practice degree preferred.\n• Five years of successful work experience in nursing with two years in the specialty area preferred.\n\nLicense and Certifications:\n• Current RN license by applicable state requirements. This RN job may require a RN license in multiple states.\n• Current APRN, CNS license by applicable state requirements.\n• If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty.\n• Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network. Additional specialty certification/training as required by the work area is highly recommended.\nExemption Status\n\nExempt\n\nCompensation Detail\n\n$109,324.80 - $163,987.20 / year depending on experience.\n\nBenefits Eligible\n\nYes\n\nSchedule\n\nFull Time\n\nHours/Pay Period\n\n64\n\nSchedule Details\n\nMonday - Friday 8am-5pm, may be occasional shift in hours based on practice needs. 64 hours/pay period.\n\nWeekend Schedule\n\nNot typical weekend hours. Only as required by practice needs.\n\nInternational Assignment\n\nNo\n\nSite Description\n\nJust as our reputation has spread beyond our Minnesota roots, so have our locations. Today, our employees are located at our three major campuses in Phoenix/Scottsdale, Arizona, Jacksonville, Florida, Rochester, Minnesota, and at Mayo Clinic Health System campuses throughout Midwestern communities, and at our international locations. Each Mayo Clinic location is a special place where our employees thrive in both their work and personal lives. Learn more about what each unique Mayo Clinic campus has to offer, and where your best fit is.\n\nEqual Opportunity\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, protected veteran status or disability status. Learn more about the \"EOE is the Law\". Mayo Clinic participates in E-Verify and may provide the Social Security Administration and, if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization.\n\nRecruiter\n\nDanelle White",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Kasson, MN",
-    "job_city": "Kasson",
-    "job_state": "Minnesota",
-    "job_country": "US",
-    "job_latitude": 44.0295675,
-    "job_longitude": -92.7509042,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5E6T05G5mnTEdqmHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification",
-        "Master's degree with a major in nursing with a Clinical Nurse Specialist focus",
-        "Flexibility to adjust schedule to meet patient needs and CNS workload",
-        "Current RN license by applicable state requirements",
-        "This RN job may require a RN license in multiple states",
-        "Current APRN, CNS license by applicable state requirements",
-        "If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty",
-        "Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network",
-        "Additional specialty certification/training as required by the work area is highly recommended"
-      ],
-      "Benefits": [
-        "And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic",
-        "Medical: Multiple plan options",
-        "Dental: Delta Dental or reimbursement account for flexible coverage",
-        "Vision: Affordable plan with national network",
-        "Pre-Tax Savings: HSA and FSAs for eligible expenses",
-        "Retirement: Competitive retirement package to secure your future",
-        "$109,324.80 - $163,987.20 / year depending on experience",
-        "Benefits Eligible",
-        "Full Time",
-        "Hours/Pay Period"
-      ],
-      "Responsibilities": [
-        "The Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice",
-        "The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System), and is an active participant in the nursing leadership team",
-        "Monday - Friday 8am-5pm, may be occasional shift in hours based on practice needs",
-        "Not typical weekend hours",
-        "Only as required by practice needs"
-      ]
-    },
-    "job_onet_soc": "29117100",
-    "job_onet_job_zone": "5",
-    "id": "medicalhirings-talentrushhq-com-joblistingpage-4ch1wle6talz-77297e99cf0272150cf1bbeb2-79b7e7b",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "qMXBH-yp2mKX2YbXAAAAAA==",
     "job_title": "RN, CVICU",
     "employer_name": "Froedtert",
@@ -1301,139 +1157,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "5oCzh0Zu4XrOWW3bAAAAAA==",
-    "job_title": "Clinical Nurse Specialist",
-    "employer_name": "Alameda Health System",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-WXTH_wyXAntYdjwWMYI45J3196rj2d2-Xxa&s=0",
-    "employer_website": "http://alamedahealthsystem.org",
-    "job_publisher": "Medical Hirings - Talent Rush HQ",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Medical Hirings - Talent Rush HQ",
-        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Summary\n\nSUMMARY\n\nUnder general direction, evaluates and diagnoses the nursing problems of patients. Directs appropriate patient care treatment, counseling and education of patients and their families. Assists nursing staff in the evaluation of patients and the provisions of nursing care. Provides a full range of clinical and consultative services. Acts as consultant to non-medical program directors, staff and the families of patients providing instruction and consultation regarding medical and nursing procedures. Performs related duties as required.\n\nDUTIES and ESSENTIAL JOB FUNCTIONS\n\nNOTE: The following are the duties performed by employees in this classification. However, employees may perform other related duties at an equivalent level. Not all duties listed are necessarily performed by each individual in the classification.\n• Assists in formulating policies and procedures necessary to provide quality of care to\n• patients in area of specialization.\n• Assumes responsibility for the treatment of individuals, groups, and families; evaluates patients; recommends treatment plans; affects positive changes in patient behavior through diagnosis and treatment of patient illness.\n• Consults with other health care team members regarding patient progress; and develops nursing care plans I consultations with nursing staff.\n• Contributes to the expansion of the body of knowledge in nursing within area of specialization. Establishes standards for nursing practice in consultation with nursing administrative\n• leadership.\n• Maintains current knowledge and competency in area of specialization and in\n• professional practice.\n• Provides administrative and educational guidance to staff; keeps abreast of current trends in area of specialization; serves on planning and evaluation committees; attends and may conduct staff meetings and training sessions.\n• Serves as consultant to nursing staff, physicians, and other health care providers in\n• areas of specialization.\n\nMINIMUM QUALIFICATIONS\n\nMinimum Experience: Demonstrated clinical competence and in-depth knowledge in a specialty area with at least two years of clinical experience in area of specialization and Master’s degree in Nursing from a recognized program in clinical specialization; OR four years of clinical experience in area of specialization and possession of an American Nurses’ Association Specialty Certification; OR two years of clinical experience in area of specialization and possession of an American Nurses’ Association Clinical Specialist Certification.\n\nPreferred Education: Graduate of an accredited Nursing program required; Bachelor’s degree in Nursing\n\npreferred.\n\nRequired Licenses/Certifications: APS Perinatal Safety Modules must be completed within 3 months of hire for positions in Labor and Delivery/Maternal Child Health.\n\nRequired Licenses/Certifications: BLS - Basic Life Support Certification issued by the American Heart Association. Other advanced life support certifications may be required per unit/department specialty according to patient care policies.\n\nRequired Licenses/Certifications: Valid license to practice as a Registered Nurse in the State of California.\n\nPAY RANGE\n\n$76.40 to $104.56 per hour\n\nThe pay range for this position reflects the base pay scale for the role at Alameda Health System. Final compensation will be determined based on several factors, including but not limited to a candidate’s experience, education, skills, licensure and certifications, departmental equity, applicable collective bargaining agreements, and the operational needs of the organization. Alameda Health System also offers eligible positions a generous comprehensive benefits program.\n\nHighland General Hospital\nLabor and Delivery\nFull Time\nVaries\nNursing\nFTE: 1",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Oakley, CA",
-    "job_city": "Oakley",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.9974219,
-    "job_longitude": -121.71245359999999,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5oCzh0Zu4XrOWW3bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Minimum Experience: Demonstrated clinical competence and in-depth knowledge in a specialty area with at least two years of clinical experience in area of specialization and Master’s degree in Nursing from a recognized program in clinical specialization; OR four years of clinical experience in area of specialization and possession of an American Nurses’ Association Specialty Certification; OR two years of clinical experience in area of specialization and possession of an American Nurses’ Association Clinical Specialist Certification",
-        "Required Licenses/Certifications: APS Perinatal Safety Modules must be completed within 3 months of hire for positions in Labor and Delivery/Maternal Child Health",
-        "Required Licenses/Certifications: BLS - Basic Life Support Certification issued by the American Heart Association",
-        "Other advanced life support certifications may be required per unit/department specialty according to patient care policies",
-        "Required Licenses/Certifications: Valid license to practice as a Registered Nurse in the State of California"
-      ],
-      "Benefits": [
-        "PAY RANGE",
-        "$76.40 to $104.56 per hour",
-        "The pay range for this position reflects the base pay scale for the role at Alameda Health System",
-        "Final compensation will be determined based on several factors, including but not limited to a candidate’s experience, education, skills, licensure and certifications, departmental equity, applicable collective bargaining agreements, and the operational needs of the organization",
-        "Alameda Health System also offers eligible positions a generous comprehensive benefits program"
-      ],
-      "Responsibilities": [
-        "Under general direction, evaluates and diagnoses the nursing problems of patients",
-        "Directs appropriate patient care treatment, counseling and education of patients and their families",
-        "Assists nursing staff in the evaluation of patients and the provisions of nursing care",
-        "Provides a full range of clinical and consultative services",
-        "Acts as consultant to non-medical program directors, staff and the families of patients providing instruction and consultation regarding medical and nursing procedures",
-        "Performs related duties as required",
-        "Not all duties listed are necessarily performed by each individual in the classification",
-        "Assists in formulating policies and procedures necessary to provide quality of care to",
-        "patients in area of specialization",
-        "Assumes responsibility for the treatment of individuals, groups, and families; evaluates patients; recommends treatment plans; affects positive changes in patient behavior through diagnosis and treatment of patient illness",
-        "Consults with other health care team members regarding patient progress; and develops nursing care plans I consultations with nursing staff",
-        "Contributes to the expansion of the body of knowledge in nursing within area of specialization",
-        "Establishes standards for nursing practice in consultation with nursing administrative",
-        "leadership",
-        "Maintains current knowledge and competency in area of specialization and in",
-        "professional practice",
-        "Provides administrative and educational guidance to staff; keeps abreast of current trends in area of specialization; serves on planning and evaluation committees; attends and may conduct staff meetings and training sessions",
-        "Serves as consultant to nursing staff, physicians, and other health care providers in"
-      ]
-    },
-    "job_onet_soc": "21109100",
-    "job_onet_job_zone": "4",
-    "id": "medicalhirings-talentrushhq-com-joblistingpage-ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "350hnMeL6ukhfVdIAAAAAA==",
-    "job_title": "Clinical Nursing Specialist",
-    "employer_name": "beBeeNurse",
-    "employer_logo": null,
-    "employer_website": "https://us.bebee.com",
-    "job_publisher": "Jobilize",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobilize.com/amp/job/us-lawrenceburg-clinical-nursing-specialist-bebeenurse-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-lawrenceburg-clinical-nursing-specialist-bebeenurse-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "In this role, you will have the opportunity to work collaboratively with a talented team of healthcare professionals.\nKey Responsibilities:\n• To assess, plan, and implement effective patient care plans based on individual needs.\n• To prioritize tasks and maintain compliance with established standards and regulations.\n• To communicate effectively with colleagues, ensuring seamless collaboration within the team.Nursing Skills Required:\n• Caring, compassionate, team-oriented, candidates should be able to convey empathy towards patients.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Lawrenceburg, IN",
-    "job_city": "Lawrenceburg",
-    "job_state": "Indiana",
-    "job_country": "US",
-    "job_latitude": 39.0952695,
-    "job_longitude": -84.85102619999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D350hnMeL6ukhfVdIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Caring, compassionate, team-oriented, candidates should be able to convey empathy towards patients"
-      ],
-      "Responsibilities": [
-        "In this role, you will have the opportunity to work collaboratively with a talented team of healthcare professionals",
-        "To assess, plan, and implement effective patient care plans based on individual needs",
-        "To prioritize tasks and maintain compliance with established standards and regulations",
-        "To communicate effectively with colleagues, ensuring seamless collaboration within the team"
-      ]
-    },
-    "job_onet_soc": "21109100",
-    "job_onet_job_zone": "4",
-    "id": "www-jobilize-com-amp-job-us-lawrenceburg-clinical-nursing-specialist-bebeenurse-hiring-now",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "8VHiGSrY2CAUEmwCAAAAAA==",
     "job_title": "Registered Nurse Clinical Expanded Layton Parkway Oncology",
     "employer_name": "Intermountain Health",
@@ -1519,6 +1242,139 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "350hnMeL6ukhfVdIAAAAAA==",
+    "job_title": "Clinical Nursing Specialist",
+    "employer_name": "beBeeNurse",
+    "employer_logo": null,
+    "employer_website": "https://us.bebee.com",
+    "job_publisher": "Jobilize",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobilize.com/amp/job/us-lawrenceburg-clinical-nursing-specialist-bebeenurse-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/amp/job/us-lawrenceburg-clinical-nursing-specialist-bebeenurse-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "In this role, you will have the opportunity to work collaboratively with a talented team of healthcare professionals.\nKey Responsibilities:\n• To assess, plan, and implement effective patient care plans based on individual needs.\n• To prioritize tasks and maintain compliance with established standards and regulations.\n• To communicate effectively with colleagues, ensuring seamless collaboration within the team.Nursing Skills Required:\n• Caring, compassionate, team-oriented, candidates should be able to convey empathy towards patients.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Lawrenceburg, IN",
+    "job_city": "Lawrenceburg",
+    "job_state": "Indiana",
+    "job_country": "US",
+    "job_latitude": 39.0952695,
+    "job_longitude": -84.85102619999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D350hnMeL6ukhfVdIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Caring, compassionate, team-oriented, candidates should be able to convey empathy towards patients"
+      ],
+      "Responsibilities": [
+        "In this role, you will have the opportunity to work collaboratively with a talented team of healthcare professionals",
+        "To assess, plan, and implement effective patient care plans based on individual needs",
+        "To prioritize tasks and maintain compliance with established standards and regulations",
+        "To communicate effectively with colleagues, ensuring seamless collaboration within the team"
+      ]
+    },
+    "job_onet_soc": "21109100",
+    "job_onet_job_zone": "4",
+    "id": "www-jobilize-com-amp-job-us-lawrenceburg-clinical-nursing-specialist-bebeenurse-hiring-now",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "5oCzh0Zu4XrOWW3bAAAAAA==",
+    "job_title": "Clinical Nurse Specialist",
+    "employer_name": "Alameda Health System",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-WXTH_wyXAntYdjwWMYI45J3196rj2d2-Xxa&s=0",
+    "employer_website": "http://www.alamedahealthsystem.org",
+    "job_publisher": "Medical Hirings - Talent Rush HQ",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Medical Hirings - Talent Rush HQ",
+        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Summary\n\nSUMMARY\n\nUnder general direction, evaluates and diagnoses the nursing problems of patients. Directs appropriate patient care treatment, counseling and education of patients and their families. Assists nursing staff in the evaluation of patients and the provisions of nursing care. Provides a full range of clinical and consultative services. Acts as consultant to non-medical program directors, staff and the families of patients providing instruction and consultation regarding medical and nursing procedures. Performs related duties as required.\n\nDUTIES and ESSENTIAL JOB FUNCTIONS\n\nNOTE: The following are the duties performed by employees in this classification. However, employees may perform other related duties at an equivalent level. Not all duties listed are necessarily performed by each individual in the classification.\n• Assists in formulating policies and procedures necessary to provide quality of care to\n• patients in area of specialization.\n• Assumes responsibility for the treatment of individuals, groups, and families; evaluates patients; recommends treatment plans; affects positive changes in patient behavior through diagnosis and treatment of patient illness.\n• Consults with other health care team members regarding patient progress; and develops nursing care plans I consultations with nursing staff.\n• Contributes to the expansion of the body of knowledge in nursing within area of specialization. Establishes standards for nursing practice in consultation with nursing administrative\n• leadership.\n• Maintains current knowledge and competency in area of specialization and in\n• professional practice.\n• Provides administrative and educational guidance to staff; keeps abreast of current trends in area of specialization; serves on planning and evaluation committees; attends and may conduct staff meetings and training sessions.\n• Serves as consultant to nursing staff, physicians, and other health care providers in\n• areas of specialization.\n\nMINIMUM QUALIFICATIONS\n\nMinimum Experience: Demonstrated clinical competence and in-depth knowledge in a specialty area with at least two years of clinical experience in area of specialization and Master’s degree in Nursing from a recognized program in clinical specialization; OR four years of clinical experience in area of specialization and possession of an American Nurses’ Association Specialty Certification; OR two years of clinical experience in area of specialization and possession of an American Nurses’ Association Clinical Specialist Certification.\n\nPreferred Education: Graduate of an accredited Nursing program required; Bachelor’s degree in Nursing\n\npreferred.\n\nRequired Licenses/Certifications: APS Perinatal Safety Modules must be completed within 3 months of hire for positions in Labor and Delivery/Maternal Child Health.\n\nRequired Licenses/Certifications: BLS - Basic Life Support Certification issued by the American Heart Association. Other advanced life support certifications may be required per unit/department specialty according to patient care policies.\n\nRequired Licenses/Certifications: Valid license to practice as a Registered Nurse in the State of California.\n\nPAY RANGE\n\n$76.40 to $104.56 per hour\n\nThe pay range for this position reflects the base pay scale for the role at Alameda Health System. Final compensation will be determined based on several factors, including but not limited to a candidate’s experience, education, skills, licensure and certifications, departmental equity, applicable collective bargaining agreements, and the operational needs of the organization. Alameda Health System also offers eligible positions a generous comprehensive benefits program.\n\nHighland General Hospital\nLabor and Delivery\nFull Time\nVaries\nNursing\nFTE: 1",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Oakley, CA",
+    "job_city": "Oakley",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.9974219,
+    "job_longitude": -121.71245359999999,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5oCzh0Zu4XrOWW3bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Minimum Experience: Demonstrated clinical competence and in-depth knowledge in a specialty area with at least two years of clinical experience in area of specialization and Master’s degree in Nursing from a recognized program in clinical specialization; OR four years of clinical experience in area of specialization and possession of an American Nurses’ Association Specialty Certification; OR two years of clinical experience in area of specialization and possession of an American Nurses’ Association Clinical Specialist Certification",
+        "Required Licenses/Certifications: APS Perinatal Safety Modules must be completed within 3 months of hire for positions in Labor and Delivery/Maternal Child Health",
+        "Required Licenses/Certifications: BLS - Basic Life Support Certification issued by the American Heart Association",
+        "Other advanced life support certifications may be required per unit/department specialty according to patient care policies",
+        "Required Licenses/Certifications: Valid license to practice as a Registered Nurse in the State of California"
+      ],
+      "Benefits": [
+        "PAY RANGE",
+        "$76.40 to $104.56 per hour",
+        "The pay range for this position reflects the base pay scale for the role at Alameda Health System",
+        "Final compensation will be determined based on several factors, including but not limited to a candidate’s experience, education, skills, licensure and certifications, departmental equity, applicable collective bargaining agreements, and the operational needs of the organization",
+        "Alameda Health System also offers eligible positions a generous comprehensive benefits program"
+      ],
+      "Responsibilities": [
+        "Under general direction, evaluates and diagnoses the nursing problems of patients",
+        "Directs appropriate patient care treatment, counseling and education of patients and their families",
+        "Assists nursing staff in the evaluation of patients and the provisions of nursing care",
+        "Provides a full range of clinical and consultative services",
+        "Acts as consultant to non-medical program directors, staff and the families of patients providing instruction and consultation regarding medical and nursing procedures",
+        "Performs related duties as required",
+        "Not all duties listed are necessarily performed by each individual in the classification",
+        "Assists in formulating policies and procedures necessary to provide quality of care to",
+        "patients in area of specialization",
+        "Assumes responsibility for the treatment of individuals, groups, and families; evaluates patients; recommends treatment plans; affects positive changes in patient behavior through diagnosis and treatment of patient illness",
+        "Consults with other health care team members regarding patient progress; and develops nursing care plans I consultations with nursing staff",
+        "Contributes to the expansion of the body of knowledge in nursing within area of specialization",
+        "Establishes standards for nursing practice in consultation with nursing administrative",
+        "leadership",
+        "Maintains current knowledge and competency in area of specialization and in",
+        "professional practice",
+        "Provides administrative and educational guidance to staff; keeps abreast of current trends in area of specialization; serves on planning and evaluation committees; attends and may conduct staff meetings and training sessions",
+        "Serves as consultant to nursing staff, physicians, and other health care providers in"
+      ]
+    },
+    "job_onet_soc": "21109100",
+    "job_onet_job_zone": "4",
+    "id": "medicalhirings-talentrushhq-com-joblistingpage-ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "awwPt9ArRnyLHNMeAAAAAA==",
     "job_title": "Adult Med Surg Registered Nurse PT",
     "employer_name": "Mission Hospital",
@@ -1543,13 +1399,13 @@
         "is_direct": true
       },
       {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/adult-med-surg-registered-nurse-pt-mission-hospital-JV_IC1138579_KO0,34_KE35,51.htm?jl=1010027463571&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Mission-Hospital/Job/Adult-Med-Surg-Registered-Nurse-PT/-in-Asheville,NC?jid=b049dc8555209c74&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Mission-Hospital/Job/Adult-Med-Surg-Registered-Nurse-PT/-in-Asheville,NC?jid=b049dc8555209c74&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/adult-med-surg-registered-nurse-pt-mission-hospital-JV_IC1138579_KO0,34_KE35,51.htm?jl=1010027463571&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": true
       },
       {
@@ -1585,9 +1441,9 @@
     "job_latitude": 35.5975104,
     "job_longitude": -82.54605629999999,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DawwPt9ArRnyLHNMeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1632,80 +1488,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "careers-hcahealthcare-com-jobs-16418658-adult-med-surg-registered-nurse-pt",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "dvRDeF2liiAxVa1bAAAAAA==",
-    "job_title": "Clinical Nurse Specialist",
-    "employer_name": "Mayo Clinic",
-    "employer_logo": null,
-    "employer_website": "https://www.mayoclinic.org",
-    "job_publisher": "Medical Hirings - Talent Rush HQ",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Medical Hirings - Talent Rush HQ",
-        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Why Mayo Clinic\n\nMayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News and World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans – to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic.\n\nBenefits Highlights\n• Medical: Multiple plan options.\n• Dental: Delta Dental or reimbursement account for flexible coverage.\n• Vision: Affordable plan with national network.\n• Pre-Tax Savings: HSA and FSAs for eligible expenses.\n• Retirement: Competitive retirement package to secure your future.\n\nResponsibilities\n\nThe Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice. The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System) and is an active participant in the nursing leadership team. As an advanced practice expert, the CNS plays a vital role in elevating clinical practice, supporting evidence-based care, and driving excellence across the care continuum—reflecting Mayo Clinic Florida’s commitment to innovation, quality, and patient-centered outcomes.\n\nThis role will provide support to the Progressive Care Unit (PCU), CERT, STAR, ED, Mayo Clinic Care Beyond Walls, and other initiatives led by the Department of Nursing (DON). This position offers the opportunity to collaborate with world-class clinicians, influence system-level improvements, and contribute to groundbreaking work that helps position Mayo Clinic Florida as one of the nation’s leading destinations for complex, high-quality care.\n\nThis role is eligible for TN sponsorship. Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification.\n\nQualifications\n• Master's degree with a major in nursing with a Clinical Nurse Specialist focus. Doctorate of Nursing Practice degree preferred.\n• Experience as a CNS preferred.\n• Flexibility to adjust schedule to meet patient needs and CNS workload.\n• Five years of successful work experience in nursing with two years in the specialty area preferred.\n• As a condition of employment, individuals working with addictions services must be free from problematic substance use for a minimum of the immediately preceding two years at time of hire.\n\nLicense and Certifications:\n• Current RN license by applicable state requirements. This RN job may require a RN license in multiple states.\n• Current APRN, CNS license by applicable state requirements. If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty.\n• Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network. Additional specialty certification/training as required by the work area is highly recommended.\nExemption Status\n\nExempt\n\nCompensation Detail\n\n$99,964.80 - $150,113.60 / year\n\nBenefits Eligible\n\nYes\n\nSchedule\n\nFull Time\n\nHours/Pay Period\n\n80\n\nSchedule Details\n\nMonday - Friday\n\nInternational Assignment\n\nNo\n\nSite Description\n\nJust as our reputation has spread beyond our Minnesota roots, so have our locations. Today, our employees are located at our three major campuses in Phoenix/Scottsdale, Arizona, Jacksonville, Florida, Rochester, Minnesota, and at Mayo Clinic Health System campuses throughout Midwestern communities, and at our international locations. Each Mayo Clinic location is a special place where our employees thrive in both their work and personal lives. Learn more about what each unique Mayo Clinic campus has to offer, and where your best fit is.\n\nEqual Opportunity\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, protected veteran status or disability status. Learn more about the \"EOE is the Law\". Mayo Clinic participates in E-Verify and may provide the Social Security Administration and, if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization.\n\nRecruiter\n\nDanelle White",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Palatka, FL",
-    "job_city": "Palatka",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 29.6472272,
-    "job_longitude": -81.6297111,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdvRDeF2liiAxVa1bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification",
-        "Master's degree with a major in nursing with a Clinical Nurse Specialist focus",
-        "Current RN license by applicable state requirements",
-        "This RN job may require a RN license in multiple states",
-        "Current APRN, CNS license by applicable state requirements",
-        "If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty",
-        "Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network",
-        "Additional specialty certification/training as required by the work area is highly recommended"
-      ],
-      "Benefits": [
-        "And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic",
-        "Medical: Multiple plan options",
-        "Dental: Delta Dental or reimbursement account for flexible coverage",
-        "Vision: Affordable plan with national network",
-        "Pre-Tax Savings: HSA and FSAs for eligible expenses",
-        "Retirement: Competitive retirement package to secure your future",
-        "$99,964.80 - $150,113.60 / year",
-        "Benefits Eligible",
-        "Full Time",
-        "Hours/Pay Period"
-      ],
-      "Responsibilities": [
-        "The Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice",
-        "The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System) and is an active participant in the nursing leadership team",
-        "As an advanced practice expert, the CNS plays a vital role in elevating clinical practice, supporting evidence-based care, and driving excellence across the care continuum—reflecting Mayo Clinic Florida’s commitment to innovation, quality, and patient-centered outcomes",
-        "This role will provide support to the Progressive Care Unit (PCU), CERT, STAR, ED, Mayo Clinic Care Beyond Walls, and other initiatives led by the Department of Nursing (DON)"
-      ]
-    },
-    "job_onet_soc": "21109100",
-    "job_onet_job_zone": "4",
-    "id": "medicalhirings-talentrushhq-com-joblistingpage-ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa",
     "_source": "new_jobs"
   },
   {
