@@ -136,9 +136,9 @@
     "job_latitude": 39.9003793,
     "job_longitude": -75.6260771,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKXoOrmYEUZ9oLQLhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -576,9 +576,9 @@
     "job_latitude": 40.006778499999996,
     "job_longitude": -75.2854622,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0QTC1wk6HEvcSieSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 72000,
@@ -696,9 +696,9 @@
     "job_latitude": 42.355507599999996,
     "job_longitude": -71.0565364,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUz84cprtNa-RyEjXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 98000,
@@ -729,192 +729,77 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "sLzubZh1ptY5yRy-AAAAAA==",
-    "job_title": "Registered Nurse- Wound Care Specialist",
-    "employer_name": "US Veterans Health Administration",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4c1L4IJBPKwzwatXWnLn8Lr3AHRucEIx9O8xn&s=0",
-    "employer_website": null,
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=6d31501ce0535caf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=6d31501ce0535caf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/SD-Department-of-Veterans-Affairs/Job/Registered-Nurse-Wound-Care-Specialist/-in-Albany,NY?jid=60a06f8a3e776028&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/registered-nurse-wound-care-specialist-veteransaffairs-albany-ny_85608520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/9bbc47151ff8c1a71cae565a71ceebef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Bandana.com",
-        "apply_link": "https://bandana.com/jobs/49d6acc9-3c6d-4110-a233-5400a72ea663?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/albany/new-york/nursing/4867803241/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LifeworQ",
-        "apply_link": "https://lifeworq.com/job/f3f0afbd-55db-47b5-bca6-14648d9e7052?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Recruit.net",
-        "apply_link": "https://www.recruit.net/job/registered-nurse-wound-care-specialist-jobs/9AC4772275BE4CAB?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Summary\n\nDelivers fundamental knowledge-based care to assigned clients while developing technical skills. Assesses, plans, implements, and evaluates care based on age-specific components. Assumes responsibility for the coordination of care focused on patient education, self-management, and customer satisfaction throughout continuum of care. Administers medications and procedures per established policies and guidelines. Influences care outcomes by collaborating with members of the interdisciplinary team\n\nThis job is open to\n\nThe public\n\nU.S. Citizens, Nationals or those who owe allegiance to the U.S.\n\nClarification from the agency\n\nNOTE: The 2-page Resume requirement does not apply to this position. For more information, refer to Required Documents below. OPEN TO ALL OF THE PUBLIC TO APPLY!\n\nDuties\n\nThe Wound Care Registered Nurse (RN) is responsible for providing competent, evidence-based care to assigned patients with oversight of licensed vocational nurses/nursing assistants as appropriate to the setting. Assesses, plans, implements, and evaluates care based on skin and wound assessment findings. Assumes responsibility for the coordination of care focused on patient/resident planning, coordinating, providing, and evaluating care across clinical practice settings with a focus on organizational improvement in skin and wound assessment and management (and may include ostomy and continence care). Assesses and identifies education needs of all levels of clinical staff. The nurse will assist in directing the provision of nursing education, orientation, competencies and providing quality improvement and outcomes utilization. Develops and implements an educational plan to meet the needs for patients/residents, family, and staff at the clinical and program level. Partners with the patient, family, and interdisciplinary team to promote effective and safe transitions across the health care continuum. The duties of the Wound Care Registered Nurse (RN) include but are not limited to-\n• Plans and delivers technically competent care to patients in alignment with the ANA Standards of Nursing Practice.\n• Responsible and accountable for individual nursing practice and determines the appropriate delegation of tasks ensuring assigned delegated tasks are completed by team members.\n• Manages nursing care of patients, organizes, and completes own assignments in a safe and timely manner, assisting team members as necessary.\n• Participates in the development, implementation, and evaluation of interdisciplinary care.\n• Establishes a therapeutic relationship, allowing the patient to achieve optimal function through assessment and treatment of their health enhancing the patient experience, satisfaction, and/or safety.\n• Treats all patients, families and other caregivers with dignity and respect incorporating knowledge, values, and beliefs into nursing care delivery without judgement or discrimination.\n• Recognizes ethical issues related to professional nursing practice and behaves in an appropriate manner through observance of established policies and ANA Code of Ethics for Nurses.\n• Applies high reliability principles and ICARE values to improve patient outcomes.\n• Demonstrates the ability to communicate confidently with members of the healthcare team and demonstrate professional behaviors that promotes cooperation and teamwork.\n• Shares knowledge and creates opportunities for collaboration that encourage team cohesiveness.\n• Uses available resources and sound clinical judgement to achieve results.\n• Demonstrates professional behavior and works effectively with others, builds on strengths, and takes positive action to meet growing responsibilities.\n\nVA offers a comprehensive total rewards package: VA Nurse Total Rewards\n\nPay: Competitive salary, regular salary increases, potential for performance awards\nPaid Time Off: 50 days of paid time off per year (26 days of annual leave, 13 days of sick leave, 11 paid Federal holidays per year)\nRetirement: Traditional federal pension (5 years vesting) and federal 401K with up to 5% in contributions by VA\nInsurance: Federal health/vision/dental/term life/long-term care (many federal insurance programs can be carried into retirement)\nLicensure: 1 full and unrestricted license from any US State or territory\n\nWork Schedule: Full time, Monday-Friday, Day Shift, 07:30pm-04:00pm\nTelework: Not Available\nVirtual: This is not a virtual position.\nRelocation/Recruitment Incentives: Not Authorized\nPermanent Change of Station (PCS): Not Authorized\n\nRequirements\n\nConditions of employment\n• U.S. Citizenship; non-citizens may only be appointed when it is not possible to recruit qualified citizens in accordance with VA Policy.\n• All applicants tentatively selected for VA employment in a testing designated position are subject to urinalysis to screen for illegal drug use prior to appointment. Applicants who refuse to be tested will be denied employment with VA.\n• Selective Service Registration is required for males born after 12/31/1959.\n• Subject to background/security investigation.\n• Selected applicants will be required to complete an online onboarding process. Acceptable form(s) of identification will be required to complete pre-employment requirements (https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents). Effective May 7, 2025, driver's licenses or state-issued identification cards that are not REAL ID compliant cannot be utilized as an acceptable form of identification for employment.\n• Must pass pre-employment physical examination.\n• Participation in the seasonal influenza vaccination program is a requirement for all Department of Veterans Affairs Health Care Personnel (HCP).\n• You may be required to serve a probationary period.\n• Complete all application requirements detailed in the \"Required Documents\" section of this announcement.\n\nQualifications\n\nBasic Requirements:\n• English Language Proficiency. In accordance with 38 U.S.C. 7403(f), no person shall serve in direct patient care positions unless they are proficient in basic written and spoken English.\n• Graduate of a school of professional nursing approved by the appropriate accrediting agency and accredited by one of the following accrediting bodies at the time the program was completed by the applicant: The Accreditation Commission for Education in Nursing (ACEN) or The Commission on Collegiate Nursing Education (CCNE); OR Individuals attending a master's level bridge program in nursing who have completed coursework equivalent to a bachelor's level degree in Nursing may have opportunity to become registered as a nurse with a state licensing board prior to completion of the bridge program. Upon achievement of a State license, the individual may be appointed on temporary basis and later converted to a permanent appointment upon successful completion and graduation from the bridge program. (Reference VA Handbook 5005, Appendix G6); OR In cases of graduates of foreign schools of professional nursing, possession of a current, full, active, and unrestricted registration will meet the requirement for graduation from an approved school of professional nursing to warrant an appointment as a Nurse who has completed an associated degree/entry level Nursing education program. Credit for foreign nursing education higher that associate degree/entry level requires a formal degree equivalency validation from a recognized equivalency evaluation accepted by VA such as International Consultants of Delaware (ICD).\n• Current, full, active, and unrestricted registration as a graduate professional nurse in a State, Territory or Commonwealth (i.e., Puerto Rico) of the United States, or the District of Columbia. Graduate Nurse Technician (GNT) Exception: Candidates who otherwise meet the basic education requirements, but do not possess the required licensure, may be appointed at the entry step of the grade and level applicable to the completed nursing education as a GNT on a 120-day temporary appointment while actively pursuing licensure (may be extended up to two years on a case-by-case-basis.)\n\nNOTE: Grandfathering Provision - All persons currently employed in VHA in 0610 series and performing the duties as described in the qualification standard on the effective date of the standard (1/29/2024) are considered to have met all qualification requirements for the grade held including positive education and licensure/certification.\n\nGrade Determinations: The following Scope, Education and Dimension criteria must be met in determining the grade assignment of candidates, and if appropriate, the level within a grade. The Dimension requirements (Practice, Veteran/Patient Driven Care, Leadership, Professional Development and Evidence-Based Practice/Research) are detailed for each grade and level within the online assessment: https://apply.usastaffing.gov/ViewQuestionnaire/12880767.\n\nGrade/Level\n\nScope\n\nEducation\n\nNurse I, Level I\n\nDelivers fundamental, knowledge-based care to assigned clients while developing technical competencies.\n\nAn Associate Degree (ADN) or Diploma in Nursing, with no additional professional nursing required.\n\nNurse I, Level II\n\nDemonstrates integration of biopsychosocial concepts, cognitive skills and technically competent practice in providing care to clients with basic or complex.\n\nAn ADN or Diploma in Nursing AND 1 year of specialized nursing experience equivalent to Nurse I, Level 1 ;OR a Bachelor of Science in Nursing (BSN) with no additional professional nursing experience required.\n\nNurse I, Level III\n\nDemonstrates proficiency in practice based on conscious and deliberate planning. Self-directed in goal setting for managing complex client situations.\n\nAn ADN or Diploma in Nursing AND 2 years of professional nursing experience in which one year is equivalent to Nurse I, Level 2; OR a BSN and 1 year of professional nursing experience equivalent to the Nurse I, Level 2; OR a Master's degree in nursing (MSN) and no additional professional nursing experience; OR a Master's degree in a *related field with a BSN and no additional professional nursing experience.\n\nNurse II\n\nDemonstrates leadership in delivering and improving holistic care through collaborative strategies with others.\n\nA BSN with 2 years of professional nursing equivalent to Nurse I, Level 3; OR an MSN with one year of specialized nursing experience equivalent to Nurse I, Level 3; OR a Master's degree in a *related field with a BSN and one year of specialized nursing experience equivalent to Nurse I, Level 3; OR a Doctoral degree in Nursing with no professional nursing experience; OR a Doctoral degree in a *related field with a BSN with no additional professional nursing experience.\n\nNurse III\n\nExecutes position responsibilities that demonstrate leadership, experience and creative approaches to management of complex client care beyond the immediate practice setting.\n\nMSN and 2 years of specialized nursing experience, one of which is equivalent to Nurse II and meets all dimension requirements for Nurse III; OR a Master's degree in *related field with BSN and two years of specialized nursing experience, one of which is equivalent to Nurse II and meets all dimension requirements for Nurse III; OR a Doctoral degree in Nursing with and one year of specialized nursing experience equivalent to Nurse II and meets all dimension requirements for Nurse III; OR a Doctoral degree in a *related field with a BSN and one year of specialized nursing experience equivalent to Nurse II and meets all dimension requirements for Nurse III.\n• Note: Foreign education programs/degrees are not creditable as related degrees.\n\nReference: For more information on this qualification standard, please visit https://www.va.gov/ohrm/QualificationStandards/.\n\nPreferred Experience -\n• 3-5 RN Experience preferred\n• 1 year experience working as a wound care nurse in an inpatient and outpatient setting\n• WOCN Certification highly desired\n• BSN preferred\n\nPhysical Requirements:\nHeavy Lifting (35 lbs and over); Heavy Carrying (35 lbs and over); Straight Pulling (up to 1 hour); Pushing (1 - 2 hours); Reaching above shoulder; Use of fingers; Both hands required; Walking (up to 4 hours); Standing (up to 4 hours); Kneeling (up to 2 hours); Repeated bending (up to 4 hours); Both legs required; Ability for rapid mental and muscular coordination simultaneously; Near vision correctable at 13\" to 16\"; Far vision correctable to 20/20 in one eye and to 20/40 in the other; Ability to distinguish basic colors; Ability to distinguish shades of colors; Hearing (aid permitted); Emotionally/mentally stable\n\nAdditional information\n\nThis job opportunity announcement may be used to fill additional vacancies.\n\nThis position is in the Excepted Service and does not confer competitive status.\n\nVA encourages persons with disabilities to apply. The health-related positions in VA are covered by Title 38, and are not covered by the Schedule A excepted appointment authority.\n\nIf you are unable to apply online or need an alternate method to submit documents, please reach out to the Agency Contact listed in this Job Opportunity Announcement.\n\nUnder the Fair Chance to Compete Act, the Department of Veterans Affairs prohibits requesting an applicant's criminal history prior to accepting a tentative job offer. For more information about the Act and the complaint process, visit Human Resources and Administration/Operations, Security, and Preparedness (HRA/OSP) at The Fair Chance Act.\n\nCandidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.\n\nBenefits\n\nA career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.\n\nReview our benefits\n\nEligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.\n\nHow you will be evaluated\n\nYou will be evaluated for this job based on how well you meet the qualifications above.\n\nIN DESCRIBING YOUR EXPERIENCE, PLEASE BE CLEAR AND SPECIFIC. WE MAY NOT MAKE ASSUMPTIONS REGARDING YOUR EXPERIENCE. Your application, resume, C.V., and/or supporting documentation will be verified. Please follow all instructions carefully. Errors or omissions may affect consideration for employment.\n\nNOTE: Candidate's education, scope, and length of nursing practice (experience) will be considered in determining the grade and salary of the applicant selected. The recommended salary may be at any point in the range listed for this vacancy.\n\nExperience as an RN will be evaluated to determine if the experience is of an acceptable level of quality with regard to the following five dimensions of nursing: Practice, Veteran/Patient Driven Care, Leadership, Professional Development, and Evidence/Based Practice/Research. Each dimension of practice has criteria that demonstrate essential core competencies for VHA Nursing Personnel.\n\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religions; spiritual; community; student; social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.\n\nThe Department of Veterans Affairs performs pre-employment reference checks as an assessment method used in the hiring process to verify information provided by a candidate (e.g., on resume or during interview or hiring process); gain additional knowledge regarding a candidate's abilities; and assist a hiring manager with making a final selection for a position.\n\nIt is the policy of the VA to not deny employment to those that have faced financial hardships or periods of unemployment.\n\nVeterans and Transitioning Service Members: Please visit the VA for Vets site for career-search tools for Veterans seeking employment at VA, career development services for our existing Veterans, and coaching and reintegration support for military service members.\n\nRequired Documents\n\nTo apply for this position, you must provide a complete Application Package which includes:\n• Resume\n\nSpecial Note for Applications: To complete your application, please use the following link https://vacareers.va.gov/wp-content/uploads/sites/5/Resume.docx to download the standard Clinical Resume Document. This one-page document does not need to be modified and must be uploaded into the two-page restricted 'Resume' document upload field.\n\nYour full resume/CV may be uploaded without page limitation into the 'Other' document upload field.\n\nThe following documents are accepted and may be required if applicable to your eligibility and/or qualifications for this position.\n• Cover Letter\n• DD-214/ Statement of Service\n• Disability Letter (Schedule A)\n• Disability Letter (VA)\n• License\n• Other (1)\n• PCS Orders\n• Professional Certification\n• Resume\n• Separation Notice (RIF)\n• SF-15\n• SF-50/ Notification of Personnel Action\n• Transcript\n\nVeterans' Preference Note: Preference eligible candidates and other Veterans will be given preference when qualification of candidates are approximately equal for Title 38 positions in VHA. When applying for Federal Jobs, eligible Veterans should claim preference for 5pt (TP), 10pt (CP/CPS/XP), or for Sole Survivor Preference (SSP) in the questionnaire. You must provide a legible copy of your DD214(s) which shows dates and character of service (honorable, general, etc.). If you are currently serving on active duty and expect to be released or discharged within 120 days you must submit documentation related to your active duty service which reflects the dates of service, character of service (honorable, general, etc.), and dates of impending separation. Additionally, disabled veterans and others eligible for 10-point preference (such as widows or mothers of eligible Veterans) must also submit an SF-15 \"Application for 10 Point Veteran Preference\" with required proof as stated on the form. Documentation is required to award preference. For more information on Veterans' Preference, please visit Feds Hire Vets - Veterans - Job Seekers - Veterans' Preference.\n\nIf you are relying on your education to meet qualification requirements:\n\nEducation must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education.\n\nFailure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.\n\nHow to Apply\n\nAll applicants are encouraged to apply online. To apply for this position, you must complete the full questionnaire and submit the documentation specified in the Required Documents section below. The complete application package must be submitted by 11:59 PM (ET) on 02/23/2026 to receive consideration. To preview the questionnaire, click https://apply.usastaffing.gov/ViewQuestionnaire/12880767.\n• To begin, click Apply Online to create a USAJOBS account or log in to your existing account. Follow the prompts to select your USA JOBS resume and/or other supporting documents and complete the occupational questionnaire.\n• Click Submit My Answers to submit your application package.\n\nNOTE: It is your responsibility to ensure your responses and appropriate documentation are submitted prior to the closing date.\n\nDuring the application process you may have an option to opt-in to make your resume available to hiring managers in the agency who have similar positions. Opting in does not impact your application for this announcement, nor does it guarantee further consideration for additional positions.\n\nAgency contact information\n\nHolly Kraeger\n\nPhone\n\n518-360-2036\n\nEmail\n\nHolly.Kraeger@va.gov\n\nAddress\n\nSamuel S Stratton VA Medical Center - Albany\n113 Holland Ave\nAlbany, NY 12208\nUS\n\nNext steps\n\nOnce your online application is submitted you will receive a confirmation notification by email. After we receive application packages (including all required documents) and the vacancy announcement closes, we will review applications to ensure qualification and eligibility requirements are met. After the review is complete, a referral certificate(s) is issued, and applicants will be notified of their status by email. Referred applicants will be notified as such and may be contacted directly by the hiring office for an interview. All referred applicants receive a final notification once a selection decision has been made.\n\nYou may check the status of your application at any time by logging into your USA Jobs account and clicking on Applications. Information regarding your application status can be found in the USAJobs Help Center.\n\nNOTE: Participation in the seasonal influenza program is a condition of employment and a requirement for all Department of Veterans Affairs Health Care Personnel (HCP). It is a requirement that all HCP to receive annual seasonal influenza vaccination or obtain an exemption for medical or religious reasons. Wearing a face mask is required when an exemption to the influenza vaccination has been granted. HCP in violation of this directive may face disciplinary action up to and including removal from federal service. HCP are individuals who, during the influenza season, work in VHA locations or who come into contact with VA patients or other HCP as part of their duties. VHA locations include, but are not limited to, VA hospitals and associated clinics, community living centers (CLCs), community-based outpatient clinics (CBOCs), domiciliary units, Vet centers and VA-leased medical facilities. HCP include all VA licensed and unlicensed, clinical and administrative, remote and onsite, paid and without compensation, full- and part-time employees, intermittent employees, fee basis employees, VA contractors, researchers, volunteers and health professions trainees (HPTs) who are expected to perform any or all of their work at these facilities. HPTs may be paid or unpaid and include residents, interns, fellows and students. HCP also includes VHA personnel providing home-based care to Veterans and drivers and other personnel whose duties put them in contact with patients outside VA medical facilities.\n\nOverview\n\nAccepting applications\n\nOpen & closing dates\n\n02/09/2026 to 02/23/2026\n\nSalary\n\n$69,531 to - $140,376 per year\n\nPay scale & grade\n\nVN 00\n\nLocation\n\n1 vacancy in the following location:\n\nAlbany, NY\n\n1 vacancy\n\nRemote job\n\nNo\n\nTelework eligible\n\nNo\n\nTravel Required\n\nNot required\n\nRelocation expenses reimbursed\n\nNo\n\nAppointment type\n\nPermanent\n\nWork schedule\n\nFull-time\n\nService\n\nExcepted\n\nPromotion potential\n\n3\n\nJob family (Series)\n• 0610 Nurse\n\nSupervisory status\n\nNo\n\nSecurity clearance\n\nOther\n\nDrug test\n\nYes\n\nPosition sensitivity and risk\n\nNon-sensitive (NS)/Low Risk\n\nTrust determination process\n• Credentialing\n• Suitability/Fitness\n\nFinancial disclosure\n\nNo\n\nBargaining unit status\n\nNo\n\nAnnouncement number\n\nCBTE-12880767-26-HK\n\nControl number\n\n856959400",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Albany, NY",
-    "job_city": "Albany",
-    "job_state": "New York",
-    "job_country": "US",
-    "job_latitude": 42.6518095,
-    "job_longitude": -73.7544707,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsLzubZh1ptY5yRy-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 69531,
-    "job_max_salary": 140376,
-    "job_salary_period": "YEAR",
-    "job_highlights": {},
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-indeed-com-viewjob",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "BXWqJ_mw00S104XQAAAAAA==",
-    "job_title": "career advancement role: lead nursing team",
-    "employer_name": "beBeeNurse",
+    "job_id": "dvRDeF2liiAxVa1bAAAAAA==",
+    "job_title": "Clinical Nurse Specialist",
+    "employer_name": "Mayo Clinic",
     "employer_logo": null,
-    "employer_website": "https://us.bebee.com",
-    "job_publisher": "Jobilize",
+    "employer_website": "https://www.mayoclinic.org",
+    "job_publisher": "Medical Hirings - Talent Rush HQ",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.jobilize.com/job/us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Medical Hirings - Talent Rush HQ",
+        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "The ideal candidate for this position is a dedicated Registered Nurse with experience in leadership roles.\nAs a Nurse Supervisor at our organization, you will have the opportunity to make a meaningful impact on patients' lives while advancing your own career through ongoing education opportunities.\nA key aspect of this job involves assisting in the development of individualized patient plans that cater to their unique needs.\nThis may include providing guidance on medication adherence,\ncollaborating with medical teams to ensure seamless transitions across different levels of care,\nand engaging with family members to address any concerns they may have about their loved one's condition.\",",
+    "job_description": "Why Mayo Clinic\n\nMayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News and World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans – to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic.\n\nBenefits Highlights\n• Medical: Multiple plan options.\n• Dental: Delta Dental or reimbursement account for flexible coverage.\n• Vision: Affordable plan with national network.\n• Pre-Tax Savings: HSA and FSAs for eligible expenses.\n• Retirement: Competitive retirement package to secure your future.\n\nResponsibilities\n\nThe Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice. The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System) and is an active participant in the nursing leadership team. As an advanced practice expert, the CNS plays a vital role in elevating clinical practice, supporting evidence-based care, and driving excellence across the care continuum—reflecting Mayo Clinic Florida’s commitment to innovation, quality, and patient-centered outcomes.\n\nThis role will provide support to the Progressive Care Unit (PCU), CERT, STAR, ED, Mayo Clinic Care Beyond Walls, and other initiatives led by the Department of Nursing (DON). This position offers the opportunity to collaborate with world-class clinicians, influence system-level improvements, and contribute to groundbreaking work that helps position Mayo Clinic Florida as one of the nation’s leading destinations for complex, high-quality care.\n\nThis role is eligible for TN sponsorship. Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification.\n\nQualifications\n• Master's degree with a major in nursing with a Clinical Nurse Specialist focus. Doctorate of Nursing Practice degree preferred.\n• Experience as a CNS preferred.\n• Flexibility to adjust schedule to meet patient needs and CNS workload.\n• Five years of successful work experience in nursing with two years in the specialty area preferred.\n• As a condition of employment, individuals working with addictions services must be free from problematic substance use for a minimum of the immediately preceding two years at time of hire.\n\nLicense and Certifications:\n• Current RN license by applicable state requirements. This RN job may require a RN license in multiple states.\n• Current APRN, CNS license by applicable state requirements. If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty.\n• Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network. Additional specialty certification/training as required by the work area is highly recommended.\nExemption Status\n\nExempt\n\nCompensation Detail\n\n$99,964.80 - $150,113.60 / year\n\nBenefits Eligible\n\nYes\n\nSchedule\n\nFull Time\n\nHours/Pay Period\n\n80\n\nSchedule Details\n\nMonday - Friday\n\nInternational Assignment\n\nNo\n\nSite Description\n\nJust as our reputation has spread beyond our Minnesota roots, so have our locations. Today, our employees are located at our three major campuses in Phoenix/Scottsdale, Arizona, Jacksonville, Florida, Rochester, Minnesota, and at Mayo Clinic Health System campuses throughout Midwestern communities, and at our international locations. Each Mayo Clinic location is a special place where our employees thrive in both their work and personal lives. Learn more about what each unique Mayo Clinic campus has to offer, and where your best fit is.\n\nEqual Opportunity\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, protected veteran status or disability status. Learn more about the \"EOE is the Law\". Mayo Clinic participates in E-Verify and may provide the Social Security Administration and, if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization.\n\nRecruiter\n\nDanelle White",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Fairfax, VA",
-    "job_city": "Fairfax",
-    "job_state": "Virginia",
+    "job_posted_at": "7 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Palatka, FL",
+    "job_city": "Palatka",
+    "job_state": "Florida",
     "job_country": "US",
-    "job_latitude": 38.8459879,
-    "job_longitude": -77.3053035,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBXWqJ_mw00S104XQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Responsibilities": [
-        "As a Nurse Supervisor at our organization, you will have the opportunity to make a meaningful impact on patients' lives while advancing your own career through ongoing education opportunities",
-        "A key aspect of this job involves assisting in the development of individualized patient plans that cater to their unique needs",
-        "This may include providing guidance on medication adherence,",
-        "collaborating with medical teams to ensure seamless transitions across different levels of care,",
-        "and engaging with family members to address any concerns they may have about their loved one's condition.\","
-      ]
-    },
-    "job_onet_soc": "11911100",
-    "job_onet_job_zone": "5",
-    "id": "www-jobilize-com-job-us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "wovuW3sajtZTVs7UAAAAAA==",
-    "job_title": "Advanced Practitioner/CNS - Cardiology",
-    "employer_name": "Legacy Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkf9LyijfeJFt8EZloUbWF20Zt-MCGnEWY1w2s&s=0",
-    "employer_website": "https://www.legacyhealth.org",
-    "job_publisher": "Women For Hire- Job Board",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
+    "job_latitude": 29.6472272,
+    "job_longitude": -81.6297111,
+    "job_benefits": [
+      "health_insurance"
     ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/cedar-hills-or/advanced-practitioner-cns-cardiology-110619/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Women For Hire- Job Board",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/cedar-hills-or/advanced-practitioner-cns-cardiology-110619/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Legacy Health\nAdvanced Practitioner/CNS - Cardiology\nEqual Opportunity Employer/Vet/Disabled\nUS-OR-PORTLAND\nJob ID: 25-45975\nType: Regular Full-Time\nEmanuel Medical Ctr campus\nOverview\n\nThe Legacy Cardiology nursing philosophy focuses on patients and their families. Our nurses embody this philosophy in everything they do, as advocates, communicators, problem-solvers and caregivers. Their expertise is sought after and respected by our health care team. In short, they are the face of wellness at Legacy. Does this sound like an environment in which you could thrive? If so, we invite you to consider this opportunity.\n\nResponsibilities\n\nThe Cardiology Clinical Nurse Specialist (CNS) promotes professional development and the advancement of nursing practice, facilitates the provision of quality, evidence based care and is a change agent/role model. The CNS demonstrates a firm clinical knowledge base in specialty practice and systems theory. The CNS conducts and facilitates patient care consultation and provides resources to assess the impact and appropriateness of practice on patient outcomes.\n\nThe CNS uses clinical nursing expertise in diagnosis and treatment to prevent, remediate, or alleviate illness and promote health with a defined specialty population CNS practice is the translation of clinical expertise into nursing care provided either directly or by influencing nurses and nursing personnel through evidence-based nursing care standards. CNS practice also influences systems to mobilize, change, or transform these systems to facilitate expertly designed nursing intervention. Some CNSs may expand their nursing practice to include prescriptive authority for pharmacologic agents to augment the care that they are responsible and accountable to provide.\n\nQualifications\n\nEducation:\n\nGraduate education with preparation as a CNS as required by state licensure.\n\nExperience:\n\nClinical experience requirements are dependent upon the specific position, and include a minimum of 2 years of experience in a related field.\n\nEqual employment opportunity, including veterans and individuals with disabilities.\n\nPI282255485",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Cedar Hills, OR",
-    "job_city": "Cedar Hills",
-    "job_state": "Oregon",
-    "job_country": "US",
-    "job_latitude": 45.5087595,
-    "job_longitude": -122.8062573,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwovuW3sajtZTVs7UAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdvRDeF2liiAxVa1bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Graduate education with preparation as a CNS as required by state licensure",
-        "Clinical experience requirements are dependent upon the specific position, and include a minimum of 2 years of experience in a related field"
+        "Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification",
+        "Master's degree with a major in nursing with a Clinical Nurse Specialist focus",
+        "Current RN license by applicable state requirements",
+        "This RN job may require a RN license in multiple states",
+        "Current APRN, CNS license by applicable state requirements",
+        "If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty",
+        "Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network",
+        "Additional specialty certification/training as required by the work area is highly recommended"
+      ],
+      "Benefits": [
+        "And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic",
+        "Medical: Multiple plan options",
+        "Dental: Delta Dental or reimbursement account for flexible coverage",
+        "Vision: Affordable plan with national network",
+        "Pre-Tax Savings: HSA and FSAs for eligible expenses",
+        "Retirement: Competitive retirement package to secure your future",
+        "$99,964.80 - $150,113.60 / year",
+        "Benefits Eligible",
+        "Full Time",
+        "Hours/Pay Period"
       ],
       "Responsibilities": [
-        "Type: Regular Full-Time",
-        "The Cardiology Clinical Nurse Specialist (CNS) promotes professional development and the advancement of nursing practice, facilitates the provision of quality, evidence based care and is a change agent/role model",
-        "The CNS demonstrates a firm clinical knowledge base in specialty practice and systems theory",
-        "The CNS conducts and facilitates patient care consultation and provides resources to assess the impact and appropriateness of practice on patient outcomes",
-        "The CNS uses clinical nursing expertise in diagnosis and treatment to prevent, remediate, or alleviate illness and promote health with a defined specialty population CNS practice is the translation of clinical expertise into nursing care provided either directly or by influencing nurses and nursing personnel through evidence-based nursing care standards",
-        "CNS practice also influences systems to mobilize, change, or transform these systems to facilitate expertly designed nursing intervention",
-        "Some CNSs may expand their nursing practice to include prescriptive authority for pharmacologic agents to augment the care that they are responsible and accountable to provide"
+        "The Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice",
+        "The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System) and is an active participant in the nursing leadership team",
+        "As an advanced practice expert, the CNS plays a vital role in elevating clinical practice, supporting evidence-based care, and driving excellence across the care continuum—reflecting Mayo Clinic Florida’s commitment to innovation, quality, and patient-centered outcomes",
+        "This role will provide support to the Progressive Care Unit (PCU), CERT, STAR, ED, Mayo Clinic Care Beyond Walls, and other initiatives led by the Department of Nursing (DON)"
       ]
     },
-    "job_onet_soc": "29203100",
-    "job_onet_job_zone": "3",
-    "id": "jobs-womenforhire-com-job-usa-cedar-hills-or-advanced-practitioner-cns-cardiology-110619",
+    "job_onet_soc": "21109100",
+    "job_onet_job_zone": "4",
+    "id": "medicalhirings-talentrushhq-com-joblistingpage-ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa",
     "_source": "new_jobs"
   },
   {
@@ -1113,9 +998,9 @@
     "job_latitude": 43.0410344,
     "job_longitude": -87.9096783,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqMXBH-yp2mKX2YbXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1154,6 +1039,87 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "jobs-froedtert-com-job-159790-rn-cvicu",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "sLzubZh1ptY5yRy-AAAAAA==",
+    "job_title": "Registered Nurse- Wound Care Specialist",
+    "employer_name": "US Veterans Health Administration",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4c1L4IJBPKwzwatXWnLn8Lr3AHRucEIx9O8xn&s=0",
+    "employer_website": null,
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=6d31501ce0535caf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=6d31501ce0535caf&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/SD-Department-of-Veterans-Affairs/Job/Registered-Nurse-Wound-Care-Specialist/-in-Albany,NY?jid=60a06f8a3e776028&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/registered-nurse-wound-care-specialist-veteransaffairs-albany-ny_85608520?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/9bbc47151ff8c1a71cae565a71ceebef?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Bandana.com",
+        "apply_link": "https://bandana.com/jobs/49d6acc9-3c6d-4110-a233-5400a72ea663?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/albany/new-york/nursing/4867803241/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LifeworQ",
+        "apply_link": "https://lifeworq.com/job/f3f0afbd-55db-47b5-bca6-14648d9e7052?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Recruit.net",
+        "apply_link": "https://www.recruit.net/job/registered-nurse-wound-care-specialist-jobs/9AC4772275BE4CAB?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Summary\n\nDelivers fundamental knowledge-based care to assigned clients while developing technical skills. Assesses, plans, implements, and evaluates care based on age-specific components. Assumes responsibility for the coordination of care focused on patient education, self-management, and customer satisfaction throughout continuum of care. Administers medications and procedures per established policies and guidelines. Influences care outcomes by collaborating with members of the interdisciplinary team\n\nThis job is open to\n\nThe public\n\nU.S. Citizens, Nationals or those who owe allegiance to the U.S.\n\nClarification from the agency\n\nNOTE: The 2-page Resume requirement does not apply to this position. For more information, refer to Required Documents below. OPEN TO ALL OF THE PUBLIC TO APPLY!\n\nDuties\n\nThe Wound Care Registered Nurse (RN) is responsible for providing competent, evidence-based care to assigned patients with oversight of licensed vocational nurses/nursing assistants as appropriate to the setting. Assesses, plans, implements, and evaluates care based on skin and wound assessment findings. Assumes responsibility for the coordination of care focused on patient/resident planning, coordinating, providing, and evaluating care across clinical practice settings with a focus on organizational improvement in skin and wound assessment and management (and may include ostomy and continence care). Assesses and identifies education needs of all levels of clinical staff. The nurse will assist in directing the provision of nursing education, orientation, competencies and providing quality improvement and outcomes utilization. Develops and implements an educational plan to meet the needs for patients/residents, family, and staff at the clinical and program level. Partners with the patient, family, and interdisciplinary team to promote effective and safe transitions across the health care continuum. The duties of the Wound Care Registered Nurse (RN) include but are not limited to-\n• Plans and delivers technically competent care to patients in alignment with the ANA Standards of Nursing Practice.\n• Responsible and accountable for individual nursing practice and determines the appropriate delegation of tasks ensuring assigned delegated tasks are completed by team members.\n• Manages nursing care of patients, organizes, and completes own assignments in a safe and timely manner, assisting team members as necessary.\n• Participates in the development, implementation, and evaluation of interdisciplinary care.\n• Establishes a therapeutic relationship, allowing the patient to achieve optimal function through assessment and treatment of their health enhancing the patient experience, satisfaction, and/or safety.\n• Treats all patients, families and other caregivers with dignity and respect incorporating knowledge, values, and beliefs into nursing care delivery without judgement or discrimination.\n• Recognizes ethical issues related to professional nursing practice and behaves in an appropriate manner through observance of established policies and ANA Code of Ethics for Nurses.\n• Applies high reliability principles and ICARE values to improve patient outcomes.\n• Demonstrates the ability to communicate confidently with members of the healthcare team and demonstrate professional behaviors that promotes cooperation and teamwork.\n• Shares knowledge and creates opportunities for collaboration that encourage team cohesiveness.\n• Uses available resources and sound clinical judgement to achieve results.\n• Demonstrates professional behavior and works effectively with others, builds on strengths, and takes positive action to meet growing responsibilities.\n\nVA offers a comprehensive total rewards package: VA Nurse Total Rewards\n\nPay: Competitive salary, regular salary increases, potential for performance awards\nPaid Time Off: 50 days of paid time off per year (26 days of annual leave, 13 days of sick leave, 11 paid Federal holidays per year)\nRetirement: Traditional federal pension (5 years vesting) and federal 401K with up to 5% in contributions by VA\nInsurance: Federal health/vision/dental/term life/long-term care (many federal insurance programs can be carried into retirement)\nLicensure: 1 full and unrestricted license from any US State or territory\n\nWork Schedule: Full time, Monday-Friday, Day Shift, 07:30pm-04:00pm\nTelework: Not Available\nVirtual: This is not a virtual position.\nRelocation/Recruitment Incentives: Not Authorized\nPermanent Change of Station (PCS): Not Authorized\n\nRequirements\n\nConditions of employment\n• U.S. Citizenship; non-citizens may only be appointed when it is not possible to recruit qualified citizens in accordance with VA Policy.\n• All applicants tentatively selected for VA employment in a testing designated position are subject to urinalysis to screen for illegal drug use prior to appointment. Applicants who refuse to be tested will be denied employment with VA.\n• Selective Service Registration is required for males born after 12/31/1959.\n• Subject to background/security investigation.\n• Selected applicants will be required to complete an online onboarding process. Acceptable form(s) of identification will be required to complete pre-employment requirements (https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents). Effective May 7, 2025, driver's licenses or state-issued identification cards that are not REAL ID compliant cannot be utilized as an acceptable form of identification for employment.\n• Must pass pre-employment physical examination.\n• Participation in the seasonal influenza vaccination program is a requirement for all Department of Veterans Affairs Health Care Personnel (HCP).\n• You may be required to serve a probationary period.\n• Complete all application requirements detailed in the \"Required Documents\" section of this announcement.\n\nQualifications\n\nBasic Requirements:\n• English Language Proficiency. In accordance with 38 U.S.C. 7403(f), no person shall serve in direct patient care positions unless they are proficient in basic written and spoken English.\n• Graduate of a school of professional nursing approved by the appropriate accrediting agency and accredited by one of the following accrediting bodies at the time the program was completed by the applicant: The Accreditation Commission for Education in Nursing (ACEN) or The Commission on Collegiate Nursing Education (CCNE); OR Individuals attending a master's level bridge program in nursing who have completed coursework equivalent to a bachelor's level degree in Nursing may have opportunity to become registered as a nurse with a state licensing board prior to completion of the bridge program. Upon achievement of a State license, the individual may be appointed on temporary basis and later converted to a permanent appointment upon successful completion and graduation from the bridge program. (Reference VA Handbook 5005, Appendix G6); OR In cases of graduates of foreign schools of professional nursing, possession of a current, full, active, and unrestricted registration will meet the requirement for graduation from an approved school of professional nursing to warrant an appointment as a Nurse who has completed an associated degree/entry level Nursing education program. Credit for foreign nursing education higher that associate degree/entry level requires a formal degree equivalency validation from a recognized equivalency evaluation accepted by VA such as International Consultants of Delaware (ICD).\n• Current, full, active, and unrestricted registration as a graduate professional nurse in a State, Territory or Commonwealth (i.e., Puerto Rico) of the United States, or the District of Columbia. Graduate Nurse Technician (GNT) Exception: Candidates who otherwise meet the basic education requirements, but do not possess the required licensure, may be appointed at the entry step of the grade and level applicable to the completed nursing education as a GNT on a 120-day temporary appointment while actively pursuing licensure (may be extended up to two years on a case-by-case-basis.)\n\nNOTE: Grandfathering Provision - All persons currently employed in VHA in 0610 series and performing the duties as described in the qualification standard on the effective date of the standard (1/29/2024) are considered to have met all qualification requirements for the grade held including positive education and licensure/certification.\n\nGrade Determinations: The following Scope, Education and Dimension criteria must be met in determining the grade assignment of candidates, and if appropriate, the level within a grade. The Dimension requirements (Practice, Veteran/Patient Driven Care, Leadership, Professional Development and Evidence-Based Practice/Research) are detailed for each grade and level within the online assessment: https://apply.usastaffing.gov/ViewQuestionnaire/12880767.\n\nGrade/Level\n\nScope\n\nEducation\n\nNurse I, Level I\n\nDelivers fundamental, knowledge-based care to assigned clients while developing technical competencies.\n\nAn Associate Degree (ADN) or Diploma in Nursing, with no additional professional nursing required.\n\nNurse I, Level II\n\nDemonstrates integration of biopsychosocial concepts, cognitive skills and technically competent practice in providing care to clients with basic or complex.\n\nAn ADN or Diploma in Nursing AND 1 year of specialized nursing experience equivalent to Nurse I, Level 1 ;OR a Bachelor of Science in Nursing (BSN) with no additional professional nursing experience required.\n\nNurse I, Level III\n\nDemonstrates proficiency in practice based on conscious and deliberate planning. Self-directed in goal setting for managing complex client situations.\n\nAn ADN or Diploma in Nursing AND 2 years of professional nursing experience in which one year is equivalent to Nurse I, Level 2; OR a BSN and 1 year of professional nursing experience equivalent to the Nurse I, Level 2; OR a Master's degree in nursing (MSN) and no additional professional nursing experience; OR a Master's degree in a *related field with a BSN and no additional professional nursing experience.\n\nNurse II\n\nDemonstrates leadership in delivering and improving holistic care through collaborative strategies with others.\n\nA BSN with 2 years of professional nursing equivalent to Nurse I, Level 3; OR an MSN with one year of specialized nursing experience equivalent to Nurse I, Level 3; OR a Master's degree in a *related field with a BSN and one year of specialized nursing experience equivalent to Nurse I, Level 3; OR a Doctoral degree in Nursing with no professional nursing experience; OR a Doctoral degree in a *related field with a BSN with no additional professional nursing experience.\n\nNurse III\n\nExecutes position responsibilities that demonstrate leadership, experience and creative approaches to management of complex client care beyond the immediate practice setting.\n\nMSN and 2 years of specialized nursing experience, one of which is equivalent to Nurse II and meets all dimension requirements for Nurse III; OR a Master's degree in *related field with BSN and two years of specialized nursing experience, one of which is equivalent to Nurse II and meets all dimension requirements for Nurse III; OR a Doctoral degree in Nursing with and one year of specialized nursing experience equivalent to Nurse II and meets all dimension requirements for Nurse III; OR a Doctoral degree in a *related field with a BSN and one year of specialized nursing experience equivalent to Nurse II and meets all dimension requirements for Nurse III.\n• Note: Foreign education programs/degrees are not creditable as related degrees.\n\nReference: For more information on this qualification standard, please visit https://www.va.gov/ohrm/QualificationStandards/.\n\nPreferred Experience -\n• 3-5 RN Experience preferred\n• 1 year experience working as a wound care nurse in an inpatient and outpatient setting\n• WOCN Certification highly desired\n• BSN preferred\n\nPhysical Requirements:\nHeavy Lifting (35 lbs and over); Heavy Carrying (35 lbs and over); Straight Pulling (up to 1 hour); Pushing (1 - 2 hours); Reaching above shoulder; Use of fingers; Both hands required; Walking (up to 4 hours); Standing (up to 4 hours); Kneeling (up to 2 hours); Repeated bending (up to 4 hours); Both legs required; Ability for rapid mental and muscular coordination simultaneously; Near vision correctable at 13\" to 16\"; Far vision correctable to 20/20 in one eye and to 20/40 in the other; Ability to distinguish basic colors; Ability to distinguish shades of colors; Hearing (aid permitted); Emotionally/mentally stable\n\nAdditional information\n\nThis job opportunity announcement may be used to fill additional vacancies.\n\nThis position is in the Excepted Service and does not confer competitive status.\n\nVA encourages persons with disabilities to apply. The health-related positions in VA are covered by Title 38, and are not covered by the Schedule A excepted appointment authority.\n\nIf you are unable to apply online or need an alternate method to submit documents, please reach out to the Agency Contact listed in this Job Opportunity Announcement.\n\nUnder the Fair Chance to Compete Act, the Department of Veterans Affairs prohibits requesting an applicant's criminal history prior to accepting a tentative job offer. For more information about the Act and the complaint process, visit Human Resources and Administration/Operations, Security, and Preparedness (HRA/OSP) at The Fair Chance Act.\n\nCandidates should be committed to improving the efficiency of the Federal government, passionate about the ideals of our American republic, and committed to upholding the rule of law and the United States Constitution.\n\nBenefits\n\nA career with the U.S. government provides employees with a comprehensive benefits package. As a federal employee, you and your family will have access to a range of benefits that are designed to make your federal career very rewarding. Opens in a new windowLearn more about federal benefits.\n\nReview our benefits\n\nEligibility for benefits depends on the type of position you hold and whether your position is full-time, part-time or intermittent. Contact the hiring agency for more information on the specific benefits offered.\n\nHow you will be evaluated\n\nYou will be evaluated for this job based on how well you meet the qualifications above.\n\nIN DESCRIBING YOUR EXPERIENCE, PLEASE BE CLEAR AND SPECIFIC. WE MAY NOT MAKE ASSUMPTIONS REGARDING YOUR EXPERIENCE. Your application, resume, C.V., and/or supporting documentation will be verified. Please follow all instructions carefully. Errors or omissions may affect consideration for employment.\n\nNOTE: Candidate's education, scope, and length of nursing practice (experience) will be considered in determining the grade and salary of the applicant selected. The recommended salary may be at any point in the range listed for this vacancy.\n\nExperience as an RN will be evaluated to determine if the experience is of an acceptable level of quality with regard to the following five dimensions of nursing: Practice, Veteran/Patient Driven Care, Leadership, Professional Development, and Evidence/Based Practice/Research. Each dimension of practice has criteria that demonstrate essential core competencies for VHA Nursing Personnel.\n\nExperience refers to paid and unpaid experience, including volunteer work done through National Service programs (e.g., Peace Corps, AmeriCorps) and other organizations (e.g., professional; philanthropic; religions; spiritual; community; student; social). Volunteer work helps build critical competencies, knowledge, and skills and can provide valuable training and experience that translates directly to paid employment. You will receive credit for all qualifying experience, including volunteer experience.\n\nThe Department of Veterans Affairs performs pre-employment reference checks as an assessment method used in the hiring process to verify information provided by a candidate (e.g., on resume or during interview or hiring process); gain additional knowledge regarding a candidate's abilities; and assist a hiring manager with making a final selection for a position.\n\nIt is the policy of the VA to not deny employment to those that have faced financial hardships or periods of unemployment.\n\nVeterans and Transitioning Service Members: Please visit the VA for Vets site for career-search tools for Veterans seeking employment at VA, career development services for our existing Veterans, and coaching and reintegration support for military service members.\n\nRequired Documents\n\nTo apply for this position, you must provide a complete Application Package which includes:\n• Resume\n\nSpecial Note for Applications: To complete your application, please use the following link https://vacareers.va.gov/wp-content/uploads/sites/5/Resume.docx to download the standard Clinical Resume Document. This one-page document does not need to be modified and must be uploaded into the two-page restricted 'Resume' document upload field.\n\nYour full resume/CV may be uploaded without page limitation into the 'Other' document upload field.\n\nThe following documents are accepted and may be required if applicable to your eligibility and/or qualifications for this position.\n• Cover Letter\n• DD-214/ Statement of Service\n• Disability Letter (Schedule A)\n• Disability Letter (VA)\n• License\n• Other (1)\n• PCS Orders\n• Professional Certification\n• Resume\n• Separation Notice (RIF)\n• SF-15\n• SF-50/ Notification of Personnel Action\n• Transcript\n\nVeterans' Preference Note: Preference eligible candidates and other Veterans will be given preference when qualification of candidates are approximately equal for Title 38 positions in VHA. When applying for Federal Jobs, eligible Veterans should claim preference for 5pt (TP), 10pt (CP/CPS/XP), or for Sole Survivor Preference (SSP) in the questionnaire. You must provide a legible copy of your DD214(s) which shows dates and character of service (honorable, general, etc.). If you are currently serving on active duty and expect to be released or discharged within 120 days you must submit documentation related to your active duty service which reflects the dates of service, character of service (honorable, general, etc.), and dates of impending separation. Additionally, disabled veterans and others eligible for 10-point preference (such as widows or mothers of eligible Veterans) must also submit an SF-15 \"Application for 10 Point Veteran Preference\" with required proof as stated on the form. Documentation is required to award preference. For more information on Veterans' Preference, please visit Feds Hire Vets - Veterans - Job Seekers - Veterans' Preference.\n\nIf you are relying on your education to meet qualification requirements:\n\nEducation must be accredited by an accrediting institution recognized by the U.S. Department of Education in order for it to be credited towards qualifications. Therefore, provide only the attendance and/or degrees from schools accredited by accrediting institutions recognized by the U.S. Department of Education.\n\nFailure to provide all of the required information as stated in this vacancy announcement may result in an ineligible rating or may affect the overall rating.\n\nHow to Apply\n\nAll applicants are encouraged to apply online. To apply for this position, you must complete the full questionnaire and submit the documentation specified in the Required Documents section below. The complete application package must be submitted by 11:59 PM (ET) on 02/23/2026 to receive consideration. To preview the questionnaire, click https://apply.usastaffing.gov/ViewQuestionnaire/12880767.\n• To begin, click Apply Online to create a USAJOBS account or log in to your existing account. Follow the prompts to select your USA JOBS resume and/or other supporting documents and complete the occupational questionnaire.\n• Click Submit My Answers to submit your application package.\n\nNOTE: It is your responsibility to ensure your responses and appropriate documentation are submitted prior to the closing date.\n\nDuring the application process you may have an option to opt-in to make your resume available to hiring managers in the agency who have similar positions. Opting in does not impact your application for this announcement, nor does it guarantee further consideration for additional positions.\n\nAgency contact information\n\nHolly Kraeger\n\nPhone\n\n518-360-2036\n\nEmail\n\nHolly.Kraeger@va.gov\n\nAddress\n\nSamuel S Stratton VA Medical Center - Albany\n113 Holland Ave\nAlbany, NY 12208\nUS\n\nNext steps\n\nOnce your online application is submitted you will receive a confirmation notification by email. After we receive application packages (including all required documents) and the vacancy announcement closes, we will review applications to ensure qualification and eligibility requirements are met. After the review is complete, a referral certificate(s) is issued, and applicants will be notified of their status by email. Referred applicants will be notified as such and may be contacted directly by the hiring office for an interview. All referred applicants receive a final notification once a selection decision has been made.\n\nYou may check the status of your application at any time by logging into your USA Jobs account and clicking on Applications. Information regarding your application status can be found in the USAJobs Help Center.\n\nNOTE: Participation in the seasonal influenza program is a condition of employment and a requirement for all Department of Veterans Affairs Health Care Personnel (HCP). It is a requirement that all HCP to receive annual seasonal influenza vaccination or obtain an exemption for medical or religious reasons. Wearing a face mask is required when an exemption to the influenza vaccination has been granted. HCP in violation of this directive may face disciplinary action up to and including removal from federal service. HCP are individuals who, during the influenza season, work in VHA locations or who come into contact with VA patients or other HCP as part of their duties. VHA locations include, but are not limited to, VA hospitals and associated clinics, community living centers (CLCs), community-based outpatient clinics (CBOCs), domiciliary units, Vet centers and VA-leased medical facilities. HCP include all VA licensed and unlicensed, clinical and administrative, remote and onsite, paid and without compensation, full- and part-time employees, intermittent employees, fee basis employees, VA contractors, researchers, volunteers and health professions trainees (HPTs) who are expected to perform any or all of their work at these facilities. HPTs may be paid or unpaid and include residents, interns, fellows and students. HCP also includes VHA personnel providing home-based care to Veterans and drivers and other personnel whose duties put them in contact with patients outside VA medical facilities.\n\nOverview\n\nAccepting applications\n\nOpen & closing dates\n\n02/09/2026 to 02/23/2026\n\nSalary\n\n$69,531 to - $140,376 per year\n\nPay scale & grade\n\nVN 00\n\nLocation\n\n1 vacancy in the following location:\n\nAlbany, NY\n\n1 vacancy\n\nRemote job\n\nNo\n\nTelework eligible\n\nNo\n\nTravel Required\n\nNot required\n\nRelocation expenses reimbursed\n\nNo\n\nAppointment type\n\nPermanent\n\nWork schedule\n\nFull-time\n\nService\n\nExcepted\n\nPromotion potential\n\n3\n\nJob family (Series)\n• 0610 Nurse\n\nSupervisory status\n\nNo\n\nSecurity clearance\n\nOther\n\nDrug test\n\nYes\n\nPosition sensitivity and risk\n\nNon-sensitive (NS)/Low Risk\n\nTrust determination process\n• Credentialing\n• Suitability/Fitness\n\nFinancial disclosure\n\nNo\n\nBargaining unit status\n\nNo\n\nAnnouncement number\n\nCBTE-12880767-26-HK\n\nControl number\n\n856959400",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770595200,
+    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
+    "job_location": "Albany, NY",
+    "job_city": "Albany",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 42.6518095,
+    "job_longitude": -73.7544707,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsLzubZh1ptY5yRy-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 69531,
+    "job_max_salary": 140376,
+    "job_salary_period": "YEAR",
+    "job_highlights": {},
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-indeed-com-viewjob",
     "_source": "new_jobs"
   },
   {
@@ -1295,11 +1261,144 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "wovuW3sajtZTVs7UAAAAAA==",
+    "job_title": "Advanced Practitioner/CNS - Cardiology",
+    "employer_name": "Legacy Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkf9LyijfeJFt8EZloUbWF20Zt-MCGnEWY1w2s&s=0",
+    "employer_website": "https://www.legacyhealth.org",
+    "job_publisher": "Women For Hire- Job Board",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.womenforhire.com/job/usa/cedar-hills-or/advanced-practitioner-cns-cardiology-110619/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Women For Hire- Job Board",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/cedar-hills-or/advanced-practitioner-cns-cardiology-110619/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Legacy Health\nAdvanced Practitioner/CNS - Cardiology\nEqual Opportunity Employer/Vet/Disabled\nUS-OR-PORTLAND\nJob ID: 25-45975\nType: Regular Full-Time\nEmanuel Medical Ctr campus\nOverview\n\nThe Legacy Cardiology nursing philosophy focuses on patients and their families. Our nurses embody this philosophy in everything they do, as advocates, communicators, problem-solvers and caregivers. Their expertise is sought after and respected by our health care team. In short, they are the face of wellness at Legacy. Does this sound like an environment in which you could thrive? If so, we invite you to consider this opportunity.\n\nResponsibilities\n\nThe Cardiology Clinical Nurse Specialist (CNS) promotes professional development and the advancement of nursing practice, facilitates the provision of quality, evidence based care and is a change agent/role model. The CNS demonstrates a firm clinical knowledge base in specialty practice and systems theory. The CNS conducts and facilitates patient care consultation and provides resources to assess the impact and appropriateness of practice on patient outcomes.\n\nThe CNS uses clinical nursing expertise in diagnosis and treatment to prevent, remediate, or alleviate illness and promote health with a defined specialty population CNS practice is the translation of clinical expertise into nursing care provided either directly or by influencing nurses and nursing personnel through evidence-based nursing care standards. CNS practice also influences systems to mobilize, change, or transform these systems to facilitate expertly designed nursing intervention. Some CNSs may expand their nursing practice to include prescriptive authority for pharmacologic agents to augment the care that they are responsible and accountable to provide.\n\nQualifications\n\nEducation:\n\nGraduate education with preparation as a CNS as required by state licensure.\n\nExperience:\n\nClinical experience requirements are dependent upon the specific position, and include a minimum of 2 years of experience in a related field.\n\nEqual employment opportunity, including veterans and individuals with disabilities.\n\nPI282255485",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Cedar Hills, OR",
+    "job_city": "Cedar Hills",
+    "job_state": "Oregon",
+    "job_country": "US",
+    "job_latitude": 45.5087595,
+    "job_longitude": -122.8062573,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwovuW3sajtZTVs7UAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Graduate education with preparation as a CNS as required by state licensure",
+        "Clinical experience requirements are dependent upon the specific position, and include a minimum of 2 years of experience in a related field"
+      ],
+      "Responsibilities": [
+        "Type: Regular Full-Time",
+        "The Cardiology Clinical Nurse Specialist (CNS) promotes professional development and the advancement of nursing practice, facilitates the provision of quality, evidence based care and is a change agent/role model",
+        "The CNS demonstrates a firm clinical knowledge base in specialty practice and systems theory",
+        "The CNS conducts and facilitates patient care consultation and provides resources to assess the impact and appropriateness of practice on patient outcomes",
+        "The CNS uses clinical nursing expertise in diagnosis and treatment to prevent, remediate, or alleviate illness and promote health with a defined specialty population CNS practice is the translation of clinical expertise into nursing care provided either directly or by influencing nurses and nursing personnel through evidence-based nursing care standards",
+        "CNS practice also influences systems to mobilize, change, or transform these systems to facilitate expertly designed nursing intervention",
+        "Some CNSs may expand their nursing practice to include prescriptive authority for pharmacologic agents to augment the care that they are responsible and accountable to provide"
+      ]
+    },
+    "job_onet_soc": "29203100",
+    "job_onet_job_zone": "3",
+    "id": "jobs-womenforhire-com-job-usa-cedar-hills-or-advanced-practitioner-cns-cardiology-110619",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "5E6T05G5mnTEdqmHAAAAAA==",
+    "job_title": "Clinical Nurse Specialist - Outpatient Neurology Neurosurgery Spine Center",
+    "employer_name": "Mayo Clinic",
+    "employer_logo": null,
+    "employer_website": "https://www.mayoclinic.org",
+    "job_publisher": "Medical Hirings - Talent Rush HQ",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/4ch1wle6talz-77297e99cf0272150cf1bbeb2-79b7e7b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Medical Hirings - Talent Rush HQ",
+        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/4ch1wle6talz-77297e99cf0272150cf1bbeb2-79b7e7b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Why Mayo Clinic\n\nMayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News and World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans – to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic.\n\nBenefits Highlights\n• Medical: Multiple plan options.\n• Dental: Delta Dental or reimbursement account for flexible coverage.\n• Vision: Affordable plan with national network.\n• Pre-Tax Savings: HSA and FSAs for eligible expenses.\n• Retirement: Competitive retirement package to secure your future.\n\nResponsibilities\n\nThe Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice. The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System), and is an active participant in the nursing leadership team.\n\nThis role is eligible for TN sponsorship. Holders of F1 status eligible for post-completion OPT are welcome to apply. This role is NOT eligible to participate in the F-1 STEM OPT extension program. Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification.\n\nQualifications\n\nQualifications:\n• Master's degree with a major in nursing with a Clinical Nurse Specialist focus.\n• Experience as a CNS preferred.\n• Flexibility to adjust schedule to meet patient needs and CNS workload.\n• Doctorate of Nursing Practice degree preferred.\n• Five years of successful work experience in nursing with two years in the specialty area preferred.\n\nLicense and Certifications:\n• Current RN license by applicable state requirements. This RN job may require a RN license in multiple states.\n• Current APRN, CNS license by applicable state requirements.\n• If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty.\n• Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network. Additional specialty certification/training as required by the work area is highly recommended.\nExemption Status\n\nExempt\n\nCompensation Detail\n\n$109,324.80 - $163,987.20 / year depending on experience.\n\nBenefits Eligible\n\nYes\n\nSchedule\n\nFull Time\n\nHours/Pay Period\n\n64\n\nSchedule Details\n\nMonday - Friday 8am-5pm, may be occasional shift in hours based on practice needs. 64 hours/pay period.\n\nWeekend Schedule\n\nNot typical weekend hours. Only as required by practice needs.\n\nInternational Assignment\n\nNo\n\nSite Description\n\nJust as our reputation has spread beyond our Minnesota roots, so have our locations. Today, our employees are located at our three major campuses in Phoenix/Scottsdale, Arizona, Jacksonville, Florida, Rochester, Minnesota, and at Mayo Clinic Health System campuses throughout Midwestern communities, and at our international locations. Each Mayo Clinic location is a special place where our employees thrive in both their work and personal lives. Learn more about what each unique Mayo Clinic campus has to offer, and where your best fit is.\n\nEqual Opportunity\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, protected veteran status or disability status. Learn more about the \"EOE is the Law\". Mayo Clinic participates in E-Verify and may provide the Social Security Administration and, if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization.\n\nRecruiter\n\nDanelle White",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Kasson, MN",
+    "job_city": "Kasson",
+    "job_state": "Minnesota",
+    "job_country": "US",
+    "job_latitude": 44.0295675,
+    "job_longitude": -92.7509042,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5E6T05G5mnTEdqmHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification",
+        "Master's degree with a major in nursing with a Clinical Nurse Specialist focus",
+        "Flexibility to adjust schedule to meet patient needs and CNS workload",
+        "Current RN license by applicable state requirements",
+        "This RN job may require a RN license in multiple states",
+        "Current APRN, CNS license by applicable state requirements",
+        "If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty",
+        "Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network",
+        "Additional specialty certification/training as required by the work area is highly recommended"
+      ],
+      "Benefits": [
+        "And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic",
+        "Medical: Multiple plan options",
+        "Dental: Delta Dental or reimbursement account for flexible coverage",
+        "Vision: Affordable plan with national network",
+        "Pre-Tax Savings: HSA and FSAs for eligible expenses",
+        "Retirement: Competitive retirement package to secure your future",
+        "$109,324.80 - $163,987.20 / year depending on experience",
+        "Benefits Eligible",
+        "Full Time",
+        "Hours/Pay Period"
+      ],
+      "Responsibilities": [
+        "The Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice",
+        "The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System), and is an active participant in the nursing leadership team",
+        "Monday - Friday 8am-5pm, may be occasional shift in hours based on practice needs",
+        "Not typical weekend hours",
+        "Only as required by practice needs"
+      ]
+    },
+    "job_onet_soc": "29117100",
+    "job_onet_job_zone": "5",
+    "id": "medicalhirings-talentrushhq-com-joblistingpage-4ch1wle6talz-77297e99cf0272150cf1bbeb2-79b7e7b",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "5oCzh0Zu4XrOWW3bAAAAAA==",
     "job_title": "Clinical Nurse Specialist",
     "employer_name": "Alameda Health System",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-WXTH_wyXAntYdjwWMYI45J3196rj2d2-Xxa&s=0",
-    "employer_website": "http://www.alamedahealthsystem.org",
+    "employer_website": "http://alamedahealthsystem.org",
     "job_publisher": "Medical Hirings - Talent Rush HQ",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -1372,172 +1471,6 @@
     "job_onet_soc": "21109100",
     "job_onet_job_zone": "4",
     "id": "medicalhirings-talentrushhq-com-joblistingpage-ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "awwPt9ArRnyLHNMeAAAAAA==",
-    "job_title": "Adult Med Surg Registered Nurse PT",
-    "employer_name": "Mission Hospital",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9b8qUFH-TXFDNaa82Napbf9TDwSzWk7vX-OQC&s=0",
-    "employer_website": "https://www.missionhealth.org",
-    "job_publisher": "HCA Healthcare",
-    "job_employment_type": "Part-time",
-    "job_employment_types": [
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://careers.hcahealthcare.com/jobs/16418658-adult-med-surg-registered-nurse-pt?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "HCA Healthcare",
-        "apply_link": "https://careers.hcahealthcare.com/jobs/16418658-adult-med-surg-registered-nurse-pt?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=964d471874f79418&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Mission-Hospital/Job/Adult-Med-Surg-Registered-Nurse-PT/-in-Asheville,NC?jid=b049dc8555209c74&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/adult-med-surg-registered-nurse-pt-mission-hospital-JV_IC1138579_KO0,34_KE35,51.htm?jl=1010027463571&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/adult-med-surg-registered-nurse-pt-asheville-nc--e3233d22-e625-418b-bfdf-5c227a25878d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Gotham Enterprises",
-        "apply_link": "https://www.gothamenterprisesltd.com/find-jobs/registered-nurse-jobs/cmjvc3s1b8kdo8xnch54hv8hb/adult-med-surg-registered-nurse-pt-in-asheville-nc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/2fb7a605b587e9b9ea724cf458042565?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/adult-med-surg-registered-nurse-pt-at-mission-health-4266071706?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Introduction\n\nThis position is eligible for a 10,000 sign on bonus with a 2 year commitment to Mission Health. Ask Recruiter for more details.\n\nAre you looking for a place to deliver excellent care patients deserve? At Mission Hospital we support our colleagues in their positions. Join our Team as a(an) Adult Med Surg Registered Nurse and access programs to assist with every stage of your career.\nBenefits\n\nMission Hospital, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation.\n• Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more.\n• Free counseling services and resources for emotional, physical and financial wellbeing\n• 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\n• Employee Stock Purchase Plan with 10% off HCA Healthcare stock\n• Family support through fertility and family building benefits with Progyny and adoption assistance.\n• Referral services for child, elder and pet care, home and auto repair, event planning and more\n• Consumer discounts through Abenity and Consumer Discounts\n• Retirement readiness, rollover assistance services and preferred banking partnerships\n• Education assistance (tuition, student loan, certification support, dependent scholarships)\n• Colleague recognition program\n• Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\n• Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nAre you a continuous learner? With more than 94,000 nurses throughout HCA Healthcare, we are one of the largest employers of nurses in the United States. Education is key to excellence! As a majority owner of Galen College of Nursing, which joins Research College of Nursing and Mercy School of Nursing as educational facilities within the HCA Healthcare family, we make it easier and more affordable to gain certifications and job skills. Apply today for our Adult Med Surg Registered Nurse opening and continue to learn!\n\nJob Summary and Qualifications\n\nUnit: This position is on A4W\n\nProvides leadership which facilitates the delivery of professional nursing care for the comfort and well-being of patients. Utilizes the nursing process of assessment, planning, implementation, and evaluation, to provide, delegate, supervise and document care and teaching of patients and family. Implements medically prescribed interventions.\n\nWhat qualifications you will need:\n• Required Experience: One year of RN experience\n• Preferred Experience: One year of hospital nursing experience\n• Required Education: Bachelor of Science in Nursing or enroll in a BSN or advanced degree program and obtain a BSN within 5 years of hire date into RN position. RNs with 10 years or more of experience are exempt.\n• Preferred Education: Masters in Nursing.\n• Required License/Certifications: Must have and maintain current licensure as registered nurse with the North Carolina Board of Nursing. eNLC (Enhanced Nurse License Compact) license may apply, licensee should confirm with NCBON\n• Certificate: BLS Healthcare Provider\n• Preferred License/Certifications: National Certification in area of specialty\n\nMission Hospital is located in Asheville, North Carolina. This is Mission Healths flagship hospital, licensed for 815 beds. Healthgrades named Mission Hospital as of one Americas 50 Best Hospitals from 2020-2023. Mission Hospital is in the top 1% of hospitals in the nation for providing the highest clinical quality year over year. Leapfrog Hospital Safety Grade recognized Mission Hospital with an \"A,\" nationally recognizing Mission Hospitals achievements in protecting patients and providing safer healthcare. Mission Hospital also earned the prestigious Magnet® Designation in November 2020. This is the highest international honor that distinguishes organizations that meet rigorous nursing excellence standards. We are the regional referral center for tertiary and quaternary care. We are the regions only Level II trauma center. Mission Hospital also includes Mission Childrens Hospital. The regions only childrens hospital - providing 30 pediatric sub-specialists. Were the busiest surgical hospital west of Raleigh, North Carolina. We are the second-busiest in the state. Mission Hospital provides the only open heart and interventional cardiology in the region. We are the only Cyberknife provider west of Raleigh.\n\nHCA Healthcare has been recognized as one of the Worlds Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated 3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\n\"Good people beget good people.\"- Dr. Thomas Frist, Sr.\n\nHCA Healthcare Co-Founder\n\nIf growth and continued learning is important to you, we encourage you to apply for our Adult Med Surg Registered Nurse opening. Our team will promptly review your application. Highly qualified candidates will be contacted for interviews. Unlock the possibilities apply today!\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.\n• Current HCA employees and those employed by HCA anytime within the past 6 months are not eligible to receive the sign on bonus.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770595200,
-    "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Asheville, NC",
-    "job_city": "Asheville",
-    "job_state": "North Carolina",
-    "job_country": "US",
-    "job_latitude": 35.5975104,
-    "job_longitude": -82.54605629999999,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DawwPt9ArRnyLHNMeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Required Experience: One year of RN experience",
-        "Required Education: Bachelor of Science in Nursing or enroll in a BSN or advanced degree program and obtain a BSN within 5 years of hire date into RN position",
-        "RNs with 10 years or more of experience are exempt",
-        "Required License/Certifications: Must have and maintain current licensure as registered nurse with the North Carolina Board of Nursing",
-        "eNLC (Enhanced Nurse License Compact) license may apply, licensee should confirm with NCBON",
-        "Certificate: BLS Healthcare Provider"
-      ],
-      "Benefits": [
-        "This position is eligible for a 10,000 sign on bonus with a 2 year commitment to Mission Health",
-        "Mission Hospital, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
-        "Comprehensive medical coverage that covers many common services at no cost or for a low copay",
-        "Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation",
-        "Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more",
-        "Free counseling services and resources for emotional, physical and financial wellbeing",
-        "401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)",
-        "Employee Stock Purchase Plan with 10% off HCA Healthcare stock",
-        "Family support through fertility and family building benefits with Progyny and adoption assistance",
-        "Referral services for child, elder and pet care, home and auto repair, event planning and more",
-        "Consumer discounts through Abenity and Consumer Discounts",
-        "Retirement readiness, rollover assistance services and preferred banking partnerships",
-        "Education assistance (tuition, student loan, certification support, dependent scholarships)",
-        "Colleague recognition program",
-        "Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)",
-        "Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income",
-        "Learn more about Employee Benefits",
-        "Current HCA employees and those employed by HCA anytime within the past 6 months are not eligible to receive the sign on bonus"
-      ],
-      "Responsibilities": [
-        "Provides leadership which facilitates the delivery of professional nursing care for the comfort and well-being of patients",
-        "Utilizes the nursing process of assessment, planning, implementation, and evaluation, to provide, delegate, supervise and document care and teaching of patients and family",
-        "Implements medically prescribed interventions"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "careers-hcahealthcare-com-jobs-16418658-adult-med-surg-registered-nurse-pt",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "g0plIQJn6qQ7ahIMAAAAAA==",
-    "job_title": "Clinical Nursing Specialist",
-    "employer_name": "beBeeRegisteredNurse",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Jobilize",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobilize.com/job/us-juneau-clinical-nursing-specialist-bebeeregisterednurse-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-juneau-clinical-nursing-specialist-bebeeregisterednurse-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "With the delivery of safe, quality patient care as the primary goal,the Registered Nurse exercises sound professional judgment and skills in-the performance of assigned duties.\nThe Registered Nurse is expected to practice a systematic approach to patient care utilizing the nursing process; assessment of patient status and needs, planning of patient care based on needs, implementation of the plan of care and evaluation of goal achievement.\n, Responsibilities include:\n,\n• Performs routine nursing tasks such as administering medications, providing wound care or assisting with physical therapy treatments ,\n• Patient education including health teaching related to managing chronic conditions like diabetes disease management,",
-    "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Juneau, AK",
-    "job_city": "Juneau",
-    "job_state": "Alaska",
-    "job_country": "US",
-    "job_latitude": 58.3004933,
-    "job_longitude": -134.4201306,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dg0plIQJn6qQ7ahIMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Responsibilities": [
-        "With the delivery of safe, quality patient care as the primary goal,the Registered Nurse exercises sound professional judgment and skills in-the performance of assigned duties",
-        "The Registered Nurse is expected to practice a systematic approach to patient care utilizing the nursing process; assessment of patient status and needs, planning of patient care based on needs, implementation of the plan of care and evaluation of goal achievement",
-        "Performs routine nursing tasks such as administering medications, providing wound care or assisting with physical therapy treatments ,",
-        "Patient education including health teaching related to managing chronic conditions like diabetes disease management,"
-      ]
-    },
-    "job_onet_soc": "21109100",
-    "job_onet_job_zone": "4",
-    "id": "www-jobilize-com-job-us-juneau-clinical-nursing-specialist-bebeeregisterednurse-hiring",
     "_source": "new_jobs"
   }
 ]
