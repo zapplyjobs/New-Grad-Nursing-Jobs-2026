@@ -73,7 +73,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **UTHealth Houston** | Nurse Anesthetist (CRNA) - Anest... | Houston, Texas | 9h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.uth.tmc.edu/us/en/job/240000RR/Nurse-Anesthetist-CRNA-Anesthesiology-LBJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **UTHealth Houston** | Nurse Anesthetist (CRNA) - Anest... | Houston, Texas | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.uth.tmc.edu/us/en/job/240000RR/Nurse-Anesthetist-CRNA-Anesthesiology-LBJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Owatonna ASC** | Certified Registered Nurse Anest... | Owatonna, Minnesota | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.practicematch.com/advanced-practitioners/job-details.cfm/1061726/anesthesiology/minnesota/owatonna/owatonna-asc/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **US Anesthesia Partners, Inc.** | Contingent - CRNA | Palm Coast, Florida | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/US-Anesthesia-Partners,-Inc./Job/Contingent-CRNA/-in-Palm-Coast,FL?jid=aad94b3fda92b273&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **US Digestive Health (USDH) - Malvern** | Base and Bonus Up to $280K.Certi... | Malvern, Pennsylvania | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.practicematch.com/advanced-practitioners/job-details.cfm/974836/gastroenterology/pennsylvania/malvern/us-digestive-health-%28usdh%29-malvern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -139,18 +139,19 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 3 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 4 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 3 positions
+- **📁 Total Jobs**: 4 positions
 - **🏢 Companies**: 5 companies
 - **🏷️ Top Category**: Registered Nurse
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (3 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (4 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
+| 🏢 **Jackson Health** | Nurse Anesthetist, CRNA, Part Ti... | Miami, Florida | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.jacksonhealth.org/us/en/job/213074/Nurse-Anesthetist-CRNA-Part-Time-w-Benefits-Jackson-South-Medical-Center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **WellSpan Health** | Nurse Anesthetist - Chambersburg | Waynesboro, Pennsylvania | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.joinwellspan.org/jobs/nurse_anesthetist_chambersburg_advanced_practice_providers/waynesboro_pa/101/406577/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **WellSpan Health** | Nurse Anesthetist - Gettysburg | Gettysburg, Pennsylvania | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.joinwellspan.org/jobs/Nurse_Anesthetist_-_Gettysburg/101/406504/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **USA Health** | CRNA (Certified Registered Nurse... | Mobile, Alabama | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.usahealthsystem.com/jobs/20246?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
