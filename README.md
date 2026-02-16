@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-10-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-9-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-10-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-7-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-7-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 9+ top companies and healthcare facilities. Updated every 15 minutes with 10+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 6+ top companies and healthcare facilities. Updated every 15 minutes with 7+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,16 +69,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (10 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (7 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **UTHealth Houston** | Nurse Anesthetist (CRNA) - Anest... | Houston, Texas | 8h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.uth.tmc.edu/us/en/job/240000RR/Nurse-Anesthetist-CRNA-Anesthesiology-LBJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Saint Lukes** | Registered Nurse- Med Surg Inter... | Lee's Summit, Missouri | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.acc-az.org/jobs/22049965/registered-nurse-med-surg-intermediate-float?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Trusted Locum Staffing LLC.** | Certified Registered Nurse Anest... | Putnam, Connecticut | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.doccafe.com/job/crna/anesthesiology/19900742/certified-registered-nurse-anesthetist-putnam-ct?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **beBeeNurse** | Clinical Nursing Specialist | Lawrenceburg, Indiana | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/amp/job/us-lawrenceburg-clinical-nursing-specialist-bebeenurse-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Owatonna ASC** | Certified Registered Nurse Anest... | Owatonna, Minnesota | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.practicematch.com/advanced-practitioners/job-details.cfm/1061726/anesthesiology/minnesota/owatonna/owatonna-asc/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Incredible Health** | Clinical Nurse Specialist | Boston, Massachusetts | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.incrediblehealth.com/jobs/nurse/caLU9gQ8AhatdjDekSh4UBiP/a-cns-boston-ma?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **US Anesthesia Partners, Inc.** | Contingent - CRNA | Palm Coast, Florida | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/US-Anesthesia-Partners,-Inc./Job/Contingent-CRNA/-in-Palm-Coast,FL?jid=aad94b3fda92b273&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **US Digestive Health (USDH) - Malvern** | Base and Bonus Up to $280K.Certi... | Malvern, Pennsylvania | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.practicematch.com/advanced-practitioners/job-details.cfm/974836/gastroenterology/pennsylvania/malvern/us-digestive-health-%28usdh%29-malvern/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Duke Health** | Nurse Anesthetist (CRNA) | Durham, North Carolina | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dukehealth.org/us/en/job/DUHDUHUS263777EXTERNALENUS/Nurse-Anesthetist-CRNA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -143,19 +140,20 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 4 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 5 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 4 positions
-- **🏢 Companies**: 9 companies
+- **📁 Total Jobs**: 5 positions
+- **🏢 Companies**: 6 companies
 - **🏷️ Top Category**: Registered Nurse
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (4 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (5 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Jackson Health** | Nurse Anesthetist, CRNA, Part Ti... | Miami, Florida | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.jacksonhealth.org/us/en/job/213074/Nurse-Anesthetist-CRNA-Part-Time-w-Benefits-Jackson-South-Medical-Center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **WellSpan Health** | Nurse Anesthetist - Chambersburg | Waynesboro, Pennsylvania | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.joinwellspan.org/jobs/nurse_anesthetist_chambersburg_advanced_practice_providers/waynesboro_pa/101/406577/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **WellSpan Health** | Nurse Anesthetist - Gettysburg | Gettysburg, Pennsylvania | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.joinwellspan.org/jobs/Nurse_Anesthetist_-_Gettysburg/101/406504/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **USA Health** | CRNA (Certified Registered Nurse... | Mobile, Alabama | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.usahealthsystem.com/jobs/20246?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **MD Anderson** | Certified Registered Nurse Anest... | Houston, Texas | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.mdanderson.org/search/jobdetails/certified-registered-nurse-anesthetist/0064afc8-96ee-4000-ba97-1fbfc3cbdab4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -172,7 +170,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 10 current opportunities from 9 companies**
+**🎯 7 current opportunities from 6 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
