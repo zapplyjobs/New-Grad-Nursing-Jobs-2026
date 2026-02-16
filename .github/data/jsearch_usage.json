@@ -1,13 +1,14 @@
 {
   "date": "Mon Feb 16 2026",
-  "requests": 6,
-  "remaining": 24,
+  "requests": 7,
+  "remaining": 23,
   "queries_executed": [
     "registered nurse",
     "rn nurse",
     "lpn nurse",
     "lvn nurse",
     "cna nurse",
-    "cna nurse"
+    "cna nurse",
+    "nurse practitioner"
   ]
 }

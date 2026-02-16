@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-7-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-5-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-10-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-9-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 7+ top companies and healthcare facilities. Updated every 15 minutes with 7+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 8+ top companies and healthcare facilities. Updated every 15 minutes with 10+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,25 +69,28 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (5 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (9 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
+| 🏢 **CVS Health** | In-Home Health - Nurse Practitio... | Olympia, Washington | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cvshealth.com/us/en/job/R0765170/In-Home-Health-Nurse-Practitioner-or-Physician-Assistant-Full-Time-Washington-Traveler?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Adventist Health** | Certified Nursing Assistant, ICU... | Bakersfield, California | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://ecvz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/58268/?keyword=part+time&location=United+States&locationId=300000000345520&locationLevel=country&mode=job-location&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Vohra Wound Physicians, LLC** | Nurse Practitioner (NP) job in U... | Utica, New York | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://vohrawoundcare.com/job-openings/nurse-uticany-1546/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Doctors Medical Center of Modesto** | Certified Nursing Assistant (CNA... | Modesto, California | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.tenethealth.com/job/modesto/certified-nursing-assistant-cna-telemetry/1127/91673985408?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **CVS Health** | Virtual Clinician Home Evaluatio... 🏠 | Richmond, Virginia | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cvshealth.com/us/en/job/R0828034/Virtual-Clinician-Home-Evaluations-Nurse-Practitioner-or-Physician-Assistant-Full-Time-VA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **CVS Health** | In-Home Nurse Practitioner or Ph... | Blacksburg, Virginia | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/CVS/Job/In-Home-Nurse-Practitioner-or-Physician-Assistant-Part-Time-Blacksburg/-in-Blacksburg,VA?jid=81c04620f9f8a50b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Prisma Health** | Certified Nursing Asst (CNA) - O... | Greenville, South Carolina | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.prismahealth.org/us/en/job/R1130809/Certified-Nursing-Asst-CNA-Orthopedic-Surgery-PRN-Variable?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Queen of the Valley Hospital - West Covina** | Clinical Nurse Partner (CNA) - F... | West Covina, California | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.emanatehealth.org/job/west-covina/clinical-nurse-partner-cna-float-full-time-days-12hr-qvh/289/91397309904?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **The University of Iowa** | 80-100% Physician Assistant or A... | Iowa City, Iowa | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.higheredjobs.com/region/details.cfm?JobCode=179360059&Title=80-100%25+Physician+Assistant+or+Advanced+Registered+Nurse+Practitioner+-+Oculoplastics&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **The Laurels of University Park** | Certified Nursing Assistant (CNA) | Richmond, Virginia | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cienahealthcare.com/job/richmond/certified-nursing-assistant-cna/45073/86813626544?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
 <details>
-<summary><h3>🩺 <strong>Specialized Care</strong> (2 positions)</h3></summary>
+<summary><h3>⚕️ <strong>Nurse Practitioner</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Capital City Nurses** | Bilingual (Spanish) Certified Nu... | Alexandria, Virginia | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Capital-City-Nurses/Job/Bilingual-(Spanish)-Certified-Nursing-Assistants-(CNA)-and-Personal-Care-Assistants-(PCA)-Flexible/-in-Alexandria,VA?jid=b5a046d07de1aeec&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Brewer Center for Health & Rehabilitation** | Full-Time Certified Nursing Assi... | Hampden, Maine | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=88dff297f899&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **DocCafe** | Geriatrics Nurse Practitioner - ... | Clearfield, Pennsylvania | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=0a477c105ccc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -148,23 +151,28 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 5 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 5 positions
-- **🏢 Companies**: 7 companies
+- **📁 Total Jobs**: 2 positions
+- **🏢 Companies**: 8 companies
 - **🏷️ Top Category**: Registered Nurse
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (5 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **UVA Health** | Certified Nurse Assistant (CNA)/... | Charlottesville, Virginia | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.uvahealth.org/us/en/job/R0077168/Certified-Nurse-Assistant-CNA-Patient-Care-Technician-PCT-Trauma-Surgical-Subspecialties?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Elmwood Hills Healthcare Center** | CNA (certified nursing assistant... | Gloucester Township, New Jersey | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169296640-cna-certified-nursing-assistant-all-shifts?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **MUSC** | Certified Nurse Assistant (CNA) ... | Mullins, South Carolina | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://musc.career-pages.com/jobs/certified-nurse-assistant-cna-mullins-nursing-center-ft-nights-mullins-south-carolina-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Prisma Health** | Nursing Assistant Cert Part Time... | Easley, South Carolina | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.prismahealth.org/us/en/job/R1129945/Nursing-Assistant-Cert-Part-Time-Nights?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Adventist HealthCare** | Certified Nursing Assistant, Day... | Rockville, Maryland | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169260603-certified-nursing-assistant-day-shift-med-surg-flex?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **One Medical** | Expanded Care (Urgent Care) Nurs... | Washington, District of Columbia | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.onemedical.com/job/washington/expanded-care-urgent-care-nurse-practitioner-or-physician-assistant/45973/91097556128?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>⚕️ <strong>Nurse Practitioner</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **DOT Exam Express Inc** | Nurse Practitioner/ MD/ DO | Halethorpe, Maryland | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/nurse-practitioner-md-do-at-dot-exam-express-inc-4366366245?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -178,7 +186,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 7 current opportunities from 7 companies**
+**🎯 10 current opportunities from 8 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
