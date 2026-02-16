@@ -1,7 +1,7 @@
 {
   "date": "Mon Feb 16 2026",
-  "requests": 25,
-  "remaining": 5,
+  "requests": 26,
+  "remaining": 4,
   "queries_executed": [
     "registered nurse",
     "rn nurse",
@@ -27,6 +27,7 @@
     "nurse manager",
     "nurse manager",
     "nurse supervisor",
-    "nurse supervisor"
+    "nurse supervisor",
+    "travel nurse"
   ]
 }
