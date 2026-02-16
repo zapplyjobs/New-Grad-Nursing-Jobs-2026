@@ -174,8 +174,8 @@
     "job_latitude": 39.959883999999995,
     "job_longitude": -75.6062135,
     "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DRObs0OASmNqAGQE3AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -320,8 +320,8 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "GGw5_vLWt9ETMXkGAAAAAA==",
-    "job_title": "Part Time CRNA Certified Registered Nurse Anesthetist",
+    "job_id": "00UkdOLEVhfyre8NAAAAAA==",
+    "job_title": "CRNA Certified Registered Nurse Anesthetist",
     "employer_name": "Cone Health",
     "employer_logo": null,
     "employer_website": "https://www.conehealth.com",
@@ -330,36 +330,36 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=9748c952b68a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.talent.com/view?id=82ec3bf15745&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=9748c952b68a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.talent.com/view?id=82ec3bf15745&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/amp/job/us-tn-franklin-crna-certified-registered-nurse-anesthetist-cone-health?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.jobilize.com/job/us-va-richmond-army-reserve-certified-registered-nurse-anesthetist?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
     "job_description": "Your Practice. Your Way.\n\nCompetitive Pay. Robust Benefits.\n\nSign-on bonuses up to $100,000 with a 4-year work commitment\n\nNew compensation packages at the 90th percentile based on national survey data\n\n40 days of annual paid vacation\n\nAPP Center of Excellence opening in fall 2026\n\nTuition reimbursement\n\n401(a) retirement plan and 403(b) savings plan\n\nWork with us as we build toward a full scope of anesthesia practice!\n\nEssential Job Function\n• ? Clinical responsibilities of the CRNA are delineated by his or her clinical privileges.\n• ? Assists with collecting, reviewing, and evaluating all data pertinent to the patient's medical and surgical history, with consideration of the planned procedure.\n• ? Maintains a safe environment and responds appropriately to emergencies and safety hazards.\n• ? Prepares and administers medications and fluids in accordance with accepted standards of safe practice.\n• ? Supports with maintaining constant vigilance with ongoing assessment of airway, depth of anesthesia, fluids status, and physiologic response to anesthesia to ensure patient safety.\n• ? Helps complete all required documentation : the surgical safety checklist, the pre-operative assessment, the intra-operative anesthetic record, and the transfer-of-care note.\n• ? Logs incident reporting in the computerized Safety Portal.\n• ? Performs other duties as assigned.\n\nEducation\n• ? Required : Graduate of a nurse anesthesia educational program accredited by the Council on Accreditation of Nurse Anesthesia Educational Programs or its predecessor.\n\nAs one of the largest and most comprehensive not-for-profit health networks in the Piedmont Triad region of North Carolina, Cone Health is dedicated to accessible, value-based healthcare services. Our brand promise We're right here with you resonates with our 13,000 team members and 1,650 physicians and medical staff, and aligns with our mission to provide quality patient care and community support.\n\nWhether you prefer a high-acuity or community-based setting, we offer many full- and part-time options tailored to fit your career aspirations and lifestyle.\n\nJoin us in our effort to deliver exceptional anesthesia care while challenging ourselves to meet the highest standards of clinical excellence. Together, we can foster a culture of accountability and compassion.\n\nAwards & Recognitions\n• ? Great Place to Work-Certified 2025-2026\n• ? Named one of Newsweeks Greatest Workplaces For Women 2025\n• ? Named one of Newsweeks Greatest Workplaces For Inclusion & Diversity 2025\n• ? 2025 High Performing Hospitals for Maternity Care by U.S. News & World Report",
     "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Franklin, TN",
-    "job_city": "Franklin",
-    "job_state": "Tennessee",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Richmond, VA",
+    "job_city": "Richmond",
+    "job_state": "Virginia",
     "job_country": "US",
-    "job_latitude": 35.9238901,
-    "job_longitude": -86.8676866,
+    "job_latitude": 37.5407246,
+    "job_longitude": -77.4360481,
     "job_benefits": [
       "paid_time_off",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DGGw5_vLWt9ETMXkGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D00UkdOLEVhfyre8NAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
@@ -396,85 +396,112 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "UjIlr1-TFUNGtm5fAAAAAA==",
-    "job_title": "Certified Registered Nurse Anesthetist - W2 - Full Time - Saint Francis Hospital - Wilmington",
-    "employer_name": "Vituity",
-    "employer_logo": null,
-    "employer_website": "https://www.vituity.com",
-    "job_publisher": "Women For Hire- Job Board",
+    "job_id": "xyePx6XcHSIKKnSSAAAAAA==",
+    "job_title": "Nurse Anesthetist - Hanover",
+    "employer_name": "WellSpan Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRv1_agmaRk6HbUYCRvqiw65CkBcv4EnlLPOJr2&s=0",
+    "employer_website": "https://www.wellspan.org",
+    "job_publisher": "WellSpan Health",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/hockessin-de/certified-registered-nurse-anesthetist-w2-full-time-saint-francis-hospital-wilmington-644657/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.joinwellspan.org/jobs/Nurse_Anesthetist_-_Hanover/102/401581/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Women For Hire- Job Board",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/hockessin-de/certified-registered-nurse-anesthetist-w2-full-time-saint-francis-hospital-wilmington-644657/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "WellSpan Health",
+        "apply_link": "https://www.joinwellspan.org/jobs/Nurse_Anesthetist_-_Hanover/102/401581/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/WellSpan-Health/Job/Nurse-Anesthetist-Hanover/-in-Hanover,PA?jid=657336138e043241&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/nurse-anesthetist-hanover-wellspan-health-JV_IC1153449_KO0,25_KE26,41.htm?jl=1009983223399&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=b8d96cf86f77b54a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/vRSf1FY7RcbKOCRNCfEUVzQFD1hmM3ZUbISYIZy_I62v_pg-5LQftw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/remote-nurse-anesthetist-hanover-hanover-wellspan-health-system-41cab0443da73aff1e787da6b7d7a84f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/nurse-anesthetist-hanover-at-wellspan-health-4305100103?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "National Labor Exchange",
+        "apply_link": "https://usnlx.com/hanover-pa/nurse-anesthetist-hanover/3F493C9498F14C7394FC72DFD64AAC24/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Up to $50K Sign On Bonus! – Wilmington, DE – Seeking CRNAs\n\nBecome a Valued Member of Your Anesthesia Team\n\nAs a CRNA, you play a critical role in our mission to improve lives in Anesthesiology and are a valued member of the full care team. At Vituity we know the impact you can have.\n\nJoin the Vituity Team. At Vituity we’ve cultivated an environment where passion thrives, and success comes through shared purpose. We were founded in a culture that values team accomplishments more than individual achievements, an approach we call “culture of brilliance.” Together, we leverage our strengths and experiences to make a positive impact in our local communities. We foster this through shared goals and helping our colleagues succeed, and we also understand the importance of recognition, taking the time to show appreciation and gratitude for a job well done.\n\nVituity Locations: Vituity has opportunities at 475 sites across the country, serving 9 million patients a year, with Anesthesia sites in CA, OR, WI, and GA. With Vituity, if you ever need to move, you can take your job with you.\n\nThe Opportunity\n• Up to $50k sign-on bonus available for qualified candidates.\n• Seeking valued, independent full-time Certified Registered Nurse Anesthetists (CRNAs) to join our Anesthesia team.\n• Current DE state license a plus.\n• New grads are welcome to apply.\n• ACLS required.\n• Providers may support affiliated surgery centers.\n• $300k annually including benefits package.\n\nThe Practice\n\nSaint Francis Hospital – Wilmington, Delaware\n• At Vituity, Certified Registered Nurse Anesthetists are respected, empowered, and involved in making a difference at the clinical level and leadership level.\n• Share and receive support from a network of 5,000+ clinicians.\n• Unparalleled professional development opportunities, including fellowships, internships, and a stipend for professional growth.\n\nThe Community\n• Wilmington, Delaware, is a vibrant city that blends historical charm, cultural richness, and modern amenities, making it a wonderful place to live and work.\n• Nestled along the Christina River, the city boasts landmarks like the Delaware Art Museum, known for its pre-Raphaelite collection, and the scenic Brandywine Park, perfect for outdoor activities.\n• The Riverfront district is a hub of entertainment, offering dining, shopping, and events, while the Grand Opera House provides a venue for concerts and performances.\n• Seasonal weather includes mild springs, colorful autumns, snowy winters, fostering year-round activities.\n• Wilmington’s strategic location is near Philadelphia, Baltimore, and Washington, D.C., offering easy access to major metropolitan areas.\n• With a strong sense of community, historical significance, and diverse recreational opportunities, Wilmington provides a dynamic and fulfilling lifestyle for residents of all ages.\n\nBenefits & Beyond*\n\nVituity cares about the whole you. With our comprehensive compensation and benefits package, we are mindful of what matters most, and support your needs of today and your plans for the future.\n• Superior health plan options\n• Dental, Vision, Life and AD&D coverage, and more\n• Top Tier 401(k) retirement savings plans that offers a $1.20 match for every dollar up to 6%\n• Variety of Pre-Tax Savings Accounts including HSA, FSA, Dependent Care and Commuter Benefits\n• Time Off when you need it: Start with 4 weeks PTO annually and increase to 6 weeks with tenure, plus generous sick leave\n• Flexible scheduling for work/life balance\n• Yearly annual cash bonus\n• Professional Expense Reimbursement for medical staff dues, states licenses, DEA license, and national recertification fees\n• Up to $1,500 annual allowance for medical education courses and professional memberships\n• Student Loan Refinancing Discounts\n• EAP, travel assistance and identify theft included\n• Free education opportunities for personal and professional growth\n• Several wellness programs that focus on provider wellbeing and health\n• Community initiatives including LGBTQ+ History, Día de los Muertos Celebration, Money Management/Money Relationship, and more\n• Purpose-driven culture focused on improving the lives of our patients, communities, and employees\n\nWe are unified around the common purpose of transforming healthcare to improve lives and we believe everyone has a role to play in that. When we work together across sites and specialties as an integrated healthcare team, we exceed the expectations of our patients and the hospitals and clinics we work in. If you are looking to make a difference, from clinical to corporate, Vituity is the place to do it. Come grow with us.\n\nVituity does not discriminate against any person on the basis of race, creed, color, religion, gender, sexual orientation, gender identity/expression, national origin, disability, age, genetic information (including family medical history), veteran status, marital status, pregnancy or related condition, or any other basis protected by law. Vituity is committed to complying with all applicable national, state and local laws pertaining to nondiscrimination and equal opportunity.\n• Benefits for part-time and per diem vary. Please speak to a recruiter for more information.\n\nApplicants only. No agencies please.",
+    "job_description": "Supported. Rewarded. Investing in You.\n\nJob Title: Certified Registered Nurse Anesthetist\n\nLocation: Hanover, PA\n\nEmployment Type: Full-time (1.0 FTE)\n\nWhat you can expect at your practice:\n• New Grads welcome!\n• Full-time position; Monday - Friday; No weekends, holidays or call\n• Case mix includes: Endo, Ortho, Podiatry, Dental, ENT & Ophthalmology\n• Work with an established team of Anesthesiologists and CRNAs\n• Salary commensurate with experience - $250K+ for experienced CRNAs\n• Signing incentives up to $125K\n• 5 days of CME time off for full-time CRNAs plus $4,500 CME allowance\n\nFirst in Class Benefits:\n• Parental Leave up to 4 weeks\n• Comprehensive health benefits\n• Flexible spending and health savings accounts\n• Retirement savings plan\n• Paid time off (PTO)\n• Short-term disability\n• Financial education and support, including DailyPay\n• Wellness and Wellbeing programs\n• Caregiver support via Wellthy\n• Childcare referral service via Wellthy\n\nWhat Sets Us Apart:\n• Newsweek and Plant-A Insights Group recently recognized WellSpan as one of America's Greatest Workplaces in Health Care for 2025 - a distinction WellSpan has been honored with for the third year in a row!\n• WellSpan Health has once again been recognized by the American Medical Association (AMA) as a Joy in Medicine™ organization for its efforts to promote the wellbeing of its team members through targeted initiatives and programs that reduce burnout and stressors in the workplace\n• WellSpan Well-being: We focus on promoting overall health and wellness. Our initiatives and activities provide resources and support to help individuals improve their physical, mental, and emotional well-being.\n\nDiscover Your Dream Location:\n\nYork, PA\n• Affordable and convenient location - York offers a low cost of living with easy access to major cities like Baltimore, Philadelphia, and Washington, D.C., making it ideal for commuters and families.\n• Rich history and vibrant culture - Known as the \"White Rose City,\" York features historic architecture, museums, and cultural landmarks, plus a growing arts and music scene downtown.\n• Outdoor recreation and community events - Residents enjoy scenic parks, the Heritage Rail Trail for biking and hiking, and seasonal festivals like the York Fair, America's oldest fair.\n\nConfidentially Connect with Our Recruiter:\n\nName: Erin Smith\n\nEmail: esmith24@wellspan.org\n\nPhone: (717) 812-5606\n\nWebsite: https://www.joinwellspan.org/crna/\n\n#CRNA",
     "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Hockessin, DE",
-    "job_city": "Hockessin",
-    "job_state": "Delaware",
+    "job_posted_at": "8 days ago",
+    "job_posted_at_timestamp": 1770508800,
+    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
+    "job_location": "Hanover, PA",
+    "job_city": "Hanover",
+    "job_state": "Pennsylvania",
     "job_country": "US",
-    "job_latitude": 39.7876112,
-    "job_longitude": -75.6966001,
+    "job_latitude": 39.800655299999995,
+    "job_longitude": -76.9830358,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUjIlr1-TFUNGtm5fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DxyePx6XcHSIKKnSSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
-      "Qualifications": [
-        "Seeking valued, independent full-time Certified Registered Nurse Anesthetists (CRNAs) to join our Anesthesia team",
-        "New grads are welcome to apply",
-        "ACLS required"
-      ],
       "Benefits": [
-        "Up to $50K Sign On Bonus!",
-        "Up to $50k sign-on bonus available for qualified candidates",
-        "$300k annually including benefits package",
-        "Unparalleled professional development opportunities, including fellowships, internships, and a stipend for professional growth",
-        "With a strong sense of community, historical significance, and diverse recreational opportunities, Wilmington provides a dynamic and fulfilling lifestyle for residents of all ages",
-        "Vituity cares about the whole you",
-        "With our comprehensive compensation and benefits package, we are mindful of what matters most, and support your needs of today and your plans for the future",
-        "Superior health plan options",
-        "Dental, Vision, Life and AD&D coverage, and more",
-        "Top Tier 401(k) retirement savings plans that offers a $1.20 match for every dollar up to 6%",
-        "Variety of Pre-Tax Savings Accounts including HSA, FSA, Dependent Care and Commuter Benefits",
-        "Time Off when you need it: Start with 4 weeks PTO annually and increase to 6 weeks with tenure, plus generous sick leave",
-        "Flexible scheduling for work/life balance",
-        "Yearly annual cash bonus",
-        "Professional Expense Reimbursement for medical staff dues, states licenses, DEA license, and national recertification fees",
-        "Up to $1,500 annual allowance for medical education courses and professional memberships",
-        "Student Loan Refinancing Discounts",
-        "EAP, travel assistance and identify theft included",
-        "Free education opportunities for personal and professional growth",
-        "Several wellness programs that focus on provider wellbeing and health",
-        "Community initiatives including LGBTQ+ History, Día de los Muertos Celebration, Money Management/Money Relationship, and more",
-        "Benefits for part-time and per diem vary"
+        "Rewarded",
+        "New Grads welcome!",
+        "Full-time position; Monday - Friday; No weekends, holidays or call",
+        "Salary commensurate with experience - $250K+ for experienced CRNAs",
+        "Signing incentives up to $125K",
+        "5 days of CME time off for full-time CRNAs plus $4,500 CME allowance",
+        "First in Class Benefits:",
+        "Parental Leave up to 4 weeks",
+        "Comprehensive health benefits",
+        "Flexible spending and health savings accounts",
+        "Retirement savings plan",
+        "Paid time off (PTO)",
+        "Short-term disability",
+        "Financial education and support, including DailyPay",
+        "Wellness and Wellbeing programs",
+        "Caregiver support via Wellthy",
+        "Childcare referral service via Wellthy",
+        "Affordable and convenient location - York offers a low cost of living with easy access to major cities like Baltimore, Philadelphia, and Washington, D.C., making it ideal for commuters and families"
       ],
       "Responsibilities": [
-        "Providers may support affiliated surgery centers",
-        "At Vituity, Certified Registered Nurse Anesthetists are respected, empowered, and involved in making a difference at the clinical level and leadership level",
-        "Share and receive support from a network of 5,000+ clinicians"
+        "Employment Type: Full-time (1.0 FTE)",
+        "Case mix includes: Endo, Ortho, Podiatry, Dental, ENT & Ophthalmology",
+        "Work with an established team of Anesthesiologists and CRNAs",
+        "Rich history and vibrant culture - Known as the \"White Rose City,\" York features historic architecture, museums, and cultural landmarks, plus a growing arts and music scene downtown",
+        "Outdoor recreation and community events - Residents enjoy scenic parks, the Heritage Rail Trail for biking and hiking, and seasonal festivals like the York Fair, America's oldest fair"
       ]
     },
     "job_onet_soc": "29115100",
     "job_onet_job_zone": "5",
-    "id": "jobs-womenforhire-com-job-usa-hockessin-de-certified-registered-nurse-anesthetist-w2-full-time-saint-francis-hospital-wilmington-644657",
+    "id": "www-joinwellspan-org-jobs-nurse_anesthetist_-_hanover-102-401581",
     "_source": "new_jobs"
   },
   {
@@ -860,112 +887,11 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "4361S1Hg-qAA3zCoAAAAAA==",
-    "job_title": "CRNA - Certified Registered Nurse Anesthetist - Hospital - Nights (152)",
-    "employer_name": "UAB Medicine",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH2byBAVne-ajFa5jNFaGpoAPlbulSKq5QBz8-&s=0",
-    "employer_website": "https://www.uabmedicine.org",
-    "job_publisher": "UAB Medicine Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.uabmedicine.org/us/en/job/T231740/CRNA-Certified-Registered-Nurse-Anesthetist-Hospital-Nights-152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "UAB Medicine Careers",
-        "apply_link": "https://careers.uabmedicine.org/us/en/job/T231740/CRNA-Certified-Registered-Nurse-Anesthetist-Hospital-Nights-152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=5c9dd38e7ada2a7a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Careers.peopleclick.com",
-        "apply_link": "https://careers.peopleclick.com/careerscp/client_uahsf/external/jobDetails/jobDetail.html?jobPostId=30602&localeCode=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Glassdoor",
-        "apply_link": "https://www.glassdoor.com/job-listing/crna-certified-registered-nurse-anesthetist-tap-uab-medicine-JV_IC1127429_KO0,47_KE48,60.htm?jl=1009942830145&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/xlf5Jba-Oj6NdwZFgl5fpwPgDEENzpZ2P5Y7ofCTg26Z1L7GbacDNQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/6330069ab2a41636f1eaa3adefc267c2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/crna-certified-registered-nurse-anesthetist-legacy-of-hope-at-uab-medicine-4242971279?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/crna-certified-registered-nurse-anesthetist-legacy-of-hope-universityofalabamaatbirmingham-birmingham-al_81818812?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Overview\n\nPay range: $170,000 - $220,318 / year\n\nSign-on bonus: $45,000 new hire sign-on bonus may be available and a $10,000 yearly incentive (paid monthly) may be available\n\nShifts: full-time Nights\n\nBenefits and perks available for eligible positions include: robust educational assistance programs, generous paid time off, employee assistance and wellness programs, paid parental leave, qualifying employer for the Public Service Loan Forgiveness (PSLF) Program, plus more.\nJob Highlights\n\nOur team of over 200 CRNAs manages 100,000+ cases annually at more than 150 anesthetizing locations across our medical campus and some UAB St. Vincent’s facilities. From cancer and transplantation to trauma and same-day surgery, our CRNAs work alongside world-renowned providers and a host of other dedicated team members to deliver on our mission of providing compassionate, high-quality care. As a leading academic medical center, UAB Medicine offers CRNAs the opportunity to challenge their skills across a full range of clinical specialties and experience a wide variety of cases, in both inpatient and outpatient settings. From cancer and transplantation to trauma and same-day surgery, plus diagnostic and complex interventional cardiac, radiologic, and GI procedures, our 140 CRNAs work on 50,000+ cases annually as a part of our interdisciplinary care teams to deliver the highest-quality care for our patients.\nJob Description\n\nTo provide anesthesia under the direction of an anesthesiologist for diverse surgical procedures and diagnostic tests or cardio-thoracic surgical procedures and cardiac catheterizations. To participate in clinical instruction of nurse anesthesia students.\nQualifications\nGraduate from an accredited Nurse Anesthesia Program required. Work experience may NOT substitute for education requirement. Currently certified as an Advanced Practice Nurse (APN) with Certified Registered Nurse Anesthetist (CRNA) Specialty by the Alabama Board of Nursing required. Currently certified with Advanced Cardiac Life Support (ACLS) required. Currently certified with Basic Life Support (BLS) from the American Heart Association (AHA) required. Currently certified with Pediatric Advanced Life Support (PALS) from the American Heart Association (AHA) required.Why Work at UAB Medicine\n\nWe are UAB Medicine, Alabama’s largest and most comprehensive health system, recognized nationally for delivering world-class patient care, pioneering research, and cutting-edge medical education. We proudly serve more than 1.1 million patients each year – from every county in Alabama, all 50 states, and many countries around the world. Our network spans numerous hospitals, emergency departments, more than 67 other sites of care, and a team of over 2,200 physicians. Our key facilities include UAB Hospital – ranked the No. 1 hospital in Alabama by U.S. News & World Report and home to the state’s only ACS-verified Level I adult trauma center and Magnet-designated hospital – along with UAB Hospital-Callahan Eye and five UAB St. Vincent’s hospitals serving central Alabama.\n\nUAB Medicine offers careers across a wide range of practice environments, from our internationally renowned academic medical center and award-winning community hospitals to our primary and specialty care clinics across the state. Whether you’re seeking the fast-paced learning environment of a tertiary care setting or the close-knit environment of a community facility, there’s a place for you on our team where you can become part of a mission-driven organization committed to delivering life-changing care. With nearly every medical specialty represented and unlimited opportunities for growth, you’ll find the right fit for your skills and career goals. We care for you by offering comprehensive, industry-leading benefit packages to support the individual preferences and circumstances of our diverse staff.",
-    "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Birmingham, AL",
-    "job_city": "Birmingham",
-    "job_state": "Alabama",
-    "job_country": "US",
-    "job_latitude": 33.5185892,
-    "job_longitude": -86.8103567,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4361S1Hg-qAA3zCoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Graduate from an accredited Nurse Anesthesia Program required",
-        "Work experience may NOT substitute for education requirement",
-        "Currently certified as an Advanced Practice Nurse (APN) with Certified Registered Nurse Anesthetist (CRNA) Specialty by the Alabama Board of Nursing required",
-        "Currently certified with Advanced Cardiac Life Support (ACLS) required",
-        "Currently certified with Basic Life Support (BLS) from the American Heart Association (AHA) required",
-        "Currently certified with Pediatric Advanced Life Support (PALS) from the American Heart Association (AHA) required"
-      ],
-      "Benefits": [
-        "Pay range: $170,000 - $220,318 / year",
-        "Sign-on bonus: $45,000 new hire sign-on bonus may be available and a $10,000 yearly incentive (paid monthly) may be available",
-        "Shifts: full-time Nights",
-        "Benefits and perks available for eligible positions include: robust educational assistance programs, generous paid time off, employee assistance and wellness programs, paid parental leave, qualifying employer for the Public Service Loan Forgiveness (PSLF) Program, plus more",
-        "We care for you by offering comprehensive, industry-leading benefit packages to support the individual preferences and circumstances of our diverse staff"
-      ],
-      "Responsibilities": [
-        "To provide anesthesia under the direction of an anesthesiologist for diverse surgical procedures and diagnostic tests or cardio-thoracic surgical procedures and cardiac catheterizations",
-        "To participate in clinical instruction of nurse anesthesia students"
-      ]
-    },
-    "job_onet_soc": "29115100",
-    "job_onet_job_zone": "5",
-    "id": "careers-uabmedicine-org-us-en-job-t231740-crna-certified-registered-nurse-anesthetist-hospital-nights-152",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "n2whOm0wlg-EuEP1AAAAAA==",
     "job_title": "Nurse Anesthetist Rapid City Hospital",
     "employer_name": "Monument Health",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwmN5ugMUvJv9bHLXY3JiBt3vnA94nai8pw7L&s=0",
-    "employer_website": "https://monument.health",
+    "employer_website": "https://monumenthg.com",
     "job_publisher": "Monument Health",
     "job_employment_type": "Full-time",
     "job_employment_types": [
@@ -992,9 +918,9 @@
     "job_latitude": 40.2413392,
     "job_longitude": -76.0567227,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dn2whOm0wlg-EuEP1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1046,6 +972,88 @@
     "job_onet_soc": "29115100",
     "job_onet_job_zone": "5",
     "id": "monument-health-gfj-nurse-anesthetist-rapid-city-hospital-adamstown-pa-691c210997d19e038c0f1682",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "T7hI4IRqHL9BAmWHAAAAAA==",
+    "job_title": "Certified Registered Nurse Anesthetist",
+    "employer_name": "US Anesthesia Partners, Inc.",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6rJ_ZkFGHdkH1ApoqyCcleWsLHOM65TfCwW-Y&s=0",
+    "employer_website": null,
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Part-time",
+    "job_employment_types": [
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/US-Anesthesia-Partners,-Inc./Job/Certified-Registered-Nurse-Anesthetist-(CRNA)/-in-Pensacola,FL?jid=4102254aeefa592c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/US-Anesthesia-Partners,-Inc./Job/Certified-Registered-Nurse-Anesthetist-(CRNA)/-in-Pensacola,FL?jid=4102254aeefa592c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/b9ee96eac90b1cd6d0fced5599379152?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Marit",
+        "apply_link": "https://www.marithealth.com/jobs/34458cad-072b-42a1-adda-9331c11000eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "JobLeads",
+        "apply_link": "https://www.jobleads.com/us/job/trauma-certified-registered-nurse-anesthetist-crna--pensacola--ea5425707b92e8aa645ad3c9c393e46fb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-fl-pensacola-certified-registered-nurse-anesthetist-anesthesia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Trabajo.org",
+        "apply_link": "https://us.trabajo.org/job-982-7c0f0689177f7cf50c27ca176084ac6d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Overview\n\nUS Anesthesia Partners is seeking a skilled and dedicated PRN CRNA to join our team at Andrews Institute Ambulatory Surgery Center in Gulf Breeze, Florida\n\nJob Highlights\n\nUS Anesthesia Partners (USAP) is a single-specialty practice dedicated to providing high-quality anesthesia services. We serve hundreds of medical facilities across the U.S. and provide anesthesia services for more than 1.7 million procedures annually. We continue to grow and offer exciting opportunities for you to grow with us. By joining our team, you will participate in a highly collaborative and dynamic environment. As an organization, we are mission focused on delivering the highest quality in patient care and you will be directly supporting our talented clinical team. We extend this same commitment to quality to our associates, and supply tools and resources that will ensure we excel in the healthcare marketplace and support of USAP.\n\nThis is a CRNA position with US Anesthesia Partners at Andrews Institute Ambulatory Surgery Center in Gulf Breeze, FL. As part of a collaborative care team, you will administer anesthesia for a variety of outpatient procedures, including orthopedics, neuro/spine, ophthalmology, and general surgery. This role allows you to practice in a high-quality, fast-paced surgical environment with a strong focus on patient safety and efficiency. Join a team dedicated to delivering exceptional anesthesia care while enjoying the benefits of a coastal Florida lifestyle.\n\nApply Here for FT, PRN and 1099 roles.\n\nCommunity Highlights\n\nGulf Breeze, Florida, is a picturesque coastal community known for its beautiful white sand beaches, excellent schools, and outdoor recreational opportunities. Nestled between Pensacola and Navarre, it offers easy access to the Gulf of Mexico and the stunning Gulf Islands National Seashore. With a strong sense of community, top-rated parks, and a variety of water activities like boating, fishing, and paddleboarding, Gulf Breeze is an ideal place to live and work. Its relaxed coastal lifestyle, combined with a low cost of living and no state income tax, makes it an attractive destination for professionals and families alike.\n\nQualifications\n\n• Certifications: • Education: d228cb5a87c210044f76a6118f9e0001 • Work Experience:\n\nCompany Information\n\nUS Anesthesia Partners (USAP) is a network of local anesthesia practices backed by nationwide support. Our dedicated Care Team model provides patients with the highest quality care. Local and national CRNA Advisory Councils and CRNA leadership ensure all voices are heard and respected. With locations across the U.S., you can choose the facility, case type and schedule that fit your lifestyle and career goals. Be part of the team leading the nation in quality anesthesia care.\n\nUS Anesthesia Partners, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, gender identity, sexual orientation, pregnancy, status as a parent, national origin, age, disability (physical or mental), family medical history or genetic information, political affiliation, military service, or other non-merit based factors.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Pensacola, FL",
+    "job_city": "Pensacola",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 30.407664699999998,
+    "job_longitude": -87.2189746,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DT7hI4IRqHL9BAmWHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Certifications:",
+        "Education: d228cb5a87c210044f76a6118f9e0001",
+        "Work Experience:"
+      ],
+      "Benefits": [
+        "With a strong sense of community, top-rated parks, and a variety of water activities like boating, fishing, and paddleboarding, Gulf Breeze is an ideal place to live and work",
+        "Its relaxed coastal lifestyle, combined with a low cost of living and no state income tax, makes it an attractive destination for professionals and families alike"
+      ],
+      "Responsibilities": [
+        "As part of a collaborative care team, you will administer anesthesia for a variety of outpatient procedures, including orthopedics, neuro/spine, ophthalmology, and general surgery",
+        "This role allows you to practice in a high-quality, fast-paced surgical environment with a strong focus on patient safety and efficiency"
+      ]
+    },
+    "job_onet_soc": "29115100",
+    "job_onet_job_zone": "5",
+    "id": "www-ziprecruiter-com-c-us-anesthesia-partners-inc-job-certified-registered-nurse-anesthetist-crna-in-pensacola-fl",
     "_source": "new_jobs"
   },
   {
@@ -1216,112 +1224,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "BMO9Y5-p5By8CHbnAAAAAA==",
-    "job_title": "Nurse Anesthetist (CRNA) - Anesthesiology - LBJ",
-    "employer_name": "UTHealth Houston",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf4910otywYH0sdoJGGNbqtyUHGa_t9Zu9rCbq&s=0",
-    "employer_website": null,
-    "job_publisher": "UTHealth Houston Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.uth.tmc.edu/us/en/job/240000RR/Nurse-Anesthetist-CRNA-Anesthesiology-LBJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "UTHealth Houston Careers",
-        "apply_link": "https://careers.uth.tmc.edu/us/en/job/240000RR/Nurse-Anesthetist-CRNA-Anesthesiology-LBJ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=7c8380be340e1927&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Health Jobs Nationwide",
-        "apply_link": "https://www.healthjobsnationwide.com/job/nurse-anesthetist-crna-anesthesiology-lbj-14176085?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/nurse-anesthetist-crna-anesthesiology-houston-ut-health-science-center-62a4afb40b6a6a5b5b11dee01af7d6ec?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/FB4EkEQtgKDkXGnLYowhEUxD92sqtBA2jwCwOcLwxQxMaYEDS-EzNA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/nurse-anesthetist-crna-anesthesiology-lbj-at-uthealth-houston-3853556774?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SaluteMyJob",
-        "apply_link": "https://salutemyjob.com/jobs/nurse-anesthetist-crna-anesthesiology-lbj-houston-texas/2597444128-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs2Careers",
-        "apply_link": "https://www.jobs2careers.com/r/job/34888797368?c1=108&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Position Summary:\n\nProvides professional nursing service by administering anesthesia to surgical patients. Prepares and administers anesthetic to patients to reversibly depress bodily functions, or otherwise desensitize a patient to permit the performance of medical or surgical procedures.\n\nPosition Key Accountabilities:\n\n1. Prepares and administers anesthetic agents to patients in order to desensitize them to permit the performance of medical or surgical procedures.\n2. Performs pre-anesthesia evaluation of the patient in order to ascertain physiological and psychological factors which influence the selection of anesthetic agent and the formulation of the plan of anesthetic management.\n3. Monitors the patient in the operating room in order to maintain the patients in a homeostatic condition and to assure that unnecessary injuries are not inflicted on the patient.\n4. Records anesthetic information on the anesthesia chart to provide a permanent record necessary for the care of the patient, to provide material for teaching, for study, and to establish a medical-legal record.\n5. Provides clinical supervision or guidance of nurse anesthesia students, paramedical, and medical students in order to contribute to their clinical training.\n6. Responds to emergency situations.\n7. Manages Human Resources activities of department in regards to: recruiting and selection, hiring and termination, training, professional development, mentoring, counseling, performance evaluations, and salary planning.\n8. Performs other duties as assigned.\n\nCertification/Skills:\n\nCurrent Texas Licensure as a Registered Nurse\nCurrent Texas Licensure as APRN\nCurrent American Association of Nurse Anesthetist certification (AANA)\nBLS, ACLS and/or other specialty certification as required by department\nThe incumbent must meet 2 of 6 established requirements:\n• Experienced in a major medical center or a major trauma receiving hospital.\n• Skilled in administration of varied regional anesthesia techniques, i.e., spinal, epidurals, brachial plexus blocks.\n• Skilled in the placement of arterial lines, CVP, and PA lines, and is capable in the use and interpretation of varied pressure monitoring and lab values.\n• Active pursuit of continuing education credits.\n• Experienced in academics, i.e., has worked with nurse anesthesia students, residents, and medical students.\n• Experienced as an R.N. in the critical and acute care areas; is familiar with the use and interpretation of EKG, arterial, central venous and pulmonary artery pressure monitoring; is skilled in respiratory management and blood gas analysis based on therapeutic knowledge.\n\nMinimum Education:\n\nMasters in Nurse Anesthesia\n\nMinimum Experience:\n\nExerts up to 50 pounds of force occasionally and/or up to 20 pounds frequently and/or up to 10 pounds constantly to move objects.\n\nPhysical Requirements:\n\nSecurity Sensitive:\n\nThis job class may contain positions that are security sensitive and thereby subject to the provisions of Texas Education Code § 51.215",
-    "job_is_remote": false,
-    "job_posted_at": "8 hours ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-    "job_location": "Houston, TX",
-    "job_city": "Houston",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 29.7600771,
-    "job_longitude": -95.37011079999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBMO9Y5-p5By8CHbnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Current Texas Licensure as a Registered Nurse",
-        "Current Texas Licensure as APRN",
-        "Current American Association of Nurse Anesthetist certification (AANA)",
-        "BLS, ACLS and/or other specialty certification as required by department",
-        "The incumbent must meet 2 of 6 established requirements:",
-        "Experienced in a major medical center or a major trauma receiving hospital",
-        "Skilled in administration of varied regional anesthesia techniques, i.e., spinal, epidurals, brachial plexus blocks",
-        "Skilled in the placement of arterial lines, CVP, and PA lines, and is capable in the use and interpretation of varied pressure monitoring and lab values",
-        "Active pursuit of continuing education credits",
-        "Experienced in academics, i.e., has worked with nurse anesthesia students, residents, and medical students",
-        "Experienced as an R.N. in the critical and acute care areas; is familiar with the use and interpretation of EKG, arterial, central venous and pulmonary artery pressure monitoring; is skilled in respiratory management and blood gas analysis based on therapeutic knowledge",
-        "Masters in Nurse Anesthesia",
-        "Exerts up to 50 pounds of force occasionally and/or up to 20 pounds frequently and/or up to 10 pounds constantly to move objects"
-      ],
-      "Responsibilities": [
-        "Provides professional nursing service by administering anesthesia to surgical patients",
-        "Prepares and administers anesthetic to patients to reversibly depress bodily functions, or otherwise desensitize a patient to permit the performance of medical or surgical procedures",
-        "Prepares and administers anesthetic agents to patients in order to desensitize them to permit the performance of medical or surgical procedures",
-        "Performs pre-anesthesia evaluation of the patient in order to ascertain physiological and psychological factors which influence the selection of anesthetic agent and the formulation of the plan of anesthetic management",
-        "Monitors the patient in the operating room in order to maintain the patients in a homeostatic condition and to assure that unnecessary injuries are not inflicted on the patient",
-        "Records anesthetic information on the anesthesia chart to provide a permanent record necessary for the care of the patient, to provide material for teaching, for study, and to establish a medical-legal record",
-        "Provides clinical supervision or guidance of nurse anesthesia students, paramedical, and medical students in order to contribute to their clinical training",
-        "Responds to emergency situations",
-        "Manages Human Resources activities of department in regards to: recruiting and selection, hiring and termination, training, professional development, mentoring, counseling, performance evaluations, and salary planning",
-        "Performs other duties as assigned"
-      ]
-    },
-    "job_onet_soc": "29115100",
-    "job_onet_job_zone": "5",
-    "id": "careers-uth-tmc-edu-us-en-job-240000rr-nurse-anesthetist-crna-anesthesiology-lbj",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "t49-So1Chkvh8bwRAAAAAA==",
     "job_title": "Certified Registered Nurse Anesthetist - CRNA",
     "employer_name": "Ascension",
@@ -1378,9 +1280,9 @@
     ],
     "job_description": "Details\n• Specialty: CRNA/Anesthesiology\n• Schedule: Rotating\n• Practice Detail: Join a talented team of anesthesiologists, certified registered nurse anesthetists and anesthesia technicians\n• EMR System: Meditech\n• Facility: Ascension Saint Agnes Hospital\n• Location: Baltimore City, MD\n• Bonuses: Up to $70,000\n• Salary: $210,000 - $248,000 per year\nBenefits\n• Comprehensive health coverage: medical, dental, vision, prescription coverage and HSA/FSA options\n• Financial security & retirement: employer-matched 403(b), planning and hardship resources, disability and life insurance\n• Time to recharge: pro-rated paid time off (PTO) and holidays\n• Career growth: Ascension-paid tuition (Vocare), reimbursement, ongoing professional development and online learning\n• Emotional well-being: Employee Assistance Program, counseling and peer support, spiritual care and stress management resources\n• Family support: parental leave, adoption assistance and family benefits\n• Other benefits: optional legal and pet insurance, transportation savings and more\n\nBenefit options and eligibility vary by position, scheduled hours and location. Benefits are subject to change at any time. Your recruiter will provide the most up-to-date details during the hiring process.\nResponsibilities\n\nAscension St Agnes offers CRNAs an environment to practice throughout the full range of the perioperative arena covering a wide variety of cases. CRNAs practice with a high-level of autonomy in a supervision and collaborative team environment. It is expected for the CRNA to place CVCs, arterial lines, US guided peripheral nerve blocks, epidurals/spinals, etc. on their assigned cases. If no recent experience with different procedures, we will assist with training and mentorship until the CRNA feels comfortable. A variety of shifts are offered under a flexible staffing system that caters to a positive worklife balance. There are SRNAs from three local programs providing preceptorship opportunities. Currently, we are expanding in surgical volume and anesthesia responsibilities creating an opening for more CRNAs.\n\nResponsibilities:\n• Performs and documents a pre-anesthetic assessment and evaluation of the patient.\n• Develops and implements an anesthetic plan of care, including monitoring modalities and post-anesthesia follow-up evaluation and care.\n• Selects, obtains and administers the anesthetic plan of care, including induction, maintenance and emergence phase anesthesia.\n• Recognizes alterations in physiologic responses to the surgical procedure and/or the anesthetic, takes appropriate action and notifies the responsible physician as indicated.\n\nAbout Ascension Saint Agnes\n• For over 150 years, Saint Agnes, built on a strong foundation of excellent medical care and compassion, is comprised of care teams who are committed to providing the best care for our patients.\n• Saint Agnes is a part of Ascension, one of the leading non-profit and Catholic health systems in the country.\n• 251-bed full-service teaching hospital with residency programs in a number of medical and surgical specialties.\n• Ascension Saint Agnes offers emergency as well as a variety of inpatient and outpatient services. That is in addition to our Six Institutes that focus in the areas of Cancer, Orthopedics and Spine, Cardiovascular, Women and Children, Plastic and Reconstructive Surgery and Bariatric Surgery.\n\nAbout Baltimore\n• Baltimoreans have a lot to love about Baltimore with its famous crab cakes, major sports teams -the Orioles (baseball) and the Ravens (football), its beautiful historic harbor, diverse historical sites with three centuries of history, and its proximity to other major cities – NYC, Washington DC, and Philadelphia.\n• Although it’s a large city, and it is the fourth largest school district in Maryland, it has received an award for Urban School Board Excellence from the Council of Urban Boards of Education.\n• Besides its great education, there are home buying incentives for its residents. There are many incentive programs for homebuyers, homeowners, and renters that are managed by different city departments or nonprofits making relocation options easy.\n• With more than 130 attractions, museums, historic sites and performing arts groups, Baltimore promises something for everyone.\n\nAbout Ascension Medical Group\nWhen you join Ascension Medical Group (AMG), you are entering a community where physician and advanced practice provider engagement and experience is recognized as a key driver of delivering excellent patient care.\n\nWith 1,900 sites of care and 7,000 providers strong, AMG is one of the largest healthcare provider networks in the United States. Physicians and advanced practice providers benefit from a collaborative approach to care, significant professional opportunities, career advancement, training and competitive wages.\n\nIf you want to be part of an organization that is built on a strong foundation of excellent medical care and compassion, and committed to providing the best care for our patients, please apply today.\nRequirements\n\nLicensure / Certification / Registration:\n• BLS Provider obtained within 1 Month (30 days) of hire date or job transfer date required. American Heart Association or American Red Cross accepted.\n• Nurse Anesthetist credentialed from the National Board of Certification and Recertification of Nurse Anesthetists (NBCRNA) obtained prior to hire date or job transfer date required. Verified by local Credentialing Office.\n• Registered Nurse credentialed from the Maryland Board of Nursing obtained prior to hire date or job transfer date required. Verified by local Credentialing Office.\n• Advanced Life Support preferred. American Heart Association or American Red Cross accepted.\n\nEducation:\n• Master's or Doctorate of Nursing Anesthesia Practice or Nursing Practice required.\nAdditional Preferences\n\n#HeC\nWhy Join Our Team\n\nAscension is a leading nonprofit Catholic health system with a culture and associate experience grounded in service, growth, care and connection. We empower our 99,000+ associates to bring their skills and expertise every day to reimagining healthcare, together. Recognized as one of the Best 150+ Places to Work in Healthcare and a Military-Friendly Gold Employer, you’ll find an inclusive and supportive environment where your contributions truly matter.\nEqual Employment Opportunity Employer\n\nAscension provides Equal Employment Opportunities (EEO) to all associates and applicants for employment without regard to race, color, religion, sex/gender, sexual orientation, gender identity or expression, pregnancy, childbirth, and related medical conditions, lactation, breastfeeding, national origin, citizenship, age, disability, genetic information, veteran status, marital status, all as defined by applicable law, and any other legally protected status or characteristic in accordance with applicable federal, state and local laws. For further information, view the EEO Know Your Rights (English) poster or EEO Know Your Rights (Spanish) poster.\n\nFraud prevention notice\n\nProspective applicants should be vigilant against fraudulent job offers and interview requests. Scammers may use sophisticated tactics to impersonate Ascension employees. To ensure your safety, please remember: Ascension will never ask for payment or to provide banking or financial information as part of the job application or hiring process. Our legitimate email communications will always come from an @ascension.org email address; do not trust other domains, and an official offer will only be extended to candidates who have completed a job application through our authorized applicant tracking system.\n\nE-Verify statement\n\nEmployer does not participate in E-Verify and therefore cannot employ STEM OPT candidates.",
     "job_is_remote": false,
-    "job_posted_at": "1 day ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_posted_at": "9 hours ago",
+    "job_posted_at_timestamp": 1771196400,
+    "job_posted_at_datetime_utc": "2026-02-15T23:00:00.000Z",
     "job_location": "Baltimore, MD",
     "job_city": "Baltimore",
     "job_state": "Maryland",
@@ -1388,9 +1290,9 @@
     "job_latitude": 39.2905023,
     "job_longitude": -76.6104072,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dt49-So1Chkvh8bwRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1522,7 +1424,7 @@
     "job_title": "Certified Registered Nurse Anesthetist, CRNA, Resource Pool",
     "employer_name": "Advocate Health Care",
     "employer_logo": null,
-    "employer_website": "https://www.advocatehealth.org",
+    "employer_website": "https://www.advocatehealth.com",
     "job_publisher": "Talent.com",
     "job_employment_type": "Part-time",
     "job_employment_types": [
@@ -1554,9 +1456,9 @@
     "job_latitude": 42.0354084,
     "job_longitude": -88.2825668,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFsVGLtYGYU3p3uBLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1567,87 +1469,6 @@
     "job_onet_soc": "29115100",
     "job_onet_job_zone": "5",
     "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "4Vty9qBc9mgNCXDFAAAAAA==",
-    "job_title": "Certified Registered Nurse Anesthetist (CRNA) - Now Hiring",
-    "employer_name": "Northstar Anesthesia",
-    "employer_logo": null,
-    "employer_website": "https://northstaranesthesia.com",
-    "job_publisher": "Snagajob",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.snagajob.com/jobs/1209312857?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1209312857?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Your Expertise. Our Mission. Join NorthStar\nJoin NorthStar Anesthesia as we continue our exciting nationwide expansion! Were seeking passionate CRNAS to help deliver excellence in anesthesia care. Be part of a national team spanning 22 states and over 200 facilities, offering endless opportunities to grow and make an impact. NorthStar offers industry-leading compensation and benefits packages in an environment designed to foster leadership, professional development, and work-life balance.\nABOUT US:\nAs one of the fastest-growing providers of anesthesia services in the United States, NorthStar is proud to care for millions of patients annually through the expertise of our 4,000+ clinicians. Were a talented team of clinical professionals with a shared commitment to collaboration, innovation - and an unwavering commitment to excellence in patient care.\nAT NORTHSTAR, ALL LEVELS OF EXPERIENCE ARE WELCOME! NEW GRADS AND SRNAS ARE ENCOURAGED TO APPLY.\nTHIS ROLE:\nNorthStar is currently seeking a talented and compassionate Certified Registered Nurse Anesthetist (CRNA) to join our team at our facility in Perrysburg, OH at Mercy Perrysburg.\nTHE FACILITY:\nMercy Perrysburg\nCASES INCLUDE:\nGeneral, Orthopedic, Plastic, Endoscopy, Pediatric dental\nWe Offer:\nTop of Market Base Salary $230K+\nIncentives, Stipends & $50K Sign on Bonus\nGenerous PTO: 7 weeks\nFull Time, W2\nFlexible Scheduling: NO CALL, New 4 10s Opportunity\nDiverse case mix:\nHealth, Dental, Vision\nShort term disability\nCompany paid long term disability\nCompany paid life insurance and AD&D insurance\n401K plan with company match\nPet Insurance\nMalpractice\nCEU Funds\nLearning and development programs\nMentorship\nTO APPLY:\nOur 5 SECOND QUICK APPLY process is fast and confidential. It's only 1 step & takes just seconds! Click link to apply now. Or email:\nThe application window for this opportunity is ongoing.\nNATIONWIDE CRNA OPPORTUNITIES:\nExplore NorthStars Nationwide opportunities across more than 22 states including: AL, CO, DE, FL, GA, ID, IL, IN, KY, KS, MD, MI, MO, NC, NE, NM OH, PA, TN, TX, WV, VA\nNorthStar Anesthesia provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.\nby Jobble\nYour Expertise. Our Mission. Join NorthStar\nJoin NorthStar Anesthesia as we continue our exciting nationwide expansion! Were seeking passionate CRNAS to help deliver excellence in anesthesia care. Be part of a national team spanning 22 states and over 200 facilities, offering endless opportunities to grow and make an impact. NorthStar offers industry-leading compensation and benefits packages in an environment designed to foster leadership, professional development, and work-life balance.\nABOUT US:\nAs one of the fastest-growing providers of anesthesia services in the United States, NorthStar is proud to care for millions of patients annually through the expertise of our 4,000+ clinicians. Were a talented team of clinical professionals with a shared commitment to collaboration, innovation - and an unwavering commitment to excellence in patient care.\nAT NORTHSTAR, ALL LEVELS OF EXPERIENCE ARE WELCOME! NEW GRADS AND SRNAS ARE ENCOURAGED TO APPLY.\nTHIS ROLE:\nNorthStar is currently seeking a talented and compassionate Certified Registered Nurse Anesthetist (CRNA) to join our team at our facility in Perrysburg, OH at Mercy Perrysburg.\nTHE FACILITY:\nMercy Perrysburg\nCASES INCLUDE:\nGeneral, Orthopedic, Plastic, Endoscopy, Pediatric dental\nWe Offer:\nTop of Market Base Salary $230K+\nIncentives, Stipends & $50K Sign on Bonus\nGenerous PTO: 7 weeks\nFull Time, W2\nFlexible Scheduling: NO CALL, New 4 10s Opportunity\nDiverse case mix:\nHealth, Dental, Vision\nShort term disability\nCompany paid long term disability\nCompany paid life insurance and AD&D insurance\n401K plan with company match\nPet Insurance\nMalpractice\nCEU Funds\nLearning and development programs\nMentorship\nTO APPLY:\nOur 5 SECOND QUICK APPLY process is fast and confidential. It's only 1 step & takes just seconds! Click link to apply now. Or email:\nThe application window for this opportunity is ongoing.\nNATIONWIDE CRNA OPPORTUNITIES:\nExplore NorthStars Nationwide opportunities across more than 22 states including: AL, CO, DE, FL, GA, ID, IL, IN, KY, KS, MD, MI, MO, NC, NE, NM OH, PA, TN, TX, WV, VA\nNorthStar Anesthesia provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state, or local laws.\nby Jobble",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Ottawa, OH",
-    "job_city": "Ottawa",
-    "job_state": "Ohio",
-    "job_country": "US",
-    "job_latitude": 41.0192185,
-    "job_longitude": -84.0471666,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D4Vty9qBc9mgNCXDFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Benefits": [
-        "NorthStar offers industry-leading compensation and benefits packages in an environment designed to foster leadership, professional development, and work-life balance",
-        "Top of Market Base Salary $230K+",
-        "Incentives, Stipends & $50K Sign on Bonus",
-        "Generous PTO: 7 weeks",
-        "Full Time, W2",
-        "Flexible Scheduling: NO CALL, New 4 10s Opportunity",
-        "Health, Dental, Vision",
-        "Short term disability",
-        "Company paid long term disability",
-        "Company paid life insurance and AD&D insurance",
-        "401K plan with company match",
-        "Pet Insurance",
-        "Malpractice",
-        "CEU Funds",
-        "Learning and development programs",
-        "NorthStar offers industry-leading compensation and benefits packages in an environment designed to foster leadership, professional development, and work-life balance",
-        "Top of Market Base Salary $230K+",
-        "Incentives, Stipends & $50K Sign on Bonus",
-        "Generous PTO: 7 weeks",
-        "Full Time, W2",
-        "Flexible Scheduling: NO CALL, New 4 10s Opportunity",
-        "Health, Dental, Vision",
-        "Short term disability",
-        "Company paid long term disability",
-        "Company paid life insurance and AD&D insurance",
-        "401K plan with company match",
-        "Pet Insurance",
-        "Malpractice",
-        "CEU Funds",
-        "Learning and development programs"
-      ]
-    },
-    "job_onet_soc": "29115100",
-    "job_onet_job_zone": "5",
-    "id": "www-snagajob-com-jobs-1209312857",
     "_source": "new_jobs"
   }
 ]
