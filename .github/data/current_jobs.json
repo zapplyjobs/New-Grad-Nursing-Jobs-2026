@@ -60,15 +60,15 @@
     "job_posted_at_timestamp": 1770595200,
     "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
     "job_location": "Auburn Hills, MI",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Auburn Hills",
+    "job_state": "Michigan",
+    "job_country": "US",
+    "job_latitude": 42.6875323,
+    "job_longitude": -83.2341028,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoQQpJImY521WcTLYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -112,6 +112,86 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "jobs-uhsinc-com-careers-jobs-340888",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "qZy8NY54M-H1lynPAAAAAA==",
+    "job_title": "Charge RN (FT)",
+    "employer_name": "Summit BHC",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdxEDTD5xftPG7ux82Hkjvn4w09cmnpMEGef0&s=0",
+    "employer_website": "https://summitbhc.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Summit-BHC/Job/Charge-RN-(FT)/-in-Safe-Harbor,PA?jid=5ae1bca55630af71&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Summit-BHC/Job/Charge-RN-(FT)/-in-Safe-Harbor,PA?jid=5ae1bca55630af71&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Recruit.net",
+        "apply_link": "https://www.recruit.net/job/charge-rn-ft--jobs/A0D75FD386566F18?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Charge RN (FT) | Safe Harbor Recovery Center | Portsmouth, Virginia\n\nAbout the Job:\nPURPOSE STATEMENT:\nThe Charge Nurse (RN) oversees assigned unit/department for assigned shift and provides direct client care while supervising care treatment and services provided by other members of the nursing team to assure optimal client outcomes. Manages the Plan of Care for each client and actively participates as a member of the multi-disciplinary team of the unit. Ensures appropriate staffing of the unit for coverage needs related to acuity, absences, and leave time.\n\nRoles and Responsibilities:\n\nESSENTIAL FUNCTIONS:\n• Provides direct care for clients as well as monitors and coordinates other nurses and members of the staff on the daily medical or behavioral health care activities of the unit.\n• Leads, guides and trains staff on the unit.\n• Confers regularly with treatment team (e.g., nurses, therapists, program managers, physician) regarding client care.\n• Monitors client acuity, census, staffing needs, and makes arrangements for coverage ensuring appropriate staffing ratios.\n• Assures thorough, accurate documentation is completed for all clients on each shift and client assignment sheets are completed daily and tasks are carried out as assigned.\n• Oversees and provides direct nursing evaluation, consultation and other related care to clients as required.\n• Monitors unit safety and works with staff to maintain a safe environment.\n• Coordinates services and maintains communication with other departments or staff as required.\n• Oversees quality assurance activities and compliance to operational standards, participates in program development, and promotes continuous improvement of workplace safety and environmental practices.\n• Supervises medication administration and makes staff aware of errors and works towards performance improvement. Checks stock of over the counter (OTC) medications to ensure that the orders are requested as needed.\n• Coordinates, monitors and evaluates Infection Control activities in adherence to policies and procedures. Reports discrepancies and follows through with corrective actions.\n• Addresses employee performance improvement issues at the time noticed, to provide supportive documentation and assists with any follow-up as necessary.\n• Audits and organizes medication room to maintain compliance with regulatory requirements, best practices, and reduce the opportunity for medication errors or diversion.\n\nEDUCATION/EXPERIENCE/SKILL REQUIREMENTS:\n• Graduation from an approved/accredited school of nursing required.\n• One or more years' experience as an RN required.\n• One or more years' in behavioral health experience preferred.\n\nLICENSES/DESIGNATIONS/CERTIFICATIONS:\n• Valid current RN license from the state or from a compact state, where applicable.\n• Certified in Psychiatric Nursing preferred.\n• CPR certification and de-escalation training required (training available upon hire and offered by facility).\n• First aid may be required based on state or facility.\n\nSUPERVISORY REQUIREMENTS:\n\nOne or more years' supervisory or charge nurse experience preferred.\nWhy Safe Harbor Recovery Center?Safe Harbor Recovery Center offers a comprehensive benefit plan and a competitive salary commensurate with experience and qualifications. Qualified candidates should apply by submitting a resume. Safe Harbor Recovery Center is an EOE.\n\nVeterans and military spouses are highly encouraged to apply. Summit BHC is dedicated to serving Veterans with specialized programming at our treatment centers across the country. We recognize and value the unique strengths of the military community in supporting our mission to serve those who have served.",
+    "job_is_remote": false,
+    "job_posted_at": "11 days ago",
+    "job_posted_at_timestamp": 1770249600,
+    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
+    "job_location": "Safe Harbor, PA",
+    "job_city": "Safe Harbor",
+    "job_state": "Pennsylvania",
+    "job_country": "US",
+    "job_latitude": 39.9301001,
+    "job_longitude": -76.3794058,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqZy8NY54M-H1lynPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Graduation from an approved/accredited school of nursing required",
+        "One or more years' experience as an RN required",
+        "Valid current RN license from the state or from a compact state, where applicable",
+        "CPR certification and de-escalation training required (training available upon hire and offered by facility)",
+        "First aid may be required based on state or facility",
+        "Qualified candidates should apply by submitting a resume"
+      ],
+      "Benefits": [
+        "Safe Harbor Recovery Center offers a comprehensive benefit plan and a competitive salary commensurate with experience and qualifications"
+      ],
+      "Responsibilities": [
+        "The Charge Nurse (RN) oversees assigned unit/department for assigned shift and provides direct client care while supervising care treatment and services provided by other members of the nursing team to assure optimal client outcomes",
+        "Manages the Plan of Care for each client and actively participates as a member of the multi-disciplinary team of the unit",
+        "Ensures appropriate staffing of the unit for coverage needs related to acuity, absences, and leave time",
+        "Provides direct care for clients as well as monitors and coordinates other nurses and members of the staff on the daily medical or behavioral health care activities of the unit",
+        "Leads, guides and trains staff on the unit",
+        "Confers regularly with treatment team (e.g., nurses, therapists, program managers, physician) regarding client care",
+        "Monitors client acuity, census, staffing needs, and makes arrangements for coverage ensuring appropriate staffing ratios",
+        "Assures thorough, accurate documentation is completed for all clients on each shift and client assignment sheets are completed daily and tasks are carried out as assigned",
+        "Oversees and provides direct nursing evaluation, consultation and other related care to clients as required",
+        "Monitors unit safety and works with staff to maintain a safe environment",
+        "Coordinates services and maintains communication with other departments or staff as required",
+        "Oversees quality assurance activities and compliance to operational standards, participates in program development, and promotes continuous improvement of workplace safety and environmental practices",
+        "Supervises medication administration and makes staff aware of errors and works towards performance improvement",
+        "Checks stock of over the counter (OTC) medications to ensure that the orders are requested as needed",
+        "Coordinates, monitors and evaluates Infection Control activities in adherence to policies and procedures",
+        "Reports discrepancies and follows through with corrective actions",
+        "Addresses employee performance improvement issues at the time noticed, to provide supportive documentation and assists with any follow-up as necessary",
+        "Audits and organizes medication room to maintain compliance with regulatory requirements, best practices, and reduce the opportunity for medication errors or diversion"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-ziprecruiter-com-c-summit-bhc-job-charge-rn-ft-in-safe-harbor-pa",
     "_source": "new_jobs"
   },
   {
@@ -175,15 +255,15 @@
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
     "job_location": "Atlanta, GA",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Atlanta",
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 33.7501275,
+    "job_longitude": -84.3885209,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DDTHkRZfHfid3_ZzgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -215,86 +295,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "jobs-uhsinc-com-careers-jobs-341349",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "qZy8NY54M-H1lynPAAAAAA==",
-    "job_title": "Charge RN (FT)",
-    "employer_name": "Summit BHC",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREdxEDTD5xftPG7ux82Hkjvn4w09cmnpMEGef0&s=0",
-    "employer_website": "https://summitbhc.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Summit-BHC/Job/Charge-RN-(FT)/-in-Safe-Harbor,PA?jid=5ae1bca55630af71&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Summit-BHC/Job/Charge-RN-(FT)/-in-Safe-Harbor,PA?jid=5ae1bca55630af71&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Recruit.net",
-        "apply_link": "https://www.recruit.net/job/charge-rn-ft--jobs/A0D75FD386566F18?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Charge RN (FT) | Safe Harbor Recovery Center | Portsmouth, Virginia\n\nAbout the Job:\nPURPOSE STATEMENT:\nThe Charge Nurse (RN) oversees assigned unit/department for assigned shift and provides direct client care while supervising care treatment and services provided by other members of the nursing team to assure optimal client outcomes. Manages the Plan of Care for each client and actively participates as a member of the multi-disciplinary team of the unit. Ensures appropriate staffing of the unit for coverage needs related to acuity, absences, and leave time.\n\nRoles and Responsibilities:\n\nESSENTIAL FUNCTIONS:\n• Provides direct care for clients as well as monitors and coordinates other nurses and members of the staff on the daily medical or behavioral health care activities of the unit.\n• Leads, guides and trains staff on the unit.\n• Confers regularly with treatment team (e.g., nurses, therapists, program managers, physician) regarding client care.\n• Monitors client acuity, census, staffing needs, and makes arrangements for coverage ensuring appropriate staffing ratios.\n• Assures thorough, accurate documentation is completed for all clients on each shift and client assignment sheets are completed daily and tasks are carried out as assigned.\n• Oversees and provides direct nursing evaluation, consultation and other related care to clients as required.\n• Monitors unit safety and works with staff to maintain a safe environment.\n• Coordinates services and maintains communication with other departments or staff as required.\n• Oversees quality assurance activities and compliance to operational standards, participates in program development, and promotes continuous improvement of workplace safety and environmental practices.\n• Supervises medication administration and makes staff aware of errors and works towards performance improvement. Checks stock of over the counter (OTC) medications to ensure that the orders are requested as needed.\n• Coordinates, monitors and evaluates Infection Control activities in adherence to policies and procedures. Reports discrepancies and follows through with corrective actions.\n• Addresses employee performance improvement issues at the time noticed, to provide supportive documentation and assists with any follow-up as necessary.\n• Audits and organizes medication room to maintain compliance with regulatory requirements, best practices, and reduce the opportunity for medication errors or diversion.\n\nEDUCATION/EXPERIENCE/SKILL REQUIREMENTS:\n• Graduation from an approved/accredited school of nursing required.\n• One or more years' experience as an RN required.\n• One or more years' in behavioral health experience preferred.\n\nLICENSES/DESIGNATIONS/CERTIFICATIONS:\n• Valid current RN license from the state or from a compact state, where applicable.\n• Certified in Psychiatric Nursing preferred.\n• CPR certification and de-escalation training required (training available upon hire and offered by facility).\n• First aid may be required based on state or facility.\n\nSUPERVISORY REQUIREMENTS:\n\nOne or more years' supervisory or charge nurse experience preferred.\nWhy Safe Harbor Recovery Center?Safe Harbor Recovery Center offers a comprehensive benefit plan and a competitive salary commensurate with experience and qualifications. Qualified candidates should apply by submitting a resume. Safe Harbor Recovery Center is an EOE.\n\nVeterans and military spouses are highly encouraged to apply. Summit BHC is dedicated to serving Veterans with specialized programming at our treatment centers across the country. We recognize and value the unique strengths of the military community in supporting our mission to serve those who have served.",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770249600,
-    "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
-    "job_location": "Safe Harbor, PA",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqZy8NY54M-H1lynPAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Graduation from an approved/accredited school of nursing required",
-        "One or more years' experience as an RN required",
-        "Valid current RN license from the state or from a compact state, where applicable",
-        "CPR certification and de-escalation training required (training available upon hire and offered by facility)",
-        "First aid may be required based on state or facility",
-        "Qualified candidates should apply by submitting a resume"
-      ],
-      "Benefits": [
-        "Safe Harbor Recovery Center offers a comprehensive benefit plan and a competitive salary commensurate with experience and qualifications"
-      ],
-      "Responsibilities": [
-        "The Charge Nurse (RN) oversees assigned unit/department for assigned shift and provides direct client care while supervising care treatment and services provided by other members of the nursing team to assure optimal client outcomes",
-        "Manages the Plan of Care for each client and actively participates as a member of the multi-disciplinary team of the unit",
-        "Ensures appropriate staffing of the unit for coverage needs related to acuity, absences, and leave time",
-        "Provides direct care for clients as well as monitors and coordinates other nurses and members of the staff on the daily medical or behavioral health care activities of the unit",
-        "Leads, guides and trains staff on the unit",
-        "Confers regularly with treatment team (e.g., nurses, therapists, program managers, physician) regarding client care",
-        "Monitors client acuity, census, staffing needs, and makes arrangements for coverage ensuring appropriate staffing ratios",
-        "Assures thorough, accurate documentation is completed for all clients on each shift and client assignment sheets are completed daily and tasks are carried out as assigned",
-        "Oversees and provides direct nursing evaluation, consultation and other related care to clients as required",
-        "Monitors unit safety and works with staff to maintain a safe environment",
-        "Coordinates services and maintains communication with other departments or staff as required",
-        "Oversees quality assurance activities and compliance to operational standards, participates in program development, and promotes continuous improvement of workplace safety and environmental practices",
-        "Supervises medication administration and makes staff aware of errors and works towards performance improvement",
-        "Checks stock of over the counter (OTC) medications to ensure that the orders are requested as needed",
-        "Coordinates, monitors and evaluates Infection Control activities in adherence to policies and procedures",
-        "Reports discrepancies and follows through with corrective actions",
-        "Addresses employee performance improvement issues at the time noticed, to provide supportive documentation and assists with any follow-up as necessary",
-        "Audits and organizes medication room to maintain compliance with regulatory requirements, best practices, and reduce the opportunity for medication errors or diversion"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-ziprecruiter-com-c-summit-bhc-job-charge-rn-ft-in-safe-harbor-pa",
     "_source": "new_jobs"
   },
   {
@@ -358,15 +358,15 @@
     "job_posted_at_timestamp": 1771027200,
     "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
     "job_location": "Fenton, MO",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Fenton",
+    "job_state": "Missouri",
+    "job_country": "US",
+    "job_latitude": 38.5126456,
+    "job_longitude": -90.4429881,
     "job_benefits": [
-      "paid_time_off",
       "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiVP5TaZuUUM1jcGNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -431,6 +431,139 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "M_V-83Ru2dev9A7XAAAAAA==",
+    "job_title": "Clinical Charge Nurse - P.A.C.U",
+    "employer_name": "Health First Careers",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PwdAlchoxcOIXm6eIh2sxxwgIBzjutuVd4Dg&s=0",
+    "employer_website": "https://www.careers.hf.org",
+    "job_publisher": "Healthcare Jobs - Health First |",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.careers.hf.org/job/P-104827/Clinical-Charge-Nurse-P-A-C-U?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Healthcare Jobs - Health First |",
+        "apply_link": "https://www.careers.hf.org/job/P-104827/Clinical-Charge-Nurse-P-A-C-U?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=c2bc3e5ad85ba7a9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/clinical-charge-nurse_7ea1a6e579cf0dc4de89d6b94325d518372ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Health-First/Job/Clinical-Charge-Nurse-P.A.C.U/-in-Melbourne,FL?jid=1fecc3cd7f4c5e83&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/clinical-charge-nurse-p-a-c-u-at-health-first-4372757014?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/TGq8ohQpssRi3AWmyz7ibx0L5rcEseXbvaER1CNkRn8s5koWhAjdCw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "J-O-B-Z",
+        "apply_link": "https://j-o-b-z.com/seo/job/136591518/fl/melbourne/clinical-charge-nurse---pacu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "HCA Healthcare Jobs - Pro Nurses Nearby",
+        "apply_link": "https://hcahealthcare.pronursesnearby.com/joblistingpage/ddb087natb3e-a0397f0424e874ebe-0b6f900a-0413c8e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Job Requirements\n\nPOSITION SUMMARY\n\nThe Clinical Charge Nurse is fully engaged in providing Quality/No Harm, Customer Service and Stewardship by demonstrating leadership through the assessment, planning, implementation and evaluation of patient care according to the standards of professional nursing practice. Nursing care is provided to the individual patient based upon diverse patient demographics and needs.\n\nPRIMARY ACCOUNTABILITES\n• Demonstrates effective and safe clinical practice as evidenced by observation and feedback, leader rounding, performance coaching and patient outcomes; actively seeks feedback and performance coaching to improve the experience for patients and families.\n• Resolves or facilitates resolution of patient and family concerns/complaints and serves as a secondary resource to address points of escalation.\n• Recognizes and resolves safety issues and potential unsafe situations within approved policies, procedures, and protocol.\n• Effectively leads shift and post-event huddles; facilitates and leads effective interdisciplinary care transition rounds and planning of care for appropriate utilization, care transitions, and safe disposition.\n• Consistently and effectively demonstrates compliance and monitoring for department service standards such as purposeful hourly rounding, bedside shift report and white board management to enhance communication.\n• Demonstrates an understanding and effective application of staffing effectiveness principles and optimization of resources to meet dynamic patient care needs real time.\n• Demonstrates effective management of unit productivity in a favorable way through good planning, organization and time management (e.g. incremental overtime).\n• Identifies and participates in activities to appropriately improve patient safety, patient throughput, reduce length of stay and prevent readmission.\n• Actively participates and assists in the selection, development and retention of associates and serves as a coach and resource to peers, staff and other healthcare team members; adds positively to creating and sustaining a healthy work environment.\n• Demonstrates effective medication administration provided to patients as evidenced by Preceptor Observation Tool, Skills Fair Demonstration, and Clinical Practice.\n• Demonstrates appropriate delegation and supervision of patient care activities within the healthcare setting.\n• Contributes to the patient experience as evidenced by positive patient satisfaction scores and HCAHPs scores for department/medical center and/or written compliments by patients/others as well as consistent performance of purposeful hourly rounding and bedside shift report.\n\nWork Experience\n\nMINIMUM QUALIFICATIONS\n• Education: Associate’s degree in Nursing or Nursing Diploma.\n• Work Experience: None\n• Licensure: RN Licensure in the State of Florida or endorsement.\n• Certification:\n• American Heart Association Basic Life Support (AHA BLS) Healthcare Provider Completion Card prior to start date and maintained.\n• Must obtain other certification(s) as required by specific unit.\n• Skills/Knowledge/Abilities:\n• Must be able to speak / understand written and verbal instructions in the English language.\n• Must meet unit specific care requirements.\n• Must have ability to work in often stressful environment with patients / families at various ages and levels of understanding.\n• Must have ability to concentrate on multiple priority activities.\n• Must have ability to respond appropriately to life threatening situations.\n• Must have critical thinking and problem-solving skills.\n• Demonstrates dependability, reliability and flexibility.\n• Must have highly developed verbal and non-verbal communication skills.\n\nPREFFERED QUALIFICATIONS\n• Work Experience: Two (2) years of relevant clinical experience.\n• Certification: National certification in relevant specialty.\n\nPHYSICAL REQUIREMENTS\n• Physically agile; may require walking, standing, running, bending, stooping, kneeling, climbing, or crouching frequently.\n• May occasionally include lifting or moving objects up to 50 pounds, with or without assistance.\n• May require moving in different positions to accomplish tasks in various environments including tight and confined spaces, including reaching out and above shoulders, or overhead.\n• May lift, turn, pull, push, or ambulate people and/or equipment with or without assistance up to 90% of the assigned shift.\n• May be exposed to inside and outside environments with varied temperatures, air quality, lighting, and/or low to loud noise.\n• May require working with biohazards such as blood/body fluids and airborne particles following OSHA and CDC guidelines.\n• Communicating with others to exchange information.\n• Visual acuity and hand-eye coordination to perform tasks.\n• Workspace may vary from open to confined.\n• May require travel to various facilities within and beyond county perimeter; may require use of personal vehicle.\n\nBenefits\n• Comprehensive medical, dental, and vision insurance\n• Employee wellness programs and resources\n• Competitive pay with shift differentials (if applicable)\n• Tuition reimbursement and professional development assistance\n\nAt Health First, diversity and inclusion are essential for our continued growth and evolution. Working together, we strive to build and nurture a culture that recognizes, encourages, and respects the diverse voices of our associates. We know through experience that different ideas, perspectives, and backgrounds create a stronger and more collaborative work environment that delivers better results. As an organization, it fuels our innovation and connects us closer to our associates, customers, and the communities we serve.\n\nSchedule : Full-Time\n\nPaygrade : PG-30B",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Melbourne, FL",
+    "job_city": "Melbourne",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 28.0794398,
+    "job_longitude": -80.6078048,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DM_V-83Ru2dev9A7XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Education: Associate’s degree in Nursing or Nursing Diploma",
+        "Work Experience: None",
+        "Licensure: RN Licensure in the State of Florida or endorsement",
+        "Certification:",
+        "American Heart Association Basic Life Support (AHA BLS) Healthcare Provider Completion Card prior to start date and maintained",
+        "Must obtain other certification(s) as required by specific unit",
+        "Skills/Knowledge/Abilities:",
+        "Must be able to speak / understand written and verbal instructions in the English language",
+        "Must meet unit specific care requirements",
+        "Must have ability to work in often stressful environment with patients / families at various ages and levels of understanding",
+        "Must have ability to concentrate on multiple priority activities",
+        "Must have ability to respond appropriately to life threatening situations",
+        "Must have critical thinking and problem-solving skills",
+        "Demonstrates dependability, reliability and flexibility",
+        "Must have highly developed verbal and non-verbal communication skills",
+        "Work Experience: Two (2) years of relevant clinical experience",
+        "Certification: National certification in relevant specialty",
+        "Physically agile; may require walking, standing, running, bending, stooping, kneeling, climbing, or crouching frequently",
+        "May occasionally include lifting or moving objects up to 50 pounds, with or without assistance",
+        "May require moving in different positions to accomplish tasks in various environments including tight and confined spaces, including reaching out and above shoulders, or overhead",
+        "May lift, turn, pull, push, or ambulate people and/or equipment with or without assistance up to 90% of the assigned shift",
+        "May require working with biohazards such as blood/body fluids and airborne particles following OSHA and CDC guidelines",
+        "Visual acuity and hand-eye coordination to perform tasks",
+        "Workspace may vary from open to confined",
+        "May require travel to various facilities within and beyond county perimeter; may require use of personal vehicle"
+      ],
+      "Benefits": [
+        "Comprehensive medical, dental, and vision insurance",
+        "Employee wellness programs and resources",
+        "Competitive pay with shift differentials (if applicable)",
+        "Tuition reimbursement and professional development assistance"
+      ],
+      "Responsibilities": [
+        "The Clinical Charge Nurse is fully engaged in providing Quality/No Harm, Customer Service and Stewardship by demonstrating leadership through the assessment, planning, implementation and evaluation of patient care according to the standards of professional nursing practice",
+        "Nursing care is provided to the individual patient based upon diverse patient demographics and needs",
+        "Demonstrates effective and safe clinical practice as evidenced by observation and feedback, leader rounding, performance coaching and patient outcomes; actively seeks feedback and performance coaching to improve the experience for patients and families",
+        "Resolves or facilitates resolution of patient and family concerns/complaints and serves as a secondary resource to address points of escalation",
+        "Recognizes and resolves safety issues and potential unsafe situations within approved policies, procedures, and protocol",
+        "Effectively leads shift and post-event huddles; facilitates and leads effective interdisciplinary care transition rounds and planning of care for appropriate utilization, care transitions, and safe disposition",
+        "Consistently and effectively demonstrates compliance and monitoring for department service standards such as purposeful hourly rounding, bedside shift report and white board management to enhance communication",
+        "Demonstrates an understanding and effective application of staffing effectiveness principles and optimization of resources to meet dynamic patient care needs real time",
+        "Demonstrates effective management of unit productivity in a favorable way through good planning, organization and time management (e.g. incremental overtime)",
+        "Identifies and participates in activities to appropriately improve patient safety, patient throughput, reduce length of stay and prevent readmission",
+        "Actively participates and assists in the selection, development and retention of associates and serves as a coach and resource to peers, staff and other healthcare team members; adds positively to creating and sustaining a healthy work environment",
+        "Demonstrates effective medication administration provided to patients as evidenced by Preceptor Observation Tool, Skills Fair Demonstration, and Clinical Practice",
+        "Demonstrates appropriate delegation and supervision of patient care activities within the healthcare setting",
+        "Contributes to the patient experience as evidenced by positive patient satisfaction scores and HCAHPs scores for department/medical center and/or written compliments by patients/others as well as consistent performance of purposeful hourly rounding and bedside shift report",
+        "May be exposed to inside and outside environments with varied temperatures, air quality, lighting, and/or low to loud noise",
+        "Communicating with others to exchange information"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-careers-hf-org-job-p-104827-clinical-charge-nurse-p-a-c-u",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "WrZInul9tOxhfyz-AAAAAA==",
     "job_title": "Charge Nurse Med Tele",
     "employer_name": "HCA Florida South Shore Hospital",
@@ -491,14 +624,14 @@
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
     "job_location": "Sun City Center, FL",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Sun City Center",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 27.718086,
+    "job_longitude": -82.351759,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DWrZInul9tOxhfyz-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -551,6 +684,111 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "careers-hcahealthcare-com-jobs-17216948-charge-nurse-med-tele",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "jGOwN4d_26JJDT8oAAAAAA==",
+    "job_title": "Charge Nurse - LPN - Full Time Day Shift",
+    "employer_name": "Ohio Living",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY6Qns8FcDPOyZTNknxK5jFzr5SNE45UfAF7KW&s=0",
+    "employer_website": "https://ohioliving.org",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=904a8d86d67e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=904a8d86d67e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talentify",
+        "apply_link": "https://www.talentify.io/job/charge-nurse-lpn-full-time-day-shift-harrod-ohio-us-ohio-living-2026-33326?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-oh-harrod-charge-nurse-lpn-full-time-day-shift-ohio-living-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "It's fun to work in a company where people truly BELIEVE in what they're doing!\n\nOur intention is to have employees who are passionate about making their personal mission statement come to life each day at work! Be it through providing healing, eradicating loneliness, contributing to efficiencies, streamlining processes, being dependable, sparking creativity or something else, the demonstration of HOW you do your job is just as important as WHAT you do in your job.\n\nAlongside our valued employees, we are making a difference throughout the state of Ohio in the lives of those that need healthcare or those embracing the next chapter of their lives. Sustained members of our team demonstrate accountable behavior and share our values of customer service, innovation, integrity, inclusion, financial stewardship, leadership and care.\n\nThe Charge Nurse - LPN supervises the day-to-day nursing activities of the Certified Nursing Assistants (CNA) in accordance with company standards and federal, state, and local standards, guidelines, and regulations to ensure that the highest degree of quality care is maintained at all times.\n\nEssential Activities and Tasks\n\nOperations Management and Administration - 70%\n• Directs the day-to-day functions of the nursing activities in accordance with current rules, regulations, and guidelines that govern the facility, including the making of work assignments to Nursing Assistants.\n• Assists in implementing methods for coordinating nursing services to ensure continuity of residents care.\n• Administers medications and treatments in accordance with physician orders and nursing standards of practice.\n• Represents the nursing department during Interdisciplinary Care Plan meetings. Is able to answer questions related to the plan of care and delivery of services.\n• Participates in various committee meetings.\n• Makes work assignments and meets with Nursing Assistants regularly to assist in identifying and correcting problem areas, and the improvement of care and services.\n• Provides direct nursing care as needed.\n• Consults with the resident's physicians in planning resident care, treatment, rehabilitation, etc. as needed.\n• Notifies residents' physicians and families when there is a change in the resident's condition.\n• Authorizes and monitors the use of restraints when necessary and in accordance with the facility policies and procedures.\n• Admits, transfers and discharges patients as necessary.\n• Works with Unit Manager to help reduce hospital readmissions.\n• Attends all-employee and departmental meetings and in-service training as scheduled or as directed.\n\nQuality, Compliance, and Risk Management - 20%\n• Ensures that nursing procedures are followed by nursing service personnel, and that they reflect the day-to-day nursing care procedures used by the facility.\n• Participates in the maintenance and implementation of the facility's quality assurance program.\n• Ensures the procedures for the administration, storage and control of medications and supplies are being followed by nursing staff.\n• Ensures that resident rooms, treatment areas, work areas and equipment are maintained in a clean, sanitary, and safe manner.\n\nPeople Management and Development - 10%\n• Supervises CNAs.\n• Fosters a positive work environment that attracts, retains, and motivates employees.\n• Interviews, selects, and orients new direct reports.\n• Defines, establishes, and promotes performance expectations so direct reports understand and demonstrate excellence through high quality and consistent performance.\n• Evaluates job performance of direct reports in accordance with the company policy and procedure and provides developmental guidance to staff for improved performance and growth.\n• Monitors accountability with organization requirements prescribed by the Employee Handbook. Documents and engages employees who are routinely not observing these requirements in an effort to achieve compliance. Works with Human Resources when circumstances arise that necessitate further documentation and intervention.\n• Participates in the development, planning, scheduling, conducting, and monitoring of in-service training programs, on-the-job training, and orientation programs for departmental staff.\n• Ensures that there is a reasonable and sufficient plan for staffing should a direct report be absent or a direct reporting position be vacant.\n• Responds timely and thoughtfully to questions, requests, and work product from departmental staff that has been provided for review and approval.\n\nAll other duties as assigned.\n\nQualifications\n\nEducation\n• Current unencumbered license for the state of Ohio to practice as a Licensed Practical Nurse (LPN).\n\nExperience\n• One year of clinical experience in a hospital, long term care facility, or other related health care facility preferred.\n• Supervisory experience in a long-term care, hospital, or other related healthcare setting preferred.\n• Proficiency with electronic medical records (EMR) preferred.\n\nOther Requirements\n• Must be able to read, write, speak, and understand the English language.\n\nWorking Conditions and Special Requirements\n• Sitting - Up to 4 hours / day\n• Standing - Up to 8 hours / day\n• Walking - Up to 6 hours / day\n• Lifting, transferring, pushing or pulling residents / patients or equipment / supplies - Up to 50 pounds\n• Driving - Up to 6 hours / day\n• Travel % / Overnight Travel - Occasional\n• Work weekends, evenings, and holidays - As needed\n• On-call availability - 24 / 7 for emergencies\n• Subject to falls, burns from equipment, odors, and cuts - Work day\n• Subject to residents / patients with various disease processes - Occasional\n• May be exposed to infectious waste, disease, conditions, etc. including exposure to the AIDS and Hepatitis B viruses - Work day\n• Risk Category for Exposure to Bloodborne Diseases - I",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Harrod, OH",
+    "job_city": "Harrod",
+    "job_state": "Ohio",
+    "job_country": "US",
+    "job_latitude": 40.7064404,
+    "job_longitude": -83.92132989999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjGOwN4d_26JJDT8oAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Current unencumbered license for the state of Ohio to practice as a Licensed Practical Nurse (LPN)",
+        "Must be able to read, write, speak, and understand the English language",
+        "Sitting - Up to 4 hours / day",
+        "Standing - Up to 8 hours / day",
+        "Walking - Up to 6 hours / day",
+        "Lifting, transferring, pushing or pulling residents / patients or equipment / supplies - Up to 50 pounds",
+        "Subject to residents / patients with various disease processes - Occasional",
+        "May be exposed to infectious waste, disease, conditions, etc. including exposure to the AIDS and Hepatitis B viruses - Work day"
+      ],
+      "Responsibilities": [
+        "The Charge Nurse - LPN supervises the day-to-day nursing activities of the Certified Nursing Assistants (CNA) in accordance with company standards and federal, state, and local standards, guidelines, and regulations to ensure that the highest degree of quality care is maintained at all times",
+        "Operations Management and Administration - 70%",
+        "Directs the day-to-day functions of the nursing activities in accordance with current rules, regulations, and guidelines that govern the facility, including the making of work assignments to Nursing Assistants",
+        "Assists in implementing methods for coordinating nursing services to ensure continuity of residents care",
+        "Administers medications and treatments in accordance with physician orders and nursing standards of practice",
+        "Represents the nursing department during Interdisciplinary Care Plan meetings",
+        "Is able to answer questions related to the plan of care and delivery of services",
+        "Participates in various committee meetings",
+        "Makes work assignments and meets with Nursing Assistants regularly to assist in identifying and correcting problem areas, and the improvement of care and services",
+        "Provides direct nursing care as needed",
+        "Consults with the resident's physicians in planning resident care, treatment, rehabilitation, etc. as needed",
+        "Notifies residents' physicians and families when there is a change in the resident's condition",
+        "Authorizes and monitors the use of restraints when necessary and in accordance with the facility policies and procedures",
+        "Admits, transfers and discharges patients as necessary",
+        "Works with Unit Manager to help reduce hospital readmissions",
+        "Attends all-employee and departmental meetings and in-service training as scheduled or as directed",
+        "Quality, Compliance, and Risk Management - 20%",
+        "Ensures that nursing procedures are followed by nursing service personnel, and that they reflect the day-to-day nursing care procedures used by the facility",
+        "Participates in the maintenance and implementation of the facility's quality assurance program",
+        "Ensures the procedures for the administration, storage and control of medications and supplies are being followed by nursing staff",
+        "Ensures that resident rooms, treatment areas, work areas and equipment are maintained in a clean, sanitary, and safe manner",
+        "People Management and Development - 10%",
+        "Supervises CNAs",
+        "Fosters a positive work environment that attracts, retains, and motivates employees",
+        "Interviews, selects, and orients new direct reports",
+        "Defines, establishes, and promotes performance expectations so direct reports understand and demonstrate excellence through high quality and consistent performance",
+        "Evaluates job performance of direct reports in accordance with the company policy and procedure and provides developmental guidance to staff for improved performance and growth",
+        "Monitors accountability with organization requirements prescribed by the Employee Handbook",
+        "Documents and engages employees who are routinely not observing these requirements in an effort to achieve compliance",
+        "Works with Human Resources when circumstances arise that necessitate further documentation and intervention",
+        "Participates in the development, planning, scheduling, conducting, and monitoring of in-service training programs, on-the-job training, and orientation programs for departmental staff",
+        "Ensures that there is a reasonable and sufficient plan for staffing should a direct report be absent or a direct reporting position be vacant",
+        "Responds timely and thoughtfully to questions, requests, and work product from departmental staff that has been provided for review and approval",
+        "All other duties as assigned",
+        "Driving - Up to 6 hours / day",
+        "Travel % / Overnight Travel - Occasional",
+        "Work weekends, evenings, and holidays - As needed",
+        "On-call availability - 24 / 7 for emergencies",
+        "Subject to falls, burns from equipment, odors, and cuts - Work day"
+      ]
+    },
+    "job_onet_soc": "29206100",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
     "_source": "new_jobs"
   },
   {
@@ -614,11 +852,11 @@
     "job_posted_at_timestamp": 1770854400,
     "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
     "job_location": "Smyrna, GA",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Smyrna",
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 33.8839926,
+    "job_longitude": -84.51437609999999,
     "job_benefits": null,
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVutx14Z8mOyWXdUpAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -753,14 +991,14 @@
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
     "job_location": "Tucson, AZ",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Tucson",
+    "job_state": "Arizona",
+    "job_country": "US",
+    "job_latitude": 32.2539787,
+    "job_longitude": -110.97417689999999,
     "job_benefits": [
-      "health_insurance",
       "dental_coverage",
+      "health_insurance",
       "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DcAjywqwCvYfoJmIxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -817,315 +1055,98 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "oqlixlcYINjoQgLwAAAAAA==",
-    "job_title": "Lead with Purpose LPN Charge Nurse Needed!",
-    "employer_name": "SOUTHERN HEALTH PARTNERS INC",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREeFb13r-d8cjDjx2tZypn_4UkAOfJGZnt41Qc&s=0",
+    "job_id": "29aED9q4KJWZAdpxAAAAAA==",
+    "job_title": "Registered Nurse - Charge OR - FT Evenings",
+    "employer_name": "ABRAZO WEST CAMPUS",
+    "employer_logo": null,
     "employer_website": null,
-    "job_publisher": "Talent.com",
+    "job_publisher": "LinkedIn",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=c518fd18fb00&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-charge-or-ft-evenings-at-abrazo-west-campus-4372003750?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=c518fd18fb00&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-charge-or-ft-evenings-at-abrazo-west-campus-4372003750?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5628854584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
         "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/1335406927630303232?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://us.jobrapido.com/jobpreview/6239765624063524864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-az-litchfield-park-registered-nurse-charge-ft-evenings-abrazo-west?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Location : Shelby County Jail\n\nPosition : Charge Nurse (LPN) – Make a Difference Daily\n\nSchedule : 12-Hour Day Shift Rotation | 6 : 00 AM – 6 : 30 PM | Alternating Weekends\n\nIncentives : Sign-On & Retention Bonus\n\nLead with Purpose – Make a Difference Every Day!\n\nAt Southern Health Partners (SHP) , we know that skilled nurses deserve more than just a paycheck — they deserve respect, support, and the opportunity to make a real impact. For over 30 years, we've been a trusted leader in correctional healthcare, providing a safe and collaborative environment where LPNs can thrive both professionally and personally.\n\nStep into this Charge Nurse role and take the lead in delivering exceptional care while guiding your nursing team. Your leadership and expertise will make a lasting difference every day!",
+    "job_description": "The Charge RN must be able to work under high pressure in a fast-paced environment. You will apply good interpersonal and communication process utilizing verbal and non-verbal skills to achieve organizational service goals of customer satisfaction and a positive work environment. The position requires the ability to be conscientious, organized, and orderly and the ability to respond quickly to the needs of the surgeon, patients, and staff. This position assesses, plans, implements, evaluates and documents nursing care of patients in accordance with organizational policies and in accordance with standards of professional nursing practice utilizing the framework for professional nursing practice and development. This position is accountable for the quality of nursing services delivered by self or others who are under their direction. This position utilizes specialized knowledge, judgment, and nursing skills necessary to assess data and plan, provide and evaluate care appropriate to the physical and developmental age of assigned patients.\n\nUp to $15K Bonus Based on Eligibility\n\nWelcome to Abrazo Health Network, where making a real difference in people's lives is at the heart of everything we do. Beyond just medical treatments, we believe in the power of genuine relationships and heartfelt compassion. It's what sets us apart and makes us truly special.\n\nWhen you join our team, you're not just stepping into a job - you're becoming part of a community that uplifts and supports each other every day. We know that healthcare requires a unique blend of talent and dedication, and we are fully committed to providing an environment that enriches and rewards your journey.\n\nPicture yourself among the brightest healthcare professionals, all united by a common purpose: caring for our community with unwavering commitment. At Abrazo Health, you won't just find colleagues; you'll find awe-inspiring teammates who share your passion for making a meaningful impact.\n\nIf you're ready to go above and beyond, to embrace the energy and camaraderie that Abrazo Health offers, then join us on this incredible adventure. Together, we'll embrace a healthier world - one patient at a time. Let your career find its purpose here at Abrazo.\n\nCharge RN OR FT Days Position Summary\n\nCoordinates functions and activities related to a single departmental function. Position is responsible for a clinic unit. Position coordinates the scheduling efforts of the unit RN's. Acts as liaison person to internal and external customers (i.e., pre-hospital providers, medical and nursing staff, hospital administration). Responsible for developing and implementing plans/processes for meeting regulatory requirements. Trains and mentors staff.\n\nSPECIAL SKILLS: Effective interpersonal and communication skills. Ability to effectively implement change and assist with the management of departmental budget. Must be able to independently make decisions in high-stress situations.\n\nSUPERVISES: Other members of healthcare team.\n\nTHE CHARGE RN OR FT DAYS CANDIDATE WILL POSSESS THE FOLLOWING EDUCATION, LICENSE/CERTIFICATIONS, AND EXPERIENCE.\n\nMINIMUM EDUCATION: Nursing Degree from an accredited nursing school\n\nPREFERRED EDUCATION: BSN\n\nMINIMUM EXPERIENCE: Two years relevant clinical nursing experience and for Level II EQ Only: A minimum of two years of current Level III NICU experience including neonatal ventilator.\n\nPREFERRED EXPERIENCE: Management experience with two years supervisory. Certification in specialty area of practice preferred.\n\nREQUIRED CERTIFICATIONS/LICENSURE: License to practice as a Registered Nurse in the State of Arizona. CPR. ACLS as applicable by Facility/by Department:\n\nER, ICU, Endoscopy, Tele, Cardiac Cath Lab, L&D: ACLS required upon orientation completion.\n\nER: PALS or ENPC required or must obtain within ninety days\n\nPACU: ACLS required or must obtain within six months of hire, PALS preferred.\n\nPost-partum, Nursery, L&D: NRP required upon orientation completion.\n\nBariatrics: Certification or specialized training in bariatrics specialty area of practice.\n\nWound Care: Wound-Ostomy Certification or Training in Wound Care and/or Ostomy Care.\n\nREQUIRED COURSE(S) TRAINING: L&D only: Advanced Fetal Monitoring or must obtain within six months of hire.\n\nWho We Are\nWe are a community built on care. Our caregivers and supporting staff extend compassion to those in need, helping to improve the health and well-being of those we serve, and provide comfort and healing. Your community is our community.\n\nOur Story\n\nWe started out as a small operation in California. In May 1969, we acquired four hospitals, some additional care facilities and real estate for the future development of hospitals. Over the years, we've grown tremendously in size, scope and capability, building a home in new markets over time, and curating those homes to provide a compassionate environment for those entrusting us with their care.\n\nWe have a rich history at Tenet. There are so many stories of compassionate care; so many \"firsts\" in terms of medical innovation; so many examples of enhancing healthcare delivery and shaping a business that is truly centered around patients and community need. Tenet and our predecessors have enabled us to touch many different elements of healthcare and make a difference in the lives of others.\n\nOur Impact Today\n\nToday, we are leading health system and services platform that continues to evolve in lockstep with community need. Tenet's operations include three businesses - our hospitals and physicians, USPI and Conifer Health Solutions.\n\nOur impact spreads far and deep with 65 hospitals and approximately 510 outpatient centers and additional sites of care. We are differentiated by our top notch medical specialists and service lines that are tailored within each community we serve. The work Conifer is doing will help provide the foundation for better health for clients across the country, through the delivery of healthcare-focused revenue cycle management and value-based care solutions.\n\nTogether as an enterprise, we work to save lives and can accept nothing less than excellence from ourselves in service of our patients and their families, every day.\n\nCareers at Tenet\nAt Tenet Healthcare, the heart of what we do centers on caring with compassion, which ultimately creates a bond between our caregivers and patients. Everyone contributes to these moments, whether providing care directly or supporting those who do.\n\nAs an organization, we provide employees with resources, tools and support to serve our patients and customers in the best way possible. We also take care of one another, helping team members further develop their career pathways and maximize their potential.",
     "job_is_remote": false,
     "job_posted_at": "3 days ago",
     "job_posted_at_timestamp": 1770940800,
     "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Alpine, AL",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_location": "Litchfield Park, AZ",
+    "job_city": "Litchfield Park",
+    "job_state": "Arizona",
+    "job_country": "US",
+    "job_latitude": 33.4933743,
+    "job_longitude": -112.3579364,
     "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DoqlixlcYINjoQgLwAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Benefits": [
-        "Incentives : Sign-On & Retention Bonus",
-        "Lead with Purpose – Make a Difference Every Day!"
-      ],
-      "Responsibilities": [
-        "Schedule : 12-Hour Day Shift Rotation | 6 : 00 AM – 6 : 30 PM | Alternating Weekends",
-        "Step into this Charge Nurse role and take the lead in delivering exceptional care while guiding your nursing team"
-      ]
-    },
-    "job_onet_soc": "29206100",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "M_V-83Ru2dev9A7XAAAAAA==",
-    "job_title": "Clinical Charge Nurse - P.A.C.U",
-    "employer_name": "Health First Careers",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0PwdAlchoxcOIXm6eIh2sxxwgIBzjutuVd4Dg&s=0",
-    "employer_website": "https://www.careers.hf.org",
-    "job_publisher": "Healthcare Jobs - Health First |",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.careers.hf.org/job/P-104827/Clinical-Charge-Nurse-P-A-C-U?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Healthcare Jobs - Health First |",
-        "apply_link": "https://www.careers.hf.org/job/P-104827/Clinical-Charge-Nurse-P-A-C-U?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=c2bc3e5ad85ba7a9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/clinical-charge-nurse_7ea1a6e579cf0dc4de89d6b94325d518372ca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Health-First/Job/Clinical-Charge-Nurse-P.A.C.U/-in-Melbourne,FL?jid=1fecc3cd7f4c5e83&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/clinical-charge-nurse-p-a-c-u-at-health-first-4372757014?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/TGq8ohQpssRi3AWmyz7ibx0L5rcEseXbvaER1CNkRn8s5koWhAjdCw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "J-O-B-Z",
-        "apply_link": "https://j-o-b-z.com/seo/job/136591518/fl/melbourne/clinical-charge-nurse---pacu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "HCA Healthcare Jobs - Pro Nurses Nearby",
-        "apply_link": "https://hcahealthcare.pronursesnearby.com/joblistingpage/ddb087natb3e-a0397f0424e874ebe-0b6f900a-0413c8e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Requirements\n\nPOSITION SUMMARY\n\nThe Clinical Charge Nurse is fully engaged in providing Quality/No Harm, Customer Service and Stewardship by demonstrating leadership through the assessment, planning, implementation and evaluation of patient care according to the standards of professional nursing practice. Nursing care is provided to the individual patient based upon diverse patient demographics and needs.\n\nPRIMARY ACCOUNTABILITES\n• Demonstrates effective and safe clinical practice as evidenced by observation and feedback, leader rounding, performance coaching and patient outcomes; actively seeks feedback and performance coaching to improve the experience for patients and families.\n• Resolves or facilitates resolution of patient and family concerns/complaints and serves as a secondary resource to address points of escalation.\n• Recognizes and resolves safety issues and potential unsafe situations within approved policies, procedures, and protocol.\n• Effectively leads shift and post-event huddles; facilitates and leads effective interdisciplinary care transition rounds and planning of care for appropriate utilization, care transitions, and safe disposition.\n• Consistently and effectively demonstrates compliance and monitoring for department service standards such as purposeful hourly rounding, bedside shift report and white board management to enhance communication.\n• Demonstrates an understanding and effective application of staffing effectiveness principles and optimization of resources to meet dynamic patient care needs real time.\n• Demonstrates effective management of unit productivity in a favorable way through good planning, organization and time management (e.g. incremental overtime).\n• Identifies and participates in activities to appropriately improve patient safety, patient throughput, reduce length of stay and prevent readmission.\n• Actively participates and assists in the selection, development and retention of associates and serves as a coach and resource to peers, staff and other healthcare team members; adds positively to creating and sustaining a healthy work environment.\n• Demonstrates effective medication administration provided to patients as evidenced by Preceptor Observation Tool, Skills Fair Demonstration, and Clinical Practice.\n• Demonstrates appropriate delegation and supervision of patient care activities within the healthcare setting.\n• Contributes to the patient experience as evidenced by positive patient satisfaction scores and HCAHPs scores for department/medical center and/or written compliments by patients/others as well as consistent performance of purposeful hourly rounding and bedside shift report.\n\nWork Experience\n\nMINIMUM QUALIFICATIONS\n• Education: Associate’s degree in Nursing or Nursing Diploma.\n• Work Experience: None\n• Licensure: RN Licensure in the State of Florida or endorsement.\n• Certification:\n• American Heart Association Basic Life Support (AHA BLS) Healthcare Provider Completion Card prior to start date and maintained.\n• Must obtain other certification(s) as required by specific unit.\n• Skills/Knowledge/Abilities:\n• Must be able to speak / understand written and verbal instructions in the English language.\n• Must meet unit specific care requirements.\n• Must have ability to work in often stressful environment with patients / families at various ages and levels of understanding.\n• Must have ability to concentrate on multiple priority activities.\n• Must have ability to respond appropriately to life threatening situations.\n• Must have critical thinking and problem-solving skills.\n• Demonstrates dependability, reliability and flexibility.\n• Must have highly developed verbal and non-verbal communication skills.\n\nPREFFERED QUALIFICATIONS\n• Work Experience: Two (2) years of relevant clinical experience.\n• Certification: National certification in relevant specialty.\n\nPHYSICAL REQUIREMENTS\n• Physically agile; may require walking, standing, running, bending, stooping, kneeling, climbing, or crouching frequently.\n• May occasionally include lifting or moving objects up to 50 pounds, with or without assistance.\n• May require moving in different positions to accomplish tasks in various environments including tight and confined spaces, including reaching out and above shoulders, or overhead.\n• May lift, turn, pull, push, or ambulate people and/or equipment with or without assistance up to 90% of the assigned shift.\n• May be exposed to inside and outside environments with varied temperatures, air quality, lighting, and/or low to loud noise.\n• May require working with biohazards such as blood/body fluids and airborne particles following OSHA and CDC guidelines.\n• Communicating with others to exchange information.\n• Visual acuity and hand-eye coordination to perform tasks.\n• Workspace may vary from open to confined.\n• May require travel to various facilities within and beyond county perimeter; may require use of personal vehicle.\n\nBenefits\n• Comprehensive medical, dental, and vision insurance\n• Employee wellness programs and resources\n• Competitive pay with shift differentials (if applicable)\n• Tuition reimbursement and professional development assistance\n\nAt Health First, diversity and inclusion are essential for our continued growth and evolution. Working together, we strive to build and nurture a culture that recognizes, encourages, and respects the diverse voices of our associates. We know through experience that different ideas, perspectives, and backgrounds create a stronger and more collaborative work environment that delivers better results. As an organization, it fuels our innovation and connects us closer to our associates, customers, and the communities we serve.\n\nSchedule : Full-Time\n\nPaygrade : PG-30B",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Melbourne, FL",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DM_V-83Ru2dev9A7XAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D29aED9q4KJWZAdpxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Education: Associate’s degree in Nursing or Nursing Diploma",
-        "Work Experience: None",
-        "Licensure: RN Licensure in the State of Florida or endorsement",
-        "Certification:",
-        "American Heart Association Basic Life Support (AHA BLS) Healthcare Provider Completion Card prior to start date and maintained",
-        "Must obtain other certification(s) as required by specific unit",
-        "Skills/Knowledge/Abilities:",
-        "Must be able to speak / understand written and verbal instructions in the English language",
-        "Must meet unit specific care requirements",
-        "Must have ability to work in often stressful environment with patients / families at various ages and levels of understanding",
-        "Must have ability to concentrate on multiple priority activities",
-        "Must have ability to respond appropriately to life threatening situations",
-        "Must have critical thinking and problem-solving skills",
-        "Demonstrates dependability, reliability and flexibility",
-        "Must have highly developed verbal and non-verbal communication skills",
-        "Work Experience: Two (2) years of relevant clinical experience",
-        "Certification: National certification in relevant specialty",
-        "Physically agile; may require walking, standing, running, bending, stooping, kneeling, climbing, or crouching frequently",
-        "May occasionally include lifting or moving objects up to 50 pounds, with or without assistance",
-        "May require moving in different positions to accomplish tasks in various environments including tight and confined spaces, including reaching out and above shoulders, or overhead",
-        "May lift, turn, pull, push, or ambulate people and/or equipment with or without assistance up to 90% of the assigned shift",
-        "May require working with biohazards such as blood/body fluids and airborne particles following OSHA and CDC guidelines",
-        "Visual acuity and hand-eye coordination to perform tasks",
-        "Workspace may vary from open to confined",
-        "May require travel to various facilities within and beyond county perimeter; may require use of personal vehicle"
+        "The Charge RN must be able to work under high pressure in a fast-paced environment",
+        "SPECIAL SKILLS: Effective interpersonal and communication skills",
+        "Ability to effectively implement change and assist with the management of departmental budget",
+        "Must be able to independently make decisions in high-stress situations",
+        "THE CHARGE RN OR FT DAYS CANDIDATE WILL POSSESS THE FOLLOWING EDUCATION, LICENSE/CERTIFICATIONS, AND EXPERIENCE",
+        "MINIMUM EDUCATION: Nursing Degree from an accredited nursing school",
+        "MINIMUM EXPERIENCE: Two years relevant clinical nursing experience and for Level II EQ Only: A minimum of two years of current Level III NICU experience including neonatal ventilator",
+        "REQUIRED CERTIFICATIONS/LICENSURE: License to practice as a Registered Nurse in the State of Arizona",
+        "CPR",
+        "ACLS as applicable by Facility/by Department:",
+        "ER, ICU, Endoscopy, Tele, Cardiac Cath Lab, L&D: ACLS required upon orientation completion",
+        "ER: PALS or ENPC required or must obtain within ninety days",
+        "Post-partum, Nursery, L&D: NRP required upon orientation completion",
+        "Bariatrics: Certification or specialized training in bariatrics specialty area of practice",
+        "Wound Care: Wound-Ostomy Certification or Training in Wound Care and/or Ostomy Care",
+        "REQUIRED COURSE(S) TRAINING: L&D only: Advanced Fetal Monitoring or must obtain within six months of hire"
       ],
       "Benefits": [
-        "Comprehensive medical, dental, and vision insurance",
-        "Employee wellness programs and resources",
-        "Competitive pay with shift differentials (if applicable)",
-        "Tuition reimbursement and professional development assistance"
+        "Up to $15K Bonus Based on Eligibility"
       ],
       "Responsibilities": [
-        "The Clinical Charge Nurse is fully engaged in providing Quality/No Harm, Customer Service and Stewardship by demonstrating leadership through the assessment, planning, implementation and evaluation of patient care according to the standards of professional nursing practice",
-        "Nursing care is provided to the individual patient based upon diverse patient demographics and needs",
-        "Demonstrates effective and safe clinical practice as evidenced by observation and feedback, leader rounding, performance coaching and patient outcomes; actively seeks feedback and performance coaching to improve the experience for patients and families",
-        "Resolves or facilitates resolution of patient and family concerns/complaints and serves as a secondary resource to address points of escalation",
-        "Recognizes and resolves safety issues and potential unsafe situations within approved policies, procedures, and protocol",
-        "Effectively leads shift and post-event huddles; facilitates and leads effective interdisciplinary care transition rounds and planning of care for appropriate utilization, care transitions, and safe disposition",
-        "Consistently and effectively demonstrates compliance and monitoring for department service standards such as purposeful hourly rounding, bedside shift report and white board management to enhance communication",
-        "Demonstrates an understanding and effective application of staffing effectiveness principles and optimization of resources to meet dynamic patient care needs real time",
-        "Demonstrates effective management of unit productivity in a favorable way through good planning, organization and time management (e.g. incremental overtime)",
-        "Identifies and participates in activities to appropriately improve patient safety, patient throughput, reduce length of stay and prevent readmission",
-        "Actively participates and assists in the selection, development and retention of associates and serves as a coach and resource to peers, staff and other healthcare team members; adds positively to creating and sustaining a healthy work environment",
-        "Demonstrates effective medication administration provided to patients as evidenced by Preceptor Observation Tool, Skills Fair Demonstration, and Clinical Practice",
-        "Demonstrates appropriate delegation and supervision of patient care activities within the healthcare setting",
-        "Contributes to the patient experience as evidenced by positive patient satisfaction scores and HCAHPs scores for department/medical center and/or written compliments by patients/others as well as consistent performance of purposeful hourly rounding and bedside shift report",
-        "May be exposed to inside and outside environments with varied temperatures, air quality, lighting, and/or low to loud noise",
-        "Communicating with others to exchange information"
+        "You will apply good interpersonal and communication process utilizing verbal and non-verbal skills to achieve organizational service goals of customer satisfaction and a positive work environment",
+        "The position requires the ability to be conscientious, organized, and orderly and the ability to respond quickly to the needs of the surgeon, patients, and staff",
+        "This position assesses, plans, implements, evaluates and documents nursing care of patients in accordance with organizational policies and in accordance with standards of professional nursing practice utilizing the framework for professional nursing practice and development",
+        "This position is accountable for the quality of nursing services delivered by self or others who are under their direction",
+        "This position utilizes specialized knowledge, judgment, and nursing skills necessary to assess data and plan, provide and evaluate care appropriate to the physical and developmental age of assigned patients",
+        "Charge RN OR FT Days Position Summary",
+        "Coordinates functions and activities related to a single departmental function",
+        "Position is responsible for a clinic unit",
+        "Position coordinates the scheduling efforts of the unit RN's",
+        "Acts as liaison person to internal and external customers (i.e., pre-hospital providers, medical and nursing staff, hospital administration)",
+        "Responsible for developing and implementing plans/processes for meeting regulatory requirements",
+        "Trains and mentors staff",
+        "SUPERVISES: Other members of healthcare team"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "www-careers-hf-org-job-p-104827-clinical-charge-nurse-p-a-c-u",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "IyJ4pfTNhVzmYrgCAAAAAA==",
-    "job_title": "CHARGE NURSE, FMFH - MEDICAL SURGICAL 4TH FLOOR",
-    "employer_name": "Froedtert",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqYNpMO1XnF6GmBjEtlz9NRhgsFexOlaydYctw&s=0",
-    "employer_website": "https://www.froedtert.com",
-    "job_publisher": "Careers At Froedtert",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://jobs.froedtert.com/job/162453/CHARGE-NURSE-FMFH-MEDICAL-SURGICAL-4TH-FLOOR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Careers At Froedtert",
-        "apply_link": "https://jobs.froedtert.com/job/162453/CHARGE-NURSE-FMFH-MEDICAL-SURGICAL-4TH-FLOOR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/FROEDTERT-HEALTH/Job/CHARGE-NURSE,-FMFH-MEDICAL-SURGICAL-4TH-FLOOR/-in-Menomonee-Falls,WI?jid=2386b227fc577d74&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/charge-nurse_7ea1abcaaf05cb0bc1ab87722398430aab58b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/charge-nurse-fmfh-medical-surgical-4th-floor-at-froedtert-health-4357597624?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=0b4292bc84449364&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talentify",
-        "apply_link": "https://www.talentify.io/job/charge-nurse-fmfh-medical-surgical-4th-floor-menomonee-falls-wisconsin-us-froedtert-health-163391?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Learn4Good",
-        "apply_link": "https://www.learn4good.com/jobs/menomonee-falls/wisconsin/nursing/4860293227/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Local Job Bulletin",
-        "apply_link": "https://wisconsin.localjobbulletin.com/seo/job/menomoneefalls/136448856?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Discover. Achieve. Succeed. #BeHere\n\nLocation: US:WI:MENOMONEE FALLS at our FROEDTERT MEN FALLS HOSPITAL facility.\n\nThis job is ON - SITE.\n\nFTE: 0.900000\n\nStandard Hours: 36.00\n\nShift: Shift 1\n\nShift Details: 0700-1930 Holidays: Rotating A/B Weekends: Every third\n\nJob Summary:\n\nThe Charge Nurse is a Registered Nurse with unit lead responsibilities for patient flow and adjustment of unit staffing to meet the dynamic needs of the patients. The Charge Nurse will use the nursing process to make ongoing evaluations of patients' acuity, assessments of the staff nurses workload, and anticipate fluctuations in admissions, discharges and transfers. The facilitation of patient flow includes triaging and prioritizing admissions and overseeing the care coordination of patients being discharged/transferred. Daily nurse staffing includes employing effective decision-making behaviors that are used to safely balance changes in patient acuity and census with the availability, experience and competency of the staff nurses, to ensure safe and adequate staffing for all shifts. The Charge Nurse will demonstrate resourcefulness, tactful communication, flexibility, adaptability, decisiveness and awareness of the global needs of the hospital. The Charge Nurse will be a clinical leader and resource on the unit, collaborating with the interdisciplinary team to facilitate patient care stay progression and unit goals. The Charge Nurse will assume a patient assignment as determined by the needs of the unit. As appropriate and/or delegated by the Nurse Manager, the Charge Nurse monitors and intervenes in addressing opportunities for assuring regulatory compliance, quality effectiveness and a satisfactory patient experience. When working as a clinical Staff RN the Charge Nurse is a practitioner who is responsible for assessing, planning, implementing, and evaluating nursing care for an identified group of patients in an inpatient environment. This individual demonstrates competency in delivery of care to a primarily adult population. The Staff RN-Inpatient job description has incorporated essential functions which are adapted from the ANA Nursing: Scope and Standards of Practice, 2nd Edition (2010).\n\nEXPERIENCE DESCRIPTION:\n\nClinical competence and experience in the care and management of target patient populations specific to area of employment is required. A minimum of 2 years of related clinical experience is required, unless approved by the Unit Manager. If applying to Critical Care position, must have 2 years of Critical Care experience, unless approved by the Unit Manager.\n\nEDUCATION DESCRIPTION:\n\nBachelors Degree in Nursing is required. Will consider current Froedtert Health non BSN prepared RNs with demonstrated leadership skills that have at least 5 years experience in an acute care setting and formal commitment and plan to obtain a Bachelors Degree in Nursing within 5 years of starting in role. If an incumbent is functioning as a Charge RN as of June 1, 2016, and has 2-3 years experience in this role the Bachelors Degree in Nursing educational requirement may be waived.\n\nSPECIAL SKILLS DESCRIPTION:\n\nHas a demonstrated history of leadership roles i.e. Shared Governance unit based council chair, Committee chair, Preceptor, equipment or process Super User/Champion.\n\nLICENSURE DESCRIPTION:\n\nRequires current state of Wisconsin Registered Nurse License or a Multi-state Nursing License from a participating state in the NLC (Nurse Licensure Compact). American Heart Association (AHA) Basic Life Support for the Healthcare Provider (BLS) or an AHA approved equivalent is required within 90 days of hire. American Heart Association (AHA) Advanced Cardiac Life Support (ACLS) is preferred.\n\nPerks & Benefits at Froedtert Health\n\nFroedtert Health Offers a variety of perks & benefits to staff, depending on your role you may be eligible for the following:\n• Paid time off\n• Growth opportunity- Career Pathways & Career Tuition Assistance, CEU opportunities\n• Academic Partnership with the Medical College of Wisconsin\n• Referral bonuses\n• Retirement plan - 403b\n• Medical, Dental, Vision, Life Insurance, Short & Long Term Disability, Free Workplace Clinics\n• Employee Assistance Programs, Adoption Assistance, Healthy Contributions, Care@Work, Moving Assistance, Discounts on gym memberships, travel and other work life benefits available\n\nThe Froedtert & the Medical College of Wisconsin regional health network is a partnership between Froedtert Health and the Medical College of Wisconsin supporting a shared mission of patient care, innovation, medical research and education. Our health network operates eastern Wisconsin's only academic medical center and adult Level I Trauma center engaged in thousands of clinical trials and studies. The Froedtert & MCW health network, which includes ten hospitals, nearly 2,000 physicians and more than 45 health centers and clinics draw patients from throughout the Midwest and the nation.\n\nWe are proud to be an Equal Opportunity Employer who values and maintains an environment that attracts, recruits, engages and retains a diverse workforce. We welcome protected veterans to share their priority consideration status with us at 262-439-1961. We maintain a drug-free workplace and perform pre-employment substance abuse testing. During your application and interview process, if you have a need that requires an accommodation, please contact us at 262-439-1961. We will attempt to fulfill all reasonable accommodation requests.",
-    "job_is_remote": false,
-    "job_posted_at": "8 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Menomonee Falls, WI",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DIyJ4pfTNhVzmYrgCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The Staff RN-Inpatient job description has incorporated essential functions which are adapted from the ANA Nursing: Scope and Standards of Practice, 2nd Edition (2010)",
-        "Clinical competence and experience in the care and management of target patient populations specific to area of employment is required",
-        "A minimum of 2 years of related clinical experience is required, unless approved by the Unit Manager",
-        "If applying to Critical Care position, must have 2 years of Critical Care experience, unless approved by the Unit Manager",
-        "Bachelors Degree in Nursing is required",
-        "Will consider current Froedtert Health non BSN prepared RNs with demonstrated leadership skills that have at least 5 years experience in an acute care setting and formal commitment and plan to obtain a Bachelors Degree in Nursing within 5 years of starting in role",
-        "If an incumbent is functioning as a Charge RN as of June 1, 2016, and has 2-3 years experience in this role the Bachelors Degree in Nursing educational requirement may be waived",
-        "Has a demonstrated history of leadership roles i.e. Shared Governance unit based council chair, Committee chair, Preceptor, equipment or process Super User/Champion",
-        "Requires current state of Wisconsin Registered Nurse License or a Multi-state Nursing License from a participating state in the NLC (Nurse Licensure Compact)",
-        "American Heart Association (AHA) Basic Life Support for the Healthcare Provider (BLS) or an AHA approved equivalent is required within 90 days of hire"
-      ],
-      "Benefits": [
-        "Perks & Benefits at Froedtert Health",
-        "Froedtert Health Offers a variety of perks & benefits to staff, depending on your role you may be eligible for the following:",
-        "Paid time off",
-        "Growth opportunity- Career Pathways & Career Tuition Assistance, CEU opportunities",
-        "Academic Partnership with the Medical College of Wisconsin",
-        "Referral bonuses",
-        "Retirement plan - 403b",
-        "Medical, Dental, Vision, Life Insurance, Short & Long Term Disability, Free Workplace Clinics",
-        "Employee Assistance Programs, Adoption Assistance, Healthy Contributions, Care@Work, Moving Assistance, Discounts on gym memberships, travel and other work life benefits available"
-      ],
-      "Responsibilities": [
-        "Standard Hours: 36.00",
-        "Shift: Shift 1",
-        "Shift Details: 0700-1930 Holidays: Rotating A/B Weekends: Every third",
-        "The Charge Nurse is a Registered Nurse with unit lead responsibilities for patient flow and adjustment of unit staffing to meet the dynamic needs of the patients",
-        "The Charge Nurse will use the nursing process to make ongoing evaluations of patients' acuity, assessments of the staff nurses workload, and anticipate fluctuations in admissions, discharges and transfers",
-        "The facilitation of patient flow includes triaging and prioritizing admissions and overseeing the care coordination of patients being discharged/transferred",
-        "Daily nurse staffing includes employing effective decision-making behaviors that are used to safely balance changes in patient acuity and census with the availability, experience and competency of the staff nurses, to ensure safe and adequate staffing for all shifts",
-        "The Charge Nurse will demonstrate resourcefulness, tactful communication, flexibility, adaptability, decisiveness and awareness of the global needs of the hospital",
-        "The Charge Nurse will be a clinical leader and resource on the unit, collaborating with the interdisciplinary team to facilitate patient care stay progression and unit goals",
-        "The Charge Nurse will assume a patient assignment as determined by the needs of the unit",
-        "As appropriate and/or delegated by the Nurse Manager, the Charge Nurse monitors and intervenes in addressing opportunities for assuring regulatory compliance, quality effectiveness and a satisfactory patient experience",
-        "When working as a clinical Staff RN the Charge Nurse is a practitioner who is responsible for assessing, planning, implementing, and evaluating nursing care for an identified group of patients in an inpatient environment",
-        "This individual demonstrates competency in delivery of care to a primarily adult population"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "jobs-froedtert-com-job-162453-charge-nurse-fmfh-medical-surgical-4th-floor",
+    "id": "www-linkedin-com-jobs-view-registered-nurse-charge-or-ft-evenings-at-abrazo-west-campus-4372003750",
     "_source": "new_jobs"
   },
   {
@@ -1179,11 +1200,11 @@
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
     "job_location": "Moran, KS",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Moran",
+    "job_state": "Kansas",
+    "job_country": "US",
+    "job_latitude": 37.9161474,
+    "job_longitude": -95.17025459999999,
     "job_benefits": [
       "paid_time_off",
       "dental_coverage",
@@ -1248,101 +1269,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "29aED9q4KJWZAdpxAAAAAA==",
-    "job_title": "Registered Nurse - Charge OR - FT Evenings",
-    "employer_name": "ABRAZO WEST CAMPUS",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "LinkedIn",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-charge-or-ft-evenings-at-abrazo-west-campus-4372003750?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-charge-or-ft-evenings-at-abrazo-west-campus-4372003750?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5628854584?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/6239765624063524864?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-az-litchfield-park-registered-nurse-charge-ft-evenings-abrazo-west?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "The Charge RN must be able to work under high pressure in a fast-paced environment. You will apply good interpersonal and communication process utilizing verbal and non-verbal skills to achieve organizational service goals of customer satisfaction and a positive work environment. The position requires the ability to be conscientious, organized, and orderly and the ability to respond quickly to the needs of the surgeon, patients, and staff. This position assesses, plans, implements, evaluates and documents nursing care of patients in accordance with organizational policies and in accordance with standards of professional nursing practice utilizing the framework for professional nursing practice and development. This position is accountable for the quality of nursing services delivered by self or others who are under their direction. This position utilizes specialized knowledge, judgment, and nursing skills necessary to assess data and plan, provide and evaluate care appropriate to the physical and developmental age of assigned patients.\n\nUp to $15K Bonus Based on Eligibility\n\nWelcome to Abrazo Health Network, where making a real difference in people's lives is at the heart of everything we do. Beyond just medical treatments, we believe in the power of genuine relationships and heartfelt compassion. It's what sets us apart and makes us truly special.\n\nWhen you join our team, you're not just stepping into a job - you're becoming part of a community that uplifts and supports each other every day. We know that healthcare requires a unique blend of talent and dedication, and we are fully committed to providing an environment that enriches and rewards your journey.\n\nPicture yourself among the brightest healthcare professionals, all united by a common purpose: caring for our community with unwavering commitment. At Abrazo Health, you won't just find colleagues; you'll find awe-inspiring teammates who share your passion for making a meaningful impact.\n\nIf you're ready to go above and beyond, to embrace the energy and camaraderie that Abrazo Health offers, then join us on this incredible adventure. Together, we'll embrace a healthier world - one patient at a time. Let your career find its purpose here at Abrazo.\n\nCharge RN OR FT Days Position Summary\n\nCoordinates functions and activities related to a single departmental function. Position is responsible for a clinic unit. Position coordinates the scheduling efforts of the unit RN's. Acts as liaison person to internal and external customers (i.e., pre-hospital providers, medical and nursing staff, hospital administration). Responsible for developing and implementing plans/processes for meeting regulatory requirements. Trains and mentors staff.\n\nSPECIAL SKILLS: Effective interpersonal and communication skills. Ability to effectively implement change and assist with the management of departmental budget. Must be able to independently make decisions in high-stress situations.\n\nSUPERVISES: Other members of healthcare team.\n\nTHE CHARGE RN OR FT DAYS CANDIDATE WILL POSSESS THE FOLLOWING EDUCATION, LICENSE/CERTIFICATIONS, AND EXPERIENCE.\n\nMINIMUM EDUCATION: Nursing Degree from an accredited nursing school\n\nPREFERRED EDUCATION: BSN\n\nMINIMUM EXPERIENCE: Two years relevant clinical nursing experience and for Level II EQ Only: A minimum of two years of current Level III NICU experience including neonatal ventilator.\n\nPREFERRED EXPERIENCE: Management experience with two years supervisory. Certification in specialty area of practice preferred.\n\nREQUIRED CERTIFICATIONS/LICENSURE: License to practice as a Registered Nurse in the State of Arizona. CPR. ACLS as applicable by Facility/by Department:\n\nER, ICU, Endoscopy, Tele, Cardiac Cath Lab, L&D: ACLS required upon orientation completion.\n\nER: PALS or ENPC required or must obtain within ninety days\n\nPACU: ACLS required or must obtain within six months of hire, PALS preferred.\n\nPost-partum, Nursery, L&D: NRP required upon orientation completion.\n\nBariatrics: Certification or specialized training in bariatrics specialty area of practice.\n\nWound Care: Wound-Ostomy Certification or Training in Wound Care and/or Ostomy Care.\n\nREQUIRED COURSE(S) TRAINING: L&D only: Advanced Fetal Monitoring or must obtain within six months of hire.\n\nWho We Are\nWe are a community built on care. Our caregivers and supporting staff extend compassion to those in need, helping to improve the health and well-being of those we serve, and provide comfort and healing. Your community is our community.\n\nOur Story\n\nWe started out as a small operation in California. In May 1969, we acquired four hospitals, some additional care facilities and real estate for the future development of hospitals. Over the years, we've grown tremendously in size, scope and capability, building a home in new markets over time, and curating those homes to provide a compassionate environment for those entrusting us with their care.\n\nWe have a rich history at Tenet. There are so many stories of compassionate care; so many \"firsts\" in terms of medical innovation; so many examples of enhancing healthcare delivery and shaping a business that is truly centered around patients and community need. Tenet and our predecessors have enabled us to touch many different elements of healthcare and make a difference in the lives of others.\n\nOur Impact Today\n\nToday, we are leading health system and services platform that continues to evolve in lockstep with community need. Tenet's operations include three businesses - our hospitals and physicians, USPI and Conifer Health Solutions.\n\nOur impact spreads far and deep with 65 hospitals and approximately 510 outpatient centers and additional sites of care. We are differentiated by our top notch medical specialists and service lines that are tailored within each community we serve. The work Conifer is doing will help provide the foundation for better health for clients across the country, through the delivery of healthcare-focused revenue cycle management and value-based care solutions.\n\nTogether as an enterprise, we work to save lives and can accept nothing less than excellence from ourselves in service of our patients and their families, every day.\n\nCareers at Tenet\nAt Tenet Healthcare, the heart of what we do centers on caring with compassion, which ultimately creates a bond between our caregivers and patients. Everyone contributes to these moments, whether providing care directly or supporting those who do.\n\nAs an organization, we provide employees with resources, tools and support to serve our patients and customers in the best way possible. We also take care of one another, helping team members further develop their career pathways and maximize their potential.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Litchfield Park, AZ",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D29aED9q4KJWZAdpxAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "The Charge RN must be able to work under high pressure in a fast-paced environment",
-        "SPECIAL SKILLS: Effective interpersonal and communication skills",
-        "Ability to effectively implement change and assist with the management of departmental budget",
-        "Must be able to independently make decisions in high-stress situations",
-        "THE CHARGE RN OR FT DAYS CANDIDATE WILL POSSESS THE FOLLOWING EDUCATION, LICENSE/CERTIFICATIONS, AND EXPERIENCE",
-        "MINIMUM EDUCATION: Nursing Degree from an accredited nursing school",
-        "MINIMUM EXPERIENCE: Two years relevant clinical nursing experience and for Level II EQ Only: A minimum of two years of current Level III NICU experience including neonatal ventilator",
-        "REQUIRED CERTIFICATIONS/LICENSURE: License to practice as a Registered Nurse in the State of Arizona",
-        "CPR",
-        "ACLS as applicable by Facility/by Department:",
-        "ER, ICU, Endoscopy, Tele, Cardiac Cath Lab, L&D: ACLS required upon orientation completion",
-        "ER: PALS or ENPC required or must obtain within ninety days",
-        "Post-partum, Nursery, L&D: NRP required upon orientation completion",
-        "Bariatrics: Certification or specialized training in bariatrics specialty area of practice",
-        "Wound Care: Wound-Ostomy Certification or Training in Wound Care and/or Ostomy Care",
-        "REQUIRED COURSE(S) TRAINING: L&D only: Advanced Fetal Monitoring or must obtain within six months of hire"
-      ],
-      "Benefits": [
-        "Up to $15K Bonus Based on Eligibility"
-      ],
-      "Responsibilities": [
-        "You will apply good interpersonal and communication process utilizing verbal and non-verbal skills to achieve organizational service goals of customer satisfaction and a positive work environment",
-        "The position requires the ability to be conscientious, organized, and orderly and the ability to respond quickly to the needs of the surgeon, patients, and staff",
-        "This position assesses, plans, implements, evaluates and documents nursing care of patients in accordance with organizational policies and in accordance with standards of professional nursing practice utilizing the framework for professional nursing practice and development",
-        "This position is accountable for the quality of nursing services delivered by self or others who are under their direction",
-        "This position utilizes specialized knowledge, judgment, and nursing skills necessary to assess data and plan, provide and evaluate care appropriate to the physical and developmental age of assigned patients",
-        "Charge RN OR FT Days Position Summary",
-        "Coordinates functions and activities related to a single departmental function",
-        "Position is responsible for a clinic unit",
-        "Position coordinates the scheduling efforts of the unit RN's",
-        "Acts as liaison person to internal and external customers (i.e., pre-hospital providers, medical and nursing staff, hospital administration)",
-        "Responsible for developing and implementing plans/processes for meeting regulatory requirements",
-        "Trains and mentors staff",
-        "SUPERVISES: Other members of healthcare team"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-linkedin-com-jobs-view-registered-nurse-charge-or-ft-evenings-at-abrazo-west-campus-4372003750",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "QJSOxihpxS6NOcaWAAAAAA==",
     "job_title": "Progressive Care Unit Charge Nurse in Lamar, MS",
     "employer_name": "Vivian Health",
@@ -1373,11 +1299,11 @@
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
     "job_location": "Lamar, MS",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Lamar",
+    "job_state": "Mississippi",
+    "job_country": "US",
+    "job_latitude": 34.912904999999995,
+    "job_longitude": -89.31557869999999,
     "job_benefits": [
       "paid_time_off",
       "health_insurance",
@@ -1473,15 +1399,15 @@
     "job_posted_at_timestamp": 1770681600,
     "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
     "job_location": "Bradenton, FL",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Bradenton",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 27.4991266,
+    "job_longitude": -82.5734288,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DzRdLtiu5O8saX_ywAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1530,193 +1456,101 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "B_kyNyNbqSOr3DtGAAAAAA==",
-    "job_title": "PACU Charge Nurse",
+    "job_id": "Q7gIzE9hb5MLuJhyAAAAAA==",
+    "job_title": "Registered Nurse - PCU Charge Nurse",
     "employer_name": "Incredible Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMv3oyPLZwArF72_14o17HB-wHmp-89O4bYGD&s=0",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4KntA4ZTo1eZNXtRCZLBiNrq-TCsCWsYOj3e&s=0",
     "employer_website": "https://www.incrediblehealth.com",
-    "job_publisher": "Talent.com",
-    "job_employment_type": "Full-time",
+    "job_publisher": "KGET Jobs",
+    "job_employment_type": "Full-time and Part-time",
     "job_employment_types": [
-      "FULLTIME"
+      "FULLTIME",
+      "PARTTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=16719de290fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobs.kget.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615784368-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=16719de290fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "KGET Jobs",
+        "apply_link": "https://jobs.kget.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615784368-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/incredible-health/independence-ms/registered-nurse/09e89040b2680e8c8b41ab0c468bae33?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs.kxnet.com",
+        "apply_link": "https://jobs.kxnet.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615992418-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "CareerBoard",
+        "apply_link": "https://www.careerboard.com/us/en/search-jobs-in-Mississippi,-USA/REGISTERED-NURSE-PCU-CHARGE-NURSE-70D49808B66AF5AE2E/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WDTN Jobs",
+        "apply_link": "https://jobs.wdtn.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615992418-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "WTNH Jobs",
+        "apply_link": "https://jobs.wtnh.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615992418-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "FOX4KC Jobs",
+        "apply_link": "https://jobs.fox4kc.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615992418-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "FOX21News Jobs",
+        "apply_link": "https://jobs.fox21news.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615992418-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Hospitals on Incredible Health are actively hiring and accepting applications in the Memphis, TN area for the following position : PACU Charge Nurse. Nurses with experience in any of the following areas are strongly encouraged to apply : Assistant Nurse Manager, CNO, Cardiac Monitoring, Charge, Circulate, Clinical Nurse Coordinator, Director, Manager, Pediatric, Presurgical assessment, Robotic surgery, Supervisor, Transplant, VP, or Wound & drain care. Shift(s) available : day shift, night shift, and mid shift Job types available : full time and part time Employer features : 401(K), Cross training, Life Insurance, Medical, Offers sign on bonus, PTO Qualifications : RN Diploma degree or higher from an accredited school of nursing Active and unencumbered Registered Nurse license in the state of Tennessee Benefits : Healthcare coverage : Medical, Dental, Vision 401K Paid Time Off Tuition Assistance Salary : $48,920 to $94,690 / year",
+    "job_description": "Hospitals on Incredible Health are actively hiring and accepting applications in the Bartlett, TN area for the following position: Registered Nurse - PCU Charge Nurse. Nurses with experience in any of the following areas are strongly encouraged to apply: Assistant Nurse Manager, Bariatric, BiPap monitoring, CNO, COVID, CVA, Cardiac Drip Management, Charge, Clinical Nurse Coordinator, DKA patients, Director, High acuity patients, Manager, Post cardiac intervention, Sheath pulls, Supervisor, or VP.\n• Shift(s) available: day shift and night shift\n• Job types available: full time and part time\n• Employer features: 401(K), Cross training, Life Insurance, Medical, Offers sign on bonus, PTO Qualifications:\n• RN Diploma degree or higher from an accredited school of nursing\n• Active and unencumbered Registered Nurse license in the state of Tennessee Benefits:\n• Healthcare coverage: Medical, Dental, Vision\n• 401K\n• Paid Time Off\n• Tuition Assistance Salary: $48,920 to $94,690/year",
     "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Harmontown, MS",
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Mississippi",
     "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_state": "Mississippi",
+    "job_country": "US",
+    "job_latitude": 32.354667899999995,
+    "job_longitude": -89.3985283,
     "job_benefits": [
-      "paid_time_off",
       "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DB_kyNyNbqSOr3DtGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {},
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "CGWEkbqPDGwBwYmoAAAAAA==",
-    "job_title": "Registered Nurse Charge Nurse MedSurg",
-    "employer_name": "MUSC",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeepprZLTMVn7Db-ak2IgUA8pYpZ-Ip84fhF0Q&s=0",
-    "employer_website": null,
-    "job_publisher": "MUSC Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://musc.career-pages.com/jobs/registered-nurse-charge-nurse-medsurg-camden-south-carolina-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "MUSC Careers",
-        "apply_link": "https://musc.career-pages.com/jobs/registered-nurse-charge-nurse-medsurg-camden-south-carolina-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=36c72c5703fd5ad9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/MUSC/Job/Registered-Nurse-Charge-Nurse-MedSurg/-in-Camden,SC?jid=eabec8568ce94e88&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/registered-nurse-charge-nurse-medsurg-camden-sc--45b2360d-192f-4b3e-873d-40f382eccb7d?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/registered-nurse-charge-nurse-medsurg-camden-musc-med-univ-of-0fe56b77b0fe0704a1cabc922afb7e0b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/896e87b01aaeb9428412e0224fc06751?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-charge-nurse-medsurg-at-musc-health-4368781712?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SaluteMyJob",
-        "apply_link": "https://salutemyjob.com/jobs/registered-nurse-charge-nurse-medsurg-camden-south-carolina/2605933511-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Job Description Summary\nUnder general supervision, the Registered Nurse II provides individualized, goal-directed patient care to families and patients at the competent level utilizing the principles and practices of the nursing process; delivers safe and effective care and interacts\n\nEntity\nMedical University Hospital Authority (MUHA)\n\nWorker Type\nEmployee\n\nWorker Sub-Type​\nRegular\n\nCost Center\nCC001417 KER - MedSurg 1 (KMC)\n\nPay Rate Type\nHourly\n\nPay Grade\nHealth-28\n\nScheduled Weekly Hours\n36\n\nWork Shift\n\nJob Description\n• *$30,000 Sign on Bonus**\n\nEntity/Organization: MUHA (Medical University Hospital Authority/Medical Center)\n\nHours Per Week: 36\n\nScheduled Work Hours/Shift: 3 twelve-hour shifts per week, 7A-7P, every other weekend, rotating holidays.\n\nJob Summary/Purpose: Under general supervision, the Registered Nurse II provides individualized, goal-directed patient care to families and patients at the competent level utilizing the principles and practices of the nursing process; delivers safe and effective care and interacts with other members of the health care team to achieve desired results.\n\nMinimum Training and Education: Associate’s Degree in Nursing. Bachelor’s degree preferred.\n\nRequired Licensure, Certifications, Registrations: Licensure as a registered nurse by the South Carolina Board of Nursing or a compact state. Current Basic Life Support (BLS) required, either a certification from an American Heart Association (AHA) BLS for Healthcare Providers (or AHA recognized equivalent) or an American Red Cross CPR/AED for Professional Rescuer and Healthcare Provider.\n\nAdvanced Cardiac Life Support (ACLS) also required for most nursing areas within the hospital.\n\nAdditional Job Description\n\nPhysical and Mental Requirements: Ability to perform job functions while standing. (Continuous) Ability to perform job functions while sitting. (Continuous) Ability to perform job functions while walking. (Continuous) Ability to climb stairs. (Infrequent) Ability to work indoors. (Continuous) Ability to work outside in temperature extremes. (Infrequent) Ability to work from elevated areas. (Frequent) Ability to work in confined/cramped spaces. (Frequent) Ability to perform job functions from kneeling positions. (Infrequent) Ability to bend at the waist. (Continuous) Ability to twist at the waist. (Frequent) Ability to squat and perform job functions. (Frequent) Ability to perform \"pinching\" operations. (Frequent) Ability to perform gross motor activities with fingers and hands. (Continuous) Ability to perform firm grasping with fingers and hands. (Continuous) Ability to perform fine manipulation with fingers and hands. (Continuous) Ability to reach overhead. (Frequent) Ability to perform repetitive motions with hands/wrists/elbows and shoulders. (Continuous) Ability to fully use both legs. (Continuous) Ability to use lower extremities for balance and coordination. (Frequent) Ability to reach in all directions. (Continuous) Ability to lift and carry 50 lbs. unassisted. (Infrequent) Ability to lift/lower objects 50 lbs. from/to floor from/to 36 inches unassisted. (Infrequent) Ability to lift from 36\" to overhead 25 lbs. (Infrequent) Ability to exert up to 50 lbs. of force. (Frequent) Examples include: To transfer a 100 lb. patient that can not assist in the transfer requires 50 lbs. of force. For every 100 additional pounds, assistance will be required from another healthcare worker. 20 lbs. of force is needed to push a 400 lb. patient in a wheelchair on carpet. 25 lbs. of force is required to push a stretcher with a patient with one hand. Ability to maintain 20/40 vision, corrected, in one eye or with both eyes. (Continuous) Ability to see and recognize objects close at hand or at a distance. (Continuous) Ability to match or discriminate between colors. (Continuous) Ability to determine distance/relationship between objects; depth perception. (Continuous) Good peripheral vision capabilities. (Continuous) Ability to maintain hearing acuity, with correction. (Continuous) Ability to perform gross motor functions with frequent fine motor movements. (Continuous) Ability to deal effectively with stressful situations. (Continuous) Ability to work rotating shifts. (Frequent) Ability to work overtime as required. (Frequent) Ability to work in a latex safe environment. (Continuous) Ability to maintain tactile sensory functions. (Continuous) (Selected Positions) *Ability to maintain good olfactory sensory function. (Continuous) *(Selected Positions) *Ability to be qualified physically for respirator use, initially and as required. (Continuous) (Selected Positions)\n\nIf you like working with energetic enthusiastic individuals, you will enjoy your career with us!\n\nThe Medical University of South Carolina is an Equal Opportunity Employer. MUSC does not discriminate on the basis of race, color, religion or belief, age, sex, national origin, gender identity, sexual orientation, disability, protected veteran status, family or parental status, or any other status protected by state laws and/or federal regulations. All qualified applicants are encouraged to apply and will receive consideration for employment based upon applicable qualifications, merit and business need.\n\nMedical University of South Carolina participates in the federal E-Verify program to confirm the identity and employment authorization of all newly hired employees. For further information about the E-Verify program, please click here: http://www.uscis.gov/e-verify/employees",
-    "job_is_remote": false,
-    "job_posted_at": "12 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Camden, SC",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCGWEkbqPDGwBwYmoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQ7gIzE9hb5MLuJhyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 48920,
+    "job_max_salary": 94690,
+    "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
-        "Minimum Training and Education: Associate’s Degree in Nursing",
-        "Required Licensure, Certifications, Registrations: Licensure as a registered nurse by the South Carolina Board of Nursing or a compact state",
-        "Current Basic Life Support (BLS) required, either a certification from an American Heart Association (AHA) BLS for Healthcare Providers (or AHA recognized equivalent) or an American Red Cross CPR/AED for Professional Rescuer and Healthcare Provider",
-        "Advanced Cardiac Life Support (ACLS) also required for most nursing areas within the hospital",
-        "Physical and Mental Requirements: Ability to perform job functions while standing",
-        "(Continuous) Ability to perform job functions while sitting",
-        "(Continuous) Ability to perform job functions while walking",
-        "(Continuous) Ability to climb stairs",
-        "(Infrequent) Ability to work indoors",
-        "(Continuous) Ability to work outside in temperature extremes",
-        "(Infrequent) Ability to work from elevated areas",
-        "(Frequent) Ability to work in confined/cramped spaces",
-        "(Frequent) Ability to perform job functions from kneeling positions",
-        "(Infrequent) Ability to bend at the waist",
-        "(Continuous) Ability to twist at the waist",
-        "(Frequent) Ability to squat and perform job functions",
-        "(Frequent) Ability to perform \"pinching\" operations",
-        "(Frequent) Ability to perform gross motor activities with fingers and hands",
-        "(Continuous) Ability to perform firm grasping with fingers and hands",
-        "(Continuous) Ability to perform fine manipulation with fingers and hands",
-        "(Continuous) Ability to reach overhead",
-        "(Frequent) Ability to perform repetitive motions with hands/wrists/elbows and shoulders",
-        "(Continuous) Ability to fully use both legs",
-        "(Continuous) Ability to use lower extremities for balance and coordination",
-        "(Frequent) Ability to reach in all directions",
-        "(Continuous) Ability to lift and carry 50 lbs",
-        "unassisted",
-        "(Infrequent) Ability to lift/lower objects 50 lbs",
-        "from/to floor from/to 36 inches unassisted",
-        "(Infrequent) Ability to lift from 36\" to overhead 25 lbs",
-        "(Infrequent) Ability to exert up to 50 lbs. of force",
-        "(Frequent) Examples include: To transfer a 100 lb",
-        "20 lbs. of force is needed to push a 400 lb",
-        "patient in a wheelchair on carpet",
-        "25 lbs. of force is required to push a stretcher with a patient with one hand",
-        "Ability to maintain 20/40 vision, corrected, in one eye or with both eyes",
-        "(Continuous) Ability to see and recognize objects close at hand or at a distance. (Continuous) Ability to match or discriminate between colors",
-        "(Continuous) Ability to determine distance/relationship between objects; depth perception",
-        "(Continuous) Good peripheral vision capabilities",
-        "(Continuous) Ability to maintain hearing acuity, with correction",
-        "(Continuous) Ability to perform gross motor functions with frequent fine motor movements",
-        "(Continuous) Ability to deal effectively with stressful situations",
-        "(Continuous) Ability to work rotating shifts",
-        "(Frequent) Ability to work overtime as required",
-        "(Frequent) Ability to work in a latex safe environment",
-        "(Continuous) Ability to maintain tactile sensory functions",
-        "(Continuous) (Selected Positions) *Ability to maintain good olfactory sensory function",
-        "(Continuous) *(Selected Positions) *Ability to be qualified physically for respirator use, initially and as required. (Continuous) (Selected Positions)"
+        "RN Diploma degree or higher from an accredited school of nursing",
+        "Active and unencumbered Registered Nurse license in the state of Tennessee Benefits:"
       ],
       "Benefits": [
-        "*$30,000 Sign on Bonus**"
+        "Employer features: 401(K), Cross training, Life Insurance, Medical, Offers sign on bonus, PTO Qualifications:",
+        "Healthcare coverage: Medical, Dental, Vision",
+        "401K",
+        "Paid Time Off",
+        "Tuition Assistance Salary: $48,920 to $94,690/year"
       ],
       "Responsibilities": [
-        "Under general supervision, the Registered Nurse II provides individualized, goal-directed patient care to families and patients at the competent level utilizing the principles and practices of the nursing process; delivers safe and effective care and interacts",
-        "Scheduled Weekly Hours",
-        "Hours Per Week: 36",
-        "Scheduled Work Hours/Shift: 3 twelve-hour shifts per week, 7A-7P, every other weekend, rotating holidays",
-        "Job Summary/Purpose: Under general supervision, the Registered Nurse II provides individualized, goal-directed patient care to families and patients at the competent level utilizing the principles and practices of the nursing process; delivers safe and effective care and interacts with other members of the health care team to achieve desired results",
-        "patient that can not assist in the transfer requires 50 lbs. of force",
-        "For every 100 additional pounds, assistance will be required from another healthcare worker"
+        "Nurses with experience in any of the following areas are strongly encouraged to apply: Assistant Nurse Manager, Bariatric, BiPap monitoring, CNO, COVID, CVA, Cardiac Drip Management, Charge, Clinical Nurse Coordinator, DKA patients, Director, High acuity patients, Manager, Post cardiac intervention, Sheath pulls, Supervisor, or VP",
+        "Shift(s) available: day shift and night shift"
       ]
     },
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "musc-career-pages-com-jobs-registered-nurse-charge-nurse-medsurg-camden-south-carolina-united-states",
+    "id": "jobs-kget-com-jobs-registered-nurse-pcu-charge-nurse-mississippi-2615784368-2",
     "_source": "new_jobs"
   },
   {
@@ -1780,15 +1614,15 @@
     "job_posted_at_timestamp": 1770249600,
     "job_posted_at_datetime_utc": "2026-02-05T00:00:00.000Z",
     "job_location": "Overland Park, KS",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Overland Park",
+    "job_state": "Kansas",
+    "job_country": "US",
+    "job_latitude": 38.9822282,
+    "job_longitude": -94.6707917,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D23vb8OmJZSpR0r44AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1877,206 +1711,146 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "Q7gIzE9hb5MLuJhyAAAAAA==",
-    "job_title": "Registered Nurse - PCU Charge Nurse",
-    "employer_name": "Incredible Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl4KntA4ZTo1eZNXtRCZLBiNrq-TCsCWsYOj3e&s=0",
-    "employer_website": "https://www.incrediblehealth.com",
-    "job_publisher": "KGET Jobs",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://jobs.kget.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615784368-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "KGET Jobs",
-        "apply_link": "https://jobs.kget.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615784368-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/incredible-health/independence-ms/registered-nurse/09e89040b2680e8c8b41ab0c468bae33?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs.kxnet.com",
-        "apply_link": "https://jobs.kxnet.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615992418-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "CareerBoard",
-        "apply_link": "https://www.careerboard.com/us/en/search-jobs-in-Mississippi,-USA/REGISTERED-NURSE-PCU-CHARGE-NURSE-70D49808B66AF5AE2E/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WDTN Jobs",
-        "apply_link": "https://jobs.wdtn.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615992418-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "WTNH Jobs",
-        "apply_link": "https://jobs.wtnh.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615992418-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "FOX4KC Jobs",
-        "apply_link": "https://jobs.fox4kc.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615992418-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "FOX21News Jobs",
-        "apply_link": "https://jobs.fox21news.com/jobs/registered-nurse-pcu-charge-nurse-mississippi/2615992418-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Hospitals on Incredible Health are actively hiring and accepting applications in the Bartlett, TN area for the following position: Registered Nurse - PCU Charge Nurse. Nurses with experience in any of the following areas are strongly encouraged to apply: Assistant Nurse Manager, Bariatric, BiPap monitoring, CNO, COVID, CVA, Cardiac Drip Management, Charge, Clinical Nurse Coordinator, DKA patients, Director, High acuity patients, Manager, Post cardiac intervention, Sheath pulls, Supervisor, or VP.\n• Shift(s) available: day shift and night shift\n• Job types available: full time and part time\n• Employer features: 401(K), Cross training, Life Insurance, Medical, Offers sign on bonus, PTO Qualifications:\n• RN Diploma degree or higher from an accredited school of nursing\n• Active and unencumbered Registered Nurse license in the state of Tennessee Benefits:\n• Healthcare coverage: Medical, Dental, Vision\n• 401K\n• Paid Time Off\n• Tuition Assistance Salary: $48,920 to $94,690/year",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Mississippi",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQ7gIzE9hb5MLuJhyAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 48920,
-    "job_max_salary": 94690,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "RN Diploma degree or higher from an accredited school of nursing",
-        "Active and unencumbered Registered Nurse license in the state of Tennessee Benefits:"
-      ],
-      "Benefits": [
-        "Employer features: 401(K), Cross training, Life Insurance, Medical, Offers sign on bonus, PTO Qualifications:",
-        "Healthcare coverage: Medical, Dental, Vision",
-        "401K",
-        "Paid Time Off",
-        "Tuition Assistance Salary: $48,920 to $94,690/year"
-      ],
-      "Responsibilities": [
-        "Nurses with experience in any of the following areas are strongly encouraged to apply: Assistant Nurse Manager, Bariatric, BiPap monitoring, CNO, COVID, CVA, Cardiac Drip Management, Charge, Clinical Nurse Coordinator, DKA patients, Director, High acuity patients, Manager, Post cardiac intervention, Sheath pulls, Supervisor, or VP",
-        "Shift(s) available: day shift and night shift"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "jobs-kget-com-jobs-registered-nurse-pcu-charge-nurse-mississippi-2615784368-2",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "jGOwN4d_26JJDT8oAAAAAA==",
-    "job_title": "Charge Nurse - LPN - Full Time Day Shift",
-    "employer_name": "Ohio Living",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY6Qns8FcDPOyZTNknxK5jFzr5SNE45UfAF7KW&s=0",
-    "employer_website": "https://ohioliving.org",
-    "job_publisher": "Talent.com",
+    "job_id": "CGWEkbqPDGwBwYmoAAAAAA==",
+    "job_title": "Registered Nurse Charge Nurse MedSurg",
+    "employer_name": "MUSC",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeepprZLTMVn7Db-ak2IgUA8pYpZ-Ip84fhF0Q&s=0",
+    "employer_website": null,
+    "job_publisher": "MUSC Careers",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.talent.com/view?id=904a8d86d67e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://musc.career-pages.com/jobs/registered-nurse-charge-nurse-medsurg-camden-south-carolina-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=904a8d86d67e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "MUSC Careers",
+        "apply_link": "https://musc.career-pages.com/jobs/registered-nurse-charge-nurse-medsurg-camden-south-carolina-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Talentify",
-        "apply_link": "https://www.talentify.io/job/charge-nurse-lpn-full-time-day-shift-harrod-ohio-us-ohio-living-2026-33326?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=36c72c5703fd5ad9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       },
       {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-oh-harrod-charge-nurse-lpn-full-time-day-shift-ohio-living-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/MUSC/Job/Registered-Nurse-Charge-Nurse-MedSurg/-in-Camden,SC?jid=eabec8568ce94e88&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Monster",
+        "apply_link": "https://www.monster.com/job-openings/registered-nurse-charge-nurse-medsurg-camden-sc--45b2360d-192f-4b3e-873d-40f382eccb7d?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/registered-nurse-charge-nurse-medsurg-camden-musc-med-univ-of-0fe56b77b0fe0704a1cabc922afb7e0b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/896e87b01aaeb9428412e0224fc06751?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/registered-nurse-charge-nurse-medsurg-at-musc-health-4368781712?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/registered-nurse-charge-nurse-medsurg-camden-south-carolina/2605933511-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "It's fun to work in a company where people truly BELIEVE in what they're doing!\n\nOur intention is to have employees who are passionate about making their personal mission statement come to life each day at work! Be it through providing healing, eradicating loneliness, contributing to efficiencies, streamlining processes, being dependable, sparking creativity or something else, the demonstration of HOW you do your job is just as important as WHAT you do in your job.\n\nAlongside our valued employees, we are making a difference throughout the state of Ohio in the lives of those that need healthcare or those embracing the next chapter of their lives. Sustained members of our team demonstrate accountable behavior and share our values of customer service, innovation, integrity, inclusion, financial stewardship, leadership and care.\n\nThe Charge Nurse - LPN supervises the day-to-day nursing activities of the Certified Nursing Assistants (CNA) in accordance with company standards and federal, state, and local standards, guidelines, and regulations to ensure that the highest degree of quality care is maintained at all times.\n\nEssential Activities and Tasks\n\nOperations Management and Administration - 70%\n• Directs the day-to-day functions of the nursing activities in accordance with current rules, regulations, and guidelines that govern the facility, including the making of work assignments to Nursing Assistants.\n• Assists in implementing methods for coordinating nursing services to ensure continuity of residents care.\n• Administers medications and treatments in accordance with physician orders and nursing standards of practice.\n• Represents the nursing department during Interdisciplinary Care Plan meetings. Is able to answer questions related to the plan of care and delivery of services.\n• Participates in various committee meetings.\n• Makes work assignments and meets with Nursing Assistants regularly to assist in identifying and correcting problem areas, and the improvement of care and services.\n• Provides direct nursing care as needed.\n• Consults with the resident's physicians in planning resident care, treatment, rehabilitation, etc. as needed.\n• Notifies residents' physicians and families when there is a change in the resident's condition.\n• Authorizes and monitors the use of restraints when necessary and in accordance with the facility policies and procedures.\n• Admits, transfers and discharges patients as necessary.\n• Works with Unit Manager to help reduce hospital readmissions.\n• Attends all-employee and departmental meetings and in-service training as scheduled or as directed.\n\nQuality, Compliance, and Risk Management - 20%\n• Ensures that nursing procedures are followed by nursing service personnel, and that they reflect the day-to-day nursing care procedures used by the facility.\n• Participates in the maintenance and implementation of the facility's quality assurance program.\n• Ensures the procedures for the administration, storage and control of medications and supplies are being followed by nursing staff.\n• Ensures that resident rooms, treatment areas, work areas and equipment are maintained in a clean, sanitary, and safe manner.\n\nPeople Management and Development - 10%\n• Supervises CNAs.\n• Fosters a positive work environment that attracts, retains, and motivates employees.\n• Interviews, selects, and orients new direct reports.\n• Defines, establishes, and promotes performance expectations so direct reports understand and demonstrate excellence through high quality and consistent performance.\n• Evaluates job performance of direct reports in accordance with the company policy and procedure and provides developmental guidance to staff for improved performance and growth.\n• Monitors accountability with organization requirements prescribed by the Employee Handbook. Documents and engages employees who are routinely not observing these requirements in an effort to achieve compliance. Works with Human Resources when circumstances arise that necessitate further documentation and intervention.\n• Participates in the development, planning, scheduling, conducting, and monitoring of in-service training programs, on-the-job training, and orientation programs for departmental staff.\n• Ensures that there is a reasonable and sufficient plan for staffing should a direct report be absent or a direct reporting position be vacant.\n• Responds timely and thoughtfully to questions, requests, and work product from departmental staff that has been provided for review and approval.\n\nAll other duties as assigned.\n\nQualifications\n\nEducation\n• Current unencumbered license for the state of Ohio to practice as a Licensed Practical Nurse (LPN).\n\nExperience\n• One year of clinical experience in a hospital, long term care facility, or other related health care facility preferred.\n• Supervisory experience in a long-term care, hospital, or other related healthcare setting preferred.\n• Proficiency with electronic medical records (EMR) preferred.\n\nOther Requirements\n• Must be able to read, write, speak, and understand the English language.\n\nWorking Conditions and Special Requirements\n• Sitting - Up to 4 hours / day\n• Standing - Up to 8 hours / day\n• Walking - Up to 6 hours / day\n• Lifting, transferring, pushing or pulling residents / patients or equipment / supplies - Up to 50 pounds\n• Driving - Up to 6 hours / day\n• Travel % / Overnight Travel - Occasional\n• Work weekends, evenings, and holidays - As needed\n• On-call availability - 24 / 7 for emergencies\n• Subject to falls, burns from equipment, odors, and cuts - Work day\n• Subject to residents / patients with various disease processes - Occasional\n• May be exposed to infectious waste, disease, conditions, etc. including exposure to the AIDS and Hepatitis B viruses - Work day\n• Risk Category for Exposure to Bloodborne Diseases - I",
+    "job_description": "Job Description Summary\nUnder general supervision, the Registered Nurse II provides individualized, goal-directed patient care to families and patients at the competent level utilizing the principles and practices of the nursing process; delivers safe and effective care and interacts\n\nEntity\nMedical University Hospital Authority (MUHA)\n\nWorker Type\nEmployee\n\nWorker Sub-Type​\nRegular\n\nCost Center\nCC001417 KER - MedSurg 1 (KMC)\n\nPay Rate Type\nHourly\n\nPay Grade\nHealth-28\n\nScheduled Weekly Hours\n36\n\nWork Shift\n\nJob Description\n• *$30,000 Sign on Bonus**\n\nEntity/Organization: MUHA (Medical University Hospital Authority/Medical Center)\n\nHours Per Week: 36\n\nScheduled Work Hours/Shift: 3 twelve-hour shifts per week, 7A-7P, every other weekend, rotating holidays.\n\nJob Summary/Purpose: Under general supervision, the Registered Nurse II provides individualized, goal-directed patient care to families and patients at the competent level utilizing the principles and practices of the nursing process; delivers safe and effective care and interacts with other members of the health care team to achieve desired results.\n\nMinimum Training and Education: Associate’s Degree in Nursing. Bachelor’s degree preferred.\n\nRequired Licensure, Certifications, Registrations: Licensure as a registered nurse by the South Carolina Board of Nursing or a compact state. Current Basic Life Support (BLS) required, either a certification from an American Heart Association (AHA) BLS for Healthcare Providers (or AHA recognized equivalent) or an American Red Cross CPR/AED for Professional Rescuer and Healthcare Provider.\n\nAdvanced Cardiac Life Support (ACLS) also required for most nursing areas within the hospital.\n\nAdditional Job Description\n\nPhysical and Mental Requirements: Ability to perform job functions while standing. (Continuous) Ability to perform job functions while sitting. (Continuous) Ability to perform job functions while walking. (Continuous) Ability to climb stairs. (Infrequent) Ability to work indoors. (Continuous) Ability to work outside in temperature extremes. (Infrequent) Ability to work from elevated areas. (Frequent) Ability to work in confined/cramped spaces. (Frequent) Ability to perform job functions from kneeling positions. (Infrequent) Ability to bend at the waist. (Continuous) Ability to twist at the waist. (Frequent) Ability to squat and perform job functions. (Frequent) Ability to perform \"pinching\" operations. (Frequent) Ability to perform gross motor activities with fingers and hands. (Continuous) Ability to perform firm grasping with fingers and hands. (Continuous) Ability to perform fine manipulation with fingers and hands. (Continuous) Ability to reach overhead. (Frequent) Ability to perform repetitive motions with hands/wrists/elbows and shoulders. (Continuous) Ability to fully use both legs. (Continuous) Ability to use lower extremities for balance and coordination. (Frequent) Ability to reach in all directions. (Continuous) Ability to lift and carry 50 lbs. unassisted. (Infrequent) Ability to lift/lower objects 50 lbs. from/to floor from/to 36 inches unassisted. (Infrequent) Ability to lift from 36\" to overhead 25 lbs. (Infrequent) Ability to exert up to 50 lbs. of force. (Frequent) Examples include: To transfer a 100 lb. patient that can not assist in the transfer requires 50 lbs. of force. For every 100 additional pounds, assistance will be required from another healthcare worker. 20 lbs. of force is needed to push a 400 lb. patient in a wheelchair on carpet. 25 lbs. of force is required to push a stretcher with a patient with one hand. Ability to maintain 20/40 vision, corrected, in one eye or with both eyes. (Continuous) Ability to see and recognize objects close at hand or at a distance. (Continuous) Ability to match or discriminate between colors. (Continuous) Ability to determine distance/relationship between objects; depth perception. (Continuous) Good peripheral vision capabilities. (Continuous) Ability to maintain hearing acuity, with correction. (Continuous) Ability to perform gross motor functions with frequent fine motor movements. (Continuous) Ability to deal effectively with stressful situations. (Continuous) Ability to work rotating shifts. (Frequent) Ability to work overtime as required. (Frequent) Ability to work in a latex safe environment. (Continuous) Ability to maintain tactile sensory functions. (Continuous) (Selected Positions) *Ability to maintain good olfactory sensory function. (Continuous) *(Selected Positions) *Ability to be qualified physically for respirator use, initially and as required. (Continuous) (Selected Positions)\n\nIf you like working with energetic enthusiastic individuals, you will enjoy your career with us!\n\nThe Medical University of South Carolina is an Equal Opportunity Employer. MUSC does not discriminate on the basis of race, color, religion or belief, age, sex, national origin, gender identity, sexual orientation, disability, protected veteran status, family or parental status, or any other status protected by state laws and/or federal regulations. All qualified applicants are encouraged to apply and will receive consideration for employment based upon applicable qualifications, merit and business need.\n\nMedical University of South Carolina participates in the federal E-Verify program to confirm the identity and employment authorization of all newly hired employees. For further information about the E-Verify program, please click here: http://www.uscis.gov/e-verify/employees",
     "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Harrod, OH",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjGOwN4d_26JJDT8oAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_posted_at": "12 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Camden, SC",
+    "job_city": "Camden",
+    "job_state": "South Carolina",
+    "job_country": "US",
+    "job_latitude": 34.246539299999995,
+    "job_longitude": -80.6070237,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DCGWEkbqPDGwBwYmoAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Current unencumbered license for the state of Ohio to practice as a Licensed Practical Nurse (LPN)",
-        "Must be able to read, write, speak, and understand the English language",
-        "Sitting - Up to 4 hours / day",
-        "Standing - Up to 8 hours / day",
-        "Walking - Up to 6 hours / day",
-        "Lifting, transferring, pushing or pulling residents / patients or equipment / supplies - Up to 50 pounds",
-        "Subject to residents / patients with various disease processes - Occasional",
-        "May be exposed to infectious waste, disease, conditions, etc. including exposure to the AIDS and Hepatitis B viruses - Work day"
+        "Minimum Training and Education: Associate’s Degree in Nursing",
+        "Required Licensure, Certifications, Registrations: Licensure as a registered nurse by the South Carolina Board of Nursing or a compact state",
+        "Current Basic Life Support (BLS) required, either a certification from an American Heart Association (AHA) BLS for Healthcare Providers (or AHA recognized equivalent) or an American Red Cross CPR/AED for Professional Rescuer and Healthcare Provider",
+        "Advanced Cardiac Life Support (ACLS) also required for most nursing areas within the hospital",
+        "Physical and Mental Requirements: Ability to perform job functions while standing",
+        "(Continuous) Ability to perform job functions while sitting",
+        "(Continuous) Ability to perform job functions while walking",
+        "(Continuous) Ability to climb stairs",
+        "(Infrequent) Ability to work indoors",
+        "(Continuous) Ability to work outside in temperature extremes",
+        "(Infrequent) Ability to work from elevated areas",
+        "(Frequent) Ability to work in confined/cramped spaces",
+        "(Frequent) Ability to perform job functions from kneeling positions",
+        "(Infrequent) Ability to bend at the waist",
+        "(Continuous) Ability to twist at the waist",
+        "(Frequent) Ability to squat and perform job functions",
+        "(Frequent) Ability to perform \"pinching\" operations",
+        "(Frequent) Ability to perform gross motor activities with fingers and hands",
+        "(Continuous) Ability to perform firm grasping with fingers and hands",
+        "(Continuous) Ability to perform fine manipulation with fingers and hands",
+        "(Continuous) Ability to reach overhead",
+        "(Frequent) Ability to perform repetitive motions with hands/wrists/elbows and shoulders",
+        "(Continuous) Ability to fully use both legs",
+        "(Continuous) Ability to use lower extremities for balance and coordination",
+        "(Frequent) Ability to reach in all directions",
+        "(Continuous) Ability to lift and carry 50 lbs",
+        "unassisted",
+        "(Infrequent) Ability to lift/lower objects 50 lbs",
+        "from/to floor from/to 36 inches unassisted",
+        "(Infrequent) Ability to lift from 36\" to overhead 25 lbs",
+        "(Infrequent) Ability to exert up to 50 lbs. of force",
+        "(Frequent) Examples include: To transfer a 100 lb",
+        "20 lbs. of force is needed to push a 400 lb",
+        "patient in a wheelchair on carpet",
+        "25 lbs. of force is required to push a stretcher with a patient with one hand",
+        "Ability to maintain 20/40 vision, corrected, in one eye or with both eyes",
+        "(Continuous) Ability to see and recognize objects close at hand or at a distance. (Continuous) Ability to match or discriminate between colors",
+        "(Continuous) Ability to determine distance/relationship between objects; depth perception",
+        "(Continuous) Good peripheral vision capabilities",
+        "(Continuous) Ability to maintain hearing acuity, with correction",
+        "(Continuous) Ability to perform gross motor functions with frequent fine motor movements",
+        "(Continuous) Ability to deal effectively with stressful situations",
+        "(Continuous) Ability to work rotating shifts",
+        "(Frequent) Ability to work overtime as required",
+        "(Frequent) Ability to work in a latex safe environment",
+        "(Continuous) Ability to maintain tactile sensory functions",
+        "(Continuous) (Selected Positions) *Ability to maintain good olfactory sensory function",
+        "(Continuous) *(Selected Positions) *Ability to be qualified physically for respirator use, initially and as required. (Continuous) (Selected Positions)"
+      ],
+      "Benefits": [
+        "*$30,000 Sign on Bonus**"
       ],
       "Responsibilities": [
-        "The Charge Nurse - LPN supervises the day-to-day nursing activities of the Certified Nursing Assistants (CNA) in accordance with company standards and federal, state, and local standards, guidelines, and regulations to ensure that the highest degree of quality care is maintained at all times",
-        "Operations Management and Administration - 70%",
-        "Directs the day-to-day functions of the nursing activities in accordance with current rules, regulations, and guidelines that govern the facility, including the making of work assignments to Nursing Assistants",
-        "Assists in implementing methods for coordinating nursing services to ensure continuity of residents care",
-        "Administers medications and treatments in accordance with physician orders and nursing standards of practice",
-        "Represents the nursing department during Interdisciplinary Care Plan meetings",
-        "Is able to answer questions related to the plan of care and delivery of services",
-        "Participates in various committee meetings",
-        "Makes work assignments and meets with Nursing Assistants regularly to assist in identifying and correcting problem areas, and the improvement of care and services",
-        "Provides direct nursing care as needed",
-        "Consults with the resident's physicians in planning resident care, treatment, rehabilitation, etc. as needed",
-        "Notifies residents' physicians and families when there is a change in the resident's condition",
-        "Authorizes and monitors the use of restraints when necessary and in accordance with the facility policies and procedures",
-        "Admits, transfers and discharges patients as necessary",
-        "Works with Unit Manager to help reduce hospital readmissions",
-        "Attends all-employee and departmental meetings and in-service training as scheduled or as directed",
-        "Quality, Compliance, and Risk Management - 20%",
-        "Ensures that nursing procedures are followed by nursing service personnel, and that they reflect the day-to-day nursing care procedures used by the facility",
-        "Participates in the maintenance and implementation of the facility's quality assurance program",
-        "Ensures the procedures for the administration, storage and control of medications and supplies are being followed by nursing staff",
-        "Ensures that resident rooms, treatment areas, work areas and equipment are maintained in a clean, sanitary, and safe manner",
-        "People Management and Development - 10%",
-        "Supervises CNAs",
-        "Fosters a positive work environment that attracts, retains, and motivates employees",
-        "Interviews, selects, and orients new direct reports",
-        "Defines, establishes, and promotes performance expectations so direct reports understand and demonstrate excellence through high quality and consistent performance",
-        "Evaluates job performance of direct reports in accordance with the company policy and procedure and provides developmental guidance to staff for improved performance and growth",
-        "Monitors accountability with organization requirements prescribed by the Employee Handbook",
-        "Documents and engages employees who are routinely not observing these requirements in an effort to achieve compliance",
-        "Works with Human Resources when circumstances arise that necessitate further documentation and intervention",
-        "Participates in the development, planning, scheduling, conducting, and monitoring of in-service training programs, on-the-job training, and orientation programs for departmental staff",
-        "Ensures that there is a reasonable and sufficient plan for staffing should a direct report be absent or a direct reporting position be vacant",
-        "Responds timely and thoughtfully to questions, requests, and work product from departmental staff that has been provided for review and approval",
-        "All other duties as assigned",
-        "Driving - Up to 6 hours / day",
-        "Travel % / Overnight Travel - Occasional",
-        "Work weekends, evenings, and holidays - As needed",
-        "On-call availability - 24 / 7 for emergencies",
-        "Subject to falls, burns from equipment, odors, and cuts - Work day"
+        "Under general supervision, the Registered Nurse II provides individualized, goal-directed patient care to families and patients at the competent level utilizing the principles and practices of the nursing process; delivers safe and effective care and interacts",
+        "Scheduled Weekly Hours",
+        "Hours Per Week: 36",
+        "Scheduled Work Hours/Shift: 3 twelve-hour shifts per week, 7A-7P, every other weekend, rotating holidays",
+        "Job Summary/Purpose: Under general supervision, the Registered Nurse II provides individualized, goal-directed patient care to families and patients at the competent level utilizing the principles and practices of the nursing process; delivers safe and effective care and interacts with other members of the health care team to achieve desired results",
+        "patient that can not assist in the transfer requires 50 lbs. of force",
+        "For every 100 additional pounds, assistance will be required from another healthcare worker"
       ]
     },
-    "job_onet_soc": "29206100",
+    "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "www-talent-com-view",
+    "id": "musc-career-pages-com-jobs-registered-nurse-charge-nurse-medsurg-camden-south-carolina-united-states",
     "_source": "new_jobs"
   },
   {
@@ -2140,15 +1914,15 @@
     "job_posted_at_timestamp": 1770768000,
     "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
     "job_location": "West Palm Beach, FL",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "West Palm Beach",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 26.714453199999998,
+    "job_longitude": -80.0549456,
     "job_benefits": [
+      "paid_time_off",
       "dental_coverage",
-      "health_insurance",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOitMP6yiqvnmpJrDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -2263,11 +2037,11 @@
     "job_posted_at_timestamp": 1770163200,
     "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
     "job_location": "St. Louis, MO",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "St. Louis",
+    "job_state": "Missouri",
+    "job_country": "US",
+    "job_latitude": 38.627427999999995,
+    "job_longitude": -90.1982439,
     "job_benefits": [
       "paid_time_off",
       "health_insurance"
@@ -2334,6 +2108,53 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "B_kyNyNbqSOr3DtGAAAAAA==",
+    "job_title": "PACU Charge Nurse",
+    "employer_name": "Incredible Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBMv3oyPLZwArF72_14o17HB-wHmp-89O4bYGD&s=0",
+    "employer_website": "https://www.incrediblehealth.com",
+    "job_publisher": "Talent.com",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.talent.com/view?id=16719de290fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=16719de290fc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Hospitals on Incredible Health are actively hiring and accepting applications in the Memphis, TN area for the following position : PACU Charge Nurse. Nurses with experience in any of the following areas are strongly encouraged to apply : Assistant Nurse Manager, CNO, Cardiac Monitoring, Charge, Circulate, Clinical Nurse Coordinator, Director, Manager, Pediatric, Presurgical assessment, Robotic surgery, Supervisor, Transplant, VP, or Wound & drain care. Shift(s) available : day shift, night shift, and mid shift Job types available : full time and part time Employer features : 401(K), Cross training, Life Insurance, Medical, Offers sign on bonus, PTO Qualifications : RN Diploma degree or higher from an accredited school of nursing Active and unencumbered Registered Nurse license in the state of Tennessee Benefits : Healthcare coverage : Medical, Dental, Vision 401K Paid Time Off Tuition Assistance Salary : $48,920 to $94,690 / year",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770681600,
+    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
+    "job_location": "Harmontown, MS",
+    "job_city": "Harmontown",
+    "job_state": "Mississippi",
+    "job_country": "US",
+    "job_latitude": 34.5403811,
+    "job_longitude": -89.6484179,
+    "job_benefits": [
+      "paid_time_off",
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DB_kyNyNbqSOr3DtGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-talent-com-view",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "qRgcn5RDF7FzMgatAAAAAA==",
     "job_title": "Charge Nurse: Adult Medical / Medical Specialty",
     "employer_name": "University of Missouri Health Care",
@@ -2394,15 +2215,15 @@
     "job_posted_at_timestamp": 1771027200,
     "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
     "job_location": "Columbia, MO",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Columbia",
+    "job_state": "Missouri",
+    "job_country": "US",
+    "job_latitude": 38.951768,
+    "job_longitude": -92.32829319999999,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqRgcn5RDF7FzMgatAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -2495,11 +2316,11 @@
     "job_posted_at_timestamp": 1771160400,
     "job_posted_at_datetime_utc": "2026-02-15T13:00:00.000Z",
     "job_location": "Walnut Grove, GA",
-    "job_city": null,
-    "job_state": null,
-    "job_country": null,
-    "job_latitude": null,
-    "job_longitude": null,
+    "job_city": "Walnut Grove",
+    "job_state": "Georgia",
+    "job_country": "US",
+    "job_latitude": 33.742612,
+    "job_longitude": -83.85240399999999,
     "job_benefits": null,
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DI1SFGkEGKWNvLVXQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
