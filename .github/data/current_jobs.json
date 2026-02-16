@@ -204,9 +204,9 @@
     "job_latitude": 39.9003793,
     "job_longitude": -75.6260771,
     "job_benefits": [
-      "dental_coverage",
+      "paid_time_off",
       "health_insurance",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DKXoOrmYEUZ9oLQLhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -311,8 +311,8 @@
     "job_latitude": 27.6383673,
     "job_longitude": -81.8239717,
     "job_benefits": [
-      "health_insurance",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DYAoHsk9r-TrNf8D6AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -538,6 +538,80 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "dvRDeF2liiAxVa1bAAAAAA==",
+    "job_title": "Clinical Nurse Specialist",
+    "employer_name": "Mayo Clinic",
+    "employer_logo": null,
+    "employer_website": "https://www.mayoclinic.org",
+    "job_publisher": "Medical Hirings - Talent Rush HQ",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Medical Hirings - Talent Rush HQ",
+        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Why Mayo Clinic\n\nMayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News and World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans – to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic.\n\nBenefits Highlights\n• Medical: Multiple plan options.\n• Dental: Delta Dental or reimbursement account for flexible coverage.\n• Vision: Affordable plan with national network.\n• Pre-Tax Savings: HSA and FSAs for eligible expenses.\n• Retirement: Competitive retirement package to secure your future.\n\nResponsibilities\n\nThe Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice. The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System) and is an active participant in the nursing leadership team. As an advanced practice expert, the CNS plays a vital role in elevating clinical practice, supporting evidence-based care, and driving excellence across the care continuum—reflecting Mayo Clinic Florida’s commitment to innovation, quality, and patient-centered outcomes.\n\nThis role will provide support to the Progressive Care Unit (PCU), CERT, STAR, ED, Mayo Clinic Care Beyond Walls, and other initiatives led by the Department of Nursing (DON). This position offers the opportunity to collaborate with world-class clinicians, influence system-level improvements, and contribute to groundbreaking work that helps position Mayo Clinic Florida as one of the nation’s leading destinations for complex, high-quality care.\n\nThis role is eligible for TN sponsorship. Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification.\n\nQualifications\n• Master's degree with a major in nursing with a Clinical Nurse Specialist focus. Doctorate of Nursing Practice degree preferred.\n• Experience as a CNS preferred.\n• Flexibility to adjust schedule to meet patient needs and CNS workload.\n• Five years of successful work experience in nursing with two years in the specialty area preferred.\n• As a condition of employment, individuals working with addictions services must be free from problematic substance use for a minimum of the immediately preceding two years at time of hire.\n\nLicense and Certifications:\n• Current RN license by applicable state requirements. This RN job may require a RN license in multiple states.\n• Current APRN, CNS license by applicable state requirements. If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty.\n• Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network. Additional specialty certification/training as required by the work area is highly recommended.\nExemption Status\n\nExempt\n\nCompensation Detail\n\n$99,964.80 - $150,113.60 / year\n\nBenefits Eligible\n\nYes\n\nSchedule\n\nFull Time\n\nHours/Pay Period\n\n80\n\nSchedule Details\n\nMonday - Friday\n\nInternational Assignment\n\nNo\n\nSite Description\n\nJust as our reputation has spread beyond our Minnesota roots, so have our locations. Today, our employees are located at our three major campuses in Phoenix/Scottsdale, Arizona, Jacksonville, Florida, Rochester, Minnesota, and at Mayo Clinic Health System campuses throughout Midwestern communities, and at our international locations. Each Mayo Clinic location is a special place where our employees thrive in both their work and personal lives. Learn more about what each unique Mayo Clinic campus has to offer, and where your best fit is.\n\nEqual Opportunity\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, protected veteran status or disability status. Learn more about the \"EOE is the Law\". Mayo Clinic participates in E-Verify and may provide the Social Security Administration and, if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization.\n\nRecruiter\n\nDanelle White",
+    "job_is_remote": false,
+    "job_posted_at": "10 hours ago",
+    "job_posted_at_timestamp": 1771189200,
+    "job_posted_at_datetime_utc": "2026-02-15T21:00:00.000Z",
+    "job_location": "Palatka, FL",
+    "job_city": "Palatka",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 29.6472272,
+    "job_longitude": -81.6297111,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdvRDeF2liiAxVa1bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification",
+        "Master's degree with a major in nursing with a Clinical Nurse Specialist focus",
+        "Current RN license by applicable state requirements",
+        "This RN job may require a RN license in multiple states",
+        "Current APRN, CNS license by applicable state requirements",
+        "If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty",
+        "Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network",
+        "Additional specialty certification/training as required by the work area is highly recommended"
+      ],
+      "Benefits": [
+        "And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic",
+        "Medical: Multiple plan options",
+        "Dental: Delta Dental or reimbursement account for flexible coverage",
+        "Vision: Affordable plan with national network",
+        "Pre-Tax Savings: HSA and FSAs for eligible expenses",
+        "Retirement: Competitive retirement package to secure your future",
+        "$99,964.80 - $150,113.60 / year",
+        "Benefits Eligible",
+        "Full Time",
+        "Hours/Pay Period"
+      ],
+      "Responsibilities": [
+        "The Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice",
+        "The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System) and is an active participant in the nursing leadership team",
+        "As an advanced practice expert, the CNS plays a vital role in elevating clinical practice, supporting evidence-based care, and driving excellence across the care continuum—reflecting Mayo Clinic Florida’s commitment to innovation, quality, and patient-centered outcomes",
+        "This role will provide support to the Progressive Care Unit (PCU), CERT, STAR, ED, Mayo Clinic Care Beyond Walls, and other initiatives led by the Department of Nursing (DON)"
+      ]
+    },
+    "job_onet_soc": "21109100",
+    "job_onet_job_zone": "4",
+    "id": "medicalhirings-talentrushhq-com-joblistingpage-ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "WvvJtDk6P1yMWBmIAAAAAA==",
     "job_title": "Clinical Nurse Specialist (CNS) NICU",
     "employer_name": "Dignity Health",
@@ -684,9 +758,9 @@
     "job_latitude": 42.355507599999996,
     "job_longitude": -71.0565364,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUz84cprtNa-RyEjXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 98000,
@@ -714,6 +788,233 @@
     "job_onet_soc": "21109100",
     "job_onet_job_zone": "4",
     "id": "www-incrediblehealth-com-jobs-nurse-calu9gq8ahatdjdeksh4ubip-a-cns-boston-ma",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "0QTC1wk6HEvcSieSAAAAAA==",
+    "job_title": "Registered Nurse; RN - Clinical Liaison",
+    "employer_name": "Gentiva",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeFidesBIh1swY6TrS5TTVTWOPMykixnVizAWv&s=0",
+    "employer_website": "https://www.gentivahs.com",
+    "job_publisher": "Learn4Good",
+    "job_employment_type": "Full-time and Part-time",
+    "job_employment_types": [
+      "FULLTIME",
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.learn4good.com/jobs/ardmore/pennsylvania/nursing/4869696820/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Learn4Good",
+        "apply_link": "https://www.learn4good.com/jobs/ardmore/pennsylvania/nursing/4869696820/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Position: Registered Nurse (RN) - Clinical Liaison - $72K-98K per year\n\nGentiva is seeking a Registered Nurse (RN) Clinical Liaison for a nursing job in Ardmore, Pennsylvania.\nJob Description & Requirements\n• Specialty:\nClinical Liaison\n• Discipline:\nRN\n• Duration:\nOngoing\n• Employment Type:\n\nStaff\n\nOverview:\n\nConnect Care. Guide Families. Make Every Day Count.\n\nWe are seeking an experienced and compassionate Hospice Clinical Liaison to join our team. In this role, you will ensure that intake and referral processes are completed efficiently and effectively to meet the needs of patients, families, referral sources, and the organization. You will play a vital part in building strong professional relationships, coordinating admissions, and supporting community awareness of hospice services.\n\nEssential Responsibilities\n• Receive and respond to referrals from hospitals, home health, physicians, case managers, skilled nursing facilities, and other healthcare professionals\n• Assess patient eligibility for hospice services by reviewing medical records, conducting clinical evaluations, and communicating with physicians and families\n• Educate patients and families on what hospice care includes, how it works, and why it matters—providing clarity, reassurance, and compassion\n• Complete necessary documentation and coordinate the intake and admission process, ensuring all legal, clinical, and payer requirements are met\n• Serve as a liaison between referral sources and our hospice care team—ensuring seamless handoffs, clear communication, and rapid response to needs\n• Make daily visits to hospitals and facilities, maintaining visibility and accessibility with discharge planners, case managers, and physicians\n• Build and maintain strong relationships with referral partners and identify new outreach opportunities to increase awareness of hospice services\nAbout You:\n\nEducation\n• Licensed Nurse with three to five years of hospice experience required.\n• BSN with five or more years of hospice experience preferred.\n\nExperience\n• Minimum of three years of hospice experience required.\n• Prior experience as a discharge planner, case manager, or educator preferred.\n\nLicenses and Certifications\n• Current RN license to practice nursing in the state of employment.\n• CPR certification.\n• Valid driver’s license and automobile insurance.\n\nSkills and Knowledge\n• Strong knowledge of hospice care and the unique needs of patients and families.\n• Familiarity with community resources and referral networks.\n• Excellent patient assessment and documentation skills.\n• Ability to supervise staff, coordinate services, and manage programs effectively.\n• Strong communication and interpersonal skills with sensitivity to diverse backgrounds.\n\nPersonal Qualities\n• Compassion and sensitivity to the needs of terminally ill patients and their families.\n• Flexibility to manage a variety of tasks and shifting priorities.\n• Professional maturity, collaboration, and tact in working with interdisciplinary teams.\n• Ability to influence and educate referral sources, patients, and families.\n• Demonstrated commitment to patient advocacy and quality care.\n\nWe\n\nOffer:\n\nBenefits for All Associates (Full-Time, Part-Time & Per Diem):\n• Competitive Pay\n• 401(k) with Company Match\n• Career Advancement Opportunities\n• National & Local Recognition Programs\n• Teammate Assistance Fund\n\nAdditional Full-Time Benefits:\n• Medical, Dental, Vision Insurance\n• Mileage Reimbursement or Fleet Vehicle Program\n• Generous Paid Time Off + 7 Paid Holidays\n• Wellness Programs (Telemedicine, Diabetes Management, Joint & Spine Concierge Care)\n• Education Support & Tuition Assistance (ASN to BSN, BSN to MSN)\n• Free Continuing Education Units (CEUs)\n• Company-paid Life & Long-Term Disability Insurance\n• Voluntary Benefits (Pet, Critical Illness, Accident, LTC)\n\nApply Today – Your work can help transform how care is delivered.\nLegalese:\n• This is a safety-sensitive position\n• Employee must meet minimum requirements to be eligible for benefits\n• Where applicable, employee must meet state specific requirements\n• We are proud to be an EEO employer\n• We maintain a drug-free workplace\nLocation:\n\nHeartland Hospice Our Company:\n\nAt Heartland Hospice, part of Gentiva, it is our privilege to offer compassionate care in the comfort of wherever our patients call home. We are a national leader in hospice care, palliative care, home…",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Ardmore, PA",
+    "job_city": "Ardmore",
+    "job_state": "Pennsylvania",
+    "job_country": "US",
+    "job_latitude": 40.006778499999996,
+    "job_longitude": -75.2854622,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D0QTC1wk6HEvcSieSAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 72000,
+    "job_max_salary": 98000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "Licensed Nurse with three to five years of hospice experience required",
+        "Minimum of three years of hospice experience required",
+        "Licenses and Certifications",
+        "Current RN license to practice nursing in the state of employment",
+        "CPR certification",
+        "Valid driver’s license and automobile insurance",
+        "Strong knowledge of hospice care and the unique needs of patients and families",
+        "Familiarity with community resources and referral networks",
+        "Excellent patient assessment and documentation skills",
+        "Ability to supervise staff, coordinate services, and manage programs effectively",
+        "Strong communication and interpersonal skills with sensitivity to diverse backgrounds",
+        "Compassion and sensitivity to the needs of terminally ill patients and their families",
+        "Flexibility to manage a variety of tasks and shifting priorities",
+        "Professional maturity, collaboration, and tact in working with interdisciplinary teams",
+        "Ability to influence and educate referral sources, patients, and families",
+        "Demonstrated commitment to patient advocacy and quality care",
+        "Employee must meet minimum requirements to be eligible for benefits",
+        "Where applicable, employee must meet state specific requirements"
+      ],
+      "Benefits": [
+        "Benefits for All Associates (Full-Time, Part-Time & Per Diem):",
+        "Competitive Pay",
+        "401(k) with Company Match",
+        "Career Advancement Opportunities",
+        "National & Local Recognition Programs",
+        "Teammate Assistance Fund",
+        "Additional Full-Time Benefits:",
+        "Medical, Dental, Vision Insurance",
+        "Mileage Reimbursement or Fleet Vehicle Program",
+        "Generous Paid Time Off + 7 Paid Holidays",
+        "Wellness Programs (Telemedicine, Diabetes Management, Joint & Spine Concierge Care)",
+        "Education Support & Tuition Assistance (ASN to BSN, BSN to MSN)",
+        "Free Continuing Education Units (CEUs)",
+        "Company-paid Life & Long-Term Disability Insurance",
+        "Voluntary Benefits (Pet, Critical Illness, Accident, LTC)"
+      ],
+      "Responsibilities": [
+        "In this role, you will ensure that intake and referral processes are completed efficiently and effectively to meet the needs of patients, families, referral sources, and the organization",
+        "You will play a vital part in building strong professional relationships, coordinating admissions, and supporting community awareness of hospice services",
+        "Receive and respond to referrals from hospitals, home health, physicians, case managers, skilled nursing facilities, and other healthcare professionals",
+        "Assess patient eligibility for hospice services by reviewing medical records, conducting clinical evaluations, and communicating with physicians and families",
+        "Educate patients and families on what hospice care includes, how it works, and why it matters—providing clarity, reassurance, and compassion",
+        "Complete necessary documentation and coordinate the intake and admission process, ensuring all legal, clinical, and payer requirements are met",
+        "Serve as a liaison between referral sources and our hospice care team—ensuring seamless handoffs, clear communication, and rapid response to needs",
+        "Make daily visits to hospitals and facilities, maintaining visibility and accessibility with discharge planners, case managers, and physicians",
+        "Build and maintain strong relationships with referral partners and identify new outreach opportunities to increase awareness of hospice services"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-learn4good-com-jobs-ardmore-pennsylvania-nursing-4869696820-e",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "BXWqJ_mw00S104XQAAAAAA==",
+    "job_title": "career advancement role: lead nursing team",
+    "employer_name": "beBeeNurse",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Jobilize",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.jobilize.com/job/us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "The ideal candidate for this position is a dedicated Registered Nurse with experience in leadership roles.\nAs a Nurse Supervisor at our organization, you will have the opportunity to make a meaningful impact on patients' lives while advancing your own career through ongoing education opportunities.\nA key aspect of this job involves assisting in the development of individualized patient plans that cater to their unique needs.\nThis may include providing guidance on medication adherence,\ncollaborating with medical teams to ensure seamless transitions across different levels of care,\nand engaging with family members to address any concerns they may have about their loved one's condition.\",",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Fairfax, VA",
+    "job_city": "Fairfax",
+    "job_state": "Virginia",
+    "job_country": "US",
+    "job_latitude": 38.8459879,
+    "job_longitude": -77.3053035,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBXWqJ_mw00S104XQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Responsibilities": [
+        "As a Nurse Supervisor at our organization, you will have the opportunity to make a meaningful impact on patients' lives while advancing your own career through ongoing education opportunities",
+        "A key aspect of this job involves assisting in the development of individualized patient plans that cater to their unique needs",
+        "This may include providing guidance on medication adherence,",
+        "collaborating with medical teams to ensure seamless transitions across different levels of care,",
+        "and engaging with family members to address any concerns they may have about their loved one's condition.\","
+      ]
+    },
+    "job_onet_soc": "11911100",
+    "job_onet_job_zone": "5",
+    "id": "www-jobilize-com-job-us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "5oCzh0Zu4XrOWW3bAAAAAA==",
+    "job_title": "Clinical Nurse Specialist",
+    "employer_name": "Alameda Health System",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-WXTH_wyXAntYdjwWMYI45J3196rj2d2-Xxa&s=0",
+    "employer_website": "http://alamedahealthsystem.org",
+    "job_publisher": "Medical Hirings - Talent Rush HQ",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Medical Hirings - Talent Rush HQ",
+        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Summary\n\nSUMMARY\n\nUnder general direction, evaluates and diagnoses the nursing problems of patients. Directs appropriate patient care treatment, counseling and education of patients and their families. Assists nursing staff in the evaluation of patients and the provisions of nursing care. Provides a full range of clinical and consultative services. Acts as consultant to non-medical program directors, staff and the families of patients providing instruction and consultation regarding medical and nursing procedures. Performs related duties as required.\n\nDUTIES and ESSENTIAL JOB FUNCTIONS\n\nNOTE: The following are the duties performed by employees in this classification. However, employees may perform other related duties at an equivalent level. Not all duties listed are necessarily performed by each individual in the classification.\n• Assists in formulating policies and procedures necessary to provide quality of care to\n• patients in area of specialization.\n• Assumes responsibility for the treatment of individuals, groups, and families; evaluates patients; recommends treatment plans; affects positive changes in patient behavior through diagnosis and treatment of patient illness.\n• Consults with other health care team members regarding patient progress; and develops nursing care plans I consultations with nursing staff.\n• Contributes to the expansion of the body of knowledge in nursing within area of specialization. Establishes standards for nursing practice in consultation with nursing administrative\n• leadership.\n• Maintains current knowledge and competency in area of specialization and in\n• professional practice.\n• Provides administrative and educational guidance to staff; keeps abreast of current trends in area of specialization; serves on planning and evaluation committees; attends and may conduct staff meetings and training sessions.\n• Serves as consultant to nursing staff, physicians, and other health care providers in\n• areas of specialization.\n\nMINIMUM QUALIFICATIONS\n\nMinimum Experience: Demonstrated clinical competence and in-depth knowledge in a specialty area with at least two years of clinical experience in area of specialization and Master’s degree in Nursing from a recognized program in clinical specialization; OR four years of clinical experience in area of specialization and possession of an American Nurses’ Association Specialty Certification; OR two years of clinical experience in area of specialization and possession of an American Nurses’ Association Clinical Specialist Certification.\n\nPreferred Education: Graduate of an accredited Nursing program required; Bachelor’s degree in Nursing\n\npreferred.\n\nRequired Licenses/Certifications: APS Perinatal Safety Modules must be completed within 3 months of hire for positions in Labor and Delivery/Maternal Child Health.\n\nRequired Licenses/Certifications: BLS - Basic Life Support Certification issued by the American Heart Association. Other advanced life support certifications may be required per unit/department specialty according to patient care policies.\n\nRequired Licenses/Certifications: Valid license to practice as a Registered Nurse in the State of California.\n\nPAY RANGE\n\n$76.40 to $104.56 per hour\n\nThe pay range for this position reflects the base pay scale for the role at Alameda Health System. Final compensation will be determined based on several factors, including but not limited to a candidate’s experience, education, skills, licensure and certifications, departmental equity, applicable collective bargaining agreements, and the operational needs of the organization. Alameda Health System also offers eligible positions a generous comprehensive benefits program.\n\nHighland General Hospital\nLabor and Delivery\nFull Time\nVaries\nNursing\nFTE: 1",
+    "job_is_remote": false,
+    "job_posted_at": "22 hours ago",
+    "job_posted_at_timestamp": 1771146000,
+    "job_posted_at_datetime_utc": "2026-02-15T09:00:00.000Z",
+    "job_location": "Oakley, CA",
+    "job_city": "Oakley",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.9974219,
+    "job_longitude": -121.71245359999999,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5oCzh0Zu4XrOWW3bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Minimum Experience: Demonstrated clinical competence and in-depth knowledge in a specialty area with at least two years of clinical experience in area of specialization and Master’s degree in Nursing from a recognized program in clinical specialization; OR four years of clinical experience in area of specialization and possession of an American Nurses’ Association Specialty Certification; OR two years of clinical experience in area of specialization and possession of an American Nurses’ Association Clinical Specialist Certification",
+        "Required Licenses/Certifications: APS Perinatal Safety Modules must be completed within 3 months of hire for positions in Labor and Delivery/Maternal Child Health",
+        "Required Licenses/Certifications: BLS - Basic Life Support Certification issued by the American Heart Association",
+        "Other advanced life support certifications may be required per unit/department specialty according to patient care policies",
+        "Required Licenses/Certifications: Valid license to practice as a Registered Nurse in the State of California"
+      ],
+      "Benefits": [
+        "PAY RANGE",
+        "$76.40 to $104.56 per hour",
+        "The pay range for this position reflects the base pay scale for the role at Alameda Health System",
+        "Final compensation will be determined based on several factors, including but not limited to a candidate’s experience, education, skills, licensure and certifications, departmental equity, applicable collective bargaining agreements, and the operational needs of the organization",
+        "Alameda Health System also offers eligible positions a generous comprehensive benefits program"
+      ],
+      "Responsibilities": [
+        "Under general direction, evaluates and diagnoses the nursing problems of patients",
+        "Directs appropriate patient care treatment, counseling and education of patients and their families",
+        "Assists nursing staff in the evaluation of patients and the provisions of nursing care",
+        "Provides a full range of clinical and consultative services",
+        "Acts as consultant to non-medical program directors, staff and the families of patients providing instruction and consultation regarding medical and nursing procedures",
+        "Performs related duties as required",
+        "Not all duties listed are necessarily performed by each individual in the classification",
+        "Assists in formulating policies and procedures necessary to provide quality of care to",
+        "patients in area of specialization",
+        "Assumes responsibility for the treatment of individuals, groups, and families; evaluates patients; recommends treatment plans; affects positive changes in patient behavior through diagnosis and treatment of patient illness",
+        "Consults with other health care team members regarding patient progress; and develops nursing care plans I consultations with nursing staff",
+        "Contributes to the expansion of the body of knowledge in nursing within area of specialization",
+        "Establishes standards for nursing practice in consultation with nursing administrative",
+        "leadership",
+        "Maintains current knowledge and competency in area of specialization and in",
+        "professional practice",
+        "Provides administrative and educational guidance to staff; keeps abreast of current trends in area of specialization; serves on planning and evaluation committees; attends and may conduct staff meetings and training sessions",
+        "Serves as consultant to nursing staff, physicians, and other health care providers in"
+      ]
+    },
+    "job_onet_soc": "21109100",
+    "job_onet_job_zone": "4",
+    "id": "medicalhirings-talentrushhq-com-joblistingpage-ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64",
     "_source": "new_jobs"
   },
   {
@@ -784,8 +1085,8 @@
     "job_longitude": -73.7544707,
     "job_benefits": [
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsLzubZh1ptY5yRy-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 69531,
@@ -795,469 +1096,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-indeed-com-viewjob",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "BXWqJ_mw00S104XQAAAAAA==",
-    "job_title": "career advancement role: lead nursing team",
-    "employer_name": "beBeeNurse",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Jobilize",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobilize.com/job/us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "The ideal candidate for this position is a dedicated Registered Nurse with experience in leadership roles.\nAs a Nurse Supervisor at our organization, you will have the opportunity to make a meaningful impact on patients' lives while advancing your own career through ongoing education opportunities.\nA key aspect of this job involves assisting in the development of individualized patient plans that cater to their unique needs.\nThis may include providing guidance on medication adherence,\ncollaborating with medical teams to ensure seamless transitions across different levels of care,\nand engaging with family members to address any concerns they may have about their loved one's condition.\",",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Fairfax, VA",
-    "job_city": "Fairfax",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 38.8459879,
-    "job_longitude": -77.3053035,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBXWqJ_mw00S104XQAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Responsibilities": [
-        "As a Nurse Supervisor at our organization, you will have the opportunity to make a meaningful impact on patients' lives while advancing your own career through ongoing education opportunities",
-        "A key aspect of this job involves assisting in the development of individualized patient plans that cater to their unique needs",
-        "This may include providing guidance on medication adherence,",
-        "collaborating with medical teams to ensure seamless transitions across different levels of care,",
-        "and engaging with family members to address any concerns they may have about their loved one's condition.\","
-      ]
-    },
-    "job_onet_soc": "11911100",
-    "job_onet_job_zone": "5",
-    "id": "www-jobilize-com-job-us-va-fairfax-career-advancement-role-lead-nursing-team-reston-bebeenurse",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "dvRDeF2liiAxVa1bAAAAAA==",
-    "job_title": "Clinical Nurse Specialist",
-    "employer_name": "Mayo Clinic",
-    "employer_logo": null,
-    "employer_website": "https://www.mayoclinic.org",
-    "job_publisher": "Medical Hirings - Talent Rush HQ",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Medical Hirings - Talent Rush HQ",
-        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Why Mayo Clinic\n\nMayo Clinic is top-ranked in more specialties than any other care provider according to U.S. News and World Report. As we work together to put the needs of the patient first, we are also dedicated to our employees, investing in competitive compensation and comprehensive benefit plans – to take care of you and your family, now and in the future. And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic.\n\nBenefits Highlights\n• Medical: Multiple plan options.\n• Dental: Delta Dental or reimbursement account for flexible coverage.\n• Vision: Affordable plan with national network.\n• Pre-Tax Savings: HSA and FSAs for eligible expenses.\n• Retirement: Competitive retirement package to secure your future.\n\nResponsibilities\n\nThe Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice. The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System) and is an active participant in the nursing leadership team. As an advanced practice expert, the CNS plays a vital role in elevating clinical practice, supporting evidence-based care, and driving excellence across the care continuum—reflecting Mayo Clinic Florida’s commitment to innovation, quality, and patient-centered outcomes.\n\nThis role will provide support to the Progressive Care Unit (PCU), CERT, STAR, ED, Mayo Clinic Care Beyond Walls, and other initiatives led by the Department of Nursing (DON). This position offers the opportunity to collaborate with world-class clinicians, influence system-level improvements, and contribute to groundbreaking work that helps position Mayo Clinic Florida as one of the nation’s leading destinations for complex, high-quality care.\n\nThis role is eligible for TN sponsorship. Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification.\n\nQualifications\n• Master's degree with a major in nursing with a Clinical Nurse Specialist focus. Doctorate of Nursing Practice degree preferred.\n• Experience as a CNS preferred.\n• Flexibility to adjust schedule to meet patient needs and CNS workload.\n• Five years of successful work experience in nursing with two years in the specialty area preferred.\n• As a condition of employment, individuals working with addictions services must be free from problematic substance use for a minimum of the immediately preceding two years at time of hire.\n\nLicense and Certifications:\n• Current RN license by applicable state requirements. This RN job may require a RN license in multiple states.\n• Current APRN, CNS license by applicable state requirements. If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty.\n• Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network. Additional specialty certification/training as required by the work area is highly recommended.\nExemption Status\n\nExempt\n\nCompensation Detail\n\n$99,964.80 - $150,113.60 / year\n\nBenefits Eligible\n\nYes\n\nSchedule\n\nFull Time\n\nHours/Pay Period\n\n80\n\nSchedule Details\n\nMonday - Friday\n\nInternational Assignment\n\nNo\n\nSite Description\n\nJust as our reputation has spread beyond our Minnesota roots, so have our locations. Today, our employees are located at our three major campuses in Phoenix/Scottsdale, Arizona, Jacksonville, Florida, Rochester, Minnesota, and at Mayo Clinic Health System campuses throughout Midwestern communities, and at our international locations. Each Mayo Clinic location is a special place where our employees thrive in both their work and personal lives. Learn more about what each unique Mayo Clinic campus has to offer, and where your best fit is.\n\nEqual Opportunity\n\nAll qualified applicants will receive consideration for employment without regard to race, color, religion, sex, gender identity, sexual orientation, national origin, protected veteran status or disability status. Learn more about the \"EOE is the Law\". Mayo Clinic participates in E-Verify and may provide the Social Security Administration and, if necessary, the Department of Homeland Security with information from each new employee's Form I-9 to confirm work authorization.\n\nRecruiter\n\nDanelle White",
-    "job_is_remote": false,
-    "job_posted_at": "10 hours ago",
-    "job_posted_at_timestamp": 1771189200,
-    "job_posted_at_datetime_utc": "2026-02-15T21:00:00.000Z",
-    "job_location": "Palatka, FL",
-    "job_city": "Palatka",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 29.6472272,
-    "job_longitude": -81.6297111,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdvRDeF2liiAxVa1bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Successful sponsorship will require state licensure and completion of the VisaScreen or equivalent certification",
-        "Master's degree with a major in nursing with a Clinical Nurse Specialist focus",
-        "Current RN license by applicable state requirements",
-        "This RN job may require a RN license in multiple states",
-        "Current APRN, CNS license by applicable state requirements",
-        "If state doesn't have APRN licensure, Clinical Nurse Specialist Certification, in designated specialty by a nationally recognized body deemed acceptable by the State Board of Nursing in the state the CNS practices or a documented waiver deemed acceptable by the Board of Nursing in the state the CNS practices, when there is no Clinical Nurse Specialist Certification examination for the specialty",
-        "Maintains current Basic Life Support for Health Care Providers from one of the following programs: American Heart Association (BLS for Health Care Providers), Red Cross (CPR/AED for Professional Rescuers and Health Care Providers), or Military Training Network",
-        "Additional specialty certification/training as required by the work area is highly recommended"
-      ],
-      "Benefits": [
-        "And with continuing education and advancement opportunities at every turn, you can build a long, successful career with Mayo Clinic",
-        "Medical: Multiple plan options",
-        "Dental: Delta Dental or reimbursement account for flexible coverage",
-        "Vision: Affordable plan with national network",
-        "Pre-Tax Savings: HSA and FSAs for eligible expenses",
-        "Retirement: Competitive retirement package to secure your future",
-        "$99,964.80 - $150,113.60 / year",
-        "Benefits Eligible",
-        "Full Time",
-        "Hours/Pay Period"
-      ],
-      "Responsibilities": [
-        "The Clinical Nurse Specialist (CNS) works collaboratively to improve the quality of patient care and promote desired patient outcomes in a designated population/specialty practice",
-        "The CNS functions as a leader within the three spheres of influence (Patient/Client, Nurses and Nursing Practice, Organization/System) and is an active participant in the nursing leadership team",
-        "As an advanced practice expert, the CNS plays a vital role in elevating clinical practice, supporting evidence-based care, and driving excellence across the care continuum—reflecting Mayo Clinic Florida’s commitment to innovation, quality, and patient-centered outcomes",
-        "This role will provide support to the Progressive Care Unit (PCU), CERT, STAR, ED, Mayo Clinic Care Beyond Walls, and other initiatives led by the Department of Nursing (DON)"
-      ]
-    },
-    "job_onet_soc": "21109100",
-    "job_onet_job_zone": "4",
-    "id": "medicalhirings-talentrushhq-com-joblistingpage-ad9sn0ngllbu-b1c95775d29de520067-ff0994ab4daaa",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "wovuW3sajtZTVs7UAAAAAA==",
-    "job_title": "Advanced Practitioner/CNS - Cardiology",
-    "employer_name": "Legacy Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkf9LyijfeJFt8EZloUbWF20Zt-MCGnEWY1w2s&s=0",
-    "employer_website": "https://www.legacyhealth.org",
-    "job_publisher": "Women For Hire- Job Board",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/cedar-hills-or/advanced-practitioner-cns-cardiology-110619/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Women For Hire- Job Board",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/cedar-hills-or/advanced-practitioner-cns-cardiology-110619/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Legacy Health\nAdvanced Practitioner/CNS - Cardiology\nEqual Opportunity Employer/Vet/Disabled\nUS-OR-PORTLAND\nJob ID: 25-45975\nType: Regular Full-Time\nEmanuel Medical Ctr campus\nOverview\n\nThe Legacy Cardiology nursing philosophy focuses on patients and their families. Our nurses embody this philosophy in everything they do, as advocates, communicators, problem-solvers and caregivers. Their expertise is sought after and respected by our health care team. In short, they are the face of wellness at Legacy. Does this sound like an environment in which you could thrive? If so, we invite you to consider this opportunity.\n\nResponsibilities\n\nThe Cardiology Clinical Nurse Specialist (CNS) promotes professional development and the advancement of nursing practice, facilitates the provision of quality, evidence based care and is a change agent/role model. The CNS demonstrates a firm clinical knowledge base in specialty practice and systems theory. The CNS conducts and facilitates patient care consultation and provides resources to assess the impact and appropriateness of practice on patient outcomes.\n\nThe CNS uses clinical nursing expertise in diagnosis and treatment to prevent, remediate, or alleviate illness and promote health with a defined specialty population CNS practice is the translation of clinical expertise into nursing care provided either directly or by influencing nurses and nursing personnel through evidence-based nursing care standards. CNS practice also influences systems to mobilize, change, or transform these systems to facilitate expertly designed nursing intervention. Some CNSs may expand their nursing practice to include prescriptive authority for pharmacologic agents to augment the care that they are responsible and accountable to provide.\n\nQualifications\n\nEducation:\n\nGraduate education with preparation as a CNS as required by state licensure.\n\nExperience:\n\nClinical experience requirements are dependent upon the specific position, and include a minimum of 2 years of experience in a related field.\n\nEqual employment opportunity, including veterans and individuals with disabilities.\n\nPI282255485",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Cedar Hills, OR",
-    "job_city": "Cedar Hills",
-    "job_state": "Oregon",
-    "job_country": "US",
-    "job_latitude": 45.5087595,
-    "job_longitude": -122.8062573,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwovuW3sajtZTVs7UAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Graduate education with preparation as a CNS as required by state licensure",
-        "Clinical experience requirements are dependent upon the specific position, and include a minimum of 2 years of experience in a related field"
-      ],
-      "Responsibilities": [
-        "Type: Regular Full-Time",
-        "The Cardiology Clinical Nurse Specialist (CNS) promotes professional development and the advancement of nursing practice, facilitates the provision of quality, evidence based care and is a change agent/role model",
-        "The CNS demonstrates a firm clinical knowledge base in specialty practice and systems theory",
-        "The CNS conducts and facilitates patient care consultation and provides resources to assess the impact and appropriateness of practice on patient outcomes",
-        "The CNS uses clinical nursing expertise in diagnosis and treatment to prevent, remediate, or alleviate illness and promote health with a defined specialty population CNS practice is the translation of clinical expertise into nursing care provided either directly or by influencing nurses and nursing personnel through evidence-based nursing care standards",
-        "CNS practice also influences systems to mobilize, change, or transform these systems to facilitate expertly designed nursing intervention",
-        "Some CNSs may expand their nursing practice to include prescriptive authority for pharmacologic agents to augment the care that they are responsible and accountable to provide"
-      ]
-    },
-    "job_onet_soc": "29203100",
-    "job_onet_job_zone": "3",
-    "id": "jobs-womenforhire-com-job-usa-cedar-hills-or-advanced-practitioner-cns-cardiology-110619",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "97-Tv8p9nWyhwAsgAAAAAA==",
-    "job_title": "Clinical Nurse Specialist Advance Practice RN Palliative Care",
-    "employer_name": "UCSF Medical Center",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Hospital Jobs Online",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.hospitaljobsonline.com/job/84373275/clinical-nurse-specialist-advance-practice-rn-palliative-care-san-francisco-ca/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Hospital Jobs Online",
-        "apply_link": "https://www.hospitaljobsonline.com/job/84373275/clinical-nurse-specialist-advance-practice-rn-palliative-care-san-francisco-ca/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-ca-san-francisco-advanced-practice-clinical-specialist-salinas?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Clinical Nurse Specialist Advance Practice RN Palliative Care\n\nJob Description\n\nThe Palliative Care Clinical Nurse Specialist (CNS)/APRN is an advanced practice registered nurse who serves as a palliative care clinical expert, leader, consultant, educator, and mentor for the nursing staff and teams at UCSF Medical Center. The specialized knowledge and skills required for this role include clinical expertise in palliative care nursing; design and implementation of evidence-based practice (EBP); education and mentorship; consultation; performance improvement; and leadership. The Palliative Care CNS/APRN role has three spheres of impact across the health system’s adult services that include the patient/family, nursing/interprofessional teams, and the organization/health system. This role works collaboratively with the Clinical Practice team to support and ensure high quality standards of nursing care and professional practice to optimize patient, team, and system outcomes.\n\nThe Center for Nursing Excellence and Innovation is a Nursing support department with four main divisions: Nursing Professional Development, Nursing Quality Analytics, Nursing Practice and Research, and Nursing Continuous Improvement and Affiliate Relations. The Professional Development team includes Nursing Professional Development Specialists who oversee the training and education needs for the Department of Nursing.\n\nThe Nursing Practice and Research team includes Clinical Nurse Specialists and Advanced Practice Specialists, who oversee evidence-based practice standards that optimize quality and safety patient outcomes. The Research & Scholarship team includes Nurse Scientists, a Scholarship Development Specialists and an Evidence Implementation Specialist who oversee the infrastructure for clinical inquiry, evidence-based practice, research, and innovation.\n\nThe Nursing Quality Analytics team includes nursing quality analysts who oversee data production, dissemination and analytics. The Nursing Continuous Improvement and Affiliate Relations team oversees continuous improvement processes and nursing quality with affiliate organizations. The mission of the Center of Nursing Excellence & Innovation is to prepare, support, and sustain skill acquisition, life-long learning, clinical inquiry, and scholarship that promotes excellence in patient and family care with the vision of creating, optimizing, and innovating to provide the best clinical practice, education and training, and research across the care continuum that achieves optimal patient outcomes.\n\nMinimum of 5 years of recent clinical RN experience in the specialty area\n\nIn-depth knowledge of one or more clinical specialty areas, to include diagnoses, treatments, standards of practice and patient / family educational consulting and resources.\n\nAdvanced knowledge of skill for conducting evidence-based practice, data collection, analysis, and reporting.\n\nAdvanced critical thinking and problem-solving skills to assess highly-complex issues and develop multiple options for resolution.\n\nAdvanced interpersonal skills, with the ability to provide education, training, and direction to nursing staff, and to develop positive working relationships with patients, families, providers, employees, and outside agencies as required.\n\nAdvanced written and verbal communication skills, with the ability to convey complex and / or sensitive information in a clear and concise manner.\n\nMaster’s degree from an accredited Nursing program\n\nPreferred Qualifications:\n\nCurrent Registered Nurse (RN) license in the State of California\n\nCurrent CA APRN license (CNS, NP, CRNA, CNM)\n\nCurrent American Heart Association CPR certification\n\nSpecialty certification (e.g., Advanced Certified Hospice and Palliative Nurse (ACHPN)) or obtained within one year of hire\n\nAbout UCSF\n\nAt UCSF Health, our mission of innovative patient care, advanced technology and pioneering research is redefining what’s possible for the patients we serve – a promise we share with the professionals who make up our team.\n\nConsistently ranked among the top 10 hospitals nationwide by U.S. News & World Report – UCSF Health is committed to providing the most rewarding work experience while delivering the best care available anywhere. In an environment that allows for continuous learning and opportunities for professional growth, UCSF Health offers the ideal atmosphere in which to best use your skills and talents.\n\nUCSF is a diverse community made of people with many skills and talents. We seek candidates whose work experience or community service has prepared them to contribute to our commitment to professionalism, respect, integrity, diversity and excellence – also known as our PRIDE values.\n\nIn addition to our PRIDE values, UCSF is committed to equity – both in how we deliver care as well as our workforce. We are committed to building a broadly diverse community, nurturing a culture that is welcoming and supportive, and engaging diverse ideas for the provision of culturally competent education, discovery, and patient care. Additional information about UCSF is available at diversity.ucsf.edu\n\nJoin us to find a rewarding career contributing to improving healthcare worldwide.\n\nTo Apply for this position, please CLICK HERE https://ucsfedu.contacthr.com/89863269",
-    "job_is_remote": false,
-    "job_posted_at": "23 hours ago",
-    "job_posted_at_timestamp": 1771142400,
-    "job_posted_at_datetime_utc": "2026-02-15T08:00:00.000Z",
-    "job_location": "San Francisco, CA",
-    "job_city": "San Francisco",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.7749295,
-    "job_longitude": -122.4194155,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D97-Tv8p9nWyhwAsgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Minimum of 5 years of recent clinical RN experience in the specialty area",
-        "In-depth knowledge of one or more clinical specialty areas, to include diagnoses, treatments, standards of practice and patient / family educational consulting and resources",
-        "Advanced knowledge of skill for conducting evidence-based practice, data collection, analysis, and reporting",
-        "Advanced critical thinking and problem-solving skills to assess highly-complex issues and develop multiple options for resolution",
-        "Advanced interpersonal skills, with the ability to provide education, training, and direction to nursing staff, and to develop positive working relationships with patients, families, providers, employees, and outside agencies as required",
-        "Advanced written and verbal communication skills, with the ability to convey complex and / or sensitive information in a clear and concise manner",
-        "Master’s degree from an accredited Nursing program",
-        "Current Registered Nurse (RN) license in the State of California",
-        "Current CA APRN license (CNS, NP, CRNA, CNM)",
-        "Current American Heart Association CPR certification",
-        "Specialty certification (e.g., Advanced Certified Hospice and Palliative Nurse (ACHPN)) or obtained within one year of hire"
-      ],
-      "Responsibilities": [
-        "The specialized knowledge and skills required for this role include clinical expertise in palliative care nursing; design and implementation of evidence-based practice (EBP); education and mentorship; consultation; performance improvement; and leadership",
-        "The Palliative Care CNS/APRN role has three spheres of impact across the health system’s adult services that include the patient/family, nursing/interprofessional teams, and the organization/health system",
-        "This role works collaboratively with the Clinical Practice team to support and ensure high quality standards of nursing care and professional practice to optimize patient, team, and system outcomes",
-        "The Professional Development team includes Nursing Professional Development Specialists who oversee the training and education needs for the Department of Nursing",
-        "The Nursing Practice and Research team includes Clinical Nurse Specialists and Advanced Practice Specialists, who oversee evidence-based practice standards that optimize quality and safety patient outcomes",
-        "The Research & Scholarship team includes Nurse Scientists, a Scholarship Development Specialists and an Evidence Implementation Specialist who oversee the infrastructure for clinical inquiry, evidence-based practice, research, and innovation",
-        "The Nursing Quality Analytics team includes nursing quality analysts who oversee data production, dissemination and analytics",
-        "The Nursing Continuous Improvement and Affiliate Relations team oversees continuous improvement processes and nursing quality with affiliate organizations",
-        "The mission of the Center of Nursing Excellence & Innovation is to prepare, support, and sustain skill acquisition, life-long learning, clinical inquiry, and scholarship that promotes excellence in patient and family care with the vision of creating, optimizing, and innovating to provide the best clinical practice, education and training, and research across the care continuum that achieves optimal patient outcomes"
-      ]
-    },
-    "job_onet_soc": "29117100",
-    "job_onet_job_zone": "5",
-    "id": "www-hospitaljobsonline-com-job-84373275-clinical-nurse-specialist-advance-practice-rn-palliative-care-san-francisco-ca",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "MlBnXiOvMLgkspwbAAAAAA==",
-    "job_title": "Clinical Nurse Specialist",
-    "employer_name": "Manchester Memorial Hospital",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Jobilize",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jobilize.com/job/us-ct-meriden-clinical-nurse-specialist-manchester-memorial-hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-ct-meriden-clinical-nurse-specialist-manchester-memorial-hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Location Detail: MMH-71 Haynes Street (10627)\n\nJoin a dedicated team where every moment matters. At Hartford HealthCare, over 40,000 colleagues take pride in making a real difference. We invite you to become part of Connecticut's most comprehensive healthcare network as a Clinical Nurse Specialist.\n\nThe Greater Manchester Region is home to a thriving healthcare community, with about 2,500 employees spread across Manchester Memorial Hospital, Rockville General, a large multispecialty provider group, and visiting nurse services, serving 300,000 people across 19 towns.\n\nPOSITION SUMMARY:\n\nAs a Clinical Nurse Specialist, you will provide critical clinical expertise, education, and leadership to enhance patient care and support our nursing staff. Your role will involve:\n• Delivering high-quality, competent direct patient care.\n• Coordinating and implementing nursing staff orientation and ongoing education programs.\n• Fostering collegial relationships and being a visible resource for staff and management.\n• Promoting professional nursing practice and ensuring effective communication within the team.\n• Engaging in research and evidence-based practice to improve patient outcomes.\n\nEDUCATION/CERTIFICATION:\n• Must be a graduate of an accredited School of Nursing with a current RN license in Connecticut.\n• BSN required; Master's Degree in Nursing preferred (matriculation needed within one year).\n• Basic and Advanced Cardiac Life Support certification required upon hire.\n• Preferred specialty certification in Nursing/Education.\n\nEXPERIENCE:\n• Minimum of 5 years progressive experience in clinical practice, nursing education, or management in an acute care setting.\n• 3 years of experience in Behavioral Health is required.\n\nCOMPETENCIES:\n• Strong clinical competency in assigned area.\n• Effective communication skills in English, both verbal and written.\n• Basic computer skills.\n\nESSENTIAL DUTIES and RESPONSIBILITIES:\n• Participate in delivering direct patient care and assessing the quality of care.\n• Coordinate nursing staff orientations and ensure their progress and completion.\n• Develop and implement continuing education programs for nursing staff.\n• Plan and execute annual nursing competencies in collaboration with Nurse Manager.\n• Apply advanced knowledge and judgement to identify and solve patient care issues.\n• Drive improvements in clinical outcomes, patient satisfaction, and resource allocation.\n• Guide and delegate indirect patient care duties while collaborating with the healthcare team.\n• Provide expertise and support to enhance decision-making within the clinical team.\n• Engage in teaching and coaching staff, nurturing professional development.\n• Encourage inquiry and research to advance clinical practice.\n• Develop clinical practice guidelines and manage quality improvement initiatives.\n• Foster collaboration across teams to achieve integrated solutions.\n• Demonstrate a commitment to practical integration of theory and evidence-based practices.\n• Act as a change agent and leader within the organization.\n\nWe are committed to supporting your career development.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Meriden, CT",
-    "job_city": "Meriden",
-    "job_state": "Connecticut",
-    "job_country": "US",
-    "job_latitude": 41.5381535,
-    "job_longitude": -72.80704349999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DMlBnXiOvMLgkspwbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Must be a graduate of an accredited School of Nursing with a current RN license in Connecticut",
-        "Basic and Advanced Cardiac Life Support certification required upon hire",
-        "Minimum of 5 years progressive experience in clinical practice, nursing education, or management in an acute care setting",
-        "3 years of experience in Behavioral Health is required",
-        "Strong clinical competency in assigned area",
-        "Effective communication skills in English, both verbal and written",
-        "Basic computer skills"
-      ],
-      "Responsibilities": [
-        "As a Clinical Nurse Specialist, you will provide critical clinical expertise, education, and leadership to enhance patient care and support our nursing staff",
-        "Delivering high-quality, competent direct patient care",
-        "Coordinating and implementing nursing staff orientation and ongoing education programs",
-        "Fostering collegial relationships and being a visible resource for staff and management",
-        "Promoting professional nursing practice and ensuring effective communication within the team",
-        "Engaging in research and evidence-based practice to improve patient outcomes",
-        "Participate in delivering direct patient care and assessing the quality of care",
-        "Coordinate nursing staff orientations and ensure their progress and completion",
-        "Develop and implement continuing education programs for nursing staff",
-        "Plan and execute annual nursing competencies in collaboration with Nurse Manager",
-        "Apply advanced knowledge and judgement to identify and solve patient care issues",
-        "Drive improvements in clinical outcomes, patient satisfaction, and resource allocation",
-        "Guide and delegate indirect patient care duties while collaborating with the healthcare team",
-        "Provide expertise and support to enhance decision-making within the clinical team",
-        "Engage in teaching and coaching staff, nurturing professional development",
-        "Encourage inquiry and research to advance clinical practice",
-        "Develop clinical practice guidelines and manage quality improvement initiatives",
-        "Foster collaboration across teams to achieve integrated solutions",
-        "Demonstrate a commitment to practical integration of theory and evidence-based practices",
-        "Act as a change agent and leader within the organization"
-      ]
-    },
-    "job_onet_soc": "21109100",
-    "job_onet_job_zone": "4",
-    "id": "www-jobilize-com-job-us-ct-meriden-clinical-nurse-specialist-manchester-memorial-hospital",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "mX6eNrkyz6d62FErAAAAAA==",
-    "job_title": "Clinical Nurse Specialist",
-    "employer_name": "Manchester Memorial Hospital",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "BeBee",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://us.bebee.com/job/9228fd68c6670ca447ec4f814ae3b9a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/9228fd68c6670ca447ec4f814ae3b9a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-ct-windsor-clinical-nurse-specialist-manchester-memorial-hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Clinical Nurse Specialist Role\n\nAt Manchester Memorial Hospital, you will have the opportunity to work with our dedicated team where every moment matters.\n• Deliver high-quality patient care while providing critical clinical expertise.\n• Promote professional nursing practice through education and leadership.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Windsor, CT",
-    "job_city": "Windsor",
-    "job_state": "Connecticut",
-    "job_country": "US",
-    "job_latitude": 41.8525984,
-    "job_longitude": -72.64370219999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmX6eNrkyz6d62FErAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Responsibilities": [
-        "Deliver high-quality patient care while providing critical clinical expertise",
-        "Promote professional nursing practice through education and leadership"
-      ]
-    },
-    "job_onet_soc": "21109100",
-    "job_onet_job_zone": "4",
-    "id": "us-bebee-com-job-9228fd68c6670ca447ec4f814ae3b9a4",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "5oCzh0Zu4XrOWW3bAAAAAA==",
-    "job_title": "Clinical Nurse Specialist",
-    "employer_name": "Alameda Health System",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3-WXTH_wyXAntYdjwWMYI45J3196rj2d2-Xxa&s=0",
-    "employer_website": "http://alamedahealthsystem.org",
-    "job_publisher": "Medical Hirings - Talent Rush HQ",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Medical Hirings - Talent Rush HQ",
-        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Summary\n\nSUMMARY\n\nUnder general direction, evaluates and diagnoses the nursing problems of patients. Directs appropriate patient care treatment, counseling and education of patients and their families. Assists nursing staff in the evaluation of patients and the provisions of nursing care. Provides a full range of clinical and consultative services. Acts as consultant to non-medical program directors, staff and the families of patients providing instruction and consultation regarding medical and nursing procedures. Performs related duties as required.\n\nDUTIES and ESSENTIAL JOB FUNCTIONS\n\nNOTE: The following are the duties performed by employees in this classification. However, employees may perform other related duties at an equivalent level. Not all duties listed are necessarily performed by each individual in the classification.\n• Assists in formulating policies and procedures necessary to provide quality of care to\n• patients in area of specialization.\n• Assumes responsibility for the treatment of individuals, groups, and families; evaluates patients; recommends treatment plans; affects positive changes in patient behavior through diagnosis and treatment of patient illness.\n• Consults with other health care team members regarding patient progress; and develops nursing care plans I consultations with nursing staff.\n• Contributes to the expansion of the body of knowledge in nursing within area of specialization. Establishes standards for nursing practice in consultation with nursing administrative\n• leadership.\n• Maintains current knowledge and competency in area of specialization and in\n• professional practice.\n• Provides administrative and educational guidance to staff; keeps abreast of current trends in area of specialization; serves on planning and evaluation committees; attends and may conduct staff meetings and training sessions.\n• Serves as consultant to nursing staff, physicians, and other health care providers in\n• areas of specialization.\n\nMINIMUM QUALIFICATIONS\n\nMinimum Experience: Demonstrated clinical competence and in-depth knowledge in a specialty area with at least two years of clinical experience in area of specialization and Master’s degree in Nursing from a recognized program in clinical specialization; OR four years of clinical experience in area of specialization and possession of an American Nurses’ Association Specialty Certification; OR two years of clinical experience in area of specialization and possession of an American Nurses’ Association Clinical Specialist Certification.\n\nPreferred Education: Graduate of an accredited Nursing program required; Bachelor’s degree in Nursing\n\npreferred.\n\nRequired Licenses/Certifications: APS Perinatal Safety Modules must be completed within 3 months of hire for positions in Labor and Delivery/Maternal Child Health.\n\nRequired Licenses/Certifications: BLS - Basic Life Support Certification issued by the American Heart Association. Other advanced life support certifications may be required per unit/department specialty according to patient care policies.\n\nRequired Licenses/Certifications: Valid license to practice as a Registered Nurse in the State of California.\n\nPAY RANGE\n\n$76.40 to $104.56 per hour\n\nThe pay range for this position reflects the base pay scale for the role at Alameda Health System. Final compensation will be determined based on several factors, including but not limited to a candidate’s experience, education, skills, licensure and certifications, departmental equity, applicable collective bargaining agreements, and the operational needs of the organization. Alameda Health System also offers eligible positions a generous comprehensive benefits program.\n\nHighland General Hospital\nLabor and Delivery\nFull Time\nVaries\nNursing\nFTE: 1",
-    "job_is_remote": false,
-    "job_posted_at": "21 hours ago",
-    "job_posted_at_timestamp": 1771149600,
-    "job_posted_at_datetime_utc": "2026-02-15T10:00:00.000Z",
-    "job_location": "Oakley, CA",
-    "job_city": "Oakley",
-    "job_state": "California",
-    "job_country": "US",
-    "job_latitude": 37.9974219,
-    "job_longitude": -121.71245359999999,
-    "job_benefits": [
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D5oCzh0Zu4XrOWW3bAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Minimum Experience: Demonstrated clinical competence and in-depth knowledge in a specialty area with at least two years of clinical experience in area of specialization and Master’s degree in Nursing from a recognized program in clinical specialization; OR four years of clinical experience in area of specialization and possession of an American Nurses’ Association Specialty Certification; OR two years of clinical experience in area of specialization and possession of an American Nurses’ Association Clinical Specialist Certification",
-        "Required Licenses/Certifications: APS Perinatal Safety Modules must be completed within 3 months of hire for positions in Labor and Delivery/Maternal Child Health",
-        "Required Licenses/Certifications: BLS - Basic Life Support Certification issued by the American Heart Association",
-        "Other advanced life support certifications may be required per unit/department specialty according to patient care policies",
-        "Required Licenses/Certifications: Valid license to practice as a Registered Nurse in the State of California"
-      ],
-      "Benefits": [
-        "PAY RANGE",
-        "$76.40 to $104.56 per hour",
-        "The pay range for this position reflects the base pay scale for the role at Alameda Health System",
-        "Final compensation will be determined based on several factors, including but not limited to a candidate’s experience, education, skills, licensure and certifications, departmental equity, applicable collective bargaining agreements, and the operational needs of the organization",
-        "Alameda Health System also offers eligible positions a generous comprehensive benefits program"
-      ],
-      "Responsibilities": [
-        "Under general direction, evaluates and diagnoses the nursing problems of patients",
-        "Directs appropriate patient care treatment, counseling and education of patients and their families",
-        "Assists nursing staff in the evaluation of patients and the provisions of nursing care",
-        "Provides a full range of clinical and consultative services",
-        "Acts as consultant to non-medical program directors, staff and the families of patients providing instruction and consultation regarding medical and nursing procedures",
-        "Performs related duties as required",
-        "Not all duties listed are necessarily performed by each individual in the classification",
-        "Assists in formulating policies and procedures necessary to provide quality of care to",
-        "patients in area of specialization",
-        "Assumes responsibility for the treatment of individuals, groups, and families; evaluates patients; recommends treatment plans; affects positive changes in patient behavior through diagnosis and treatment of patient illness",
-        "Consults with other health care team members regarding patient progress; and develops nursing care plans I consultations with nursing staff",
-        "Contributes to the expansion of the body of knowledge in nursing within area of specialization",
-        "Establishes standards for nursing practice in consultation with nursing administrative",
-        "leadership",
-        "Maintains current knowledge and competency in area of specialization and in",
-        "professional practice",
-        "Provides administrative and educational guidance to staff; keeps abreast of current trends in area of specialization; serves on planning and evaluation committees; attends and may conduct staff meetings and training sessions",
-        "Serves as consultant to nursing staff, physicians, and other health care providers in"
-      ]
-    },
-    "job_onet_soc": "21109100",
-    "job_onet_job_zone": "4",
-    "id": "medicalhirings-talentrushhq-com-joblistingpage-ueion2fta8eh-ac17c38-64e5-215efdb9881d-1bed0eb64",
     "_source": "new_jobs"
   },
   {
@@ -1417,6 +1255,132 @@
     "job_onet_soc": "29106700",
     "job_onet_job_zone": "5",
     "id": "careers-sharp-com-job-la-mesa-clinical-nurse-rn-surgery-sharp-grossmont-hospital-10-hour-variable-shift-full-time-eligible-for-ne-1031-91593422176",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "mX6eNrkyz6d62FErAAAAAA==",
+    "job_title": "Clinical Nurse Specialist",
+    "employer_name": "Manchester Memorial Hospital",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "BeBee",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://us.bebee.com/job/9228fd68c6670ca447ec4f814ae3b9a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/9228fd68c6670ca447ec4f814ae3b9a4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-ct-windsor-clinical-nurse-specialist-manchester-memorial-hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Clinical Nurse Specialist Role\n\nAt Manchester Memorial Hospital, you will have the opportunity to work with our dedicated team where every moment matters.\n• Deliver high-quality patient care while providing critical clinical expertise.\n• Promote professional nursing practice through education and leadership.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Windsor, CT",
+    "job_city": "Windsor",
+    "job_state": "Connecticut",
+    "job_country": "US",
+    "job_latitude": 41.8525984,
+    "job_longitude": -72.64370219999999,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DmX6eNrkyz6d62FErAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Responsibilities": [
+        "Deliver high-quality patient care while providing critical clinical expertise",
+        "Promote professional nursing practice through education and leadership"
+      ]
+    },
+    "job_onet_soc": "21109100",
+    "job_onet_job_zone": "4",
+    "id": "us-bebee-com-job-9228fd68c6670ca447ec4f814ae3b9a4",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "97-Tv8p9nWyhwAsgAAAAAA==",
+    "job_title": "Clinical Nurse Specialist Advance Practice RN Palliative Care",
+    "employer_name": "UCSF Medical Center",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "Hospital Jobs Online",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.hospitaljobsonline.com/job/84373275/clinical-nurse-specialist-advance-practice-rn-palliative-care-san-francisco-ca/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Hospital Jobs Online",
+        "apply_link": "https://www.hospitaljobsonline.com/job/84373275/clinical-nurse-specialist-advance-practice-rn-palliative-care-san-francisco-ca/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-ca-san-francisco-advanced-practice-clinical-specialist-salinas?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Clinical Nurse Specialist Advance Practice RN Palliative Care\n\nJob Description\n\nThe Palliative Care Clinical Nurse Specialist (CNS)/APRN is an advanced practice registered nurse who serves as a palliative care clinical expert, leader, consultant, educator, and mentor for the nursing staff and teams at UCSF Medical Center. The specialized knowledge and skills required for this role include clinical expertise in palliative care nursing; design and implementation of evidence-based practice (EBP); education and mentorship; consultation; performance improvement; and leadership. The Palliative Care CNS/APRN role has three spheres of impact across the health system’s adult services that include the patient/family, nursing/interprofessional teams, and the organization/health system. This role works collaboratively with the Clinical Practice team to support and ensure high quality standards of nursing care and professional practice to optimize patient, team, and system outcomes.\n\nThe Center for Nursing Excellence and Innovation is a Nursing support department with four main divisions: Nursing Professional Development, Nursing Quality Analytics, Nursing Practice and Research, and Nursing Continuous Improvement and Affiliate Relations. The Professional Development team includes Nursing Professional Development Specialists who oversee the training and education needs for the Department of Nursing.\n\nThe Nursing Practice and Research team includes Clinical Nurse Specialists and Advanced Practice Specialists, who oversee evidence-based practice standards that optimize quality and safety patient outcomes. The Research & Scholarship team includes Nurse Scientists, a Scholarship Development Specialists and an Evidence Implementation Specialist who oversee the infrastructure for clinical inquiry, evidence-based practice, research, and innovation.\n\nThe Nursing Quality Analytics team includes nursing quality analysts who oversee data production, dissemination and analytics. The Nursing Continuous Improvement and Affiliate Relations team oversees continuous improvement processes and nursing quality with affiliate organizations. The mission of the Center of Nursing Excellence & Innovation is to prepare, support, and sustain skill acquisition, life-long learning, clinical inquiry, and scholarship that promotes excellence in patient and family care with the vision of creating, optimizing, and innovating to provide the best clinical practice, education and training, and research across the care continuum that achieves optimal patient outcomes.\n\nMinimum of 5 years of recent clinical RN experience in the specialty area\n\nIn-depth knowledge of one or more clinical specialty areas, to include diagnoses, treatments, standards of practice and patient / family educational consulting and resources.\n\nAdvanced knowledge of skill for conducting evidence-based practice, data collection, analysis, and reporting.\n\nAdvanced critical thinking and problem-solving skills to assess highly-complex issues and develop multiple options for resolution.\n\nAdvanced interpersonal skills, with the ability to provide education, training, and direction to nursing staff, and to develop positive working relationships with patients, families, providers, employees, and outside agencies as required.\n\nAdvanced written and verbal communication skills, with the ability to convey complex and / or sensitive information in a clear and concise manner.\n\nMaster’s degree from an accredited Nursing program\n\nPreferred Qualifications:\n\nCurrent Registered Nurse (RN) license in the State of California\n\nCurrent CA APRN license (CNS, NP, CRNA, CNM)\n\nCurrent American Heart Association CPR certification\n\nSpecialty certification (e.g., Advanced Certified Hospice and Palliative Nurse (ACHPN)) or obtained within one year of hire\n\nAbout UCSF\n\nAt UCSF Health, our mission of innovative patient care, advanced technology and pioneering research is redefining what’s possible for the patients we serve – a promise we share with the professionals who make up our team.\n\nConsistently ranked among the top 10 hospitals nationwide by U.S. News & World Report – UCSF Health is committed to providing the most rewarding work experience while delivering the best care available anywhere. In an environment that allows for continuous learning and opportunities for professional growth, UCSF Health offers the ideal atmosphere in which to best use your skills and talents.\n\nUCSF is a diverse community made of people with many skills and talents. We seek candidates whose work experience or community service has prepared them to contribute to our commitment to professionalism, respect, integrity, diversity and excellence – also known as our PRIDE values.\n\nIn addition to our PRIDE values, UCSF is committed to equity – both in how we deliver care as well as our workforce. We are committed to building a broadly diverse community, nurturing a culture that is welcoming and supportive, and engaging diverse ideas for the provision of culturally competent education, discovery, and patient care. Additional information about UCSF is available at diversity.ucsf.edu\n\nJoin us to find a rewarding career contributing to improving healthcare worldwide.\n\nTo Apply for this position, please CLICK HERE https://ucsfedu.contacthr.com/89863269",
+    "job_is_remote": false,
+    "job_posted_at": "24 hours ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "San Francisco, CA",
+    "job_city": "San Francisco",
+    "job_state": "California",
+    "job_country": "US",
+    "job_latitude": 37.7749295,
+    "job_longitude": -122.4194155,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D97-Tv8p9nWyhwAsgAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Minimum of 5 years of recent clinical RN experience in the specialty area",
+        "In-depth knowledge of one or more clinical specialty areas, to include diagnoses, treatments, standards of practice and patient / family educational consulting and resources",
+        "Advanced knowledge of skill for conducting evidence-based practice, data collection, analysis, and reporting",
+        "Advanced critical thinking and problem-solving skills to assess highly-complex issues and develop multiple options for resolution",
+        "Advanced interpersonal skills, with the ability to provide education, training, and direction to nursing staff, and to develop positive working relationships with patients, families, providers, employees, and outside agencies as required",
+        "Advanced written and verbal communication skills, with the ability to convey complex and / or sensitive information in a clear and concise manner",
+        "Master’s degree from an accredited Nursing program",
+        "Current Registered Nurse (RN) license in the State of California",
+        "Current CA APRN license (CNS, NP, CRNA, CNM)",
+        "Current American Heart Association CPR certification",
+        "Specialty certification (e.g., Advanced Certified Hospice and Palliative Nurse (ACHPN)) or obtained within one year of hire"
+      ],
+      "Responsibilities": [
+        "The specialized knowledge and skills required for this role include clinical expertise in palliative care nursing; design and implementation of evidence-based practice (EBP); education and mentorship; consultation; performance improvement; and leadership",
+        "The Palliative Care CNS/APRN role has three spheres of impact across the health system’s adult services that include the patient/family, nursing/interprofessional teams, and the organization/health system",
+        "This role works collaboratively with the Clinical Practice team to support and ensure high quality standards of nursing care and professional practice to optimize patient, team, and system outcomes",
+        "The Professional Development team includes Nursing Professional Development Specialists who oversee the training and education needs for the Department of Nursing",
+        "The Nursing Practice and Research team includes Clinical Nurse Specialists and Advanced Practice Specialists, who oversee evidence-based practice standards that optimize quality and safety patient outcomes",
+        "The Research & Scholarship team includes Nurse Scientists, a Scholarship Development Specialists and an Evidence Implementation Specialist who oversee the infrastructure for clinical inquiry, evidence-based practice, research, and innovation",
+        "The Nursing Quality Analytics team includes nursing quality analysts who oversee data production, dissemination and analytics",
+        "The Nursing Continuous Improvement and Affiliate Relations team oversees continuous improvement processes and nursing quality with affiliate organizations",
+        "The mission of the Center of Nursing Excellence & Innovation is to prepare, support, and sustain skill acquisition, life-long learning, clinical inquiry, and scholarship that promotes excellence in patient and family care with the vision of creating, optimizing, and innovating to provide the best clinical practice, education and training, and research across the care continuum that achieves optimal patient outcomes"
+      ]
+    },
+    "job_onet_soc": "29117100",
+    "job_onet_job_zone": "5",
+    "id": "www-hospitaljobsonline-com-job-84373275-clinical-nurse-specialist-advance-practice-rn-palliative-care-san-francisco-ca",
     "_source": "new_jobs"
   },
   {
@@ -1580,9 +1544,9 @@
     "job_latitude": 43.0410344,
     "job_longitude": -87.9096783,
     "job_benefits": [
-      "paid_time_off",
+      "dental_coverage",
       "health_insurance",
-      "dental_coverage"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DqMXBH-yp2mKX2YbXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1690,9 +1654,9 @@
     "job_latitude": 35.5975104,
     "job_longitude": -82.54605629999999,
     "job_benefits": [
+      "paid_time_off",
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DawwPt9ArRnyLHNMeAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1844,8 +1808,8 @@
     "job_latitude": 41.020758699999995,
     "job_longitude": -74.04950099999999,
     "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Du8XZuMaoT-rCTBLtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 90000,
