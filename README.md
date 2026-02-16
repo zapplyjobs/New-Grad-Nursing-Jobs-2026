@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-10-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-10-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-15-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-13-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-15-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 8+ top companies and healthcare facilities. Updated every 15 minutes with 10+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 13+ top companies and healthcare facilities. Updated every 15 minutes with 15+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,16 +69,21 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (10 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (15 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Commonwealth of VA Careers** | Registered Nurse (Night Shift): ... | Powhatan, Virginia | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobs.virginia.gov/jobs/registered-nurse-night-shift-beaumont-correctional-center-powhatan-virginia-united-states-a97ae079-30ee-4a78-b29e-439cac5a12f3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Harris Health System** | Registered Nurse (NC II) - F/T -... | Houston, Texas | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.harrishealth.org/registered-nurse-nc-ii-f-t-6d-medicine-imu-ben-taub-hospital/job/14340A271F49EC820D7860436CE4AE59?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Hospital Sisters Health System** | Registered Nurse (RN) - Not Floa... | Illinois | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=5107f4f17985&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **HealthPartners** | Registered Nurse- Med/Surg | Stillwater, Minnesota | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/healthpartners/job/117353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Wise Medical Staffing** | licensed practical nurse lpn - p... | Felicity, Ohio | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.blacktechjobs.com/jobs/498842558-licensed-practical-nurse-lpn-part-time-at-wise-medical-staffing?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Bon Secours** | Licensed Practical Nurse (LPN) -... | Franklin, Virginia | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.bonsecours.com/us/en/job/R258837/Licensed-Practical-Nurse-LPN-Long-Term-Care-Southampton-Memorial-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Amedisys** | Licensed Practical Nurse | Bloomingdale, New Jersey | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amedisys.com/gfj/licensed-practical-nurse-bloomingdale-nj-697cbf3fedd40a09dfd0d14f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Hospital Sisters Health System** | Registered Nurse (RN) - Med Surg... | Tremont, Illinois | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/registered-nurse-rn-med-surg-cardiac-tremont-il-6984a94816503403c5063796?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **CDR Companies** | Licensed Practical Nurse (LPN), ... | Ochopee, Florida | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1164498159?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Fayetteville NC VA Medical Center** | Practical Nurse (Ambulatory Care) | Jacksonville, North Carolina | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857063100?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Care Advantage Inc. High Acuity Division** | Licensed Practical Nurse (LPN) | Moseley, Virginia | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Care-Advantage-Inc.-High-Acuity-Division/Job/Licensed-Practical-Nurse-(LPN)/-in-Moseley,VA?jid=bfd7e286e650510b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Hospital Sisters Health System** | Inpatient Registered Nurse (RN) ... | Clinton, Illinois | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Hospital Sisters Health System** | LPN LP (License Pending) | Auburn, Illinois | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/lpn-lp-license-pending-auburn-il-696552ddedd40a1d8a858b5b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Biolife Plasma Services** | Biolife Nurse - Registered Nurse... | Pearland, Texas | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.biolifeplasma.com/job/pearland/biolife-nurse-registered-nurse-part-time-evenings-and-weekends/32806/91559688672?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Atlantic Health System** | Registered Nurse, Full Time Days... | Morris Twp, New Jersey | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tallo.com/jobs/healthcare/registered-nurse/nj/morris/registered-nurse-full-time-days-8a-830p-cardiac-e101ba001bcd/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Clement J Zablocki Veterans Administration Medical Center** | Registered Nurse - Acute Care In... | Milwaukee, Wisconsin | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/856493000?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -143,25 +148,16 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 3 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 3 positions
-- **🏢 Companies**: 8 companies
-- **🏷️ Top Category**: Registered Nurse
-
-<details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (3 positions)</h3></summary>
+- **📁 Total Jobs**: 0 positions
+- **🏢 Companies**: 13 companies
+- **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **White Glove Community Care** | RN (Registered Nurse) **New Grad... | Monroe, New York | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.glassdoor.com/job-listing/rn-registered-nurse-new-grads-welcome-white-glove-community-care-JV_IC1132648_KO0,37_KE38,64.htm?jl=1010015187124&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Bon Secours** | Registered Nurse (RN) - Rapid Re... | Petersburg, Virginia | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.bonsecours.com/us/en/job/R257621/Registered-Nurse-RN-Rapid-Response-Team-Southside-Medical-Center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **CEDARS-SINAI** | Registered Nurse - Surgical Step... | California | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cshs.org/job/beverly-hills/registered-nurse-surgical-stepdown-transplant-6nw-12-hour-nights-5-000-hiring-incentive/252/90968891344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
@@ -171,7 +167,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 10 current opportunities from 8 companies**
+**🎯 15 current opportunities from 13 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
