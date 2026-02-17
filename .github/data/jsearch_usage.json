@@ -1,7 +1,7 @@
 {
   "date": "Tue Feb 17 2026",
-  "requests": 19,
-  "remaining": 11,
+  "requests": 20,
+  "remaining": 10,
   "queries_executed": [
     "registered nurse",
     "registered nurse",
@@ -21,6 +21,7 @@
     "nurse midwife",
     "staff nurse",
     "staff nurse",
+    "charge nurse",
     "charge nurse"
   ]
 }
