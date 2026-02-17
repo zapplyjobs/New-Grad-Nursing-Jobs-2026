@@ -10,15 +10,15 @@
 # Nursing Jobs 2026
 
 ![Total Jobs](https://img.shields.io/badge/Total_Jobs-6-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-5-red?style=flat&logo=star)
+![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-4-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 4+ top companies and healthcare facilities. Updated every 15 minutes with 6+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 5+ top companies and healthcare facilities. Updated every 15 minutes with 6+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,12 +69,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (5 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (4 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Therapymatch Inc. (DBA Headway)** | Licensed Psychiatric Nurse Pract... | Great Falls, Montana | 23h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/great-falls-mt/licensed-psychiatric-nurse-practitioner-929028/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **CVS Health** | Virtual Clinician Home Evaluatio... 🏠 | Richmond, Virginia | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cvshealth.com/us/en/job/R0828034/Virtual-Clinician-Home-Evaluations-Nurse-Practitioner-or-Physician-Assistant-Full-Time-VA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Therapymatch Inc. (DBA Headway)** | Licensed Psychiatric Nurse Pract... | Great Falls, Montana | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/great-falls-mt/licensed-psychiatric-nurse-practitioner-929028/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **CVS Health** | In-Home Nurse Practitioner or Ph... | Delaware | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://denurses.careerwebsite.com/job/in-home-nurse-practitioner-or-physician-assistant-part-time-dover/82512480/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **CVS Health** | In-Home Health - Nurse Practitio... | Olympia, Washington | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.cvshealth.com/us/en/job/R0765170/In-Home-Health-Nurse-Practitioner-or-Physician-Assistant-Full-Time-Washington-Traveler?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **The University of Iowa** | 80-100% Physician Assistant or A... | Iowa City, Iowa | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.higheredjobs.com/region/details.cfm?JobCode=179360059&Title=80-100%25+Physician+Assistant+or+Advanced+Registered+Nurse+Practitioner+-+Oculoplastics&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -82,10 +81,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>⚕️ <strong>Nurse Practitioner</strong> (1 positions)</h3></summary>
+<summary><h3>⚕️ <strong>Nurse Practitioner</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
+| 🏢 **DocCafe** | Hospitalist Nurse Practitioner -... | Aiken, Texas | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=1e2310ec19a6&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **VA Maine Healthcare System** | Nurse Practitioner - Program Man... | Maine | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/856554300?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
@@ -151,7 +151,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 ### 📊 **Archived Job Stats**
 - **📁 Total Jobs**: 1 positions
-- **🏢 Companies**: 4 companies
+- **🏢 Companies**: 5 companies
 - **🏷️ Top Category**: Nurse Practitioner
 
 <details>
@@ -173,7 +173,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 6 current opportunities from 4 companies**
+**🎯 6 current opportunities from 5 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
