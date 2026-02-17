@@ -142,9 +142,9 @@
     "job_latitude": 38.9639112,
     "job_longitude": -77.4496269,
     "job_benefits": [
-      "health_insurance",
+      "paid_time_off",
       "dental_coverage",
-      "paid_time_off"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dnykqk3nnNdU5xZWUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -386,8 +386,8 @@
     "job_latitude": 39.791770199999995,
     "job_longitude": -76.2649569,
     "job_benefits": [
-      "health_insurance",
-      "paid_time_off"
+      "paid_time_off",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dw2e37Wdgf1xg_qb0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 88000,
@@ -470,8 +470,8 @@
     "job_longitude": -95.5212311,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dk4MXjQ-yKMZl4soFAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -551,8 +551,8 @@
     "job_longitude": -82.69343429999999,
     "job_benefits": [
       "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFC81LB6O0uvZCoyiAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -601,591 +601,100 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "fi_ShQP-jVuN6mE5AAAAAA==",
-    "job_title": "Nurse Manager - Med Surg Telemetry",
-    "employer_name": "HCA Healthcare",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLhIyF4X5LPbv7rbFGyMTQef0lmrRI76tLYOp&s=0",
-    "employer_website": "https://www.hcahealthcare.com",
-    "job_publisher": "HCA Healthcare Jobs - Pro Nurses Nearby",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://hcahealthcare.pronursesnearby.com/joblistingpage/b4jn9vc5ee5a-56dca10a1f11b3d6e0-e6499f6-5b95f7a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "HCA Healthcare Jobs - Pro Nurses Nearby",
-        "apply_link": "https://hcahealthcare.pronursesnearby.com/joblistingpage/b4jn9vc5ee5a-56dca10a1f11b3d6e0-e6499f6-5b95f7a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Medical Hirings - Talent Rush HQ",
-        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/af6jnn2zab2e-26f7629e7e9997e836-bf0f44e6391705?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Introduction\n\nWe are seeking a Nurse Manager of Med-Surg Telemetry with Medical City Dallas to promote growth and unlock possibilities. At HCA Healthcare, we are committed to the care and improvement of human life. Share your leadership skills and come make a difference with us!\nBenefits\n\nMedical City Dallas, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation.\n• Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more.\n• Free counseling services and resources for emotional, physical and financial wellbeing\n• 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\n• Employee Stock Purchase Plan with 10% off HCA Healthcare stock\n• Family support through fertility and family building benefits with Progyny and adoption assistance.\n• Referral services for child, elder and pet care, home and auto repair, event planning and more\n• Consumer discounts through Abenity and Consumer Discounts\n• Retirement readiness, rollover assistance services and preferred banking partnerships\n• Education assistance (tuition, student loan, certification support, dependent scholarships)\n• Colleague recognition program\n• Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\n• Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nWe are seeking a Nurse Manager of Med-Surg Telemetry for our team to be an innovator. HCA Healthcare partners with Harvard Pilgrim Institute and the CDC to use our data from more than 26 million patient encounters each year to impact the industry. Come build your career with us!\nJob Summary and Qualifications\n\nThe Nurse Manager for the Med/Surg Telemetry department accepts responsibility for all department functions in support of the mission, vision, values and facility goals. The Manager accepts responsibility for critical thinking decisions within the scope of the Registered Nurse Practice Act.\n• You will accept responsibility for patient safety of the Telemetry clinical practice environment.\n• You will integrate the management of information and effective communication skills in daily practice.\n• You will build on the ANA Standards of Care and Standards of Professional Practice [1].\n• You will serve as liaison to foster a partnership with the patient and significant others.\n• You will construct decisions to support the continuity of care and the coordination of care across the care settings.\n• You will recognize the role of the manager to maintain high quality age and developmental specific care for the patient population of the department.\n• You will create Med/Surg Telemetry Department specific initiatives and process improvement.\n• You will integrate collaborative practice and working relationships with all members of the healthcare team.\n• You will accept responsibility for management of multiple levels of personnel (including supervisory positions), payroll, budget, capital, business plan, and physician relationships.\n• You will serve as liaison for hospital, community and other institutions. Supervise human and material resources.\nWhat qualifications you will need:\n\nEDUCATION:\n• Graduate of an accredited School of Professional Nursing\n• Bachelor’s Degree in Nursing required\n• Advanced degree, preferred.\n\nLICENSURE/CERTIFICATIONS:\n• Current RN license for the State of Texas or compact license.\n• Current AHA or ARC BLS provider.\n\nEXPERIENCE:\n• Minimum of 5 years management experience to include management of personnel, payroll, budgets, capital, business planning, marketing, supervisory positions, and physician relations, preferred.\n\nMedical City Dallas is recognized for its advanced medical facilities and commitment to excellence in patient care. We are an 895+ bed tertiary care center. Our medical team consists of more than 1,500 physicians, many are recognized as the world's best in their specialties. Patients travel to Medical City Dallas from all over the United States and from other countries. We offer sophisticated treatment by our 400+ in-house physician specialists. Medical City Dallas has a full-service adult hospital and pediatric hospital. We have separate adult and pediatric emergency rooms, outpatient clinics and diagnostic centers. Our providers have access to state-of-the-art technology and are pioneering new medical procedures to accommodate patient needs. As a part of the Medical City network of hospitals, patients are ensured access to leading medical experts and advanced healthcare innovations across the network.\n\nHCA Healthcare has been recognized as one of the World's Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\"There is so much good to do in the world and so many different ways to do it.\"- Dr. Thomas Frist, Sr.\nHCA Healthcare Co-Founder\n\nJoin our family of over 180 hospitals and about 2,000 sites of care to drive excellence and raise the bar for our over 35 million annual patient encounters.\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
-    "job_is_remote": false,
-    "job_posted_at": "7 days ago",
-    "job_posted_at_timestamp": 1770681600,
-    "job_posted_at_datetime_utc": "2026-02-10T00:00:00.000Z",
-    "job_location": "Haslet, TX",
-    "job_city": "Haslet",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 32.974846899999996,
-    "job_longitude": -97.34779569999999,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dfi_ShQP-jVuN6mE5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Graduate of an accredited School of Professional Nursing",
-        "Bachelor’s Degree in Nursing required",
-        "Current RN license for the State of Texas or compact license",
-        "Current AHA or ARC BLS provider"
-      ],
-      "Benefits": [
-        "Medical City Dallas, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
-        "Comprehensive medical coverage that covers many common services at no cost or for a low copay",
-        "Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation",
-        "Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more",
-        "Free counseling services and resources for emotional, physical and financial wellbeing",
-        "401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)",
-        "Employee Stock Purchase Plan with 10% off HCA Healthcare stock",
-        "Family support through fertility and family building benefits with Progyny and adoption assistance",
-        "Referral services for child, elder and pet care, home and auto repair, event planning and more",
-        "Consumer discounts through Abenity and Consumer Discounts",
-        "Retirement readiness, rollover assistance services and preferred banking partnerships",
-        "Education assistance (tuition, student loan, certification support, dependent scholarships)",
-        "Colleague recognition program",
-        "Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)",
-        "Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income",
-        "Learn more about Employee Benefits"
-      ],
-      "Responsibilities": [
-        "The Nurse Manager for the Med/Surg Telemetry department accepts responsibility for all department functions in support of the mission, vision, values and facility goals",
-        "The Manager accepts responsibility for critical thinking decisions within the scope of the Registered Nurse Practice Act",
-        "You will accept responsibility for patient safety of the Telemetry clinical practice environment",
-        "You will integrate the management of information and effective communication skills in daily practice",
-        "You will build on the ANA Standards of Care and Standards of Professional Practice [1]",
-        "You will serve as liaison to foster a partnership with the patient and significant others",
-        "You will construct decisions to support the continuity of care and the coordination of care across the care settings",
-        "You will recognize the role of the manager to maintain high quality age and developmental specific care for the patient population of the department",
-        "You will create Med/Surg Telemetry Department specific initiatives and process improvement",
-        "You will integrate collaborative practice and working relationships with all members of the healthcare team",
-        "You will accept responsibility for management of multiple levels of personnel (including supervisory positions), payroll, budget, capital, business plan, and physician relationships",
-        "You will serve as liaison for hospital, community and other institutions",
-        "Supervise human and material resources"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "hcahealthcare-pronursesnearby-com-joblistingpage-b4jn9vc5ee5a-56dca10a1f11b3d6e0-e6499f6-5b95f7a",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "L0qsVulnlR5EbUBhAAAAAA==",
-    "job_title": "Nurse Manager - Labor and Delivery",
-    "employer_name": "Medical City Dallas",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsldx17-tCmfPP1SIOIQplH-PsNIn8sYkPoc0N&s=0",
-    "employer_website": "https://www.medicalcityhealthcare.com",
-    "job_publisher": "Medical Hirings - Talent Rush HQ",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/hhi3uledra2e-1f6a840f003e65-33e615dbcd57a9b2c5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Medical Hirings - Talent Rush HQ",
-        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/hhi3uledra2e-1f6a840f003e65-33e615dbcd57a9b2c5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description\nIntroduction\n\nWe are seeking a Nurse Manager of Labor and Delivery with Medical City Dallas to promote growth and unlock possibilities. At HCA Healthcare, we are committed to the care and improvement of human life. Share your leadership skills and come make a difference with us!\nBenefits\n\nMedical City Dallas, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation.\n• Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more.\n• Free counseling services and resources for emotional, physical and financial wellbeing\n• 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\n• Employee Stock Purchase Plan with 10% off HCA Healthcare stock\n• Family support through fertility and family building benefits with Progyny and adoption assistance.\n• Referral services for child, elder and pet care, home and auto repair, event planning and more\n• Consumer discounts through Abenity and Consumer Discounts\n• Retirement readiness, rollover assistance services and preferred banking partnerships\n• Education assistance (tuition, student loan, certification support, dependent scholarships)\n• Colleague recognition program\n• Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\n• Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nWe are seeking a Nurse Manager of Labor and Delivery for our team to be an innovator. HCA Healthcare partners with Harvard Pilgrim Institute and the CDC to use our data from more than 26 million patient encounters each year to impact the industry. Come build your career with us!\nJob Summary and Qualifications\n• The Nurse Manager of Labor and Delivery is responsible for all departmental functions in support of the hospital mission, vision and facility goals.\n• The Manager identifies the cost-effective systems needed to support the business of the department taking into account business trends, resource availability and changes in customers.\n• Establishes effective working relationships with all constituencies, including patients, physicians, employees, volunteers and vendors. Is responsible for fiscal and human resource allocation based on guidelines.\n• Develops plan of care for service based upon RN assessment/ re-assessment.\n• Responsible for maintaining all requirements needed to function as a staff nurse in Labor and Delivery in order to perform these duties in times of high census and or minimal staffing.\nWhat qualifications you will need:\n\nEDUCATION/EXPERIENCE:\n• Graduate of an accredited school of professional nursing. Advanced degree preferred.\n• Five years of management experience to include management of personnel, payroll, budgets, capital, business planning, marketing, physician relations and management of supervisory positions preferred.\n• Labor and Delivery experience required.\n• Must be competent in LandD clinical practice.\n\nLICENSURE/CERTIFICATION:\n• Current RN license in the State of Texas or compact license.\n• Current American Heart Association or American Red Cross BLS provider.\n• NRP required within 3 months of hire.\n• Must successfully complete AWHONN Intermediate Fetal Heart Monitoring Course within 1 year of hire or provide documentation of completion of the AWHONN Intermediate Fetal Monitoring Course.\n\nMedical City Dallas is recognized for its advanced medical facilities and commitment to excellence in patient care. We are an 895+ bed tertiary care center. Our medical team consists of more than 1,500 physicians, many are recognized as the world's best in their specialties. Patients travel to Medical City Dallas from all over the United States and from other countries. We offer sophisticated treatment by our 400+ in-house physician specialists. Medical City Dallas has a full-service adult hospital and pediatric hospital. We have separate adult and pediatric emergency rooms, outpatient clinics and diagnostic centers. Our providers have access to state-of-the-art technology and are pioneering new medical procedures to accommodate patient needs. As a part of the Medical City network of hospitals, patients are ensured access to leading medical experts and advanced healthcare innovations across the network.\n\nHCA Healthcare has been recognized as one of the World's Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\"There is so much good to do in the world and so many different ways to do it.\"- Dr. Thomas Frist, Sr.\nHCA Healthcare Co-Founder\n\nJoin our family of over 180 hospitals and about 2,000 sites of care to drive excellence and raise the bar for our over 35 million annual patient encounters.\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Sherman, TX",
-    "job_city": "Sherman",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 33.6356618,
-    "job_longitude": -96.6088805,
-    "job_benefits": [
-      "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DL0qsVulnlR5EbUBhAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Graduate of an accredited school of professional nursing",
-        "Current RN license in the State of Texas or compact license",
-        "Current American Heart Association or American Red Cross BLS provider",
-        "NRP required within 3 months of hire",
-        "Must successfully complete AWHONN Intermediate Fetal Heart Monitoring Course within 1 year of hire or provide documentation of completion of the AWHONN Intermediate Fetal Monitoring Course"
-      ],
-      "Benefits": [
-        "Medical City Dallas, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
-        "Comprehensive medical coverage that covers many common services at no cost or for a low copay",
-        "Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation",
-        "Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more",
-        "Free counseling services and resources for emotional, physical and financial wellbeing",
-        "401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)",
-        "Employee Stock Purchase Plan with 10% off HCA Healthcare stock",
-        "Family support through fertility and family building benefits with Progyny and adoption assistance",
-        "Referral services for child, elder and pet care, home and auto repair, event planning and more",
-        "Consumer discounts through Abenity and Consumer Discounts",
-        "Retirement readiness, rollover assistance services and preferred banking partnerships",
-        "Education assistance (tuition, student loan, certification support, dependent scholarships)",
-        "Colleague recognition program",
-        "Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)",
-        "Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income",
-        "Learn more about Employee Benefits"
-      ],
-      "Responsibilities": [
-        "The Nurse Manager of Labor and Delivery is responsible for all departmental functions in support of the hospital mission, vision and facility goals",
-        "The Manager identifies the cost-effective systems needed to support the business of the department taking into account business trends, resource availability and changes in customers",
-        "Establishes effective working relationships with all constituencies, including patients, physicians, employees, volunteers and vendors",
-        "Is responsible for fiscal and human resource allocation based on guidelines",
-        "Develops plan of care for service based upon RN assessment/ re-assessment",
-        "Responsible for maintaining all requirements needed to function as a staff nurse in Labor and Delivery in order to perform these duties in times of high census and or minimal staffing"
-      ]
-    },
-    "job_onet_soc": "29909900",
-    "job_onet_job_zone": "4",
-    "id": "medicalhirings-talentrushhq-com-joblistingpage-hhi3uledra2e-1f6a840f003e65-33e615dbcd57a9b2c5",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "AkKGEx2wffGxQhxHAAAAAA==",
-    "job_title": "Clinical Nurse Manager - Intensive Care Unit (ICU) - Progressive Care Unit (PCU) - Med Surg - Kings Mills Hospital",
-    "employer_name": "Mercy Health BSMH",
+    "job_id": "ARK2a4l-fsT_pYM-AAAAAA==",
+    "job_title": "Clinical Nurse Manager - Med/Surg Trauma - Grant, FT, Nights",
+    "employer_name": "OhioHealth",
     "employer_logo": null,
-    "employer_website": "https://bsmhealth.org",
-    "job_publisher": "Mercy Health",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.mercy.com/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Mercy Health",
-        "apply_link": "https://careers.mercy.com/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Bon-Secours-Mercy-Health/Job/Clinical-Nurse-Manager-Intensive-Care-Unit-(ICU)-Progressive-Care-Unit-(PCU)-Med-Surg-Kin.../-in-Cincinnati,OH?jid=c8540649ed6d4204&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/clinical-nurse-manager-intensive-care-cincinnati-bon-secours-mercy-health-e245238385c185d1c3987fa30dfbf4e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital-at-bon-secours-mercy-health-4364415691?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Ladders",
-        "apply_link": "https://www.theladders.com/job/85691011?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/clinical-nurse-manager_7ea1a51062fbf65facdc1c8229d38612a33cf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Institute Of Data Jobs",
-        "apply_link": "https://jobs.institutedata.com/job/4725323/clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/y_3o0u79qKfxPgDOfzAeyC10mVs5SX4-Et-Jyil7DuA0yguszHfsEQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.\n\nMercy Health\n\nAbout Us\n\nAs a faith-based and patient-focused organization, Mercy Health exists to enhance the health and well-being of all people in mind, body and spirit through exceptional patient care. Success in this goal requires a culture of compassion, collaboration, excellence and respect. Mercy Health seeks people that are committed to our values of compassion, human dignity, integrity, service and stewardship to create an environment where associates want to work and help communities thrive.\n\nClinical Nurse Manager - Intensive Care Unit (ICU) - Progressive Care Unit (PCU) - Med Surg - Kings Mills Hospital\n\nJOB SUMMARY\n\nOversees the daily operations of one or more nursing departments, including but not limited to: daily operations, program planning, financial planning and budget oversight, quality improvement, quality patient care and supervision/development of staff in accordance with all professional, regulatory, and accreditation standards\n\nESSENTIAL FUNCTIONS:\n\nOPERATIONS MANAGEMENT\nOversees 24/7 operations of the department, facilitates departmental compliance with all professional, local, state, national, and Joint Commission standards; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; develops and maintains relevant policies, procedures, and standards of care; represents department/service at site and regional meetings, including medical staff meetings as appropriate, interdisciplinary committees, and management meetings; collaborates with leadership on program plans and operations; assumes technical\n\nFINANCIAL MANAGEMENT\nCollaborates with finance department and site leadership in preparing the annual operating and capital budgets, which reflect an understanding of strategic initiatives and financial goals of Mercy Health; manages services in accordance with approved budgetary guidelines; ensures appropriate revenue capture; manages inventory of equipment and supplies; collaborates with revenue cycle specialists to maintain a working knowledge of current regulatory guidelines\n\nHR LEADERSHIP SKILLS/MANAGEMENT\nProvides leadership to staff in a collaborative environment that offers job satisfaction, education, empowerment, recognition and stimulates innovative thinking; collaborates with Human Resources to recruit, hire, orient and train new employees; develops and maintains staffing levels that are responsive to patient care needs and that optimizes productivity; conducts annual and ongoing appraisal of employee performance; develops and communicates job standards and expectations; leads regular meetings with employees and fosters environment for effective communication\n\nPERFORMANCE IMPROVEMENT\nDevelops and implements a comprehensive quality assurance / performance improvement program based on relevant indicators and standards of patient care; develops expectations for customer service and educates and measures staff on outcomes of service; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; incorporates rounding into regular activities; develops and maintains processes to assure equipment function and safety; collaborates with interdisciplinary team members to identify and improve patient care processes\n\nMINUMUM EDUCATAION:\n\nREQUIRED MINIMUM EDUCATION: 4 year/Bachelors Degree; Specialty/Major: Nursing or related field; BSN required if no higher level nursing degree held\n\nPREFERRED: Graduate Degree (Masters) Specialty/Major: Nursing or related field; MSN required if BSN is not held\n\nLICENSURE/CERTIFICATIONS (MUST NOT BE NON-EXPIRED/ACTIVE UNLESS OTHERWISE STATED)\n\nCurrent nursing license in the State of Ohio\nRequired Certifications by Nursing Department:\nEmergency Department- BLS/ACLS/PALS or per RN Residency plan\nMed Surg/Telemetry: BLS required, ACLS encouraged\nSTEP DOWN: BLS required; ACLS required with 6 months of hire or per RN Residency plan\nICU/CVU: BLS and ACLS required or per RN Residency plan\nFamily Birth: BLS and NRP required: NCCc-EFM within 18 months of hire required\nPerioperative: BLS required\nCath Lab: BLS and ACLS required\nCardiac Pulmonary Rehab: BLS and ACLS required\nPACU: BLS, ACLS and PALS required or per RN Residency plan\n\nMINIMUM YEARS AND TYPE OF EXPERIENCE: Three years of demonstrated leadership experience, including, but not limited to, charge nurse experience, preceptor experience, etc.\n\nOTHER KNOWLEDGE, SKILLS AND ABILITIES PREFERRED: Five years of clinical nursing experience preferred; one year of previous management experience preferred\n\nAs a Mercy Health associate, you're part of a Mission that matters. We support your well-being—personally and professionally. Our benefits are built to grow with you and meet your unique needs, every step of the way.\n\nWhat we offer\n• Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)\n• Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts\n• Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders\n• Tuition assistance, professional development and continuing education support\n\nBenefits may vary based on the market and employment status.\n\nAll applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Mason, OH",
-    "job_city": "Mason",
-    "job_state": "Ohio",
-    "job_country": "US",
-    "job_latitude": 39.360058599999995,
-    "job_longitude": -84.309939,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAkKGEx2wffGxQhxHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "REQUIRED MINIMUM EDUCATION: 4 year/Bachelors Degree; Specialty/Major: Nursing or related field; BSN required if no higher level nursing degree held",
-        "LICENSURE/CERTIFICATIONS (MUST NOT BE NON-EXPIRED/ACTIVE UNLESS OTHERWISE STATED)",
-        "Current nursing license in the State of Ohio",
-        "Required Certifications by Nursing Department:",
-        "Emergency Department- BLS/ACLS/PALS or per RN Residency plan",
-        "Med Surg/Telemetry: BLS required, ACLS encouraged",
-        "STEP DOWN: BLS required; ACLS required with 6 months of hire or per RN Residency plan",
-        "ICU/CVU: BLS and ACLS required or per RN Residency plan",
-        "Family Birth: BLS and NRP required: NCCc-EFM within 18 months of hire required",
-        "Perioperative: BLS required",
-        "Cath Lab: BLS and ACLS required",
-        "Cardiac Pulmonary Rehab: BLS and ACLS required",
-        "PACU: BLS, ACLS and PALS required or per RN Residency plan",
-        "MINIMUM YEARS AND TYPE OF EXPERIENCE: Three years of demonstrated leadership experience, including, but not limited to, charge nurse experience, preceptor experience, etc"
-      ],
-      "Benefits": [
-        "Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)",
-        "Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts",
-        "Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders",
-        "Tuition assistance, professional development and continuing education support"
-      ],
-      "Responsibilities": [
-        "Oversees the daily operations of one or more nursing departments, including but not limited to: daily operations, program planning, financial planning and budget oversight, quality improvement, quality patient care and supervision/development of staff in accordance with all professional, regulatory, and accreditation standards",
-        "Oversees 24/7 operations of the department, facilitates departmental compliance with all professional, local, state, national, and Joint Commission standards; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; develops and maintains relevant policies, procedures, and standards of care; represents department/service at site and regional meetings, including medical staff meetings as appropriate, interdisciplinary committees, and management meetings; collaborates with leadership on program plans and operations; assumes technical",
-        "FINANCIAL MANAGEMENT",
-        "Collaborates with finance department and site leadership in preparing the annual operating and capital budgets, which reflect an understanding of strategic initiatives and financial goals of Mercy Health; manages services in accordance with approved budgetary guidelines; ensures appropriate revenue capture; manages inventory of equipment and supplies; collaborates with revenue cycle specialists to maintain a working knowledge of current regulatory guidelines",
-        "Provides leadership to staff in a collaborative environment that offers job satisfaction, education, empowerment, recognition and stimulates innovative thinking; collaborates with Human Resources to recruit, hire, orient and train new employees; develops and maintains staffing levels that are responsive to patient care needs and that optimizes productivity; conducts annual and ongoing appraisal of employee performance; develops and communicates job standards and expectations; leads regular meetings with employees and fosters environment for effective communication",
-        "Develops and implements a comprehensive quality assurance / performance improvement program based on relevant indicators and standards of patient care; develops expectations for customer service and educates and measures staff on outcomes of service; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; incorporates rounding into regular activities; develops and maintains processes to assure equipment function and safety; collaborates with interdisciplinary team members to identify and improve patient care processes"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "careers-mercy-com-us-en-job-r264813-clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "ZnKMCUNgw6AR_SCnAAAAAA==",
-    "job_title": "Nurse Manager - RN/LPN at Bethesda Health Edwardsville, IL",
-    "employer_name": "Bethesda Health",
-    "employer_logo": null,
-    "employer_website": "https://bethesdahealth.org",
-    "job_publisher": "Jacobs Center",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.jacobscenter.org/apply/job/nurse-manager-rnlpn-at-bethesda-health-edwardsville-il-UmRhMHVsM1UzaDJtT25MOXBURHN0R0RyRVE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Jacobs Center",
-        "apply_link": "https://www.jacobscenter.org/apply/job/nurse-manager-rnlpn-at-bethesda-health-edwardsville-il-UmRhMHVsM1UzaDJtT25MOXBURHN0R0RyRVE9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Nurse Manager - RN/LPN job at Bethesda Health. Edwardsville, IL. Bethesda Brings out the Best in Talented, Caring People!\n\nAt Bethesda, more than 1,200 employees dedicate their careers to improving the lives of others.\n\nAs a team member at Bethesda, you'll enjoy great benefits such as: 403b, daily pay, bonuses, career advancement opportunities, and holiday pay.\n\nMedical, dental, vision, prescription, and life insurance available for regular status full and part time employees.\n\nSummary\n\nThe Nurse Manager demonstrates knowledge of the gerontological resident's physical, social, emotional and psychological needs based upon observation, staff input and the residents required health care needs. Responsible for the direction and supervision of the nursing staff on the assigned shift. Responsible for making the appropriate administrative decisions based upon the facilities policies and nursing standards. Ensures compliance with the DHSS, OSHA, Standards of Nursing Practice and other regulatory agencies within the health care practices in the facility and direction of the Nursing Supervisor.\n\nJob Qualifications\n• Degreed Registered Nurse or Licensed Practical Nurse\n• Current RN/LPN license in the state you will be working\n• IV Certified or willing to obtain within six months of employment\n• CPR/AED Certification or willing to become certified within six months of employment\n• Two years of long-term care supervisory experience preferred\n• Three to five years of long-term care experience or similar nursing experience\n• Excellent communication skills to interact with patients, visitors and staff\n• Ability to manage time and organize daily schedule to meet productivity standards\n#CB\n\nCategory: LPN/RN",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771027200,
-    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
-    "job_location": "Edwardsville, IL",
-    "job_city": "Edwardsville",
-    "job_state": "Illinois",
-    "job_country": "US",
-    "job_latitude": 38.8114364,
-    "job_longitude": -89.95315699999999,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DZnKMCUNgw6AR_SCnAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Degreed Registered Nurse or Licensed Practical Nurse",
-        "Current RN/LPN license in the state you will be working",
-        "IV Certified or willing to obtain within six months of employment",
-        "CPR/AED Certification or willing to become certified within six months of employment",
-        "Three to five years of long-term care experience or similar nursing experience",
-        "Excellent communication skills to interact with patients, visitors and staff",
-        "Ability to manage time and organize daily schedule to meet productivity standards"
-      ],
-      "Benefits": [
-        "As a team member at Bethesda, you'll enjoy great benefits such as: 403b, daily pay, bonuses, career advancement opportunities, and holiday pay",
-        "Medical, dental, vision, prescription, and life insurance available for regular status full and part time employees"
-      ],
-      "Responsibilities": [
-        "The Nurse Manager demonstrates knowledge of the gerontological resident's physical, social, emotional and psychological needs based upon observation, staff input and the residents required health care needs",
-        "Responsible for the direction and supervision of the nursing staff on the assigned shift",
-        "Responsible for making the appropriate administrative decisions based upon the facilities policies and nursing standards",
-        "Ensures compliance with the DHSS, OSHA, Standards of Nursing Practice and other regulatory agencies within the health care practices in the facility and direction of the Nursing Supervisor"
-      ]
-    },
-    "job_onet_soc": "29206100",
-    "job_onet_job_zone": "3",
-    "id": "www-jacobscenter-org-apply-job-nurse-manager-rnlpn-at-bethesda-health-edwardsville-il-umrhmhvsm1uzadjtt25moxburhn0r0ryrve9pq",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "1LjoDL_8_NqNZx8eAAAAAA==",
-    "job_title": "Assisted Living Nurse Manager",
-    "employer_name": "Amedisys",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1wz8b_HHAi7ngfrUDqEdHMzY7WmpjsV9Qc1_s&s=0",
-    "employer_website": "https://www.amedisys.com",
-    "job_publisher": "Amedisys",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.amedisys.com/gfj/assisted-living-nurse-manager-mount-gretna-pa-6989f885edd40a59f14d95bc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Amedisys",
-        "apply_link": "https://www.amedisys.com/gfj/assisted-living-nurse-manager-mount-gretna-pa-6989f885edd40a59f14d95bc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Overview\n\nFull-Time Days\n\nAre you looking for a rewarding career in hospice? If so, we invite you to join our team at Amedisys, one of the largest and most trusted home health and hospice companies in the U.S.\n\nAttractive pay\n\n$88,000.00-$91,000.00 Annual Salary Range\n\nWhat's in it for you\n• A full benefits package with choice of affordable PPO or HSA medical plans.\n• Paid time off.\n• Up to $1,000 in free healthcare services paid by Amedisys yearly, when enrolled in an Amedisys HSA medical plan.\n• Up to $500 in wellness rewards for completing activities during the year. Use these rewards to support your wellbeing with spa services, gym memberships, sports, hobbies, pets and more.*\n• Mental health support, including up to five free counseling sessions per year through the Amedisys Employee Assistance program.\n• 401(k) with a company match.\n• Family support with infertility treatment coverage*, adoption reimbursement, paid parental and family caregiver leave.\n• Fleet vehicle program (restrictions apply) and mileage reimbursement.\n• And more.\n\nPlease note: Benefit eligibility can vary by position depending on shift status.\n• To participate, you must be enrolled in an Amedisys medical plan.\n\nWhy Amedisys?\n• Community-based care centers with a supportive and inclusive work environment.\n• Better work/life balance and increased flexibility compared to other settings.\n• Job stability and the opportunity to advance with a growing company.\n• The opportunity to make a meaningful impact on the lives of patients and their families providing much needed care where they want to be - in their homes.\nResponsibilities\n• Performs patient assessments and collaborates with the care team to develop and implement a plan of care.\n• Makes referrals to other hospice care disciplines as needed or documents rationale for not doing so.\n• Develops, prepares, and maintains individualized patient care progress records with accuracy, timeliness and according to care center policies.\n• Records pain/symptom management changes/outcomes as appropriate.\n• Teaches patients, families, and caregivers appropriate patient care techniques.\n• Regularly communicates with clinical manager and care team.\n• Performs on-call responsibilities and on-call services to patients/families as assigned.\n• Other duties as assigned.\nQualifications\n• One year of nursing experience.\n• Current RN license, specific to the state(s) you are assigned to work.\n• Current CPR certification.\n• Valid driver's license, reliable transportation and liability insurance.\n\nOur compensation reflects the cost of labor across several U.S. geographic markets and may vary depending on location, job-related knowledge, skills, and experience.\n\nAmedisys is an equal opportunity employer. All qualified employees and applicants will receive consideration for employment without regard to race, color, religion, sex, age, pregnancy, marital status, national origin, citizenship status, disability, military status, sexual orientation, genetic predisposition or carrier status or any other legally protected characteristic.\n\nAbout Amedisys\n\nYou can count on us to take the time to get to know you and tailor care to your goals and wishes. Your plan of care will be based on your needs as well as input from your doctor and loved ones. We also offer specialized home health programs for COPD, heart failure, diabetes and fall reduction as well as hospice specialty programs for patients with dementia, veterans and more, so you can receive the right care for your needs.\n\nAt Amedisys, our goal is to give you or your loved ones the tools and resources to help control your disease, achieve your health goals and live life to the fullest based on your doctor's orders and clinical needs. Wherever you or your loved one call home, our team of skilled home health nurses, home health aides, and physical, occupational or other therapists, will make regular visits to provide health care services.",
-    "job_is_remote": false,
-    "job_posted_at": "9 days ago",
-    "job_posted_at_timestamp": 1770508800,
-    "job_posted_at_datetime_utc": "2026-02-08T00:00:00.000Z",
-    "job_location": "Mt Gretna, PA",
-    "job_city": "Mt Gretna",
-    "job_state": "Pennsylvania",
-    "job_country": "US",
-    "job_latitude": 40.2475928,
-    "job_longitude": -76.4694104,
-    "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D1LjoDL_8_NqNZx8eAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 88000,
-    "job_max_salary": 91000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "To participate, you must be enrolled in an Amedisys medical plan",
-        "One year of nursing experience",
-        "Current RN license, specific to the state(s) you are assigned to work",
-        "Current CPR certification",
-        "Valid driver's license, reliable transportation and liability insurance"
-      ],
-      "Benefits": [
-        "$88,000.00-$91,000.00 Annual Salary Range",
-        "A full benefits package with choice of affordable PPO or HSA medical plans",
-        "Paid time off",
-        "Up to $1,000 in free healthcare services paid by Amedisys yearly, when enrolled in an Amedisys HSA medical plan",
-        "Up to $500 in wellness rewards for completing activities during the year",
-        "Use these rewards to support your wellbeing with spa services, gym memberships, sports, hobbies, pets and more.*",
-        "Mental health support, including up to five free counseling sessions per year through the Amedisys Employee Assistance program",
-        "401(k) with a company match",
-        "Family support with infertility treatment coverage*, adoption reimbursement, paid parental and family caregiver leave",
-        "Fleet vehicle program (restrictions apply) and mileage reimbursement",
-        "Community-based care centers with a supportive and inclusive work environment",
-        "Better work/life balance and increased flexibility compared to other settings",
-        "Job stability and the opportunity to advance with a growing company",
-        "The opportunity to make a meaningful impact on the lives of patients and their families providing much needed care where they want to be - in their homes",
-        "Our compensation reflects the cost of labor across several U.S. geographic markets and may vary depending on location, job-related knowledge, skills, and experience",
-        "Your plan of care will be based on your needs as well as input from your doctor and loved ones",
-        "We also offer specialized home health programs for COPD, heart failure, diabetes and fall reduction as well as hospice specialty programs for patients with dementia, veterans and more, so you can receive the right care for your needs"
-      ],
-      "Responsibilities": [
-        "Performs patient assessments and collaborates with the care team to develop and implement a plan of care",
-        "Makes referrals to other hospice care disciplines as needed or documents rationale for not doing so",
-        "Develops, prepares, and maintains individualized patient care progress records with accuracy, timeliness and according to care center policies",
-        "Records pain/symptom management changes/outcomes as appropriate",
-        "Teaches patients, families, and caregivers appropriate patient care techniques",
-        "Regularly communicates with clinical manager and care team",
-        "Performs on-call responsibilities and on-call services to patients/families as assigned",
-        "Other duties as assigned"
-      ]
-    },
-    "job_onet_soc": "11911100",
-    "job_onet_job_zone": "5",
-    "id": "www-amedisys-com-gfj-assisted-living-nurse-manager-mount-gretna-pa-6989f885edd40a59f14d95bc",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Uc-OSwgHe7gVlHzrAAAAAA==",
-    "job_title": "Nurse Manager - Emergency and Intermediate Care Units",
-    "employer_name": "Essentia Health",
-    "employer_logo": null,
-    "employer_website": "https://www.essentiahealth.org",
+    "employer_website": "https://www.ohiohealth.com",
     "job_publisher": "Women For Hire- Job Board",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/britt-mn/nurse-manager-emergency-and-intermediate-care-units-940724/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://jobs.womenforhire.com/job/usa/upper-arlington-oh/clinical-nurse-manager-med-surg-trauma-grant-ft-nights-094761/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Women For Hire- Job Board",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/britt-mn/nurse-manager-emergency-and-intermediate-care-units-940724/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/upper-arlington-oh/clinical-nurse-manager-med-surg-trauma-grant-ft-nights-094761/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Job Description:\nThe Nurse Manager assesses, directs, manages, and evaluates the delivery of nursing care and patient support services on a 24-hour basis to achieve a specified standard of nursing care for a designated patient population. Ensures the existence of streamlined patient care delivery systems, which promote smooth patient transitions across the patient care continuum. Through effective fiscal and operational management, maintains optimum patient care unit systems, including staffing, scheduling, general resource allocation, and communication systems. Assures orientation, ongoing education, and development programs are available to expand each staff member’s individual capacity for growth.\nEducation Qualifications:\n\nKey Responsibilities:\n• Provides leadership and direction to the nursing staff within the acute care unit, ensuring the delivery of compassionate, evidence-based, and patient-centered care\n• Collaborates with physicians, healthcare professionals, and interdisciplinary teams to develop and implement care plans that meet the individual needs of the patient\n• Monitors and evaluates patient outcomes, ensures adherence to quality standards, protocols, and regulatory requirements\n• Manages and allocates nursing resources effectively, including staffing, scheduling, and assignments to maintain optimal patient care and operation efficiency\n• Fosters a positive work culture that promotes teamwork, professional growth, and open communication among the nursing staff\n• Mentors, coaches, and provides feedback to nurses and other staff supporting their professional development and ensuring their competency in delivering quality patient care\n• Participates in the recruitment, selection and onboarding of nursing and nursing support staff, ensuring the right fit for Essentia Health\n• Collaborates with the nursing leadership team to develop and implement policies, procedures, and quality improvement initiatives to enhance patient outcomes and safety\n• This Nurse Manager will support our Emergency Department and our Intermediate Care Unit.\n\nEducational Requirements:\n• Bachelor’s degree in nursing\n\nRequired Qualifications:\n• 2 years of nursing leadership experience\n\nLicensure/Certification Qualifications:\n• Nursing license in state of employment\n• Basic Cardiac Life Support (BCLS) certification required or ability to obtain within 30 days of hire\n\nEmployee Benefits at Essentia Health:\n• Health Coverage: Medical, dental, and vision insurance options to ensure employees' well-being.\n• Retirement Savings Plans: 401(k) with employer contributions to support long-term financial security.\n• Professional Development: Opportunities for career growth through training, tuition reimbursement, and educational programs.\n• Work-Life Balance: Flexible scheduling, paid time off, and personal leave to help employees manage their professional and personal lives.\n• Employee Wellness Programs: Initiatives focused on physical, mental, and emotional health, including fitness memberships, counseling services, and wellness activities.\n\nEmployee Benefits at Essentia Health: At Essentia Health, we’re committed to supporting your well-being, growth, and work-life balance. Our comprehensive benefits include medical, dental, vision, life, and disability insurance, along with supplemental options to fit your needs. We offer a 401(k) plan with employer contributions to help you plan for the future, and we invest in your professional development through training, tuition reimbursement, and educational programs. To help you thrive both at work and at home, we provide flexible scheduling, generous time off, and wellness resources focused on your physical, mental, and emotional health. Please note that benefit eligibility may vary. For full details, refer to your benefit summary or contact our HR Service Center at (218) 576-0000.\nJob Location: Essentia Virginia Hospital\nShift Rotation: Day Rotation (United States of America)\nShift Start/End: /\nHours Per Pay Period: 80\nCompensation Range: $105768 - $158662 / year\nUnion:\nFTE: 1\nWeekends:\nCall Obligations:\nSign On Bonus:",
+    "job_description": "We are more than a health system. We are a belief system. We believe wellness and sickness are both part of a lifelong partnership, and that everyone could use an expert guide. We work hard, care deeply and reach further to help people uncover their own power to be healthy. We inspire hope. We learn, grow, and achieve more – in our careers and in our communities.\n\nJob Description Summary:\n\nThis position ensures delivery of evidence-based practice by professional nursing personnel and other staff in designated areas of responsibility. He/She plans, organizes, directs and evaluates the unit's delivery of evidence-based patient care in a cost-effective manner, providing leadership and clinical management to members of the health care team. He/She participates in integration of the Nursing Philosophy along with the mission, vision, values, goals and objectives of OhioHealth in unit operations.\n\nResponsibilities And Duties:\n\n50% Patient Care:\n1. Assists the Manager in accountability for ongoing delivery of patient care in area(s) of responsibility; assures application of the nursing process by Registered Nurses in the clinical setting (assessment, planning, implementation and evaluation); assures documentation of patient care in the medical record. Addresses concerns and resolves problems. Uses data from various sources to initiate continuous quality improvement within the department/unit. Coordinates nursing care in collaboration with other healthcare disciplines and assists in integrating services across the continuum of health care. Ensures nursing practice in a safe environment. Participates in process improvement activities and root cause analysis investigations. Assists the Manager with fiscal responsibility at the unit level.\n2. Assists Manager with planning, assessing, implementing and evaluating patient care as appropriate to department/unit.\n3. Assists Manager with planning, reviewing and coordinating staffing time schedules and allocating staff as appropriate for volume and patient care needs. Assists Manager in daily staffing plans.\n4. Assists Manager to coordinate nursing care with other health care disciplines across the continuum of health care.\n25% Operations and Personnel Management:\n1. Maintains daily unit operations including the status of staffing, patient visits and/or admissions, discharges and transfers, serving as a resource to department/unit staff to guide patient care delivery.\n2. Participates in recruitment, selection, retention and evaluation of personnel. Participates in staff performance via written performance appraisals and disciplinary procedures. Ensures appropriate orientation, training, competence, continuing education, and professional growth and development of personnel. Maintains staff records.\n3. Assists manager in planning and contributing to fiscal management of unit by utilizing human and material resources and supplies in an efficient, cost effective manner. Assists Manager in development and implementation of services.\n15% Professional Development and Leadership:\n1. Practices as colleague with medical staff, other members of the interdisciplinary team, and other disciplines to initiate and support collaborative and cooperative clinical management practices. Actively participates in interdepartmental relationship building.\n2. Contributes to development of self and staff through orientation and continuing education. Participates in identification of learning needs of staff.\n3. Participates in collection, analysis and use of data for quality and process improvement activities at the unit level.\n4. Provides leadership and clinical management through clinical practice, supervision, delegation, and teaching as delegated by Manager and/or Director.\n5. Facilitates staff attendance at meetings and educational programs; supports staff with shared decision making activities. Ensures registered nurse participation in decision making at the unit level. Participates on Shared Governance Councils as a voting member.\n6. Actively participates in hospital committees and decision making.\n7. Continues professional self-development and education. Maintains professional competencies by attending educational and leadership programs, participation and leadership in professional organizations. Seeks appropriate professional certification.\n8. Recognizes and assists manager in assessing impact and plan strategies to address diversity, cultural competency, ethics and the changing needs of society. Ensures delivery of culturally competent care and healthy, safe working environment.\n9. Serves as patient safety coach.\n\n10% Research and Evidence-Based Practice:\nSupports evidence-based practice by participation and encouraging staff involvement in nursing evaluative research activities at the department level.\nThe major duties/ responsibilities and essential functions listed above are not intended to be all-inclusive of the duties, responsibilities and essential functions to be performed by associates in this job. Associate is expected to all perform other duties as requested by supervisor.\n\nAs a High Reliability Organization (HRO), responsibilities require focus on safety, quality and efficiency in performing job duties.\n\nThe job profile provides an overview of responsibilities and duties and is not intended to be an exhaustive list and is subject to change at any time\n\nMinimum Qualifications:\n\nBachelor's Degree (Required)BLS - Basic Life Support - American Heart Association, RN - Registered Nurse - Ohio Board of Nursing\n\nAdditional Job Description:\n\nMay require advance training in specialty areas. Specialized knowledge in nursing process and clinical skills. Demonstrated skills in interpersonal relationships, verbal and written communication and nursing practice standards. Skills in computer applications as appropriate to area(s) of responsibility.\n\n2-3 years nursing experience in related or similar areas of responsibility. Previous leadership experience such as precepting, charge role, clinical lead role, mentoring, department committee leadership or facilitation of meetings.\n\nWork Shift:\nNight\n\nScheduled Weekly Hours :\n40\n\nDepartment\nTrauma Unit 2\n\nJoin us!\n... if your passion is to work in a caring environment\n... if you believe that learning is a life-long process\n... if you strive for excellence and want to be among the best in the healthcare industry\n\nEqual Employment Opportunity\n\nOhioHealth is an equal opportunity employer and fully supports and maintains compliance with all state, federal, and local regulations. OhioHealth does not discriminate against associates or applicants because of race, color, genetic information, religion, sex, sexual orientation, gender identity or expression, age, ancestry, national origin, veteran status, military status, pregnancy, disability, marital status, familial status, or other characteristics protected by law. Equal employment is extended to all person in all aspects of the associate-employer relationship including recruitment, hiring, training, promotion, transfer, compensation, discipline, reduction in staff, termination, assignment of benefits, and any other term or condition of employment",
     "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Britt, MN",
-    "job_city": "Britt",
-    "job_state": "Minnesota",
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Upper Arlington, OH",
+    "job_city": "Upper Arlington",
+    "job_state": "Ohio",
     "job_country": "US",
-    "job_latitude": 47.640201399999995,
-    "job_longitude": -92.52545649999999,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DUc-OSwgHe7gVlHzrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_latitude": 40.0252111,
+    "job_longitude": -83.0574468,
+    "job_benefits": null,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DARK2a4l-fsT_pYM-AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Bachelor’s degree in nursing",
-        "2 years of nursing leadership experience",
-        "Nursing license in state of employment",
-        "Basic Cardiac Life Support (BCLS) certification required or ability to obtain within 30 days of hire"
-      ],
-      "Benefits": [
-        "Health Coverage: Medical, dental, and vision insurance options to ensure employees' well-being",
-        "Retirement Savings Plans: 401(k) with employer contributions to support long-term financial security",
-        "Professional Development: Opportunities for career growth through training, tuition reimbursement, and educational programs",
-        "Work-Life Balance: Flexible scheduling, paid time off, and personal leave to help employees manage their professional and personal lives",
-        "Employee Wellness Programs: Initiatives focused on physical, mental, and emotional health, including fitness memberships, counseling services, and wellness activities",
-        "Employee Benefits at Essentia Health: At Essentia Health, we’re committed to supporting your well-being, growth, and work-life balance",
-        "Our comprehensive benefits include medical, dental, vision, life, and disability insurance, along with supplemental options to fit your needs",
-        "We offer a 401(k) plan with employer contributions to help you plan for the future, and we invest in your professional development through training, tuition reimbursement, and educational programs",
-        "To help you thrive both at work and at home, we provide flexible scheduling, generous time off, and wellness resources focused on your physical, mental, and emotional health",
-        "Hours Per Pay Period: 80",
-        "Compensation Range: $105768 - $158662 / year"
+        "Seeks appropriate professional certification",
+        "Recognizes and assists manager in assessing impact and plan strategies to address diversity, cultural competency, ethics and the changing needs of society",
+        "As a High Reliability Organization (HRO), responsibilities require focus on safety, quality and efficiency in performing job duties",
+        "Bachelor's Degree (Required)BLS - Basic Life Support - American Heart Association, RN - Registered Nurse - Ohio Board of Nursing",
+        "May require advance training in specialty areas",
+        "Specialized knowledge in nursing process and clinical skills",
+        "Demonstrated skills in interpersonal relationships, verbal and written communication and nursing practice standards",
+        "Skills in computer applications as appropriate to area(s) of responsibility",
+        "2-3 years nursing experience in related or similar areas of responsibility",
+        "Previous leadership experience such as precepting, charge role, clinical lead role, mentoring, department committee leadership or facilitation of meetings"
       ],
       "Responsibilities": [
-        "The Nurse Manager assesses, directs, manages, and evaluates the delivery of nursing care and patient support services on a 24-hour basis to achieve a specified standard of nursing care for a designated patient population",
-        "Ensures the existence of streamlined patient care delivery systems, which promote smooth patient transitions across the patient care continuum",
-        "Through effective fiscal and operational management, maintains optimum patient care unit systems, including staffing, scheduling, general resource allocation, and communication systems",
-        "Assures orientation, ongoing education, and development programs are available to expand each staff member’s individual capacity for growth",
-        "Provides leadership and direction to the nursing staff within the acute care unit, ensuring the delivery of compassionate, evidence-based, and patient-centered care",
-        "Collaborates with physicians, healthcare professionals, and interdisciplinary teams to develop and implement care plans that meet the individual needs of the patient",
-        "Monitors and evaluates patient outcomes, ensures adherence to quality standards, protocols, and regulatory requirements",
-        "Manages and allocates nursing resources effectively, including staffing, scheduling, and assignments to maintain optimal patient care and operation efficiency",
-        "Fosters a positive work culture that promotes teamwork, professional growth, and open communication among the nursing staff",
-        "Mentors, coaches, and provides feedback to nurses and other staff supporting their professional development and ensuring their competency in delivering quality patient care",
-        "Participates in the recruitment, selection and onboarding of nursing and nursing support staff, ensuring the right fit for Essentia Health",
-        "Collaborates with the nursing leadership team to develop and implement policies, procedures, and quality improvement initiatives to enhance patient outcomes and safety",
-        "This Nurse Manager will support our Emergency Department and our Intermediate Care Unit"
+        "This position ensures delivery of evidence-based practice by professional nursing personnel and other staff in designated areas of responsibility",
+        "He/She plans, organizes, directs and evaluates the unit's delivery of evidence-based patient care in a cost-effective manner, providing leadership and clinical management to members of the health care team",
+        "He/She participates in integration of the Nursing Philosophy along with the mission, vision, values, goals and objectives of OhioHealth in unit operations",
+        "Assists the Manager in accountability for ongoing delivery of patient care in area(s) of responsibility; assures application of the nursing process by Registered Nurses in the clinical setting (assessment, planning, implementation and evaluation); assures documentation of patient care in the medical record",
+        "Addresses concerns and resolves problems",
+        "Uses data from various sources to initiate continuous quality improvement within the department/unit",
+        "Coordinates nursing care in collaboration with other healthcare disciplines and assists in integrating services across the continuum of health care",
+        "Ensures nursing practice in a safe environment",
+        "Participates in process improvement activities and root cause analysis investigations",
+        "Assists the Manager with fiscal responsibility at the unit level",
+        "Assists Manager with planning, assessing, implementing and evaluating patient care as appropriate to department/unit",
+        "Assists Manager with planning, reviewing and coordinating staffing time schedules and allocating staff as appropriate for volume and patient care needs",
+        "Assists Manager in daily staffing plans",
+        "Assists Manager to coordinate nursing care with other health care disciplines across the continuum of health care",
+        "Maintains daily unit operations including the status of staffing, patient visits and/or admissions, discharges and transfers, serving as a resource to department/unit staff to guide patient care delivery",
+        "Participates in recruitment, selection, retention and evaluation of personnel",
+        "Participates in staff performance via written performance appraisals and disciplinary procedures",
+        "Ensures appropriate orientation, training, competence, continuing education, and professional growth and development of personnel",
+        "Maintains staff records",
+        "Assists manager in planning and contributing to fiscal management of unit by utilizing human and material resources and supplies in an efficient, cost effective manner",
+        "Assists Manager in development and implementation of services",
+        "15% Professional Development and Leadership:",
+        "Practices as colleague with medical staff, other members of the interdisciplinary team, and other disciplines to initiate and support collaborative and cooperative clinical management practices",
+        "Actively participates in interdepartmental relationship building",
+        "Contributes to development of self and staff through orientation and continuing education",
+        "Participates in identification of learning needs of staff",
+        "Participates in collection, analysis and use of data for quality and process improvement activities at the unit level",
+        "Provides leadership and clinical management through clinical practice, supervision, delegation, and teaching as delegated by Manager and/or Director",
+        "Facilitates staff attendance at meetings and educational programs; supports staff with shared decision making activities",
+        "Ensures registered nurse participation in decision making at the unit level",
+        "Participates on Shared Governance Councils as a voting member",
+        "Actively participates in hospital committees and decision making",
+        "Continues professional self-development and education",
+        "Maintains professional competencies by attending educational and leadership programs, participation and leadership in professional organizations",
+        "Ensures delivery of culturally competent care and healthy, safe working environment",
+        "Serves as patient safety coach",
+        "Supports evidence-based practice by participation and encouraging staff involvement in nursing evaluative research activities at the department level",
+        "The major duties/ responsibilities and essential functions listed above are not intended to be all-inclusive of the duties, responsibilities and essential functions to be performed by associates in this job",
+        "Associate is expected to all perform other duties as requested by supervisor"
       ]
     },
     "job_onet_soc": "11911100",
     "job_onet_job_zone": "5",
-    "id": "jobs-womenforhire-com-job-usa-britt-mn-nurse-manager-emergency-and-intermediate-care-units-940724",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "BVIZYpAchgEPQfeCAAAAAA==",
-    "job_title": "Registered Nurse Manager Operating Room Full Time Days",
-    "employer_name": "St. Mary's Medical Center",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "Monster",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.monster.com/job-openings/registered-nurse-manager-operating-room-full-time-days-lighthouse-point-fl--38f52e8c-f32b-4c35-a8e3-e8e3037fbebb?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Monster",
-        "apply_link": "https://www.monster.com/job-openings/registered-nurse-manager-operating-room-full-time-days-lighthouse-point-fl--38f52e8c-f32b-4c35-a8e3-e8e3037fbebb?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/st-marys-medical-center-west-virginia/lighthouse-point-fl/operating-room-manager-full-time/8573be5e766758ec54a1c2020a0befeb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Get.It",
-        "apply_link": "https://www.get.it/job/registered-nurse-manager-operating-room-full-time-days-in-lighthouse-point-fl-at-st-marys-medical-center-606473543400686600?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Up to $10,000 Sign On Bonus available based on experience\n\nPOSITION SUMMARY\n\nThe Nurse Manager is a registered nurse who, using critical thinking skills, directs and evaluates patient care activities occurring within her/his assigned area of demonstrated clinical expertise. The Nurse Manager must have the ability to lead and motivate professional and ancillary staff to develop their practice, knowledge and skill base, while coordinating with other members of the health care team to ensure quality patient care.\n\nWho We Are\nWe are a community built on care. Our caregivers and supporting staff extend compassion to those in need, helping to improve the health and well-being of those we serve, and provide comfort and healing. Your community is our community.\n\nOur Story\n\nWe started out as a small operation in California. In May 1969, we acquired four hospitals, some additional care facilities and real estate for the future development of hospitals. Over the years, we've grown tremendously in size, scope and capability, building a home in new markets over time, and curating those homes to provide a compassionate environment for those entrusting us with their care.\n\nWe have a rich history at Tenet. There are so many stories of compassionate care; so many \"firsts\" in terms of medical innovation; so many examples of enhancing healthcare delivery and shaping a business that is truly centered around patients and community need. Tenet and our predecessors have enabled us to touch many different elements of healthcare and make a difference in the lives of others.\n\nOur Impact Today\n\nToday, we are leading health system and services platform that continues to evolve in lockstep with community need. Tenet's operations include three businesses - our hospitals and physicians, USPI and Conifer Health Solutions.\n\nOur impact spreads far and deep with 65 hospitals and approximately 510 outpatient centers and additional sites of care. We are differentiated by our top notch medical specialists and service lines that are tailored within each community we serve. The work Conifer is doing will help provide the foundation for better health for clients across the country, through the delivery of healthcare-focused revenue cycle management and value-based care solutions.\n\nTogether as an enterprise, we work to save lives and can accept nothing less than excellence from ourselves in service of our patients and their families, every day.\n\nCareers at Tenet\nAt Tenet Healthcare, the heart of what we do centers on caring with compassion, which ultimately creates a bond between our caregivers and patients. Everyone contributes to these moments, whether providing care directly or supporting those who do.\n\nAs an organization, we provide employees with resources, tools and support to serve our patients and customers in the best way possible. We also take care of one another, helping team members further develop their career pathways and maximize their potential.\n\nMINIMUM REQUIREMENTS\n\nEducation: Bachelors Degree\nExperience: 3-5 years\nLicense REGISTERED NURSE\nCertification BLS/CPR (AMERICAN HEART ASSN) ACLS & PALS WITHIN 90 DAYS\n\n#LI-MQ1\n\nTenet complies with federal, state, and/or local laws regarding mandatory vaccination of its workforce. If you are offered this position and must be vaccinated under any applicable law, you will be required to show proof of full vaccination or obtain an approval of a religious or medical exemption prior to your start date. If you receive an exemption from the vaccination requirement, you will be required to submit to regular testing in accordance with the law.\n\nBy applying, you consent to your information being transmitted to the Employer by SonicJobs.\nSee SonicJobs Terms & Conditions at https://www.sonicjobs.com/us/terms-conditions and Privacy Policy at https://www.sonicjobs.com/us/privacy-policy and SonicJobs Privacy Policy at https://www.sonicjobs.com/us/privacy-policy and Terms of Use at https://www.sonicjobs.com/us/terms-conditions\n\nSkills:\nHealthcare, Hospital, Leadership, Legal, Nursing Management, Operating Room Nursing, Outpatient Care, Patient Care, Real Estate, Registered Nurse (RN), Residential Construction, Revenue Management, Treatment Evaluation, Vaccination\n\nAbout the Company:\nSt. Mary's Medical Center",
-    "job_is_remote": false,
-    "job_posted_at": "5 days ago",
-    "job_posted_at_timestamp": 1770854400,
-    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Lighthouse Point, FL",
-    "job_city": "Lighthouse Point",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 26.275636,
-    "job_longitude": -80.08726539999999,
-    "job_benefits": null,
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DBVIZYpAchgEPQfeCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 71000,
-    "job_max_salary": 85000,
-    "job_salary_period": "YEAR",
-    "job_highlights": {
-      "Qualifications": [
-        "Education: Bachelors Degree",
-        "Experience: 3-5 years",
-        "License REGISTERED NURSE",
-        "Certification BLS/CPR (AMERICAN HEART ASSN) ACLS & PALS WITHIN 90 DAYS",
-        "Tenet complies with federal, state, and/or local laws regarding mandatory vaccination of its workforce",
-        "If you are offered this position and must be vaccinated under any applicable law, you will be required to show proof of full vaccination or obtain an approval of a religious or medical exemption prior to your start date",
-        "See SonicJobs Terms & Conditions at https://www.sonicjobs.com/us/terms-conditions and Privacy Policy at https://www.sonicjobs.com/us/privacy-policy and SonicJobs Privacy Policy at https://www.sonicjobs.com/us/privacy-policy and Terms of Use at https://www.sonicjobs.com/us/terms-conditions",
-        "Healthcare, Hospital, Leadership, Legal, Nursing Management, Operating Room Nursing, Outpatient Care, Patient Care, Real Estate, Registered Nurse (RN), Residential Construction, Revenue Management, Treatment Evaluation, Vaccination"
-      ],
-      "Benefits": [
-        "Up to $10,000 Sign On Bonus available based on experience"
-      ],
-      "Responsibilities": [
-        "The Nurse Manager is a registered nurse who, using critical thinking skills, directs and evaluates patient care activities occurring within her/his assigned area of demonstrated clinical expertise",
-        "The Nurse Manager must have the ability to lead and motivate professional and ancillary staff to develop their practice, knowledge and skill base, while coordinating with other members of the health care team to ensure quality patient care"
-      ]
-    },
-    "job_onet_soc": "11911100",
-    "job_onet_job_zone": "5",
-    "id": "www-monster-com-job-openings-registered-nurse-manager-operating-room-full-time-days-lighthouse-point-fl-38f52e8c-f32b-4c35-a8e3-e8e3037fbebb",
+    "id": "jobs-womenforhire-com-job-usa-upper-arlington-oh-clinical-nurse-manager-med-surg-trauma-grant-ft-nights-094761",
     "_source": "new_jobs"
   },
   {
@@ -1290,8 +799,8 @@
     "job_latitude": 28.042092999999998,
     "job_longitude": -81.9534956,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DNbF2Wvc0ksMUUts2AAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -1341,185 +850,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "syjUx3ZgXPUnaVUfAAAAAA==",
-    "job_title": "Nurse Manager - Labor and Delivery",
-    "employer_name": "Medical City Dallas",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsldx17-tCmfPP1SIOIQplH-PsNIn8sYkPoc0N&s=0",
-    "employer_website": "https://www.medicalcityhealthcare.com",
-    "job_publisher": "Medical Hirings - Talent Rush HQ",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/keadn955er57-b70b0b5f93b-c9b0312a49ad2b1469e43?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Medical Hirings - Talent Rush HQ",
-        "apply_link": "https://medicalhirings.talentrushhq.com/joblistingpage/keadn955er57-b70b0b5f93b-c9b0312a49ad2b1469e43?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Description\nIntroduction\n\nWe are seeking a Nurse Manager of Labor and Delivery with Medical City Dallas to promote growth and unlock possibilities. At HCA Healthcare, we are committed to the care and improvement of human life. Share your leadership skills and come make a difference with us!\nBenefits\n\nMedical City Dallas, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation.\n• Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more.\n• Free counseling services and resources for emotional, physical and financial wellbeing\n• 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\n• Employee Stock Purchase Plan with 10% off HCA Healthcare stock\n• Family support through fertility and family building benefits with Progyny and adoption assistance.\n• Referral services for child, elder and pet care, home and auto repair, event planning and more\n• Consumer discounts through Abenity and Consumer Discounts\n• Retirement readiness, rollover assistance services and preferred banking partnerships\n• Education assistance (tuition, student loan, certification support, dependent scholarships)\n• Colleague recognition program\n• Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\n• Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nWe are seeking a Nurse Manager of Labor and Delivery for our team to be an innovator. HCA Healthcare partners with Harvard Pilgrim Institute and the CDC to use our data from more than 26 million patient encounters each year to impact the industry. Come build your career with us!\nJob Summary and Qualifications\n• The Nurse Manager of Labor and Delivery is responsible for all departmental functions in support of the hospital mission, vision and facility goals.\n• The Manager identifies the cost-effective systems needed to support the business of the department taking into account business trends, resource availability and changes in customers.\n• Establishes effective working relationships with all constituencies, including patients, physicians, employees, volunteers and vendors. Is responsible for fiscal and human resource allocation based on guidelines.\n• Develops plan of care for service based upon RN assessment/ re-assessment.\n• Responsible for maintaining all requirements needed to function as a staff nurse in Labor and Delivery in order to perform these duties in times of high census and or minimal staffing.\nWhat qualifications you will need:\n\nEDUCATION/EXPERIENCE:\n• Graduate of an accredited school of professional nursing. Advanced degree preferred.\n• Five years of management experience to include management of personnel, payroll, budgets, capital, business planning, marketing, physician relations and management of supervisory positions preferred.\n• Labor and Delivery experience required.\n• Must be competent in LandD clinical practice.\n\nLICENSURE/CERTIFICATION:\n• Current RN license in the State of Texas or compact license.\n• Current American Heart Association or American Red Cross BLS provider.\n• NRP required within 3 months of hire.\n• Must successfully complete AWHONN Intermediate Fetal Heart Monitoring Course within 1 year of hire or provide documentation of completion of the AWHONN Intermediate Fetal Monitoring Course.\n\nMedical City Dallas is recognized for its advanced medical facilities and commitment to excellence in patient care. We are an 895+ bed tertiary care center. Our medical team consists of more than 1,500 physicians, many are recognized as the world's best in their specialties. Patients travel to Medical City Dallas from all over the United States and from other countries. We offer sophisticated treatment by our 400+ in-house physician specialists. Medical City Dallas has a full-service adult hospital and pediatric hospital. We have separate adult and pediatric emergency rooms, outpatient clinics and diagnostic centers. Our providers have access to state-of-the-art technology and are pioneering new medical procedures to accommodate patient needs. As a part of the Medical City network of hospitals, patients are ensured access to leading medical experts and advanced healthcare innovations across the network.\n\nHCA Healthcare has been recognized as one of the World's Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\"There is so much good to do in the world and so many different ways to do it.\"- Dr. Thomas Frist, Sr.\nHCA Healthcare Co-Founder\n\nJoin our family of over 180 hospitals and about 2,000 sites of care to drive excellence and raise the bar for our over 35 million annual patient encounters.\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Keene, TX",
-    "job_city": "Keene",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 32.3968092,
-    "job_longitude": -97.3239042,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsyjUx3ZgXPUnaVUfAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Graduate of an accredited school of professional nursing",
-        "Current RN license in the State of Texas or compact license",
-        "Current American Heart Association or American Red Cross BLS provider",
-        "NRP required within 3 months of hire",
-        "Must successfully complete AWHONN Intermediate Fetal Heart Monitoring Course within 1 year of hire or provide documentation of completion of the AWHONN Intermediate Fetal Monitoring Course"
-      ],
-      "Benefits": [
-        "Medical City Dallas, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
-        "Comprehensive medical coverage that covers many common services at no cost or for a low copay",
-        "Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation",
-        "Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more",
-        "Free counseling services and resources for emotional, physical and financial wellbeing",
-        "401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)",
-        "Employee Stock Purchase Plan with 10% off HCA Healthcare stock",
-        "Family support through fertility and family building benefits with Progyny and adoption assistance",
-        "Referral services for child, elder and pet care, home and auto repair, event planning and more",
-        "Consumer discounts through Abenity and Consumer Discounts",
-        "Retirement readiness, rollover assistance services and preferred banking partnerships",
-        "Education assistance (tuition, student loan, certification support, dependent scholarships)",
-        "Colleague recognition program",
-        "Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)",
-        "Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income",
-        "Learn more about Employee Benefits"
-      ],
-      "Responsibilities": [
-        "The Nurse Manager of Labor and Delivery is responsible for all departmental functions in support of the hospital mission, vision and facility goals",
-        "The Manager identifies the cost-effective systems needed to support the business of the department taking into account business trends, resource availability and changes in customers",
-        "Establishes effective working relationships with all constituencies, including patients, physicians, employees, volunteers and vendors",
-        "Is responsible for fiscal and human resource allocation based on guidelines",
-        "Develops plan of care for service based upon RN assessment/ re-assessment",
-        "Responsible for maintaining all requirements needed to function as a staff nurse in Labor and Delivery in order to perform these duties in times of high census and or minimal staffing"
-      ]
-    },
-    "job_onet_soc": "29909900",
-    "job_onet_job_zone": "4",
-    "id": "medicalhirings-talentrushhq-com-joblistingpage-keadn955er57-b70b0b5f93b-c9b0312a49ad2b1469e43",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "cir-93cjCLf7J97ZAAAAAA==",
-    "job_title": "Operating Room Nurse Manager RN - $10k Sign On Bonus",
-    "employer_name": "AdventHealth Careers",
-    "employer_logo": null,
-    "employer_website": "https://jobs.adventhealth.com",
-    "job_publisher": "AdventHealth Careers",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.adventhealth.com/job/22742192/rn-registered-nurse-operating-room-manager-tarpon-springs-fl/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "AdventHealth Careers",
-        "apply_link": "https://jobs.adventhealth.com/job/22742192/rn-registered-nurse-operating-room-manager-tarpon-springs-fl/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Snagajob",
-        "apply_link": "https://www.snagajob.com/jobs/1216429947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Career.io",
-        "apply_link": "https://career.io/job/rn-registered-nurse-operating-room-manager-tarpon-springs-adventhealth-bb6c3767b208a48fd0b1f3836363135c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LocalJobs.com",
-        "apply_link": "https://www.localjobs.com/job/tarpon-springs-fl-rn-registered-nurse-operating-room-manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/operating-room-nurse-manager-rn-%2410k-sign-on-bonus-at-adventhealth-4329979669?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Our promise to you:\n\nJoining AdventHealth is about being part of something bigger. It’s about belonging to a community that believes in the wholeness of each person, and serves to uplift others in body, mind and spirit. AdventHealth is a place where you can thrive professionally, and grow spiritually, by Extending the Healing Ministry of Christ. Where you will be valued for who you are and the unique experiences you bring to our purpose-minded team. All while understanding that together we are even better.\n\nAll the benefits and perks you need for you and your family:\n• Benefits from Day One: Medical, Dental, Vision Insurance, Life Insurance, Disability Insurance\n• Paid Time Off from Day One\n• 403-B Retirement Plan\n• 4 Weeks 100% Paid Parental Leave\n• Career Development\n• Whole Person Well-being Resources\n• Mental Health Resources and Support\n• Pet Benefits\n\nSchedule:\nFull time\n\nShift:\nDay (United States of America)\n\nAddress:\n1395 S PINELLAS AVE\n\nCity:\nTARPON SPRINGS\n\nState:\nFlorida\n\nPostal Code:\n34689\n\nJob Description:\n\nSign-On Bonus Available!\nEligible candidates may qualify for up to $10,000 sign-on bonus.\n\nJob Description:\n• Develops and implements policies, procedures, and process improvement initiatives in collaboration with the interdisciplinary team\n• Fosters patient, family, staff, and physician satisfaction, understanding its impact on business goals.\n• Educates and mentors staff, ensuring adherence to clinical practice models and evidence-based practices.\n• Communicates effectively with patients, families, staff, and interdisciplinary teams to ensure patient focused care.\n• Manages budgets and resources, maintains appropriate staffing and understands healthcare finance.\n\nEducation:\n• Bachelor's of Nursing [Required]\n• Master's of Nursing [Preferred]\n\nWork Experience:\n• 1+ acute care experience [Required]\n• 1+ years related experience [Required]\n• 2+ leadership experience [Preferred]\n• 2+ years related experience [Preferred]\n\nLicenses and Certifications:\n• Basic Life Support - CPR Cert (BLS) [Required]\n• Advanced Cardiac Life Support Cert (ACLS) [Required]\n• Registered Nurse (RN) [Required]\n• Certified Nurse Operating Room (CNOR) [Preferred]\n• Certified Post-Anesthesia Nurse (CPAN) [Preferred]\n\nPhysical Requirements: (Please click the link below to view work requirements)\nPhysical Requirements - https://tinyurl.com/msy4mja2\n\nPay Range:\n\n$77,758.69 - $144,624.32\n\nThis facility is an equal opportunity employer and complies with federal, state and local anti-discrimination laws, regulations and ordinances.",
-    "job_is_remote": false,
-    "job_posted_at": "13 days ago",
-    "job_posted_at_timestamp": 1770163200,
-    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
-    "job_location": "Tarpon Springs, FL",
-    "job_city": "Tarpon Springs",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 28.1508751,
-    "job_longitude": -82.7525505,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dcir-93cjCLf7J97ZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Bachelor's of Nursing [Required]",
-        "1+ acute care experience [Required]",
-        "1+ years related experience [Required]",
-        "Basic Life Support - CPR Cert (BLS) [Required]",
-        "Advanced Cardiac Life Support Cert (ACLS) [Required]",
-        "Registered Nurse (RN) [Required]",
-        "Physical Requirements: (Please click the link below to view work requirements)"
-      ],
-      "Benefits": [
-        "Benefits from Day One: Medical, Dental, Vision Insurance, Life Insurance, Disability Insurance",
-        "Paid Time Off from Day One",
-        "403-B Retirement Plan",
-        "4 Weeks 100% Paid Parental Leave",
-        "Career Development",
-        "Whole Person Well-being Resources",
-        "Mental Health Resources and Support",
-        "Pet Benefits",
-        "Sign-On Bonus Available!",
-        "Eligible candidates may qualify for up to $10,000 sign-on bonus",
-        "$77,758.69 - $144,624.32"
-      ],
-      "Responsibilities": [
-        "Develops and implements policies, procedures, and process improvement initiatives in collaboration with the interdisciplinary team",
-        "Fosters patient, family, staff, and physician satisfaction, understanding its impact on business goals",
-        "Educates and mentors staff, ensuring adherence to clinical practice models and evidence-based practices",
-        "Communicates effectively with patients, families, staff, and interdisciplinary teams to ensure patient focused care",
-        "Manages budgets and resources, maintains appropriate staffing and understands healthcare finance"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "jobs-adventhealth-com-job-22742192-rn-registered-nurse-operating-room-manager-tarpon-springs-fl",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "rcR6AObjeyu54C4QAAAAAA==",
     "job_title": "Registered Nurse - Rehab Assisant Nurse Manager",
     "employer_name": "Incredible Health",
@@ -1552,8 +882,8 @@
     "job_longitude": -74.0955271,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DrcR6AObjeyu54C4QAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 70920,
@@ -1581,6 +911,205 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-incrediblehealth-com-jobs-nurse-2qar5q83fpvahtnhkxf9qaiy-l-rehab-assistant-nurse-manager-red-bank-nj",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "AkKGEx2wffGxQhxHAAAAAA==",
+    "job_title": "Clinical Nurse Manager - Intensive Care Unit (ICU) - Progressive Care Unit (PCU) - Med Surg - Kings Mills Hospital",
+    "employer_name": "Mercy Health BSMH",
+    "employer_logo": null,
+    "employer_website": "https://bsmhealth.org",
+    "job_publisher": "Mercy Health",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.mercy.com/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Mercy Health",
+        "apply_link": "https://careers.mercy.com/us/en/job/R264813/Clinical-Nurse-Manager-Intensive-Care-Unit-ICU-Progressive-Care-Unit-PCU-Med-Surg-Kings-Mills-Hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Bon-Secours-Mercy-Health/Job/Clinical-Nurse-Manager-Intensive-Care-Unit-(ICU)-Progressive-Care-Unit-(PCU)-Med-Surg-Kin.../-in-Cincinnati,OH?jid=c8540649ed6d4204&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/clinical-nurse-manager-intensive-care-cincinnati-bon-secours-mercy-health-e245238385c185d1c3987fa30dfbf4e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital-at-bon-secours-mercy-health-4364415691?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Ladders",
+        "apply_link": "https://www.theladders.com/job/85691011?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/clinical-nurse-manager_7ea1a51062fbf65facdc1c8229d38612a33cf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Institute Of Data Jobs",
+        "apply_link": "https://jobs.institutedata.com/job/4725323/clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/y_3o0u79qKfxPgDOfzAeyC10mVs5SX4-Et-Jyil7DuA0yguszHfsEQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Everyone who works with Mercy Health is united under one purpose: to help our patients be well in mind, body and spirit. This drive, along with our history of faith, is a powerful combination. It gives us a shared calling to work toward every day. Join our exceptional team and help us continue to provide the highest quality of health care possible to our communities.\n\nMercy Health\n\nAbout Us\n\nAs a faith-based and patient-focused organization, Mercy Health exists to enhance the health and well-being of all people in mind, body and spirit through exceptional patient care. Success in this goal requires a culture of compassion, collaboration, excellence and respect. Mercy Health seeks people that are committed to our values of compassion, human dignity, integrity, service and stewardship to create an environment where associates want to work and help communities thrive.\n\nClinical Nurse Manager - Intensive Care Unit (ICU) - Progressive Care Unit (PCU) - Med Surg - Kings Mills Hospital\n\nJOB SUMMARY\n\nOversees the daily operations of one or more nursing departments, including but not limited to: daily operations, program planning, financial planning and budget oversight, quality improvement, quality patient care and supervision/development of staff in accordance with all professional, regulatory, and accreditation standards\n\nESSENTIAL FUNCTIONS:\n\nOPERATIONS MANAGEMENT\nOversees 24/7 operations of the department, facilitates departmental compliance with all professional, local, state, national, and Joint Commission standards; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; develops and maintains relevant policies, procedures, and standards of care; represents department/service at site and regional meetings, including medical staff meetings as appropriate, interdisciplinary committees, and management meetings; collaborates with leadership on program plans and operations; assumes technical\n\nFINANCIAL MANAGEMENT\nCollaborates with finance department and site leadership in preparing the annual operating and capital budgets, which reflect an understanding of strategic initiatives and financial goals of Mercy Health; manages services in accordance with approved budgetary guidelines; ensures appropriate revenue capture; manages inventory of equipment and supplies; collaborates with revenue cycle specialists to maintain a working knowledge of current regulatory guidelines\n\nHR LEADERSHIP SKILLS/MANAGEMENT\nProvides leadership to staff in a collaborative environment that offers job satisfaction, education, empowerment, recognition and stimulates innovative thinking; collaborates with Human Resources to recruit, hire, orient and train new employees; develops and maintains staffing levels that are responsive to patient care needs and that optimizes productivity; conducts annual and ongoing appraisal of employee performance; develops and communicates job standards and expectations; leads regular meetings with employees and fosters environment for effective communication\n\nPERFORMANCE IMPROVEMENT\nDevelops and implements a comprehensive quality assurance / performance improvement program based on relevant indicators and standards of patient care; develops expectations for customer service and educates and measures staff on outcomes of service; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; incorporates rounding into regular activities; develops and maintains processes to assure equipment function and safety; collaborates with interdisciplinary team members to identify and improve patient care processes\n\nMINUMUM EDUCATAION:\n\nREQUIRED MINIMUM EDUCATION: 4 year/Bachelors Degree; Specialty/Major: Nursing or related field; BSN required if no higher level nursing degree held\n\nPREFERRED: Graduate Degree (Masters) Specialty/Major: Nursing or related field; MSN required if BSN is not held\n\nLICENSURE/CERTIFICATIONS (MUST NOT BE NON-EXPIRED/ACTIVE UNLESS OTHERWISE STATED)\n\nCurrent nursing license in the State of Ohio\nRequired Certifications by Nursing Department:\nEmergency Department- BLS/ACLS/PALS or per RN Residency plan\nMed Surg/Telemetry: BLS required, ACLS encouraged\nSTEP DOWN: BLS required; ACLS required with 6 months of hire or per RN Residency plan\nICU/CVU: BLS and ACLS required or per RN Residency plan\nFamily Birth: BLS and NRP required: NCCc-EFM within 18 months of hire required\nPerioperative: BLS required\nCath Lab: BLS and ACLS required\nCardiac Pulmonary Rehab: BLS and ACLS required\nPACU: BLS, ACLS and PALS required or per RN Residency plan\n\nMINIMUM YEARS AND TYPE OF EXPERIENCE: Three years of demonstrated leadership experience, including, but not limited to, charge nurse experience, preceptor experience, etc.\n\nOTHER KNOWLEDGE, SKILLS AND ABILITIES PREFERRED: Five years of clinical nursing experience preferred; one year of previous management experience preferred\n\nAs a Mercy Health associate, you're part of a Mission that matters. We support your well-being—personally and professionally. Our benefits are built to grow with you and meet your unique needs, every step of the way.\n\nWhat we offer\n• Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)\n• Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts\n• Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders\n• Tuition assistance, professional development and continuing education support\n\nBenefits may vary based on the market and employment status.\n\nAll applicants will receive consideration for employment without regard to race, color, national origin, religion, sex, sexual orientation, gender identity, age, genetic information, or protected veteran status, and will not be discriminated against on the basis of disability. If you'd like to view a copy of the affirmative action plan or policy statement for Mercy Health – Youngstown, Ohio or Bon Secours – Franklin, Virginia; Petersburg, Virginia; and Emporia, Virginia, which are Affirmative Action and Equal Opportunity Employers, please email recruitment@mercy.com. If you are an individual with a disability and would like to request a reasonable accommodation as part of the employment selection process, please contact The Talent Acquisition Team at recruitment@mercy.com",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771027200,
+    "job_posted_at_datetime_utc": "2026-02-14T00:00:00.000Z",
+    "job_location": "Mason, OH",
+    "job_city": "Mason",
+    "job_state": "Ohio",
+    "job_country": "US",
+    "job_latitude": 39.360058599999995,
+    "job_longitude": -84.309939,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAkKGEx2wffGxQhxHAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "REQUIRED MINIMUM EDUCATION: 4 year/Bachelors Degree; Specialty/Major: Nursing or related field; BSN required if no higher level nursing degree held",
+        "LICENSURE/CERTIFICATIONS (MUST NOT BE NON-EXPIRED/ACTIVE UNLESS OTHERWISE STATED)",
+        "Current nursing license in the State of Ohio",
+        "Required Certifications by Nursing Department:",
+        "Emergency Department- BLS/ACLS/PALS or per RN Residency plan",
+        "Med Surg/Telemetry: BLS required, ACLS encouraged",
+        "STEP DOWN: BLS required; ACLS required with 6 months of hire or per RN Residency plan",
+        "ICU/CVU: BLS and ACLS required or per RN Residency plan",
+        "Family Birth: BLS and NRP required: NCCc-EFM within 18 months of hire required",
+        "Perioperative: BLS required",
+        "Cath Lab: BLS and ACLS required",
+        "Cardiac Pulmonary Rehab: BLS and ACLS required",
+        "PACU: BLS, ACLS and PALS required or per RN Residency plan",
+        "MINIMUM YEARS AND TYPE OF EXPERIENCE: Three years of demonstrated leadership experience, including, but not limited to, charge nurse experience, preceptor experience, etc"
+      ],
+      "Benefits": [
+        "Competitive pay, incentives, referral bonuses and 403(b) with employer contributions (when eligible)",
+        "Medical, dental, vision, prescription coverage, HSA/FSA options, life insurance, mental health resources and discounts",
+        "Paid time off, parental and FMLA leave, short- and long-term disability, backup care for children and elders",
+        "Tuition assistance, professional development and continuing education support"
+      ],
+      "Responsibilities": [
+        "Oversees the daily operations of one or more nursing departments, including but not limited to: daily operations, program planning, financial planning and budget oversight, quality improvement, quality patient care and supervision/development of staff in accordance with all professional, regulatory, and accreditation standards",
+        "Oversees 24/7 operations of the department, facilitates departmental compliance with all professional, local, state, national, and Joint Commission standards; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; develops and maintains relevant policies, procedures, and standards of care; represents department/service at site and regional meetings, including medical staff meetings as appropriate, interdisciplinary committees, and management meetings; collaborates with leadership on program plans and operations; assumes technical",
+        "FINANCIAL MANAGEMENT",
+        "Collaborates with finance department and site leadership in preparing the annual operating and capital budgets, which reflect an understanding of strategic initiatives and financial goals of Mercy Health; manages services in accordance with approved budgetary guidelines; ensures appropriate revenue capture; manages inventory of equipment and supplies; collaborates with revenue cycle specialists to maintain a working knowledge of current regulatory guidelines",
+        "Provides leadership to staff in a collaborative environment that offers job satisfaction, education, empowerment, recognition and stimulates innovative thinking; collaborates with Human Resources to recruit, hire, orient and train new employees; develops and maintains staffing levels that are responsive to patient care needs and that optimizes productivity; conducts annual and ongoing appraisal of employee performance; develops and communicates job standards and expectations; leads regular meetings with employees and fosters environment for effective communication",
+        "Develops and implements a comprehensive quality assurance / performance improvement program based on relevant indicators and standards of patient care; develops expectations for customer service and educates and measures staff on outcomes of service; ensures customer satisfaction by meeting legitimate expectations of all customers within the availability of resources; incorporates rounding into regular activities; develops and maintains processes to assure equipment function and safety; collaborates with interdisciplinary team members to identify and improve patient care processes"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "careers-mercy-com-us-en-job-r264813-clinical-nurse-manager-intensive-care-unit-icu-progressive-care-unit-pcu-med-surg-kings-mills-hospital",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "8gBzxdXo5KguZl2PAAAAAA==",
+    "job_title": "Clinical Nurse Manager - Home Health",
+    "employer_name": "Amedisys",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1wz8b_HHAi7ngfrUDqEdHMzY7WmpjsV9Qc1_s&s=0",
+    "employer_website": "https://www.amedisys.com",
+    "job_publisher": "Amedisys",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.amedisys.com/gfj/clinical-nurse-manager-home-health-new-rochelle-ny-691b13422065d404a584bb92?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Amedisys",
+        "apply_link": "https://www.amedisys.com/gfj/clinical-nurse-manager-home-health-new-rochelle-ny-691b13422065d404a584bb92?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Overview\n\nJoint Venture with Mt. Sinai at Home\n\nFull Time, Weekdays, 8:00 A.M. to 5:00 P.M.; home office is in Hicksville, NY, and may require local travel to patients' homes\n\nSalary Range: $120,000.oo to $127,000.00, with $25,000 Sign-On Bonus!\n\nAre you looking for a rewarding career in homecare? If so, we invite you to join our team at Amedisys, one of the largest and most trusted home health and hospice companies in the U.S.\n\nWhat's in it for you\n• A full benefits package with choice of affordable PPO or HSA medical plans.\n• Paid time off.\n• Up to $1,000 in free healthcare services paid by Amedisys yearly, when enrolled in an Amedisys HSA medical plan.\n• Up to $500 in wellness rewards for completing activities during the year. Use these rewards to support your wellbeing with spa services, gym memberships, sports, hobbies, pets and more.*\n• Mental health support, including up to five free counseling sessions per year through the Amedisys Employee Assistance program.\n• 401(k) with a company match.\n• Family support with infertility treatment coverage*, adoption reimbursement, paid parental and family caregiver leave.\n• Mileage reimbursement.\n• And more.\n\nPlease note: Benefit eligibility can vary by position depending on shift status.\n• To participate, you must be enrolled in an Amedisys medical plan.\n\nWhy Amedisys?\n• Community-based care centers with a supportive and inclusive work environment.\n• Better work/life balance and increased flexibility compared to other settings.\n• Job stability and the opportunity to advance with a growing company.\n• The opportunity to make a meaningful impact on the lives of patients and their families providing much needed care where they want to be - in their homes.\nResponsibilities\n• Recommends employment decisions for staff to the director of operations, including decisions to hire, fire, advance, promote or change status.\n• Responsible for overall quality of patient care and clinical performance of nurses and aides.\n• Organizes clinical operations for the care center.\n• Reviews requests for services and determines patient eligibility/suitability for home care services. Works with intake in coordinating patient referrals and admissions.\n• Oversees scheduling.\n• Oversees payor verification and precertification requirements.\n• Reviews documentation of other staff members and ensures missing, incomplete and/or untimely documentation issues are resolved.\n• Assists clinicians in establishing immediate and long-term patient goals, setting priorities and developing Plan of Care (POC).\n• Regularly evaluates the needs of the patient and makes necessary revisions to the plan of care in collaboration with clinicians.\n• May provide direct patient care on an infrequent basis in times of emergency.\n• Participates in the on-call process.\n• Assists with training of staff to ensure quality care, compliance and fiscal responsibility.\n• Participates in the investigation and resolution of patient/family/physician concerns.\nQualifications\n• Associate or bachelor's degree in nursing.\n• Current RN license, specific to the state(s) you are assigned to work.\n• One year of clinical RN experience in home health or hospice.\n• One year of RN management experience.\n• Current CPR certification.\n\nOur compensation reflects the cost of labor across several U.S. geographic markets and may vary depending on location, job-related knowledge, skills, and experience.\n\nAmedisys is an equal opportunity employer. All qualified employees and applicants will receive consideration for employment without regard to race, color, religion, sex, age, pregnancy, marital status, national origin, citizenship status, disability, military status, sexual orientation, genetic predisposition or carrier status or any other legally protected characteristic.\n\nAbout Amedisys\n\nAmedisys recognizes that nothing we do is possible without our incredible team. For all employees, whether they're on the front lines delivering direct care or supporting our clinical team, this isn't just a job it's a higher calling.\n\nWe believe in supporting them as much as they support our success by building a culture of engagement and investing in their futures with ongoing training and support. We build a care team that is equipped and ready to deliver hospital-level care in the comfort and convenience of a patient's home.\n\nAmedisys has been providing high-quality home health, hospice and palliative care since 1982. It's one reason nearly 3,000 hospitals and 110,000 physicians nationwide partner with us to provide care in the home. But it isn't the only reason. We also understand the challenges facing physicians, facilities, hospital systems and other provider organizations and work to meet your needs as well as your patient's needs.",
+    "job_is_remote": false,
+    "job_posted_at": "4 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "New Rochelle, NY",
+    "job_city": "New Rochelle",
+    "job_state": "New York",
+    "job_country": "US",
+    "job_latitude": 40.920024399999996,
+    "job_longitude": -73.78627139999999,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8gBzxdXo5KguZl2PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 120000,
+    "job_max_salary": 135000,
+    "job_salary_period": "YEAR",
+    "job_highlights": {
+      "Qualifications": [
+        "To participate, you must be enrolled in an Amedisys medical plan",
+        "Associate or bachelor's degree in nursing",
+        "Current RN license, specific to the state(s) you are assigned to work",
+        "One year of clinical RN experience in home health or hospice",
+        "One year of RN management experience",
+        "Current CPR certification"
+      ],
+      "Benefits": [
+        "Salary Range: $120,000.oo to $127,000.00, with $25,000 Sign-On Bonus!",
+        "A full benefits package with choice of affordable PPO or HSA medical plans",
+        "Paid time off",
+        "Up to $1,000 in free healthcare services paid by Amedisys yearly, when enrolled in an Amedisys HSA medical plan",
+        "Up to $500 in wellness rewards for completing activities during the year",
+        "Use these rewards to support your wellbeing with spa services, gym memberships, sports, hobbies, pets and more.*",
+        "Mental health support, including up to five free counseling sessions per year through the Amedisys Employee Assistance program",
+        "401(k) with a company match",
+        "Family support with infertility treatment coverage*, adoption reimbursement, paid parental and family caregiver leave",
+        "Mileage reimbursement",
+        "Community-based care centers with a supportive and inclusive work environment",
+        "Better work/life balance and increased flexibility compared to other settings",
+        "Job stability and the opportunity to advance with a growing company",
+        "The opportunity to make a meaningful impact on the lives of patients and their families providing much needed care where they want to be - in their homes"
+      ],
+      "Responsibilities": [
+        "Recommends employment decisions for staff to the director of operations, including decisions to hire, fire, advance, promote or change status",
+        "Responsible for overall quality of patient care and clinical performance of nurses and aides",
+        "Organizes clinical operations for the care center",
+        "Reviews requests for services and determines patient eligibility/suitability for home care services",
+        "Works with intake in coordinating patient referrals and admissions",
+        "Oversees scheduling",
+        "Oversees payor verification and precertification requirements",
+        "Reviews documentation of other staff members and ensures missing, incomplete and/or untimely documentation issues are resolved",
+        "Assists clinicians in establishing immediate and long-term patient goals, setting priorities and developing Plan of Care (POC)",
+        "Regularly evaluates the needs of the patient and makes necessary revisions to the plan of care in collaboration with clinicians",
+        "May provide direct patient care on an infrequent basis in times of emergency",
+        "Participates in the on-call process",
+        "Assists with training of staff to ensure quality care, compliance and fiscal responsibility",
+        "Participates in the investigation and resolution of patient/family/physician concerns"
+      ]
+    },
+    "job_onet_soc": "11911100",
+    "job_onet_job_zone": "5",
+    "id": "www-amedisys-com-gfj-clinical-nurse-manager-home-health-new-rochelle-ny-691b13422065d404a584bb92",
     "_source": "new_jobs"
   },
   {
@@ -1650,8 +1179,8 @@
     "job_latitude": 41.081199,
     "job_longitude": -81.51883769999999,
     "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
+      "health_insurance",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DVdryE6Qlg7vjbUylAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1701,6 +1230,207 @@
     "job_onet_soc": "11911100",
     "job_onet_job_zone": "5",
     "id": "jobs-clevelandclinic-org-job-22998683-assistant-nurse-manager-ambulatory-infusion-centers-akron-oh",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "cir-93cjCLf7J97ZAAAAAA==",
+    "job_title": "Operating Room Nurse Manager RN - $10k Sign On Bonus",
+    "employer_name": "AdventHealth Careers",
+    "employer_logo": null,
+    "employer_website": "https://jobs.adventhealth.com",
+    "job_publisher": "AdventHealth Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.adventhealth.com/job/22742192/rn-registered-nurse-operating-room-manager-tarpon-springs-fl/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "AdventHealth Careers",
+        "apply_link": "https://jobs.adventhealth.com/job/22742192/rn-registered-nurse-operating-room-manager-tarpon-springs-fl/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Snagajob",
+        "apply_link": "https://www.snagajob.com/jobs/1216429947?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/rn-registered-nurse-operating-room-manager-tarpon-springs-adventhealth-bb6c3767b208a48fd0b1f3836363135c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LocalJobs.com",
+        "apply_link": "https://www.localjobs.com/job/tarpon-springs-fl-rn-registered-nurse-operating-room-manager?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/operating-room-nurse-manager-rn-%2410k-sign-on-bonus-at-adventhealth-4329979669?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Our promise to you:\n\nJoining AdventHealth is about being part of something bigger. It’s about belonging to a community that believes in the wholeness of each person, and serves to uplift others in body, mind and spirit. AdventHealth is a place where you can thrive professionally, and grow spiritually, by Extending the Healing Ministry of Christ. Where you will be valued for who you are and the unique experiences you bring to our purpose-minded team. All while understanding that together we are even better.\n\nAll the benefits and perks you need for you and your family:\n• Benefits from Day One: Medical, Dental, Vision Insurance, Life Insurance, Disability Insurance\n• Paid Time Off from Day One\n• 403-B Retirement Plan\n• 4 Weeks 100% Paid Parental Leave\n• Career Development\n• Whole Person Well-being Resources\n• Mental Health Resources and Support\n• Pet Benefits\n\nSchedule:\nFull time\n\nShift:\nDay (United States of America)\n\nAddress:\n1395 S PINELLAS AVE\n\nCity:\nTARPON SPRINGS\n\nState:\nFlorida\n\nPostal Code:\n34689\n\nJob Description:\n\nSign-On Bonus Available!\nEligible candidates may qualify for up to $10,000 sign-on bonus.\n\nJob Description:\n• Develops and implements policies, procedures, and process improvement initiatives in collaboration with the interdisciplinary team\n• Fosters patient, family, staff, and physician satisfaction, understanding its impact on business goals.\n• Educates and mentors staff, ensuring adherence to clinical practice models and evidence-based practices.\n• Communicates effectively with patients, families, staff, and interdisciplinary teams to ensure patient focused care.\n• Manages budgets and resources, maintains appropriate staffing and understands healthcare finance.\n\nEducation:\n• Bachelor's of Nursing [Required]\n• Master's of Nursing [Preferred]\n\nWork Experience:\n• 1+ acute care experience [Required]\n• 1+ years related experience [Required]\n• 2+ leadership experience [Preferred]\n• 2+ years related experience [Preferred]\n\nLicenses and Certifications:\n• Basic Life Support - CPR Cert (BLS) [Required]\n• Advanced Cardiac Life Support Cert (ACLS) [Required]\n• Registered Nurse (RN) [Required]\n• Certified Nurse Operating Room (CNOR) [Preferred]\n• Certified Post-Anesthesia Nurse (CPAN) [Preferred]\n\nPhysical Requirements: (Please click the link below to view work requirements)\nPhysical Requirements - https://tinyurl.com/msy4mja2\n\nPay Range:\n\n$77,758.69 - $144,624.32\n\nThis facility is an equal opportunity employer and complies with federal, state and local anti-discrimination laws, regulations and ordinances.",
+    "job_is_remote": false,
+    "job_posted_at": "13 days ago",
+    "job_posted_at_timestamp": 1770163200,
+    "job_posted_at_datetime_utc": "2026-02-04T00:00:00.000Z",
+    "job_location": "Tarpon Springs, FL",
+    "job_city": "Tarpon Springs",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 28.1508751,
+    "job_longitude": -82.7525505,
+    "job_benefits": [
+      "health_insurance",
+      "paid_time_off",
+      "dental_coverage"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dcir-93cjCLf7J97ZAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Bachelor's of Nursing [Required]",
+        "1+ acute care experience [Required]",
+        "1+ years related experience [Required]",
+        "Basic Life Support - CPR Cert (BLS) [Required]",
+        "Advanced Cardiac Life Support Cert (ACLS) [Required]",
+        "Registered Nurse (RN) [Required]",
+        "Physical Requirements: (Please click the link below to view work requirements)"
+      ],
+      "Benefits": [
+        "Benefits from Day One: Medical, Dental, Vision Insurance, Life Insurance, Disability Insurance",
+        "Paid Time Off from Day One",
+        "403-B Retirement Plan",
+        "4 Weeks 100% Paid Parental Leave",
+        "Career Development",
+        "Whole Person Well-being Resources",
+        "Mental Health Resources and Support",
+        "Pet Benefits",
+        "Sign-On Bonus Available!",
+        "Eligible candidates may qualify for up to $10,000 sign-on bonus",
+        "$77,758.69 - $144,624.32"
+      ],
+      "Responsibilities": [
+        "Develops and implements policies, procedures, and process improvement initiatives in collaboration with the interdisciplinary team",
+        "Fosters patient, family, staff, and physician satisfaction, understanding its impact on business goals",
+        "Educates and mentors staff, ensuring adherence to clinical practice models and evidence-based practices",
+        "Communicates effectively with patients, families, staff, and interdisciplinary teams to ensure patient focused care",
+        "Manages budgets and resources, maintains appropriate staffing and understands healthcare finance"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "jobs-adventhealth-com-job-22742192-rn-registered-nurse-operating-room-manager-tarpon-springs-fl",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "8DAFlHslZ7GiXsLXAAAAAA==",
+    "job_title": "Case Manager, Registered Nurse – Field - Central IL",
+    "employer_name": "CVS Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr8JKxXYfTuQJ2WiSS61pMdKn1DPFw4DfcX4aK&s=0",
+    "employer_website": "https://www.cvshealth.com",
+    "job_publisher": "CVS Health",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.cvshealth.com/us/en/job/R0825376/Case-Manager-Registered-Nurse-Field-Central-IL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "CVS Health",
+        "apply_link": "https://jobs.cvshealth.com/us/en/job/R0825376/Case-Manager-Registered-Nurse-Field-Central-IL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/case-manager-registered-nurse-%E2%80%93-field-central-il-at-cvs-health-4371606747?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-illinois-springfield-case-manager-registered-nurse-field-cvs-health?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Recruit.net",
+        "apply_link": "https://www.recruit.net/job/case-manager-registered-nurse-field-jobs/0D0C1EB49F2EAA31?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "We’re building a world of health around every individual — shaping a more connected, convenient and compassionate health experience. At CVS Health®, you’ll be surrounded by passionate colleagues who care deeply, innovate with purpose, hold ourselves accountable and prioritize safety and quality in everything we do. Join us and be part of something bigger – helping to simplify health care one person, one family and one community at a time.\n\nPosition Summary\n\nHelp us elevate our patient care to a whole new level! Join our Aetna team as an industry leader in serving dual eligible populations by utilizing best-in-class operating and clinical models. You can have life-changing impact on our members who are enrolled in Medicare and Medicaid and present with a wide range of complex health and social challenges. With compassionate attention and excellent communication, we collaborate with members, providers, and community organizations to address the full continuum of our members’ health care and social determinant needs. Join us in this exciting opportunity as we grow and expand to change lives in new markets across the country.\n\nOur Case Managers use a collaborative process of assessment, planning, facilitation, care coordination, evaluation, and advocacy for options and services to meet an individual’s and family’s comprehensive health needs through communication and available resources to promote quality, cost effective outcomes.\n\nFundamental Components & Physical Requirements\n• Acts as a liaison with member/client /family, employer, provider(s), insurance companies, and healthcare personnel as appropriate.\n• Implements and coordinates all case management activities relating to catastrophic cases and chronically ill members/clients across the continuum of care that can include consultant referrals, home care visits, the use of community resources, and alternative levels of care.\n• Interacts with members/clients telephonically or in person. May be required to meet with members/clients in their homes, worksites, or physician’s office to provide ongoing case management services.\n• Assesses and analyzes injured, acute, or chronically ill members/clients medical and/or vocational status; develops a plan of care to facilitate the member/client’s appropriate condition management to optimize wellness and medical outcomes, aid timely return to work or optimal functioning, and determination of eligibility for benefits as appropriate.\n• Communicates with member/client and other stakeholders as appropriate\n• Prepares all required documentation of case work activities as appropriate.\n• Interacts and consults with internal multidisciplinary team as indicated to help member/client maximize best health outcomes.\n• May make outreach to treating physician or specialists concerning course of care and treatment as appropriate.\n• Provides educational and prevention information for best medical outcomes.\n• Applies all laws and regulations that apply to the provision of rehabilitation services; applies all special instructions required by individual insurance carriers and referral sources.\n• Conducts an evaluation of members/clients’ needs and benefit plan eligibility and facilitates integrative functions using clinical tools and information/data.\n• Utilizes case management processes in compliance with regulatory and company policies and procedures.\n• Facilitates appropriate condition management, optimize overall wellness and medical outcomes, appropriate and timely return to baseline, and optimal function or return to work.\n• Develops a proactive course of action to address issues presented to enhance the short and long-term outcomes, as well as opportunities to enhance a member’s/client’s overall wellness through integration.\n• Monitors member/client progress toward desired outcomes through assessment and evaluation.\n\nRequired Qualifications\n• Candidate must have active and unrestricted Registered Nurse (RN) in Illinois\n• Candidate must reside in Illinois\n• 3+ years clinical practical experience as a Registered Nurse (RN)\n• 2+ years’ experience using personal computer, keyboard navigation, navigating multiple systems and applications; and using MS Office Suite applications (Teams, Outlook, Word, Excel, etc.)\n• Candidate must possess reliable transportation and be willing and able to travel up to 50% of the time in Central IL - Effingham, Cumberland, Clark, Shelby and surrounding areas (Mileage is reimbursed per our company expense reimbursement policy)​\n\nPreferred Qualifications\n• Certified Case Manager\n• 2+ years case management, discharge planning and/or home health care coordination experience\n• Confidence working at home/independent thinker, using tools to collaborate and connect with teams virtually\n• Excellent analytical and problem-solving skills\n• Effective communications, organizational, and interpersonal skills\n• Ability to work independently\n\nEducation\n• Associate’s Degree in Nursing (REQUIRED)\n• Bachelor’s Degree in Nursing (PREFERRED)\n\nLicense\n• Active and unrestricted Registered Nurse (RN) in Illinois\n\nAnticipated Weekly Hours\n40\n\nTime Type\nFull time\n\nPay Range\n\nThe typical pay range for this role is:\n\n$66,575.00 - $142,576.00\n\nThis pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls. The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors. This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above.\n\nOur people fuel our future. Our teams reflect the customers, patients, members and communities we serve and we are committed to fostering a workplace where every colleague feels valued and that they belong.\n\nGreat benefits for great people\n\nWe take pride in our comprehensive and competitive mix of pay and benefits – investing in the physical, emotional and financial wellness of our colleagues and their families to help them be the healthiest they can be. In addition to our competitive wages, our great benefits include:\n• Affordable medical plan options, a 401(k) plan (including matching company contributions), and an employee stock purchase plan.\n• No-cost programs for all colleagues including wellness screenings, tobacco cessation and weight management programs, confidential counseling and financial coaching.\n• Benefit solutions that address the different needs and preferences of our colleagues including paid time off, flexible work schedules, family leave, dependent care resources, colleague assistance programs, tuition assistance, retiree medical access and many other benefits depending on eligibility.\n\nFor more information, visit https://jobs.cvshealth.com/us/en/benefits\n\nWe anticipate the application window for this opening will close on: 03/11/2026\n\nQualified applicants with arrest or conviction records will be considered for employment in accordance with all federal, state and local laws.",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770854400,
+    "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
+    "job_location": "Springfield, IL",
+    "job_city": "Springfield",
+    "job_state": "Illinois",
+    "job_country": "US",
+    "job_latitude": 39.8006593,
+    "job_longitude": -89.64493449999999,
+    "job_benefits": [
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8DAFlHslZ7GiXsLXAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Candidate must have active and unrestricted Registered Nurse (RN) in Illinois",
+        "Candidate must reside in Illinois",
+        "3+ years clinical practical experience as a Registered Nurse (RN)",
+        "2+ years’ experience using personal computer, keyboard navigation, navigating multiple systems and applications; and using MS Office Suite applications (Teams, Outlook, Word, Excel, etc.)",
+        "Candidate must possess reliable transportation and be willing and able to travel up to 50% of the time in Central IL - Effingham, Cumberland, Clark, Shelby and surrounding areas (Mileage is reimbursed per our company expense reimbursement policy)​",
+        "Associate’s Degree in Nursing (REQUIRED)",
+        "License",
+        "Active and unrestricted Registered Nurse (RN) in Illinois"
+      ],
+      "Benefits": [
+        "Pay Range",
+        "$66,575.00 - $142,576.00",
+        "This pay range represents the base hourly rate or base annual full-time salary for all positions in the job grade within which this position falls",
+        "The actual base salary offer will depend on a variety of factors including experience, education, geography and other relevant factors",
+        "This position is eligible for a CVS Health bonus, commission or short-term incentive program in addition to the base pay range listed above",
+        "We take pride in our comprehensive and competitive mix of pay and benefits – investing in the physical, emotional and financial wellness of our colleagues and their families to help them be the healthiest they can be",
+        "In addition to our competitive wages, our great benefits include:",
+        "Affordable medical plan options, a 401(k) plan (including matching company contributions), and an employee stock purchase plan",
+        "No-cost programs for all colleagues including wellness screenings, tobacco cessation and weight management programs, confidential counseling and financial coaching",
+        "Benefit solutions that address the different needs and preferences of our colleagues including paid time off, flexible work schedules, family leave, dependent care resources, colleague assistance programs, tuition assistance, retiree medical access and many other benefits depending on eligibility"
+      ],
+      "Responsibilities": [
+        "Help us elevate our patient care to a whole new level!",
+        "Our Case Managers use a collaborative process of assessment, planning, facilitation, care coordination, evaluation, and advocacy for options and services to meet an individual’s and family’s comprehensive health needs through communication and available resources to promote quality, cost effective outcomes",
+        "Acts as a liaison with member/client /family, employer, provider(s), insurance companies, and healthcare personnel as appropriate",
+        "Implements and coordinates all case management activities relating to catastrophic cases and chronically ill members/clients across the continuum of care that can include consultant referrals, home care visits, the use of community resources, and alternative levels of care",
+        "Interacts with members/clients telephonically or in person",
+        "May be required to meet with members/clients in their homes, worksites, or physician’s office to provide ongoing case management services",
+        "Assesses and analyzes injured, acute, or chronically ill members/clients medical and/or vocational status; develops a plan of care to facilitate the member/client’s appropriate condition management to optimize wellness and medical outcomes, aid timely return to work or optimal functioning, and determination of eligibility for benefits as appropriate",
+        "Communicates with member/client and other stakeholders as appropriate",
+        "Prepares all required documentation of case work activities as appropriate",
+        "Interacts and consults with internal multidisciplinary team as indicated to help member/client maximize best health outcomes",
+        "May make outreach to treating physician or specialists concerning course of care and treatment as appropriate",
+        "Provides educational and prevention information for best medical outcomes",
+        "Applies all laws and regulations that apply to the provision of rehabilitation services; applies all special instructions required by individual insurance carriers and referral sources",
+        "Conducts an evaluation of members/clients’ needs and benefit plan eligibility and facilitates integrative functions using clinical tools and information/data",
+        "Utilizes case management processes in compliance with regulatory and company policies and procedures",
+        "Facilitates appropriate condition management, optimize overall wellness and medical outcomes, appropriate and timely return to baseline, and optimal function or return to work",
+        "Develops a proactive course of action to address issues presented to enhance the short and long-term outcomes, as well as opportunities to enhance a member’s/client’s overall wellness through integration",
+        "Monitors member/client progress toward desired outcomes through assessment and evaluation"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "jobs-cvshealth-com-us-en-job-r0825376-case-manager-registered-nurse-field-central-il",
     "_source": "new_jobs"
   },
   {
@@ -1783,6 +1513,120 @@
     "job_onet_soc": "11911100",
     "job_onet_job_zone": "5",
     "id": "jobs-womenforhire-com-job-usa-green-valley-farms-tx-registered-nurse-manager-emergency-room-659084",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "pJ1mcyhFfxTEqvG8AAAAAA==",
+    "job_title": "Assistant Nurse Manager (ANM) - Critical Care Unit",
+    "employer_name": "Ascension",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREgLKPR9UPMJnoEzqeU5x8ajI3ktCtyNEc3YQK&s=0",
+    "employer_website": "https://healthcare.ascension.org",
+    "job_publisher": "Ascension Careers",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.ascension.org/us/en/job/AHEAHUUS428754EXTERNALENUS/Assistant-Nurse-Manager-ANM-Critical-Care-Unit?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Ascension Careers",
+        "apply_link": "https://jobs.ascension.org/us/en/job/AHEAHUUS428754EXTERNALENUS/Assistant-Nurse-Manager-ANM-Critical-Care-Unit?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Ascension/Job/Assistant-Nurse-Manager-(ANM)-Critical-Care-Unit/-in-Murfreesboro,TN?jid=65fc2f707f11a7f5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=ba53eda138de1389&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "IntelyCare",
+        "apply_link": "https://www.intelycare.com/jobs/169229358-assistant-nurse-manager-anm-critical-care-unit?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/GEqxA9RbKpsHwHAMV4B1NytpVrMyI4Ve9WjGUuDsVdFnzG9izSFfRQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/assistant-nurse-manager-anm-critical-care-unit-at-ascension-4326495761?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/assistant-nurse-manager-anm-critical-murfreesboro-ascension-health-c849c279f8234863f362d43f82ac8e6d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "National Labor Exchange",
+        "apply_link": "https://usnlx.com/murfreesboro-tn/assistant-nurse-manager-anm-critical-care-unit/522326CA8A724E4A8845F78243CA293B/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Details\n• Department: Critical Care Unit (CCU)\n• Schedule: Full-time, Evening shift (flexible 8-10 hour shifts)\n• Hospital: Ascension Saint Thomas Rutherford\n• Location: Murfreesboro, TN\nBenefits\n• Comprehensive health coverage: medical, dental, vision, prescription coverage and HSA/FSA options\n• Financial security & retirement: employer-matched 403(b), planning and hardship resources, disability and life insurance\n• Time to recharge: pro-rated paid time off (PTO) and holidays\n• Career growth: Ascension-paid tuition (Vocare), reimbursement, ongoing professional development and online learning\n• Emotional well-being: Employee Assistance Program, counseling and peer support, spiritual care and stress management resources\n• Family support: parental leave, adoption assistance and family benefits\n• Other benefits: optional legal and pet insurance, transportation savings and more\n\nBenefit options and eligibility vary by position, scheduled hours and location. Benefits are subject to change at any time. Your recruiter will provide the most up-to-date details during the hiring process.\nResponsibilities\n\nSupervise, coordinate, and provide leadership while directing activities of associates in one or more of the following nursing specialty areas: Cardiovascular/Cath Lab, Surgical Services, Emergency/Triage, Endoscopy, Adult or Pediatric/NeoNatal Critical Care Departments, Labor & Delivery/Women & Family.\n• Assess daily patient access needs and ensure that appropriate patient care is provided. Provide oversight involving all aspects of nursing department operations.\n• Deliver quality patient care and ensure implementation of clinical objectives.\n• Delegate appropriate duties to clinical staff based on their assessed skills and abilities, maintaining proficiencies related to job functions and processes through ongoing monitoring of daily operations.\n• Collaborate with department leadership to ensure processes are up to date and followed.\n• Participate with ongoing quality initiatives, auditing projects and development of plans for improvement.\n• Conducts hiring, training, directing, development and evaluation of staff.\nRequirements\n\nLicensure / Certification / Registration:\n• BLS Provider obtained within 1 Month (30 days) of hire date or job transfer date required . American Heart Association or American Red Cross Accepted.\n• Registered Nurse credentialed from the Tennessee Board of Nursing obtained prior to hire date or job\ntransfer date required.\n\nEducation:\n• Required professional licensure/certification AND 1 year of cumulative job specific experience\nrequired.\nAdditional Preferences\n• Critical care experience\nWhy Join Our Team\n\nAscension is a leading nonprofit Catholic health system with a culture and associate experience grounded in service, growth, care and connection. We empower our 99,000+ associates to bring their skills and expertise every day to reimagining healthcare, together. Recognized as one of the Best 150+ Places to Work in Healthcare and a Military-Friendly Gold Employer, you’ll find an inclusive and supportive environment where your contributions truly matter.\nEqual Employment Opportunity Employer\n\nAscension provides Equal Employment Opportunities (EEO) to all associates and applicants for employment without regard to race, color, religion, sex/gender, sexual orientation, gender identity or expression, pregnancy, childbirth, and related medical conditions, lactation, breastfeeding, national origin, citizenship, age, disability, genetic information, veteran status, marital status, all as defined by applicable law, and any other legally protected status or characteristic in accordance with applicable federal, state and local laws. For further information, view the EEO Know Your Rights (English) poster or EEO Know Your Rights (Spanish) poster.\n\nFraud prevention notice\n\nProspective applicants should be vigilant against fraudulent job offers and interview requests. Scammers may use sophisticated tactics to impersonate Ascension employees. To ensure your safety, please remember: Ascension will never ask for payment or to provide banking or financial information as part of the job application or hiring process. Our legitimate email communications will always come from an @ascension.org email address; do not trust other domains, and an official offer will only be extended to candidates who have completed a job application through our authorized applicant tracking system.\n\nE-Verify statement\n\nEmployer participates in the Electronic Employment Verification Program. Please click here for more information.",
+    "job_is_remote": false,
+    "job_posted_at": "13 hours ago",
+    "job_posted_at_timestamp": 1771282800,
+    "job_posted_at_datetime_utc": "2026-02-16T23:00:00.000Z",
+    "job_location": "Murfreesboro, TN",
+    "job_city": "Murfreesboro",
+    "job_state": "Tennessee",
+    "job_country": "US",
+    "job_latitude": 35.8451777,
+    "job_longitude": -86.3951864,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DpJ1mcyhFfxTEqvG8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Licensure / Certification / Registration:",
+        "BLS Provider obtained within 1 Month (30 days) of hire date or job transfer date required ",
+        "American Heart Association or American Red Cross Accepted",
+        "Registered Nurse credentialed from the Tennessee Board of Nursing obtained prior to hire date or job",
+        "transfer date required",
+        "Required professional licensure/certification AND 1 year of cumulative job specific experience",
+        "Critical care experience"
+      ],
+      "Benefits": [
+        "Comprehensive health coverage: medical, dental, vision, prescription coverage and HSA/FSA options",
+        "Financial security & retirement: employer-matched 403(b), planning and hardship resources, disability and life insurance",
+        "Time to recharge: pro-rated paid time off (PTO) and holidays",
+        "Career growth: Ascension-paid tuition (Vocare), reimbursement, ongoing professional development and online learning",
+        "Emotional well-being: Employee Assistance Program, counseling and peer support, spiritual care and stress management resources",
+        "Family support: parental leave, adoption assistance and family benefits",
+        "Other benefits: optional legal and pet insurance, transportation savings and more",
+        "Benefit options and eligibility vary by position, scheduled hours and location",
+        "Benefits are subject to change at any time"
+      ],
+      "Responsibilities": [
+        "Schedule: Full-time, Evening shift (flexible 8-10 hour shifts)",
+        "Supervise, coordinate, and provide leadership while directing activities of associates in one or more of the following nursing specialty areas: Cardiovascular/Cath Lab, Surgical Services, Emergency/Triage, Endoscopy, Adult or Pediatric/NeoNatal Critical Care Departments, Labor & Delivery/Women & Family",
+        "Assess daily patient access needs and ensure that appropriate patient care is provided",
+        "Provide oversight involving all aspects of nursing department operations",
+        "Deliver quality patient care and ensure implementation of clinical objectives",
+        "Delegate appropriate duties to clinical staff based on their assessed skills and abilities, maintaining proficiencies related to job functions and processes through ongoing monitoring of daily operations",
+        "Collaborate with department leadership to ensure processes are up to date and followed",
+        "Participate with ongoing quality initiatives, auditing projects and development of plans for improvement",
+        "Conducts hiring, training, directing, development and evaluation of staff"
+      ]
+    },
+    "job_onet_soc": "11911100",
+    "job_onet_job_zone": "5",
+    "id": "jobs-ascension-org-us-en-job-aheahuus428754externalenus-assistant-nurse-manager-anm-critical-care-unit",
     "_source": "new_jobs"
   },
   {
@@ -1964,9 +1808,9 @@
     "job_latitude": 35.590016399999996,
     "job_longitude": -90.2138305,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DkvnL1JB9KKuvguTGAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -2077,223 +1921,6 @@
     "job_onet_soc": "11911100",
     "job_onet_job_zone": "5",
     "id": "jobs-womenforhire-com-job-usa-allapattah-fl-nurse-manager-hematology-oncology-full-time-days-782598",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "8pGckrCXcrUGDsjRAAAAAA==",
-    "job_title": "Nurse Manager of Critical Care",
-    "employer_name": "Medical City Dallas",
-    "employer_logo": null,
-    "employer_website": "https://www.medicalcityhealthcare.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Full-time and Part-time",
-    "job_employment_types": [
-      "FULLTIME",
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Medical-City-Dallas/Job/Nurse-Manager-of-Critical-Care/-in-Addison,TX?jid=7b5e39561e1dcbcb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Medical-City-Dallas/Job/Nurse-Manager-of-Critical-Care/-in-Addison,TX?jid=7b5e39561e1dcbcb&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/f73fd1ba9bd80a081322ba2999b5146b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs For Stevenage Fans",
-        "apply_link": "https://jobs.stevenagefc.com/jobs/nurse-manager-of-critical-care-addison-texas/2606830047-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "JobServe",
-        "apply_link": "https://www.jobserve.com/us/en/extjob/NURSE-MANAGER-OF-CRITICAL-CARE-in-Addison-Texas-USA-8F9771E4C56082E9FE/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "IHireNursing",
-        "apply_link": "https://www.ihirenursing.com/jobs/view/508093094?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Aspire Media Group Jobs",
-        "apply_link": "https://jobs.aspiremediagroup.net/jobs/nurse-manager-of-critical-care-addison-texas/2606830047-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=48799dd8a522&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "CareerBoard",
-        "apply_link": "https://www.careerboard.com/us/en/extjob/NURSE-MANAGER-OF-CRITICAL-CARE-in-Addison-Texas-USA-8F9771E4C56082E9FE/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "$10,000 Sign-On Bonus Potential - Ask your Recruiter for more details!\n\nManagers thrive with us! HCA Healthcare is one of the nation’s leading providers of healthcare services, comprising of over 180 hospitals and about 2,000 sites of care in 21 states and the United Kingdom. We are looking for a Nurse Manager of Critical Care for our Medical City Dallas team where excellence creates excellence.\nBenefits\n\nMedical City Dallas, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive medical coverage that covers many common services at no cost or for a low copay. Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation.\n• Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more.\n• Free counseling services and resources for emotional, physical and financial wellbeing\n• 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)\n• Employee Stock Purchase Plan with 10% off HCA Healthcare stock\n• Family support through fertility and family building benefits with Progyny and adoption assistance.\n• Referral services for child, elder and pet care, home and auto repair, event planning and more\n• Consumer discounts through Abenity and Consumer Discounts\n• Retirement readiness, rollover assistance services and preferred banking partnerships\n• Education assistance (tuition, student loan, certification support, dependent scholarships)\n• Colleague recognition program\n• Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)\n• Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income.\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\nHCA Healthcare has expanded our influence across the healthcare industry by investing $3.5 billion in capital improvements in recent years. Do you want to be an influencer in healthcare? Apply for our Nurse Manager of Critical Care role today!\n\nJob Summary:\n• You will be responsible for planning, organizing, delegating, directing, negotiating, and evaluating services delivered by the Adult Critical Care departments and personnel based on the hospital mission, vision, and facility goals.\n• You will collaborate and coordinate with other department leadership personnel, for the functions and activities of nursing care performed in adult critical care in conformance with recognized nursing techniques and procedures, established standards for the professional practice of nursing and administrative policies.\n• You will maintain effective communication.\n• You will develop and recommend policies, procedures, or programs to improve or enhance the quality, safety, efficiency, and/or effectiveness of patient care within the specialty area, in collaboration with medical staff and other disciplines.\n\nWhat qualifications you will need:\n\nEDUCATION/EXPERIENCE:\n• Bachelor’s degree in nursing required: advanced degree preferred.\n• Five years’ experience in progressive management, preferable in a hospital setting with experience to include:\n\n- leadership of personnel\n\n- payroll\n\n- budget development\n\n- business planning\n\n-building physician relationships\n\nLICENSURE/CERTIFICATION:\n• Current RN license in the State of Texas or compact license.\n• Current American Heart Association or American Red Cross BLS provider.\n• Current American Heart Association or American Red Cross ACLS provider.\n• CCRN and/or CNRN preferred.\n\nMedical City Dallas is recognized for its advanced medical facilities and commitment to excellence in patient care. We are an 895+ bed tertiary care center. Our medical team consists of more than 1,500 physicians, many are recognized as the world's best in their specialties. Patients travel to Medical City Dallas from all over the United States and from other countries. We offer sophisticated treatment by our 400+ in-house physician specialists. Medical City Dallas has a full-service adult hospital and pediatric hospital. We have separate adult and pediatric emergency rooms, outpatient clinics and diagnostic centers. Our providers have access to state-of-the-art technology and are pioneering new medical procedures to accommodate patient needs. As a part of the Medical City network of hospitals, patients are ensured access to leading medical experts and advanced healthcare innovations across the network.\n\nHCA Healthcare has been recognized as one of the World's Most Ethical Companies® by the Ethisphere Institute more than ten times. In recent years, HCA Healthcare spent an estimated $3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\n\"Bricks and mortar do not make a hospital. People do.\"- Dr. Thomas Frist, Sr.\nHCA Healthcare Co-Founder\n\nIf you're looking for a leadership opportunity that provides both personal satisfaction and professional growth, apply to join HCA Healthcare as a Nurse Manager of Critical Care. Unlock your leadership potential with HCA Healthcare.\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
-    "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "Addison, TX",
-    "job_city": "Addison",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 32.96179,
-    "job_longitude": -96.8291685,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8pGckrCXcrUGDsjRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Five years’ experience in progressive management, preferable in a hospital setting with experience to include:",
-        "leadership of personnel",
-        "business planning",
-        "building physician relationships",
-        "Current RN license in the State of Texas or compact license",
-        "Current American Heart Association or American Red Cross BLS provider",
-        "Current American Heart Association or American Red Cross ACLS provider"
-      ],
-      "Benefits": [
-        "$10,000 Sign-On Bonus Potential - Ask your Recruiter for more details!",
-        "Medical City Dallas, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
-        "Comprehensive medical coverage that covers many common services at no cost or for a low copay",
-        "Plans include prescription drug and behavioral health coverage as well as free telemedicine services and free AirMed medical transportation",
-        "Additional options for dental and vision benefits, life and disability coverage, flexible spending accounts, supplemental health protection plans (accident, critical illness, hospital indemnity), auto and home insurance, identity theft protection, legal counseling, long-term care coverage, moving assistance, pet insurance and more",
-        "Free counseling services and resources for emotional, physical and financial wellbeing",
-        "401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service)",
-        "Employee Stock Purchase Plan with 10% off HCA Healthcare stock",
-        "Family support through fertility and family building benefits with Progyny and adoption assistance",
-        "Referral services for child, elder and pet care, home and auto repair, event planning and more",
-        "Consumer discounts through Abenity and Consumer Discounts",
-        "Retirement readiness, rollover assistance services and preferred banking partnerships",
-        "Education assistance (tuition, student loan, certification support, dependent scholarships)",
-        "Colleague recognition program",
-        "Time Away From Work Program (paid time off, paid family leave, long- and short-term disability coverage and leaves of absence)",
-        "Employee Health Assistance Fund that offers free employee-only coverage to full-time and part-time colleagues based on income",
-        "Learn more about Employee Benefits",
-        "payroll",
-        "budget development"
-      ],
-      "Responsibilities": [
-        "You will be responsible for planning, organizing, delegating, directing, negotiating, and evaluating services delivered by the Adult Critical Care departments and personnel based on the hospital mission, vision, and facility goals",
-        "You will collaborate and coordinate with other department leadership personnel, for the functions and activities of nursing care performed in adult critical care in conformance with recognized nursing techniques and procedures, established standards for the professional practice of nursing and administrative policies",
-        "You will maintain effective communication",
-        "You will develop and recommend policies, procedures, or programs to improve or enhance the quality, safety, efficiency, and/or effectiveness of patient care within the specialty area, in collaboration with medical staff and other disciplines"
-      ]
-    },
-    "job_onet_soc": "11911100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-medical-city-dallas-job-nurse-manager-of-critical-care-in-addison-tx",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "7KyQsfqGHJq2Tlb0AAAAAA==",
-    "job_title": "Nurse Manager - Surgical Specialty Services (2RC)",
-    "employer_name": "University of Iowa",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU3FiPriOsmZGVvPbxJfkBli0vmhi00h7nKW7P&s=0",
-    "employer_website": "https://uiowa.edu",
-    "job_publisher": "Expertini",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://us.expertini.com/job/nurse-manager-surgical-specialty-services-2rc-iowa-city-university-of-iowa-44ba8af881fa/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Expertini",
-        "apply_link": "https://us.expertini.com/job/nurse-manager-surgical-specialty-services-2rc-iowa-city-university-of-iowa-44ba8af881fa/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Are you a dynamic nurse leader with a passion for teamwork and driving excellence? Join our team as a Nurse Manager, where you will lead a dedicated nursing staff in delivering safe, compassionate, and patient-centered care. In this pivotal role, you will leverage your expertise to enhance clinical outcomes, mentor the next generation of nurses and leaders and share the future of our inpatient healthcare services. If you are ready to make a significant impact and advance your career in a supportive and innovative environment, we invite you to apply and become a key player in our commitment to fulfilling our mission of: Changing Medicine. Changing Lives.\n\nThe Adult Surgery Specialty Unit (2RC) is a 34-bed surgical unit that provides post-operative care to a variety of patients undergoing complex procedures. The Surgical Specialty Unit believes it is our responsibility to provide patient centered care that will enable surgical patients and their families to cope with the physiological and psychological aspects of their illness or injury. We believe that exceptional care of the surgical patient embodies excellent clinical skills intertwined with compassionate care to achieve maximum quality of life. This leader will join our dedicated team of nurse leaders and staff within the (MSS) at our University Campus\n\nKey Areas of Responsibilities Include but are not limited to:\n\n·Hire, develop and manage the performance of staff in an inpatient setting. Responsible for talent management of staff and identify succession plan strategies. Follow and apply leave management policies. Knowledgeable of and implement human resources policies/procedures and provisions in the collective bargaining agreements\n\n·Prepare budget or assist in development; provide projections and recommendations. Monitor and maintain unit operating budget within specified targets. Analyze variances and create action plans to take corrective action. Understand financial implications of collective bargaining agreements\n\n·Provide leadership to establish and/or maintain efficient and effective systems to ensure optimal patient outcomes. Identify trends and determine quality initiatives and priorities\n\n·Allocate resources to meet quality and productivity expectations. Review patient satisfaction data and develop, implement, and evaluate plan(s) to enhance patient satisfaction. Ensure unit is survey ready\n\n·Develop action plans for the unit that meet health care strategic goals focusing on patient safety/quality, experience, throughput/length of stay, and staff engagement.\n\n·Monitor/evaluate goal implementation and provide progress reports to nursing leadership\n\n·Advocate for needs of unit with healthcare leaders. Facilitate multidisciplinary participation in clinical problem solving. Utilize a unit council to identify opportunities for improvement and innovative models of care using a multidisciplinary team to impact patient outcomes\n\n·Educate and mentor staff in the management of complex patient care issues. Provide clinical education and coaching to develop staff competency and professionalism. Participate in and support education of health care students\n\n·Encourage staff to participate in evidence-based practice research initiatives and incorporate best practices into unit operations\n\n·Ability to work with a variety of individuals and groups in a constructive and civil manner while appreciating the unique contribution of individuals from varied cultures, nationalities, genders, ages, etc\n\n·Ability to utilize existing resources and learning to achieve or exceed desired outcomes of current and future organizational goals/needs. Able to demonstrate ethical behavior in diverse situations while producing results\n\nPercent of Time: 100%\nSchedule: Days, includes unit and divisional on call as needed\nLocation: University Campus\n\nP&S Pay Plan:\n\nBenefits Highlights:\n\n·Regular salaried position located in Iowa City, IA\n\n·Fringe benefit package including paid vacation; sick leave; health, dental, life and disability insurance options; and generous employer contributions into retirement plans\n\n·For more information about Why Iowa?, click\n\nRequired Qualifications:\n\n·Bachelor's or Master's in Nursing is required. Preferred Master's degree (in nursing, MBA or healthcare related) or Doctorate (DNP, PhD). If candidate does not have a master’s degree, they will be strongly encouraged to obtain one within 5 years of starting position\n\n·Current license to practice nursing in Iowa or ability to obtain an Iowa license upon hire\n\n·Considerable (3+ years) of nursing leadership experience\n\n·Excellent written and verbal communication skills\n\n·Professional job-related experience fostering or promoting a welcoming and respectful work/academic environment where people of all backgrounds and perspectives feel welcomed and appreciated; or demonstrated the ability to do so\n\n·Must be proficient in computer software applications\n\n·Certification in a role or specialty through a nationally recognized professional nursing certification body. If not currently certified, must seek certification in a role or specialty as soon as eligible to sit for the exam\n\nDesired Qualifications:\n\n·Experience working in large academic medical center\n\n·Recent experience in clinical practice\n\nPlease include a resume with your submission. Job openings are posted for a minimum of 14 calendar days. This job may be removed from posting and filled any time after the minimum posting period has ended. For questions or additional information, please contact nursing recruiter, Regan Lampe at , or the MSS nursing director, Dan Lose at .\n\nSuccessful candidates will be required to self-disclose any conviction history and will be subject to a criminal background check and credential/education verification. This position is not eligible for University sponsorship for employment authorization.\nAdditional Information\n• Classification Title: Nursing Manager\n• Appointment Type: Professional and Scientific\n• Schedule: Full-time Compensation\n• Pay Level: 6A Contact Information\n• Organization: Healthcare\n• Contact Name: Regan Lampe\n• Contact Email: regan-lampe@uiowa.edu",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Iowa City, IA",
-    "job_city": "Iowa City",
-    "job_state": "Iowa",
-    "job_country": "US",
-    "job_latitude": 41.6578257,
-    "job_longitude": -91.53461689999999,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7KyQsfqGHJq2Tlb0AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Ability to work with a variety of individuals and groups in a constructive and civil manner while appreciating the unique contribution of individuals from varied cultures, nationalities, genders, ages, etc",
-        "Bachelor's or Master's in Nursing is required",
-        "If candidate does not have a master’s degree, they will be strongly encouraged to obtain one within 5 years of starting position",
-        "Current license to practice nursing in Iowa or ability to obtain an Iowa license upon hire",
-        "Considerable (3+ years) of nursing leadership experience",
-        "Excellent written and verbal communication skills",
-        "Professional job-related experience fostering or promoting a welcoming and respectful work/academic environment where people of all backgrounds and perspectives feel welcomed and appreciated; or demonstrated the ability to do so",
-        "Must be proficient in computer software applications",
-        "Certification in a role or specialty through a nationally recognized professional nursing certification body",
-        "If not currently certified, must seek certification in a role or specialty as soon as eligible to sit for the exam",
-        "Successful candidates will be required to self-disclose any conviction history and will be subject to a criminal background check and credential/education verification"
-      ],
-      "Benefits": [
-        "Regular salaried position located in Iowa City, IA",
-        "Fringe benefit package including paid vacation; sick leave; health, dental, life and disability insurance options; and generous employer contributions into retirement plans",
-        "For more information about Why Iowa?, click",
-        "Schedule: Full-time Compensation",
-        "Pay Level: 6A Contact Information"
-      ],
-      "Responsibilities": [
-        "In this pivotal role, you will leverage your expertise to enhance clinical outcomes, mentor the next generation of nurses and leaders and share the future of our inpatient healthcare services",
-        "This leader will join our dedicated team of nurse leaders and staff within the (MSS) at our University Campus",
-        "Hire, develop and manage the performance of staff in an inpatient setting",
-        "Responsible for talent management of staff and identify succession plan strategies",
-        "Follow and apply leave management policies",
-        "Knowledgeable of and implement human resources policies/procedures and provisions in the collective bargaining agreements",
-        "Prepare budget or assist in development; provide projections and recommendations",
-        "Monitor and maintain unit operating budget within specified targets",
-        "Analyze variances and create action plans to take corrective action",
-        "Understand financial implications of collective bargaining agreements",
-        "Provide leadership to establish and/or maintain efficient and effective systems to ensure optimal patient outcomes",
-        "Identify trends and determine quality initiatives and priorities",
-        "Allocate resources to meet quality and productivity expectations",
-        "Review patient satisfaction data and develop, implement, and evaluate plan(s) to enhance patient satisfaction",
-        "Ensure unit is survey ready",
-        "Develop action plans for the unit that meet health care strategic goals focusing on patient safety/quality, experience, throughput/length of stay, and staff engagement",
-        "Monitor/evaluate goal implementation and provide progress reports to nursing leadership",
-        "Advocate for needs of unit with healthcare leaders",
-        "Facilitate multidisciplinary participation in clinical problem solving",
-        "Utilize a unit council to identify opportunities for improvement and innovative models of care using a multidisciplinary team to impact patient outcomes",
-        "Educate and mentor staff in the management of complex patient care issues",
-        "Provide clinical education and coaching to develop staff competency and professionalism",
-        "Participate in and support education of health care students",
-        "Encourage staff to participate in evidence-based practice research initiatives and incorporate best practices into unit operations",
-        "Able to demonstrate ethical behavior in diverse situations while producing results",
-        "Percent of Time: 100%",
-        "Schedule: Days, includes unit and divisional on call as needed"
-      ]
-    },
-    "job_onet_soc": "11911100",
-    "job_onet_job_zone": "5",
-    "id": "us-expertini-com-job-nurse-manager-surgical-specialty-services-2rc-iowa-city-university-of-iowa-44ba8af881fa",
     "_source": "new_jobs"
   }
 ]
