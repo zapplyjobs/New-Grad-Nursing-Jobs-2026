@@ -127,16 +127,24 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 0 positions
+- **📁 Total Jobs**: 2 positions
 - **🏢 Companies**: 0 companies
-- **🏷️ Top Category**: Software Engineering
+- **🏷️ Top Category**: Registered Nurse
+
+<details>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **Nexus at Palos Hills** | Nurse Supervisor (RN) | Palos Hills, Illinois | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://recruiting.paylocity.com/Recruiting/Jobs/Details/3884659?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Plaza Health** | Weekend Nurse Supervisor RN or LPN | Elizabeth, New Jersey | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/167437963-weekend-nurse-supervisor-rn-or-lpn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+
 
 </details>
 
