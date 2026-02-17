@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-13-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-12-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-13-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-7-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-6-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-7-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 12+ top companies and healthcare facilities. Updated every 15 minutes with 13+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 6+ top companies and healthcare facilities. Updated every 15 minutes with 7+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,23 +69,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (13 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (7 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Hospital Sisters Health System** | Inpatient Registered Nurse (RN) ... | Clinton, Illinois | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Bon Secours** | Registered Nurse (RN) - Rapid Re... | Petersburg, Virginia | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.bonsecours.com/us/en/job/R257621/Registered-Nurse-RN-Rapid-Response-Team-Southside-Medical-Center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Carilion Clinic** | Certified Nurse Midwife | Wirtz, Virginia | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/wirtz-va/certified-nurse-midwife-231359/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| ⚕️ **Kaiser Permanente** | Certified Nurse Midwife, Full-ti... | Riverside, California | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.kaiserpermanentejobs.org/job/riverside/certified-nurse-midwife-full-time-riverside/641/91684774032?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Sanford Health** | APP - Certified Nurse Midwife | Fargo, North Dakota | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://sanfordcareers.com/fargo-nd/app-certified-nurse-midwife/ECEBCDCDDC164846B1E2FF9F2FCDA338/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Elara Caring** | PRN Registered Nurse (Home Health) | Lafayette, Indiana | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Elara-Caring/Job/PRN-Registered-Nurse-(Home-Health)/-in-Lafayette,IN?jid=234c3e00539dd4e1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Commonwealth of VA Careers** | Registered Nurse (Night Shift): ... | Powhatan, Virginia | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobs.virginia.gov/jobs/registered-nurse-night-shift-beaumont-correctional-center-powhatan-virginia-united-states-a97ae079-30ee-4a78-b29e-439cac5a12f3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Skagit Valley Hospital** | 0.5 FTE Certified Nurse Midwife ... | Mount Vernon, Washington | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.practicematch.com/advanced-practitioners/job-details.cfm/1116698/womens-health/washington/mount-vernon/skagit-valley-hospital/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **JT-DD83DB CENTRAL DHN - BROOKE** | Advanced Practice Nurse (Midwife) | Texas | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/856964400?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Hospital Sisters Health System** | RN Residency and Nurse Extern II... | Salem, Illinois | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/rn-residency-and-nurse-extern-ii-summer-2026-grads-salem-il-6984b778eb4c4903d4a76942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Veterans Health Administration** | Registered Nurse - Multi Special... | Flint, Michigan | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=b6da982989b9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **CW Bill Young Department of Veterans Affairs Medical Center** | ENDOSCOPY REGISTERED NURSE (Inte... | Bay Pines, Florida | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/857175700?utm_source=ahanhcn&utm_medium=job_feed&utm_campaign=ar_vha_job_boards_feeds&utm_content=%7B0%7D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Highmark Health** | Certified Nurse Midwife | Jefferson Hills, Pennsylvania | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.highmarkhealth.org/certified-nurse-midwife/job/D7CD9FB1801895604FE6B1DF55660A6D?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Lancesoft INC** | 💼 $135/hr Certified Nurse Midwi... | Steamboat Springs, Colorado | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.doccafe.com/job/midwife/obstetrics/20001004/135-hr-certified-nurse-midwife-locum-opportunity-steamboat-springs-co-travel-lodging-covered?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -146,18 +140,19 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 1 positions
-- **🏢 Companies**: 12 companies
+- **📁 Total Jobs**: 2 positions
+- **🏢 Companies**: 6 companies
 - **🏷️ Top Category**: Registered Nurse
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (1 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
+| 🏢 **VA Eastern Oklahoma Health Care System** | Registered Nurse | Muskogee, Oklahoma | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/855411500?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **CEDARS-SINAI** | Registered Nurse - Surgical Step... | California | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cshs.org/job/beverly-hills/registered-nurse-surgical-stepdown-transplant-6nw-12-hour-nights-5-000-hiring-incentive/252/90968891344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
@@ -172,7 +167,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 13 current opportunities from 12 companies**
+**🎯 7 current opportunities from 6 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
