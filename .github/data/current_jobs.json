@@ -156,9 +156,9 @@
     "job_latitude": 43.9063612,
     "job_longitude": -96.65393689999999,
     "job_benefits": [
+      "health_insurance",
       "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DPqcJYFP2dVpul1edAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -286,9 +286,9 @@
     ],
     "job_description": "Northern Metropolitan Residential Healthcare Facility is hiring a Registered Nurse (RN) Supervisor for the Night Shift in Monsey, NY.\n\nDuties:\n• Complete resident care requirements by scheduling and assigning nursing staff\n• Establish a compassionate environment by providing support to residents & families\n• Provide information to residents & staff by answering questions and requests\n• Maintain a safe & clean working environment by implementing rules & regulations\n• Ensure resident confidence by monitoring confidential information processing\n• Manage documentation of resident care services\n• Promote a cooperative relationship among health care teams\n\nRequirements:\n• Must hold valid Registered Nurse (RN) license\n• Minimum 3 years Long-Term Care experience required\n• Should be a strong and positive Team Director for all members of the staff\n• Familiar with EHR and Prescribing programs\n• Excellent communication skills\n• Basic computer skills\n\nAbout us:\n\nNorthern Metropolitan Residential Healthcare Facility is located in Monsey, NY. Metropolitan’s mission is to help residents achieve their maximum potential for independence, personal comfort, and quality of life. Our multidisciplinary approach is designed to help you improve your overall well-being. We offer a variety of services including Skilled Nursing Care, Physical Therapy, Occupational Therapy, Rehabilitative Care and Therapy, Social Work Services, and Recreational Activities. Northern Metropolitan is a proud member of the Centers Health Care consortium.\n\nEqual Opportunity Employer –M/F/D/V",
     "job_is_remote": false,
-    "job_posted_at": "9 hours ago",
-    "job_posted_at_timestamp": 1771300800,
-    "job_posted_at_datetime_utc": "2026-02-17T04:00:00.000Z",
+    "job_posted_at": "10 hours ago",
+    "job_posted_at_timestamp": 1771297200,
+    "job_posted_at_datetime_utc": "2026-02-17T03:00:00.000Z",
     "job_location": "Monsey, NY",
     "job_city": "Monsey",
     "job_state": "New York",
@@ -508,9 +508,9 @@
     "job_latitude": 40.1745538,
     "job_longitude": -74.92266649999999,
     "job_benefits": [
-      "health_insurance",
       "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D3kFZuzMIJibl3RzqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -600,8 +600,8 @@
     "job_latitude": 33.9657091,
     "job_longitude": -81.0739827,
     "job_benefits": [
-      "dental_coverage",
       "paid_time_off",
+      "dental_coverage",
       "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D7Az5-Djquu9FnYrsAAAAAA%3D%3D&vssid=jobs-detail-viewer",
@@ -714,9 +714,9 @@
     "job_latitude": 40.17396,
     "job_longitude": -80.2461714,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjYsfymZiNMBlFWMUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 40,
@@ -831,9 +831,9 @@
     "job_latitude": 38.9639112,
     "job_longitude": -77.4496269,
     "job_benefits": [
-      "dental_coverage",
+      "health_insurance",
       "paid_time_off",
-      "health_insurance"
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dnykqk3nnNdU5xZWUAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1032,9 +1032,9 @@
     "job_latitude": 37.6087561,
     "job_longitude": -77.3733139,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwSDnksk2vUCELnz5AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1195,252 +1195,62 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "jN6UJqx5LTfeeGtYAAAAAA==",
-    "job_title": "Nurse Supervisor in Bethel Springs, TN",
-    "employer_name": "Vivian Health",
+    "job_id": "Y6naIfkHrXa0iZO7AAAAAA==",
+    "job_title": "Registered Nurse (RN) Supervisor Nights",
+    "employer_name": "Corning Center",
     "employer_logo": null,
-    "employer_website": "https://www.vivian.com",
-    "job_publisher": "Lensa",
+    "employer_website": "https://corning-center.facilities.centershealthcare.org",
+    "job_publisher": "WhatJobs",
     "job_employment_type": "Full-time and Part-time",
     "job_employment_types": [
       "FULLTIME",
       "PARTTIME"
     ],
-    "job_apply_link": "https://lensa.com/job-v1/vivian-health/bethel-springs-tn/nurse-supervisor/af623aff1061bbbd0a6000eee98c5601?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/vivian-health/bethel-springs-tn/nurse-supervisor/af623aff1061bbbd0a6000eee98c5601?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Nurse Supervisor\n\nNurseSupervisorCareerOpportunity\n\nLeadingwithHeart:Your JourneyStartsHere\nSeeking a career that's both personally enriching and professionally rewarding, close to home? Encompass Health invites you into a welcoming space that feels like family, where your worth is embraced, fostering connections akin to lifelong friendships. As a Nurse Supervisor, envision making a profound impact within your community by providing essential care and guidance throughout patients' rehabilitation journeys. Your role is critical, offering leadership ensuring seamless implementation of procedures while delivering top-tier, compassionate, and tailored care. Embrace a team-driven, supportive environment that embraces joy in their work, providing access to cutting-edge technology and comprehensive benefits from day one. Join us and discover a career where your leadership shapes impactful care and personal fulfillment.\n\nA GlimpseintoOurWorld\nWe're confident you'll feel the difference the moment you join our team. Being at Encompass Health means being associated with a growing national inpatient rehabilitation leader. We take pride in our career growth opportunities and the collaborative spirit of our team members, all united for the greater good of our patients. Our achievements, including being named one of the \"World's Most Admired Companies\" and receiving the Fortune 100 Best Companies to Work For® Award, make us immensely proud.\n\nBenefitsThatBeginWith You\n• Our benefits are designed to support your well-being and startondayone:\n• Affordable medical, dental, and vision plans for both full-time and part-time employees and their families.\n• Generous paid time off that accrues over time.\n• Tuition reimbursement and continuous education opportunities for your professional growth.\n• Company-matching 401(k) and employee stock purchase plans, securing your financial future.\n• Flexible spending and health savings accounts tailored to your unique needs.\n• A vibrant community of individuals who are passionate about what they do.\n\nBetheNurseSupervisorYou'veAlwaysAspiredto Be\n• Your impactful journey involves:\n• Assisting in the development and implementation of personalized patient care programs, policies, and procedures.\n• Serving as the crucial liaison between administration, nursing management, and staff.\n• Supervising nursing care, treatment, and services provided during assigned shifts or on a specific unit.\n• Monitoring and managing staff, including on-the-spot feedback, annual evaluations, and administering performance counseling and discipline\n• Assuming patient care as needed and building meaningful relationships with patients by dedicating time to understand their physical, mental, and emotional needs for a successful recovery.\n• Celebrating patient victories along the way.\n\nQualifications\n• Current RN licensure as required by state regulations.\n• BLS certification with ACLS certification to be obtained within one year of starting position.\n• CRRN certification to be obtained within a year of meeting the eligibility requirements.\n• Bachelor's Degree in Nursing or related field preferred.\n• Two years of recent experience in an inpatient hospital setting (within the last five years).\n• Previous leadership role, such as charge nurse or lead capacity, where you were responsible for interim reporting, issue resolution, setting direction, and having accountability for patient and staff results.\nThe Encompass Health Way We proudly set the standard in care by leading with empathy, doing what's right, focusing on the positive, and standing stronger together. Encompass Health is a trusted leader in post-acute care with over 150 nationwide locations and a team of 36,000 exceptional individuals and growing! At Encompass Health, we celebrate and welcome diversity in our inclusive culture. We provide equal employment opportunities regardless of race, ethnicity, gender, sexual orientation, gender identity or expression, religion, national origin, color, creed, age, mental or physical disability, or any other protected classification.",
-    "job_is_remote": false,
-    "job_posted_at": "11 days ago",
-    "job_posted_at_timestamp": 1770336000,
-    "job_posted_at_datetime_utc": "2026-02-06T00:00:00.000Z",
-    "job_location": "Bethel Springs, TN",
-    "job_city": "Bethel Springs",
-    "job_state": "Tennessee",
-    "job_country": "US",
-    "job_latitude": 35.2344846,
-    "job_longitude": -88.6067137,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DjN6UJqx5LTfeeGtYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "A vibrant community of individuals who are passionate about what they do",
-        "Current RN licensure as required by state regulations",
-        "BLS certification with ACLS certification to be obtained within one year of starting position",
-        "CRRN certification to be obtained within a year of meeting the eligibility requirements",
-        "Two years of recent experience in an inpatient hospital setting (within the last five years)",
-        "Previous leadership role, such as charge nurse or lead capacity, where you were responsible for interim reporting, issue resolution, setting direction, and having accountability for patient and staff results"
-      ],
-      "Benefits": [
-        "Our benefits are designed to support your well-being and startondayone:",
-        "Affordable medical, dental, and vision plans for both full-time and part-time employees and their families",
-        "Generous paid time off that accrues over time",
-        "Tuition reimbursement and continuous education opportunities for your professional growth",
-        "Company-matching 401(k) and employee stock purchase plans, securing your financial future",
-        "Flexible spending and health savings accounts tailored to your unique needs"
-      ],
-      "Responsibilities": [
-        "As a Nurse Supervisor, envision making a profound impact within your community by providing essential care and guidance throughout patients' rehabilitation journeys",
-        "Your role is critical, offering leadership ensuring seamless implementation of procedures while delivering top-tier, compassionate, and tailored care",
-        "Assisting in the development and implementation of personalized patient care programs, policies, and procedures",
-        "Serving as the crucial liaison between administration, nursing management, and staff",
-        "Supervising nursing care, treatment, and services provided during assigned shifts or on a specific unit",
-        "Monitoring and managing staff, including on-the-spot feedback, annual evaluations, and administering performance counseling and discipline",
-        "Assuming patient care as needed and building meaningful relationships with patients by dedicating time to understand their physical, mental, and emotional needs for a successful recovery",
-        "Celebrating patient victories along the way"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "lensa-com-job-v1-vivian-health-bethel-springs-tn-nurse-supervisor-af623aff1061bbbd0a6000eee98c5601",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "Qn9cQ0YEE1tGfgYBAAAAAA==",
-    "job_title": "LPN Charge Nurse - Night Shift",
-    "employer_name": "CHSGa",
-    "employer_logo": null,
-    "employer_website": null,
-    "job_publisher": "WhatJobs",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.whatjobs.com/jobs/nursing-supervisor?id=2430602496&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.whatjobs.com/jobs/clinical-supervisor?id=2434967282&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "WhatJobs",
-        "apply_link": "https://www.whatjobs.com/jobs/nursing-supervisor?id=2430602496&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.whatjobs.com/jobs/clinical-supervisor?id=2434967282&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Join us at\n\nWinthrop Health & Rehab\n- a place where you'll be valued, recognized and rewarded for the vital work you do each day. We'll surround you with a strong team and leadership that supports every aspect of your life - both inside and outside of our centers. And you'll get to practice your passion in a non-profit, mission-driven organization that's known for the highest level of care in our communities\n\nFull Time:\n\nStarting Pay: $28.35 to $31.50/hour\n\nShift differentials evenings, nights and weekends\n\nManagement add on pay\n\nWeekly pay\n\nBenefits Offered:\n\nPaid time off with ability to cash out 7 paid Holidays Medical Insurance Dental Insurance Vision Insurance Company Paid Life and Disability 401(k) with match Referral Bonus Program SUMMARY\n\nResponsible for directing nursing care for the patients, and supervising the day-to-day nursing activities performed by nursing assistants. Such supervision should be in accordance with current federal, state, and local and regulations governing our nursing center, and as may be directed by the Administrator, the Medical Director, and/or the Director of Nursing Services to provide the appropriate care for our patients.\n\nROLE AND RESPONSIBILITIES Operation of oxygen equipment including turning off and on, changing cylinder heads, cleaning/replacing humidifier and other as necessary. Operations of suction machine (oral) including cleaning, selection of appropriate suction catheter and storage. Operations and use of manual respirator. Location and use of emergency equipment supplies (box and/or crash cart etc.). Operation of whirlpool scales and glucose monitoring devices, calibration and cleaning etc. Delivery of medications (setting up, rotating, charting, ordering, giving to patients, etc.). Receiving drugs from pharmacy in accordance with established procedures. Knowledge of procedures and ability to determine Advance Directive status for patients. Collection of lab specimens and interpreting results. IV implementation and administration. Seizure precautions and administration of IV medication during a seizure. Admits, discharges and transfers patients as requested. Documentation and billing of supplies used. Maintains effective lines of communication with attending physicians. Assists the Director of Nursing Services to coordinate the care planning/MDS process and committee meetings as necessary. Participates in patient screening and selection process as requested. Assists the Director of Nursing Services in follow-up on consultant recommendations, i.e., pharmacy, dietary, etc. SKILLS AND ABILITIES Proficient in using a computer, especially Microsoft Office, Excel and Power Point. Excellent organizational and prioritizing skills required Effective and professional verbal, and written communication skills Communicates well with other associates, patients, family members, and visitors providing warm and friendly greeting and an approachable attitude. Responds to expressed concerns while displaying a helpful, caring demeanor, answers questions when appropriate in a professional manner. MINIMUM QUALIFICATIONS Nursing Degree from an accredited college or university or is a graduate of an approved LPN program.\n\nEEO / M / F / D / V / Drug Free Workplace\n\nWinthrop Facebook",
+    "job_description": "Registered Nurse (RN) Supervisor Nights\n\nCorning Center for Rehabilitation and Healthcare is seeking an experienced Registered Nurse (RN) Supervisor to work nights 11 PM - 7 AM for our Skilled Nursing Facility located in Corning, NY. The ideal candidate will have excellent communication skills and a pleasant demeanor!\n\nCorning Center Benefits Include:\nTuition Reimbursement Program! Generous pay rates based on experience Flexible schedules for Full-Time, Part-Time, or Per-Diem status Career Advancement Opportunities Two-Tiered Insurance Plan: Medical and Dental!\n\nDuties:\nComplete resident care requirements by scheduling and assigning nursing staff Establish a compassionate environment by providing support to residents & families Provide information to residents & staff by answering questions and requests Maintain safe & clean working environment by implementing rules & regulations Promote resident confidence by monitoring confidential information processing Manage documentation of resident care services Ensure a cooperative relationship among health care teams\n\nRequirements:\nCurrent Valid Registered Nurse (RN) or Licensed Practical Nurse (LPN) license Minimum 3 years of Long-Term Care experience required Strong and positive Team Director for all members of the staff Familiar with EHR and Eperscribing programs Excellent communication skills Basic computer skills\n\nCOR1997\n\nLocation:\n\nCorning, NY\n\nAbout Us:\n\nCorning Center is a 120-bed skilled nursing facility located in Corning, New York, and is designed for individuals with skilled nursing needs, post-operative recuperation, or complex medical care demands, as well as chronically ill individuals who can no longer live independently. We offer a variety of services including Skilled Nursing Care, Physical Therapy, Occupational Therapy, Rehabilitative Care and Therapy, Social Work Services, and Recreational Activities.",
     "job_is_remote": false,
     "job_posted_at": "8 days ago",
     "job_posted_at_timestamp": 1770595200,
     "job_posted_at_datetime_utc": "2026-02-09T00:00:00.000Z",
-    "job_location": "Tallapoosa, GA",
-    "job_city": "Tallapoosa",
-    "job_state": "Georgia",
+    "job_location": "North Las Vegas, NV",
+    "job_city": "North Las Vegas",
+    "job_state": "Nevada",
     "job_country": "US",
-    "job_latitude": 33.744549899999996,
-    "job_longitude": -85.2880077,
+    "job_latitude": 36.1988592,
+    "job_longitude": -115.1175013,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "dental_coverage"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQn9cQ0YEE1tGfgYBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DY6naIfkHrXa0iZO7AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "SKILLS AND ABILITIES Proficient in using a computer, especially Microsoft Office, Excel and Power Point",
-        "Excellent organizational and prioritizing skills required Effective and professional verbal, and written communication skills Communicates well with other associates, patients, family members, and visitors providing warm and friendly greeting and an approachable attitude",
-        "MINIMUM QUALIFICATIONS Nursing Degree from an accredited college or university or is a graduate of an approved LPN program"
+        "The ideal candidate will have excellent communication skills and a pleasant demeanor!",
+        "Current Valid Registered Nurse (RN) or Licensed Practical Nurse (LPN) license Minimum 3 years of Long-Term Care experience required Strong and positive Team Director for all members of the staff Familiar with EHR and Eperscribing programs Excellent communication skills Basic computer skills"
       ],
       "Benefits": [
-        "a place where you'll be valued, recognized and rewarded for the vital work you do each day",
-        "Starting Pay: $28.35 to $31.50/hour",
-        "Management add on pay",
-        "Weekly pay",
-        "Paid time off with ability to cash out 7 paid Holidays Medical Insurance Dental Insurance Vision Insurance Company Paid Life and Disability 401(k) with match Referral Bonus Program SUMMARY"
+        "Tuition Reimbursement Program!",
+        "Generous pay rates based on experience Flexible schedules for Full-Time, Part-Time, or Per-Diem status Career Advancement Opportunities Two-Tiered Insurance Plan: Medical and Dental!"
       ],
       "Responsibilities": [
-        "Shift differentials evenings, nights and weekends",
-        "Responsible for directing nursing care for the patients, and supervising the day-to-day nursing activities performed by nursing assistants",
-        "Such supervision should be in accordance with current federal, state, and local and regulations governing our nursing center, and as may be directed by the Administrator, the Medical Director, and/or the Director of Nursing Services to provide the appropriate care for our patients",
-        "ROLE AND RESPONSIBILITIES Operation of oxygen equipment including turning off and on, changing cylinder heads, cleaning/replacing humidifier and other as necessary",
-        "Operations of suction machine (oral) including cleaning, selection of appropriate suction catheter and storage",
-        "Operations and use of manual respirator",
-        "Location and use of emergency equipment supplies (box and/or crash cart etc.). Operation of whirlpool scales and glucose monitoring devices, calibration and cleaning etc",
-        "Delivery of medications (setting up, rotating, charting, ordering, giving to patients, etc.). Receiving drugs from pharmacy in accordance with established procedures",
-        "Knowledge of procedures and ability to determine Advance Directive status for patients",
-        "Collection of lab specimens and interpreting results",
-        "IV implementation and administration",
-        "Seizure precautions and administration of IV medication during a seizure",
-        "Admits, discharges and transfers patients as requested",
-        "Documentation and billing of supplies used",
-        "Maintains effective lines of communication with attending physicians",
-        "Assists the Director of Nursing Services to coordinate the care planning/MDS process and committee meetings as necessary",
-        "Participates in patient screening and selection process as requested",
-        "Assists the Director of Nursing Services in follow-up on consultant recommendations, i.e., pharmacy, dietary, etc",
-        "Responds to expressed concerns while displaying a helpful, caring demeanor, answers questions when appropriate in a professional manner"
+        "Complete resident care requirements by scheduling and assigning nursing staff Establish a compassionate environment by providing support to residents & families Provide information to residents & staff by answering questions and requests Maintain safe & clean working environment by implementing rules & regulations Promote resident confidence by monitoring confidential information processing Manage documentation of resident care services Ensure a cooperative relationship among health care teams"
       ]
     },
-    "job_onet_soc": "29206100",
+    "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
-    "id": "www-whatjobs-com-jobs-nursing-supervisor",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "dJKG7sN5ZzdeZ3f_AAAAAA==",
-    "job_title": "Nursing Administrative Supervisor (RN)",
-    "employer_name": "Tenet Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7tEXie0dxwVYHo_U4-qyMMghVy4he1hj9JCU&s=0",
-    "employer_website": "https://www.tenethealth.com",
-    "job_publisher": "ZipRecruiter",
-    "job_employment_type": "Part-time",
-    "job_employment_types": [
-      "PARTTIME"
-    ],
-    "job_apply_link": "https://www.ziprecruiter.com/c/Tenet-Health/Job/Nursing-Administrative-Supervisor-(RN)/-in-Boca-Raton,FL?jid=6afc75e652c00789&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": true,
-    "apply_options": [
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Tenet-Health/Job/Nursing-Administrative-Supervisor-(RN)/-in-Boca-Raton,FL?jid=6afc75e652c00789&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Teal",
-        "apply_link": "https://www.tealhq.com/job/nursing-administrative-supervisor-rn_7ea1aa44e8b6d9795a66b5c10f6b2f009cf6a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "HealthJobsWeb.com",
-        "apply_link": "https://www.healthjobsweb.com/job/nursing-administrative-supervisor-rn/82456119/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobs.weekday.works",
-        "apply_link": "https://jobs.weekday.works/facility-340---piedmont-medical-center-nursing-administrative-supervisor-(rn)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/9195013048551604224?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Per Diem, Days\n\nPosition Summary:\n\nTo provide safe and effective nursing care to all patients utilizing the nursing process. The Nursing Supervisor also is responsible for the direction and supervision of assigned personnel delivering patient care hospital wide. Coordinate all hospital activities in the absence of Department Directors. The Nursing Supervisor functions as a direct liaison between the physician, hospital staff, and community in regard to the coordination and appropriateness of acute hospital admissions.\n\nAre you a results-driven leader ready to make a meaningful impact to patients, caregivers, and your community? At West Boca Medical Center hospital, were seeking an innovative and experienced healthcare leader to drive excellence and inspire our team towards exceptional patient outcomes and operational success.\n\nAt West Boca Medical Center, we understand that our greatest asset is our dedicated team of professionals. That’s why we offer more than a job – we provide a comprehensive benefit package that prioritizes your health, professional development, and work-life balance. The available plans and programs include:\n• Medical, dental, vision, and life insurance\n• 401(k) retirement savings plan with employer match\n• Generous paid time off\n• Career development and continuing education opportunities\n• Health savings accounts, healthcare & dependent flexible spending accounts\n• Employee Assistance program, Employee discount program\n• Voluntary benefits include pet insurance, legal insurance, accident and critical illness insurance, long term care, elder & childcare, auto & home insurance\n\nNote: Eligibility for benefits may vary by location and is determined by employment status\n\nWest Boca Medical Center (WBMC) is part of the Palm Beach Health Network and has been serving southern Palm Beach and northern Broward counties for over 37 years. WBMC offers general medical and surgical care, orthopedics, a robotic surgery program, a state-of-the art breast imaging center, womens and childrens services and the only level III NICU in southern Palm Beach County. Its two emergency centers, one at the main hospital and the other in Coconut Creek, are open 24-hours a day. Join our team!\n\nEducation:\n\nMinimum:Graduate of an RN program. Three to five years of Nursing Practice with the progressive & proven management and leadership experience.\n\nPreferred: Bachelor degree of Nursing.\n\nExperience:\n\nRequired: Two years clinical and one year supervision experience. ED or ICU preferred.\n\nCertifications:\n\nRequired: Active Florida RN license, ACLS, & BLS. PALS required within 90 days.\n\nOther Qualifications: Successful completion of WBMC yearly competencies specific to unit.\n\n#LI-NM1",
-    "job_is_remote": false,
-    "job_posted_at": "6 days ago",
-    "job_posted_at_timestamp": 1770768000,
-    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
-    "job_location": "Boca Raton, FL",
-    "job_city": "Boca Raton",
-    "job_state": "Florida",
-    "job_country": "US",
-    "job_latitude": 26.368306399999998,
-    "job_longitude": -80.1289321,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdJKG7sN5ZzdeZ3f_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Minimum:Graduate of an RN program",
-        "Three to five years of Nursing Practice with the progressive & proven management and leadership experience",
-        "Required: Two years clinical and one year supervision experience",
-        "Required: Active Florida RN license, ACLS, & BLS",
-        "PALS required within 90 days",
-        "Other Qualifications: Successful completion of WBMC yearly competencies specific to unit"
-      ],
-      "Benefits": [
-        "That’s why we offer more than a job – we provide a comprehensive benefit package that prioritizes your health, professional development, and work-life balance",
-        "The available plans and programs include:",
-        "Medical, dental, vision, and life insurance",
-        "401(k) retirement savings plan with employer match",
-        "Generous paid time off",
-        "Career development and continuing education opportunities",
-        "Health savings accounts, healthcare & dependent flexible spending accounts",
-        "Employee Assistance program, Employee discount program",
-        "Voluntary benefits include pet insurance, legal insurance, accident and critical illness insurance, long term care, elder & childcare, auto & home insurance"
-      ],
-      "Responsibilities": [
-        "To provide safe and effective nursing care to all patients utilizing the nursing process",
-        "The Nursing Supervisor also is responsible for the direction and supervision of assigned personnel delivering patient care hospital wide",
-        "Coordinate all hospital activities in the absence of Department Directors",
-        "The Nursing Supervisor functions as a direct liaison between the physician, hospital staff, and community in regard to the coordination and appropriateness of acute hospital admissions"
-      ]
-    },
-    "job_onet_soc": "11911100",
-    "job_onet_job_zone": "5",
-    "id": "www-ziprecruiter-com-c-tenet-health-job-nursing-administrative-supervisor-rn-in-boca-raton-fl",
+    "id": "www-whatjobs-com-jobs-clinical-supervisor",
     "_source": "new_jobs"
   },
   {
@@ -1518,7 +1328,7 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "8gBzxdXo5KguZl2PAAAAAA==",
+    "job_id": "sgWIt8m__Y_Dojh_AAAAAA==",
     "job_title": "Clinical Nurse Manager - Home Health",
     "employer_name": "Amedisys",
     "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1wz8b_HHAi7ngfrUDqEdHMzY7WmpjsV9Qc1_s&s=0",
@@ -1528,33 +1338,33 @@
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://www.amedisys.com/gfj/clinical-nurse-manager-home-health-new-rochelle-ny-691b13422065d404a584bb92?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_link": "https://www.amedisys.com/gfj/clinical-nurse-manager-home-health-worcester-ma-6994253fedd40a59f1557023?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
     "job_apply_is_direct": false,
     "apply_options": [
       {
         "publisher": "Amedisys",
-        "apply_link": "https://www.amedisys.com/gfj/clinical-nurse-manager-home-health-new-rochelle-ny-691b13422065d404a584bb92?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "apply_link": "https://www.amedisys.com/gfj/clinical-nurse-manager-home-health-worcester-ma-6994253fedd40a59f1557023?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Overview\n\nJoint Venture with Mt. Sinai at Home\n\nFull Time, Weekdays, 8:00 A.M. to 5:00 P.M.; home office is in Hicksville, NY, and may require local travel to patients' homes\n\nSalary Range: $120,000.oo to $127,000.00, with $25,000 Sign-On Bonus!\n\nAre you looking for a rewarding career in homecare? If so, we invite you to join our team at Amedisys, one of the largest and most trusted home health and hospice companies in the U.S.\n\nWhat's in it for you\n• A full benefits package with choice of affordable PPO or HSA medical plans.\n• Paid time off.\n• Up to $1,000 in free healthcare services paid by Amedisys yearly, when enrolled in an Amedisys HSA medical plan.\n• Up to $500 in wellness rewards for completing activities during the year. Use these rewards to support your wellbeing with spa services, gym memberships, sports, hobbies, pets and more.*\n• Mental health support, including up to five free counseling sessions per year through the Amedisys Employee Assistance program.\n• 401(k) with a company match.\n• Family support with infertility treatment coverage*, adoption reimbursement, paid parental and family caregiver leave.\n• Mileage reimbursement.\n• And more.\n\nPlease note: Benefit eligibility can vary by position depending on shift status.\n• To participate, you must be enrolled in an Amedisys medical plan.\n\nWhy Amedisys?\n• Community-based care centers with a supportive and inclusive work environment.\n• Better work/life balance and increased flexibility compared to other settings.\n• Job stability and the opportunity to advance with a growing company.\n• The opportunity to make a meaningful impact on the lives of patients and their families providing much needed care where they want to be - in their homes.\nResponsibilities\n• Recommends employment decisions for staff to the director of operations, including decisions to hire, fire, advance, promote or change status.\n• Responsible for overall quality of patient care and clinical performance of nurses and aides.\n• Organizes clinical operations for the care center.\n• Reviews requests for services and determines patient eligibility/suitability for home care services. Works with intake in coordinating patient referrals and admissions.\n• Oversees scheduling.\n• Oversees payor verification and precertification requirements.\n• Reviews documentation of other staff members and ensures missing, incomplete and/or untimely documentation issues are resolved.\n• Assists clinicians in establishing immediate and long-term patient goals, setting priorities and developing Plan of Care (POC).\n• Regularly evaluates the needs of the patient and makes necessary revisions to the plan of care in collaboration with clinicians.\n• May provide direct patient care on an infrequent basis in times of emergency.\n• Participates in the on-call process.\n• Assists with training of staff to ensure quality care, compliance and fiscal responsibility.\n• Participates in the investigation and resolution of patient/family/physician concerns.\nQualifications\n• Associate or bachelor's degree in nursing.\n• Current RN license, specific to the state(s) you are assigned to work.\n• One year of clinical RN experience in home health or hospice.\n• One year of RN management experience.\n• Current CPR certification.\n\nOur compensation reflects the cost of labor across several U.S. geographic markets and may vary depending on location, job-related knowledge, skills, and experience.\n\nAmedisys is an equal opportunity employer. All qualified employees and applicants will receive consideration for employment without regard to race, color, religion, sex, age, pregnancy, marital status, national origin, citizenship status, disability, military status, sexual orientation, genetic predisposition or carrier status or any other legally protected characteristic.\n\nAbout Amedisys\n\nAmedisys recognizes that nothing we do is possible without our incredible team. For all employees, whether they're on the front lines delivering direct care or supporting our clinical team, this isn't just a job it's a higher calling.\n\nWe believe in supporting them as much as they support our success by building a culture of engagement and investing in their futures with ongoing training and support. We build a care team that is equipped and ready to deliver hospital-level care in the comfort and convenience of a patient's home.\n\nAmedisys has been providing high-quality home health, hospice and palliative care since 1982. It's one reason nearly 3,000 hospitals and 110,000 physicians nationwide partner with us to provide care in the home. But it isn't the only reason. We also understand the challenges facing physicians, facilities, hospital systems and other provider organizations and work to meet your needs as well as your patient's needs.",
+    "job_description": "Overview\n\nFull-time days\n\nAre you looking for a rewarding career in homecare? If so, we invite you to join our team at Amedisys, one of the largest and most trusted home health and hospice companies in the U.S.\n\nAttractive pay\n• $106,500 to $133,000 annually\n\nWhat's in it for you\n• A full benefits package with choice of affordable PPO or HSA medical plans.\n• Paid time off.\n• Up to $1,000 in free healthcare services paid by Amedisys yearly, when enrolled in an Amedisys HSA medical plan.\n• Up to $500 in wellness rewards for completing activities during the year. Use these rewards to support your wellbeing with spa services, gym memberships, sports, hobbies, pets and more.*\n• Mental health support, including up to five free counseling sessions per year through the Amedisys Employee Assistance program.\n• 401(k) with a company match.\n• Family support with infertility treatment coverage*, adoption reimbursement, paid parental and family caregiver leave.\n• Fleet vehicle program (restrictions apply) and mileage reimbursement.\n• And more.\n\nPlease note: Benefit eligibility can vary by position depending on shift status.\n• To participate, you must be enrolled in an Amedisys medical plan.\n\nWhy Amedisys?\n• Community-based care centers with a supportive and inclusive work environment.\n• Better work/life balance and increased flexibility compared to other settings.\n• Job stability and the opportunity to advance with a growing company.\n• The opportunity to make a meaningful impact on the lives of patients and their families providing much needed care where they want to be - in their homes.\nResponsibilities\n• Recommends employment decisions for staff to the director of operations, including decisions to hire, fire, advance, promote or change status.\n• Responsible for overall quality of patient care and clinical performance of nurses and aides.\n• Organizes clinical operations for the care center.\n• Reviews requests for services and determines patient eligibility/suitability for home care services. Works with intake in coordinating patient referrals and admissions.\n• Oversees scheduling.\n• Oversees payor verification and precertification requirements.\n• Reviews documentation of other staff members and ensures missing, incomplete and/or untimely documentation issues are resolved.\n• Assists clinicians in establishing immediate and long-term patient goals, setting priorities and developing Plan of Care (POC).\n• Regularly evaluates the needs of the patient and makes necessary revisions to the plan of care in collaboration with clinicians.\n• May provide direct patient care on an infrequent basis in times of emergency.\n• Participates in the on-call process.\n• Assists with training of staff to ensure quality care, compliance and fiscal responsibility.\n• Participates in the investigation and resolution of patient/family/physician concerns.\nQualifications\n• Associate or bachelor's degree in nursing.\n• Current RN license, specific to the state(s) you are assigned to work.\n• One year of clinical RN experience in home health or hospice.\n• One year of RN management experience.\n• Current CPR certification.\n\nOur compensation reflects the cost of labor across several U.S. geographic markets and may vary depending on location, job-related knowledge, skills, and experience.\n\nAmedisys is an equal opportunity employer. All qualified employees and applicants will receive consideration for employment without regard to race, color, religion, sex, age, pregnancy, marital status, national origin, citizenship status, disability, military status, sexual orientation, genetic predisposition or carrier status or any other legally protected characteristic.\n\nAbout Amedisys\n\nAmedisys recognizes that nothing we do is possible without our incredible team. For all employees, whether they're on the front lines delivering direct care or supporting our clinical team, this isn't just a job it's a higher calling.\n\nWe believe in supporting them as much as they support our success by building a culture of engagement and investing in their futures with ongoing training and support. We build a care team that is equipped and ready to deliver hospital-level care in the comfort and convenience of a patient's home.\n\nAmedisys has been providing high-quality home health, hospice and palliative care since 1982. It's one reason nearly 3,000 hospitals and 110,000 physicians nationwide partner with us to provide care in the home. But it isn't the only reason. We also understand the challenges facing physicians, facilities, hospital systems and other provider organizations and work to meet your needs as well as your patient's needs.",
     "job_is_remote": false,
-    "job_posted_at": "4 days ago",
-    "job_posted_at_timestamp": 1770940800,
-    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
-    "job_location": "New Rochelle, NY",
-    "job_city": "New Rochelle",
-    "job_state": "New York",
+    "job_posted_at": "14 hours ago",
+    "job_posted_at_timestamp": 1771282800,
+    "job_posted_at_datetime_utc": "2026-02-16T23:00:00.000Z",
+    "job_location": "Worcester, MA",
+    "job_city": "Worcester",
+    "job_state": "Massachusetts",
     "job_country": "US",
-    "job_latitude": 40.920024399999996,
-    "job_longitude": -73.78627139999999,
+    "job_latitude": 42.262811299999996,
+    "job_longitude": -71.80249309999999,
     "job_benefits": [
       "paid_time_off",
       "health_insurance"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D8gBzxdXo5KguZl2PAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 120000,
-    "job_max_salary": 135000,
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsgWIt8m__Y_Dojh_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 106000,
+    "job_max_salary": 133000,
     "job_salary_period": "YEAR",
     "job_highlights": {
       "Qualifications": [
@@ -1566,7 +1376,7 @@
         "Current CPR certification"
       ],
       "Benefits": [
-        "Salary Range: $120,000.oo to $127,000.00, with $25,000 Sign-On Bonus!",
+        "$106,500 to $133,000 annually",
         "A full benefits package with choice of affordable PPO or HSA medical plans",
         "Paid time off",
         "Up to $1,000 in free healthcare services paid by Amedisys yearly, when enrolled in an Amedisys HSA medical plan",
@@ -1575,7 +1385,7 @@
         "Mental health support, including up to five free counseling sessions per year through the Amedisys Employee Assistance program",
         "401(k) with a company match",
         "Family support with infertility treatment coverage*, adoption reimbursement, paid parental and family caregiver leave",
-        "Mileage reimbursement",
+        "Fleet vehicle program (restrictions apply) and mileage reimbursement",
         "Community-based care centers with a supportive and inclusive work environment",
         "Better work/life balance and increased flexibility compared to other settings",
         "Job stability and the opportunity to advance with a growing company",
@@ -1600,98 +1410,223 @@
     },
     "job_onet_soc": "11911100",
     "job_onet_job_zone": "5",
-    "id": "www-amedisys-com-gfj-clinical-nurse-manager-home-health-new-rochelle-ny-691b13422065d404a584bb92",
+    "id": "www-amedisys-com-gfj-clinical-nurse-manager-home-health-worcester-ma-6994253fedd40a59f1557023",
     "_source": "new_jobs"
   },
   {
-    "job_id": "AB-HnwFiOj89DQ6MAAAAAA==",
-    "job_title": "Supervisor Nurse HBO/Wound Care",
-    "employer_name": "Monument Health",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEwmN5ugMUvJv9bHLXY3JiBt3vnA94nai8pw7L&s=0",
-    "employer_website": "https://monument.health",
-    "job_publisher": "Monument Health",
+    "job_id": "adROj7ZLlPSRKoCMAAAAAA==",
+    "job_title": "Clinical Supervisor",
+    "employer_name": "Aveanna Healthcare",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF7McRBf58y8Td9VHAEp_pTpF5aRXVxyZM7hm1&s=0",
+    "employer_website": "https://www.aveanna.com",
+    "job_publisher": "ZipRecruiter",
     "job_employment_type": "Full-time",
     "job_employment_types": [
       "FULLTIME"
     ],
-    "job_apply_link": "https://monument.health/gfj/supervisor-nurse-hbo-wound-care-newcastle-wy-68ecf211f31ab503b5cd428d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
+    "job_apply_link": "https://www.ziprecruiter.com/c/Aveanna-Healthcare/Job/Clinical-Supervisor/-in-Lancaster,PA?jid=e51c4fec47f5296f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
     "apply_options": [
       {
-        "publisher": "Monument Health",
-        "apply_link": "https://monument.health/gfj/supervisor-nurse-hbo-wound-care-newcastle-wy-68ecf211f31ab503b5cd428d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Aveanna-Healthcare/Job/Clinical-Supervisor/-in-Lancaster,PA?jid=e51c4fec47f5296f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Glassdoor",
+        "apply_link": "https://www.glassdoor.com/job-listing/regional-clinical-nurse-epic-healthcare-JV_IC1152360_KO0,23_KE24,39.htm?jl=1010008806718&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/4SgnJ6TTRd6bma4iDl6LKDhqNzCepvb2_x0AKKIcmzJ7e9nMAkZ35g?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/53f5cbae7db2f4182b974bbdf44cf887?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs For Stevenage Fans",
+        "apply_link": "https://jobs.stevenagefc.com/jobs/nurse-supervisor-lancaster-pennsylvania/2611790980-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SaluteMyJob",
+        "apply_link": "https://salutemyjob.com/jobs/nurse-supervisor-lancaster-pennsylvania/2611790980-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "KSNT Jobs",
+        "apply_link": "https://jobs.ksnt.com/jobs/nurse-supervisor-lancaster-pennsylvania/2611790980-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JobServe",
+        "apply_link": "https://www.jobserve.com/us/en/extjob/NURSE-SUPERVISOR-in-Lancaster-Pennsylvania-USA-3B97F683F5A71CB9D3/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
         "is_direct": false
       }
     ],
-    "job_description": "Current Employees:\n\nIf you are a current employee, please apply via the internal career site by logging into your Workday Account and clicking the Career icon on your homepage.\n\nPrimary Work Location\nMonument Health Sleep Center and Wound Care\n\nDepartment\nRCH HBO/Wound Care-OP\n\nScheduled Weekly Hours\n40\n\nJob Summary\nThe Nursing Supervisor provides general and technical supervision of all nursing service personnel. Plans, develops and organizes various nursing service activities in the clinic, ensuring the effective and efficient delivery of quality Healthcare. Provides direct patient care. Performs other duties as assigned. Demonstrates ongoing growth and development of self through active self-reflection, personal competency development strategies, and role modeling the “Grow myself, grow my team, and grow Monument Health (G3) Leadership Competencies” to promote our Monument Health vision and mission.\n\nMonument Health offers competitive wages and benefits on qualifying positions. Some of those benefits can include:\n• Supportive work culture\n• Medical, Vision and Dental Coverage\n• Retirement Plans, Health Savings Account, and Flexible Spending Account\n• Instant pay is available for qualifying positions\n• Paid Time Off Accrual Bank\n• Opportunities for growth and advancement\n• Tuition assistance/reimbursement\n• Excellent pay differentials on qualifying positions (extra pay for working evening, nights or weekends)\n• Flexible scheduling\n\nJob Description\n\nEssential Functions:\n• Assists with the leadership of the department by effectively managing and supervising nursing personnel, promoting a positive, professional attitude and high quality of care.\n• Responsible for the hiring and development of nursing staff.\n• Assists with completing performance appraisals as delegated.\n• Evaluates quality/quantity of nursing care and recommends changes and programs to the Director.\n• Consistently serves as a resource person for nursing staff, ancillary personnel, and/or community, as evidenced by observation and feedback.\n• Responds to Variance and Incident reports in a timely manner.\n• Directs the discipline’s Performance Improvement program and continuously seeks to improve the quality of care; institutes practice changes based on evaluation; supports interdisciplinary performance quality improvement efforts to improve patient care.\n• Ensures complete and accurate documentation of patient care according to established policies and standards.\n• Ensures that supplies and equipment are maintained in keeping with established practices.\n• Responsible for assisting with the day-to-day operation within the nursing unit to promote the delivery of quality services according to established policies and procedures.\n• All other duties as assigned.\n\nAdditional Requirements\n\nRequired:\nEducation - Rapid City/Magnet Certified (or pursuing) Market: Bachelor’s degree in Nursing. All other markets: As of October 1, 2022, Bachelor’s degree in Nursing required or must be obtained in an agreed upon time frame.\n\nCertification - Registered Nurse (RN) - South Dakota Board of Nursing or Wyoming Board of Nursing for Wyoming facilities\n• *Certification - for Cancer Care Infusion position, within one year of hire Chemotherapy Certification - Accredited University or accredited training professionals\n\nPreferred:\nExperience - 1+ years of Supervisor Experience; 3+ years of Registered Nurse Experience\n• *Experience - for Cancer Care Infusion position, 1+ years Medical/ Oncology Nurse Experience\n\nPhysical Requirements: Very Heavy work - exerting over 25 pounds of force constantly (67-100% of the time), and/or more than 50 pounds frequently (34-66% of the time), and/or more than 100 pounds of force occasionally (up to 33% of the time), and/or more than 100 pounds of force seldomly to move objects. Possible exposure to radiation and frequent exposure to contaminated needles and infectious body substances. Requires the ability to work designated shift lengths (including 8 and 12 hours), which may include night shifts or occasional irregular hours.\n\nJob Category\nNursing\n\nJob Family\nAcute Nursing\n\nShift\n\nEmployee Type\nRegular\n10 Monument Health Rapid City Hospital, Inc.\n\nMake a difference. Every day.\n\nMonument Health is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, or protected Veteran status.",
+    "job_description": "Overview\n\nJoin a Company That Puts People First!\n\nClinical Supervisor - RN\n\nAveanna Healthcare is one of the largest providers of private duty nursing in the nation - and we're growing! We offer a supportive culture, award-winning workplace, and opportunities to make a real difference.\nWhy Join Us?\n• Health, Dental, Vision & Company-Paid Life Insurance\n• Paid Time Off\n• Career Advancement Opportunities\n• 15% Employee Stock Purchase Plan\n• Employee Relief Fund\n\nBenefits may vary based on employment status and location.\nPosition Overview:\n\nThe Clinical Supervisor (RN) leads a team of caregivers to ensure safe, high-quality, and compassionate care in the home setting. Responsibilities include supervising staff, coordinating patient care, maintaining compliance, and supporting clinical excellence.\nKey Responsibilities:\n\nCare & Oversight\n• Develop and oversee care plans from admission to discharge\n• Conduct in-home supervisory visits and provide direct care as needed\n• Ensure timely documentation and communicate care updates\n\nTeam Supervision\n• Train, mentor, and evaluate clinical staff\n• Participate in hiring and performance management\n• Support a positive and growth-oriented team environment\n\nCompliance & Quality\n• Ensure regulatory and accreditation compliance (e.g., CHAP)\n• Monitor service quality and implement improvements\n• Promote safety and ethical care practices\n\nOperational Support\n• Participate in on-call rotation\n• Collaborate with care teams and external partners\n• Maintain equipment and medical supplies\nQualifications:\n• RN License (active in applicable state)\n• Associate's, Diploma, or Bachelor's in Nursing\n• Valid driver's license and acceptable MVR\n• Clinical experience per state/federal guidelines\n\nPreferred: Home health or private duty leadership experience\nSkills:\n• Strong clinical judgment and communication\n• Leadership and team development\n• Knowledge of home care regulations and documentation\nWork Location:\n\nLancaster PA location - In-home visits and potential hybrid (based on branch need)\nPhysical & Work Requirements:\n• Ability to lift up to 40 lbs; walk, bend, kneel, and climb stairs\n• Work in varied home settings; potential exposure to allergens and infectious diseases\nAdditional Information:\n• This job description is not all-inclusive and may evolve as organizational needs change.\n• As a Medicare/Medicaid provider, employees must meet all required health and vaccination standards, subject to applicable medical or religious exemptions.",
     "job_is_remote": false,
     "job_posted_at": "5 days ago",
     "job_posted_at_timestamp": 1770854400,
     "job_posted_at_datetime_utc": "2026-02-12T00:00:00.000Z",
-    "job_location": "Newcastle, WY",
-    "job_city": "Newcastle",
-    "job_state": "Wyoming",
+    "job_location": "Lancaster, PA",
+    "job_city": "Lancaster",
+    "job_state": "Pennsylvania",
     "job_country": "US",
-    "job_latitude": 43.8547003,
-    "job_longitude": -104.20494079999999,
+    "job_latitude": 40.0403279,
+    "job_longitude": -76.30418329999999,
     "job_benefits": [
       "health_insurance",
       "paid_time_off",
       "dental_coverage"
     ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAB-HnwFiOj89DQ6MAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DadROj7ZLlPSRKoCMAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
     "job_min_salary": null,
     "job_max_salary": null,
     "job_salary_period": null,
     "job_highlights": {
       "Qualifications": [
-        "Education - Rapid City/Magnet Certified (or pursuing) Market: Bachelor’s degree in Nursing",
-        "All other markets: As of October 1, 2022, Bachelor’s degree in Nursing required or must be obtained in an agreed upon time frame",
-        "Certification - Registered Nurse (RN) - South Dakota Board of Nursing or Wyoming Board of Nursing for Wyoming facilities",
-        "*Certification - for Cancer Care Infusion position, within one year of hire Chemotherapy Certification - Accredited University or accredited training professionals",
-        "Experience - 1+ years of Supervisor Experience; 3+ years of Registered Nurse Experience",
-        "*Experience - for Cancer Care Infusion position, 1+ years Medical/ Oncology Nurse Experience",
-        "Physical Requirements: Very Heavy work - exerting over 25 pounds of force constantly (67-100% of the time), and/or more than 50 pounds frequently (34-66% of the time), and/or more than 100 pounds of force occasionally (up to 33% of the time), and/or more than 100 pounds of force seldomly to move objects",
-        "Possible exposure to radiation and frequent exposure to contaminated needles and infectious body substances",
-        "Requires the ability to work designated shift lengths (including 8 and 12 hours), which may include night shifts or occasional irregular hours"
+        "RN License (active in applicable state)",
+        "Associate's, Diploma, or Bachelor's in Nursing",
+        "Valid driver's license and acceptable MVR",
+        "Clinical experience per state/federal guidelines",
+        "Strong clinical judgment and communication",
+        "Leadership and team development",
+        "Knowledge of home care regulations and documentation",
+        "Ability to lift up to 40 lbs; walk, bend, kneel, and climb stairs",
+        "Work in varied home settings; potential exposure to allergens and infectious diseases",
+        "As a Medicare/Medicaid provider, employees must meet all required health and vaccination standards, subject to applicable medical or religious exemptions"
       ],
       "Benefits": [
-        "Monument Health offers competitive wages and benefits on qualifying positions",
-        "Supportive work culture",
-        "Medical, Vision and Dental Coverage",
-        "Retirement Plans, Health Savings Account, and Flexible Spending Account",
-        "Instant pay is available for qualifying positions",
-        "Paid Time Off Accrual Bank",
-        "Opportunities for growth and advancement",
-        "Tuition assistance/reimbursement",
-        "Excellent pay differentials on qualifying positions (extra pay for working evening, nights or weekends)",
-        "Flexible scheduling"
+        "Health, Dental, Vision & Company-Paid Life Insurance",
+        "Paid Time Off",
+        "Career Advancement Opportunities",
+        "15% Employee Stock Purchase Plan",
+        "Employee Relief Fund",
+        "Benefits may vary based on employment status and location"
       ],
       "Responsibilities": [
-        "RCH HBO/Wound Care-OP",
-        "Scheduled Weekly Hours",
-        "The Nursing Supervisor provides general and technical supervision of all nursing service personnel",
-        "Plans, develops and organizes various nursing service activities in the clinic, ensuring the effective and efficient delivery of quality Healthcare",
-        "Provides direct patient care",
-        "Performs other duties as assigned",
-        "Demonstrates ongoing growth and development of self through active self-reflection, personal competency development strategies, and role modeling the “Grow myself, grow my team, and grow Monument Health (G3) Leadership Competencies” to promote our Monument Health vision and mission",
-        "Assists with the leadership of the department by effectively managing and supervising nursing personnel, promoting a positive, professional attitude and high quality of care",
-        "Responsible for the hiring and development of nursing staff",
-        "Assists with completing performance appraisals as delegated",
-        "Evaluates quality/quantity of nursing care and recommends changes and programs to the Director",
-        "Consistently serves as a resource person for nursing staff, ancillary personnel, and/or community, as evidenced by observation and feedback",
-        "Responds to Variance and Incident reports in a timely manner",
-        "Directs the discipline’s Performance Improvement program and continuously seeks to improve the quality of care; institutes practice changes based on evaluation; supports interdisciplinary performance quality improvement efforts to improve patient care",
-        "Ensures complete and accurate documentation of patient care according to established policies and standards",
-        "Ensures that supplies and equipment are maintained in keeping with established practices",
-        "Responsible for assisting with the day-to-day operation within the nursing unit to promote the delivery of quality services according to established policies and procedures",
-        "All other duties as assigned"
+        "The Clinical Supervisor (RN) leads a team of caregivers to ensure safe, high-quality, and compassionate care in the home setting",
+        "Responsibilities include supervising staff, coordinating patient care, maintaining compliance, and supporting clinical excellence",
+        "Care & Oversight",
+        "Develop and oversee care plans from admission to discharge",
+        "Conduct in-home supervisory visits and provide direct care as needed",
+        "Ensure timely documentation and communicate care updates",
+        "Team Supervision",
+        "Train, mentor, and evaluate clinical staff",
+        "Participate in hiring and performance management",
+        "Support a positive and growth-oriented team environment",
+        "Compliance & Quality",
+        "Ensure regulatory and accreditation compliance (e.g., CHAP)",
+        "Monitor service quality and implement improvements",
+        "Promote safety and ethical care practices",
+        "Operational Support",
+        "Participate in on-call rotation",
+        "Collaborate with care teams and external partners",
+        "Maintain equipment and medical supplies"
       ]
     },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "monument-health-gfj-supervisor-nurse-hbo-wound-care-newcastle-wy-68ecf211f31ab503b5cd428d",
+    "job_onet_soc": "53102100",
+    "job_onet_job_zone": "2",
+    "id": "www-ziprecruiter-com-c-aveanna-healthcare-job-clinical-supervisor-in-lancaster-pa",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "dJKG7sN5ZzdeZ3f_AAAAAA==",
+    "job_title": "Nursing Administrative Supervisor (RN)",
+    "employer_name": "Tenet Health",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY7tEXie0dxwVYHo_U4-qyMMghVy4he1hj9JCU&s=0",
+    "employer_website": "https://www.tenethealth.com",
+    "job_publisher": "ZipRecruiter",
+    "job_employment_type": "Part-time",
+    "job_employment_types": [
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://www.ziprecruiter.com/c/Tenet-Health/Job/Nursing-Administrative-Supervisor-(RN)/-in-Boca-Raton,FL?jid=6afc75e652c00789&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": true,
+    "apply_options": [
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Tenet-Health/Job/Nursing-Administrative-Supervisor-(RN)/-in-Boca-Raton,FL?jid=6afc75e652c00789&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Teal",
+        "apply_link": "https://www.tealhq.com/job/nursing-administrative-supervisor-rn_7ea1aa44e8b6d9795a66b5c10f6b2f009cf6a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "HealthJobsWeb.com",
+        "apply_link": "https://www.healthjobsweb.com/job/nursing-administrative-supervisor-rn/82456119/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobs.weekday.works",
+        "apply_link": "https://jobs.weekday.works/facility-340---piedmont-medical-center-nursing-administrative-supervisor-(rn)?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/9195013048551604224?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Per Diem, Days\n\nPosition Summary:\n\nTo provide safe and effective nursing care to all patients utilizing the nursing process. The Nursing Supervisor also is responsible for the direction and supervision of assigned personnel delivering patient care hospital wide. Coordinate all hospital activities in the absence of Department Directors. The Nursing Supervisor functions as a direct liaison between the physician, hospital staff, and community in regard to the coordination and appropriateness of acute hospital admissions.\n\nAre you a results-driven leader ready to make a meaningful impact to patients, caregivers, and your community? At West Boca Medical Center hospital, were seeking an innovative and experienced healthcare leader to drive excellence and inspire our team towards exceptional patient outcomes and operational success.\n\nAt West Boca Medical Center, we understand that our greatest asset is our dedicated team of professionals. That’s why we offer more than a job – we provide a comprehensive benefit package that prioritizes your health, professional development, and work-life balance. The available plans and programs include:\n• Medical, dental, vision, and life insurance\n• 401(k) retirement savings plan with employer match\n• Generous paid time off\n• Career development and continuing education opportunities\n• Health savings accounts, healthcare & dependent flexible spending accounts\n• Employee Assistance program, Employee discount program\n• Voluntary benefits include pet insurance, legal insurance, accident and critical illness insurance, long term care, elder & childcare, auto & home insurance\n\nNote: Eligibility for benefits may vary by location and is determined by employment status\n\nWest Boca Medical Center (WBMC) is part of the Palm Beach Health Network and has been serving southern Palm Beach and northern Broward counties for over 37 years. WBMC offers general medical and surgical care, orthopedics, a robotic surgery program, a state-of-the art breast imaging center, womens and childrens services and the only level III NICU in southern Palm Beach County. Its two emergency centers, one at the main hospital and the other in Coconut Creek, are open 24-hours a day. Join our team!\n\nEducation:\n\nMinimum:Graduate of an RN program. Three to five years of Nursing Practice with the progressive & proven management and leadership experience.\n\nPreferred: Bachelor degree of Nursing.\n\nExperience:\n\nRequired: Two years clinical and one year supervision experience. ED or ICU preferred.\n\nCertifications:\n\nRequired: Active Florida RN license, ACLS, & BLS. PALS required within 90 days.\n\nOther Qualifications: Successful completion of WBMC yearly competencies specific to unit.\n\n#LI-NM1",
+    "job_is_remote": false,
+    "job_posted_at": "6 days ago",
+    "job_posted_at_timestamp": 1770768000,
+    "job_posted_at_datetime_utc": "2026-02-11T00:00:00.000Z",
+    "job_location": "Boca Raton, FL",
+    "job_city": "Boca Raton",
+    "job_state": "Florida",
+    "job_country": "US",
+    "job_latitude": 26.368306399999998,
+    "job_longitude": -80.1289321,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DdJKG7sN5ZzdeZ3f_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Minimum:Graduate of an RN program",
+        "Three to five years of Nursing Practice with the progressive & proven management and leadership experience",
+        "Required: Two years clinical and one year supervision experience",
+        "Required: Active Florida RN license, ACLS, & BLS",
+        "PALS required within 90 days",
+        "Other Qualifications: Successful completion of WBMC yearly competencies specific to unit"
+      ],
+      "Benefits": [
+        "That’s why we offer more than a job – we provide a comprehensive benefit package that prioritizes your health, professional development, and work-life balance",
+        "The available plans and programs include:",
+        "Medical, dental, vision, and life insurance",
+        "401(k) retirement savings plan with employer match",
+        "Generous paid time off",
+        "Career development and continuing education opportunities",
+        "Health savings accounts, healthcare & dependent flexible spending accounts",
+        "Employee Assistance program, Employee discount program",
+        "Voluntary benefits include pet insurance, legal insurance, accident and critical illness insurance, long term care, elder & childcare, auto & home insurance"
+      ],
+      "Responsibilities": [
+        "To provide safe and effective nursing care to all patients utilizing the nursing process",
+        "The Nursing Supervisor also is responsible for the direction and supervision of assigned personnel delivering patient care hospital wide",
+        "Coordinate all hospital activities in the absence of Department Directors",
+        "The Nursing Supervisor functions as a direct liaison between the physician, hospital staff, and community in regard to the coordination and appropriateness of acute hospital admissions"
+      ]
+    },
+    "job_onet_soc": "11911100",
+    "job_onet_job_zone": "5",
+    "id": "www-ziprecruiter-com-c-tenet-health-job-nursing-administrative-supervisor-rn-in-boca-raton-fl",
     "_source": "new_jobs"
   }
 ]
