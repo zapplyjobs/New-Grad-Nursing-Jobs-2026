@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-11-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-10-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-11-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-15-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-13-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-14-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 10+ top companies and healthcare facilities. Updated every 15 minutes with 11+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 13+ top companies and healthcare facilities. Updated every 15 minutes with 15+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,21 +69,33 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (11 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (14 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Hospital Sisters Health System** | Registered Nurse (RN)-Critical C... | Cudahy, Wisconsin | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/registered-nurse-rn-critical-care-icu-cudahy-wi-699467968e886503d6a0e7b3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Prisma Health** | Registered Nurse (RN) - Acute Ca... | Columbia, South Carolina | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.prismahealth.org/us/en/job/R1131555/Registered-Nurse-RN-Acute-Care-Med-Surg-Medical-Telemetry-FT-Variable?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **University of Maryland Medical System** | Registered Nurse (RN), Labor and... | Towson, Maryland | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.umms.org/us/en/job/REF44558G/Registered-Nurse-RN-Labor-and-Delivery-Nights?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Hospital Sisters Health System** | Inpatient Registered Nurse (RN) ... | Clinton, Illinois | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Bon Secours** | Registered Nurse (RN) - Rapid Re... | Petersburg, Virginia | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.bonsecours.com/us/en/job/R257621/Registered-Nurse-RN-Rapid-Response-Team-Southside-Medical-Center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Hospital Sisters Health System** | LPN LP (License Pending) | Pawnee, Illinois | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/lpn-lp-license-pending-pawnee-il-696553adedd40a1d8a858bfd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **University of Maryland Medical System** | Registered Nurse (RN), Labor and... | Towson, Maryland | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.umms.org/us/en/job/REF44558G/Registered-Nurse-RN-Labor-and-Delivery-Nights?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Wise Medical Staffing** | licensed practical nurse lpn - p... | Napoleon, Indiana | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.blacktechjobs.com/jobs/499705728-licensed-practical-nurse-lpn-part-time-at-wise-medical-staffing?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Advantage Nursing Service** | LPN or RN Part Time Days: 7am-4:... | Ava, Missouri | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.applicantpro.com/openings/advantagenursingservice/jobs/3993536/MO-Missouri/Ava/LPN-or-RN-Part-Time?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Avera Health** | Licensed Practical Nurse (LPN) |... | Wood, South Dakota | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.monster.com/job-openings/licensed-practical-nurse-lpn-womens-center-wood-sd--5594e02e-c7ff-429b-ba34-d4d2dfeefbdf?mstr_dist=true&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **DHR Health** | Registered Nurse (RN) – Full Tim... | Edinburg, Texas | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.glassdoor.com/job-listing/registered-nurse-rn-full-time-new-behavioral-hospital-nights-available-dhr-health-JV_IC1140344_KO0,70_KE71,81.htm?jl=1009876760332&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Amedisys** | Wound Care Nurse - LPN | Bowie, Maryland | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.amedisys.com/gfj/wound-care-nurse-lpn-bowie-md-69403960edd40a7e5e8fd7ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Commonwealth of VA Careers** | Registered Nurse (Night Shift): ... | Powhatan, Virginia | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobs.virginia.gov/jobs/registered-nurse-night-shift-beaumont-correctional-center-powhatan-virginia-united-states-a97ae079-30ee-4a78-b29e-439cac5a12f3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Harris Health System** | Registered Nurse (NC II) - F/T -... | Houston, Texas | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.harrishealth.org/registered-nurse-nc-ii-f-t-6d-medicine-imu-ben-taub-hospital/job/14340A271F49EC820D7860436CE4AE59?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Saint Francis Hospital - Memphis** | Graduate Nurse Residency Program... | Memphis, Tennessee | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.tenethealth.com/job/memphis/graduate-nurse-residency-program-memphis/1127/91673999040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **HealthPartners** | Registered Nurse- Med/Surg | Stillwater, Minnesota | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/healthpartners/job/117353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Vibra Travels** | Travel Nurse RN - Long Term Acut... | Mt Vernon, Virginia | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/travel-nurse-rn-long-term-acute-care-%242-202-per-week-at-vibra-travels-4370575552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+<details>
+<summary><h3>💉 <strong>Licensed Practical Nurse</strong> (1 positions)</h3></summary>
+
+| Company | Role | Location | Posted | Level | Apply |
+|---------|------|----------|--------|-------|-------|
+| 🏢 **WeCare Centers** | Licensed Practical Nurse (LPN) 2... | Venango, Pennsylvania | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tallo.com/jobs/healthcare/licensed-practical-vocational-nurse/pa/venango/licensed-practical-nurse-lpn-2nd-and-3rd-shift-068791ba03b3/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -144,24 +156,16 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 0 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 2 positions
-- **🏢 Companies**: 10 companies
-- **🏷️ Top Category**: Registered Nurse
-
-<details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (2 positions)</h3></summary>
+- **📁 Total Jobs**: 0 positions
+- **🏢 Companies**: 13 companies
+- **🏷️ Top Category**: Software Engineering
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **VA Eastern Oklahoma Health Care System** | Registered Nurse | Muskogee, Oklahoma | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/855411500?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **CEDARS-SINAI** | Registered Nurse - Surgical Step... | California | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cshs.org/job/beverly-hills/registered-nurse-surgical-stepdown-transplant-6nw-12-hour-nights-5-000-hiring-incentive/252/90968891344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-
-</details>
-
-
+| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
 
 </details>
 
@@ -171,7 +175,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 11 current opportunities from 10 companies**
+**🎯 15 current opportunities from 13 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
