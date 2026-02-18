@@ -32,8 +32,8 @@
     "job_longitude": -87.861471,
     "job_benefits": [
       "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
+      "paid_time_off",
+      "dental_coverage"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dp5Q_02t96P3G3p3fAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 36,
@@ -68,6 +68,78 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-hshs-org-gfj-registered-nurse-rn-critical-care-icu-cudahy-wi-699467968e886503d6a0e7b3",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "vTwv12uzWXfER4I8AAAAAA==",
+    "job_title": "Registered Nurse (RN)-Critical Care (ICU)",
+    "employer_name": "Hospital Sisters Health System",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbp9lS0YUWyp_y_oyytq21xfVeK0uEhhbkpwOg&s=0",
+    "employer_website": null,
+    "job_publisher": "Hospital Sisters Health System",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-critical-care-icu-grafton-wi-6994681266058303642979ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Hospital Sisters Health System",
+        "apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-critical-care-icu-grafton-wi-6994681266058303642979ba?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Pay Range:\n$36.00 - $55.00\n\nA successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education.\n\nHSHS St. Nicholas Hospital is seeking a Registered Nurse (RN) to join our Critical Care unit. Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge to assess and monitor critically ill patients suffering from life-threatening illnesses or injuries. New Grads welcomed to apply\nPosition Specifics:\n•Department: Critical Care-ICU\n•Core Function: Nursing\n•Schedule: Full time, 36 hrs/wk, DAYS (7a-7p) and every third weekend\n•Facility: St. Nicholas Hospital\n•Location: Sheboygan, WI\nEducation Qualifications\n• Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required.\n• Bachelor’s of science in nursing is preferred.\nExperience Qualifications\n• Critical Care Nursing experience is preferred.\nCertifications, Licenses and Registrations\n• Licensed Registered Nurse (RN) in state of practice is required. Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules.\n• Basic Life Support (BLS) is required.\n• Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked.\n• Specialty certifications based on patient population such as Critical Care Registered Nurse (CCRN), and Certified Emergency Nurse (CEN) are preferred.\nJob Description\n\nScheduled Weekly Hours:\n36\n\nThroughout communities in Illinois and Wisconsin, 13 hospitals, numerous community-based health centers and clinics, our 13,000+ colleagues have built a culture based on our solid core values of respect, care, competence, and joy. These are the ideals we believe in, work by, and live each day.\n\nBuilt upon more than 145 years of service to the communities we serve, we now look to the future and our place in it as a health care system that strives to continually improve processes, procedures, and outcomes with the latest and most advanced technologies and treatments.\n\nRegardless of how far our passion for excellence carries us, our focus will always remain on the most important person in our entire organization: The patient.\n\nHSHS requires COVID-19 vaccines or an approved medical or religious exemption for all colleagues.\n\nBenefits: HSHS provides a benefits package designed to support the overall well-being of our colleagues including their physical, emotional, financial, spiritual, and work health. Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits.\n• Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues.\n• Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need.\n• Retirement benefits including HSHS\ncontributions.\n• Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period.\n• Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!\n• Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!\n\nBenefits\n\nHSHS and affiliates is an Equal Opportunity Employer (EOE).\n\nHSHS is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771200000,
+    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_location": "Grafton, WI",
+    "job_city": "Grafton",
+    "job_state": "Wisconsin",
+    "job_country": "US",
+    "job_latitude": 43.3197265,
+    "job_longitude": -87.9534226,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DvTwv12uzWXfER4I8AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 36,
+    "job_max_salary": 55,
+    "job_salary_period": "HOUR",
+    "job_highlights": {
+      "Qualifications": [
+        "Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required",
+        "Certifications, Licenses and Registrations",
+        "Licensed Registered Nurse (RN) in state of practice is required",
+        "Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules",
+        "Basic Life Support (BLS) is required",
+        "Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked"
+      ],
+      "Benefits": [
+        "$36.00 - $55.00",
+        "A successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education",
+        "Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits",
+        "Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues",
+        "Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need",
+        "Retirement benefits including HSHS",
+        "Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period",
+        "Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!",
+        "Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!"
+      ],
+      "Responsibilities": [
+        "Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge to assess and monitor critically ill patients suffering from life-threatening illnesses or injuries",
+        "Department: Critical Care-ICU",
+        "Core Function: Nursing",
+        "Schedule: Full time, 36 hrs/wk, DAYS (7a-7p) and every third weekend"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-hshs-org-gfj-registered-nurse-rn-critical-care-icu-grafton-wi-6994681266058303642979ba",
     "_source": "new_jobs"
   },
   {
@@ -152,265 +224,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-snagajob-com-jobs-1229276051",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "gVEmYtMu_jgn2r5FAAAAAA==",
-    "job_title": "Registered Nurse (RN)-Critical Care (ICU)",
-    "employer_name": "Hospital Sisters Health System",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbp9lS0YUWyp_y_oyytq21xfVeK0uEhhbkpwOg&s=0",
-    "employer_website": null,
-    "job_publisher": "Hospital Sisters Health System",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-critical-care-icu-brookfield-wi-699466479a4cf20491cf735a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Hospital Sisters Health System",
-        "apply_link": "https://www.hshs.org/gfj/registered-nurse-rn-critical-care-icu-brookfield-wi-699466479a4cf20491cf735a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Pay Range:\n$36.00 - $55.00\n\nA successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education.\n\nHSHS St. Nicholas Hospital is seeking a Registered Nurse (RN) to join our Critical Care unit. Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge to assess and monitor critically ill patients suffering from life-threatening illnesses or injuries. New Grads welcomed to apply\nPosition Specifics:\n•Department: Critical Care-ICU\n•Core Function: Nursing\n•Schedule: Full time, 36 hrs/wk, DAYS (7a-7p) and every third weekend\n•Facility: St. Nicholas Hospital\n•Location: Sheboygan, WI\nEducation Qualifications\n• Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required.\n• Bachelor’s of science in nursing is preferred.\nExperience Qualifications\n• Critical Care Nursing experience is preferred.\nCertifications, Licenses and Registrations\n• Licensed Registered Nurse (RN) in state of practice is required. Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules.\n• Basic Life Support (BLS) is required.\n• Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked.\n• Specialty certifications based on patient population such as Critical Care Registered Nurse (CCRN), and Certified Emergency Nurse (CEN) are preferred.\nJob Description\n\nScheduled Weekly Hours:\n36\n\nThroughout communities in Illinois and Wisconsin, 13 hospitals, numerous community-based health centers and clinics, our 13,000+ colleagues have built a culture based on our solid core values of respect, care, competence, and joy. These are the ideals we believe in, work by, and live each day.\n\nBuilt upon more than 145 years of service to the communities we serve, we now look to the future and our place in it as a health care system that strives to continually improve processes, procedures, and outcomes with the latest and most advanced technologies and treatments.\n\nRegardless of how far our passion for excellence carries us, our focus will always remain on the most important person in our entire organization: The patient.\n\nHSHS requires COVID-19 vaccines or an approved medical or religious exemption for all colleagues.\n\nBenefits: HSHS provides a benefits package designed to support the overall well-being of our colleagues including their physical, emotional, financial, spiritual, and work health. Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits.\n• Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues.\n• Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need.\n• Retirement benefits including HSHS\ncontributions.\n• Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period.\n• Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!\n• Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!\n\nBenefits\n\nHSHS and affiliates is an Equal Opportunity Employer (EOE).\n\nHSHS is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-    "job_location": "Brookfield, WI",
-    "job_city": "Brookfield",
-    "job_state": "Wisconsin",
-    "job_country": "US",
-    "job_latitude": 43.0609354,
-    "job_longitude": -88.12605549999999,
-    "job_benefits": [
-      "health_insurance",
-      "dental_coverage",
-      "paid_time_off"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DgVEmYtMu_jgn2r5FAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 36,
-    "job_max_salary": 55,
-    "job_salary_period": "HOUR",
-    "job_highlights": {
-      "Qualifications": [
-        "Graduate from an accredited and approved school of nursing accepted for licensure in the state of practice is required",
-        "Certifications, Licenses and Registrations",
-        "Licensed Registered Nurse (RN) in state of practice is required",
-        "Wisconsin: RNs may practice with a valid multi-state RN license as outlined in the Nurse Licensure Compact rules",
-        "Basic Life Support (BLS) is required",
-        "Advanced Cardiac Life Support (ACLS), Pediatric Advanced Life Support (PALS), and Neonatal Resuscitation Program (NRP) are required based on the patient population in the specialty area worked"
-      ],
-      "Benefits": [
-        "$36.00 - $55.00",
-        "A successful candidate's actual pay rate will be based on several factors including relevant experience, skills, training, certifications and education",
-        "Colleagues budgeted to work at least 32 hours per pay period are eligible for HSHS benefits",
-        "Comprehensive and affordable health coverage includes medical, prescription, dental and vision coverage for full-time and part-time colleagues",
-        "Paid Time Off (PTO) combines vacation, sick, and personal days into one balance to allow you the flexibility to use your time off as you need",
-        "Retirement benefits including HSHS",
-        "Education Assistance benefits include up to $4,000 of educational assistance each calendar year and tuition discounts to select colleges with no waiting period",
-        "Adoption Assistance provides financial support up to $7,500 for colleagues growing their families through adoption to reimburse application and legal fees, transportation, and more!",
-        "Other benefits include: Wellness program with incentives, employer-paid life insurance and short-term and long-term disability coverage, flexible spending accounts, employee assistance program, ID theft coverage, colleague rewards and recognition program, discount program, and more!"
-      ],
-      "Responsibilities": [
-        "Ideal candidates are patient focused, mission driven caregivers looking for an opportunity to apply clinical knowledge to assess and monitor critically ill patients suffering from life-threatening illnesses or injuries",
-        "Department: Critical Care-ICU",
-        "Core Function: Nursing",
-        "Schedule: Full time, 36 hrs/wk, DAYS (7a-7p) and every third weekend"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-hshs-org-gfj-registered-nurse-rn-critical-care-icu-brookfield-wi-699466479a4cf20491cf735a",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "OaFjBWdXrPVU5N0RAAAAAA==",
-    "job_title": "RN Staff ICU",
-    "employer_name": "Medical City Denton",
-    "employer_logo": null,
-    "employer_website": "https://www.medicalcityhealthcare.com",
-    "job_publisher": "HCA Healthcare",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17351378-rn-staff-icu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "HCA Healthcare",
-        "apply_link": "https://careers.hcahealthcare.com/jobs/17351378-rn-staff-icu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=ea8f7c045b2336e5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "ZipRecruiter",
-        "apply_link": "https://www.ziprecruiter.com/c/Medical-City-Denton/Job/RN-Staff-ICU/-in-Denton,TX?jid=99a9b40e1734aaa2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      },
-      {
-        "publisher": "LinkedIn",
-        "apply_link": "https://www.linkedin.com/jobs/view/rn-staff-icu-at-medical-city-healthcare-4373993091?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "IntelyCare",
-        "apply_link": "https://www.intelycare.com/jobs/169303624-rn-staff-icu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "SimplyHired",
-        "apply_link": "https://www.simplyhired.com/job/TP2Zy0un6C3imJ9N0XhlDt9rLHC8SzN-m0xq7yBLER2-T3Dvm5IZ2w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "EarnBetter",
-        "apply_link": "https://earnbetter.com/app/job/01KHQ6W6WP7TFQSY9MW17DTFTV/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Breakroom",
-        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/28570246-hca-healthcare-rn-staff-icu-denton-texas-76201-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "As a RN Staff ICU , your voice to influence patient care is valued and empowered at every turn –whether through open, collaborative relationships with your direct manager or more formal opportunities through hospital councils and national nursing initiatives. Youll help shape decisions that elevate both patient outcomes and the future of nursing.\nJob Summary and Qualifications\n\nThe Registered Nurse coordinates and delivers high quality, patient-centered care in accordance with the nature and specific requirements of the department, and consistent with the scope and standards of practice for the relevant state and specialty. In collaboration with medical providers and other members of the care team, the RN provides individualized, comprehensive, and compassionate care using established nursing models such as “Assess, Perform, Teach, and Manage.” The RN serves as an advocate for patients/families/caregivers and models a commitment to the organization’s vision/mission/values to support an unparalleled patient experience and clinical outcomes that contribute to overall departmental performance.\n• Performs procedures, monitoring, or other functions as ordered by the medical provider(s). Documents the administration of care in the patient medical record in a timely and thorough manner.\n• Teaches patients/families/caregivers about patient medical condition, patient status, treatment plan, medications and possible side effects, and follow-up measures. Translates complex medical terminology to ensure complete understanding.\n• Teaches patients/families/caregivers about any non-medicinal follow-up measures, such as healthy diet and exercise, disease prevention, and/or other lifestyle changes. Prepares patients and families/caregivers for future self-management.\n• Manages evidence-based practices and continuous process improvement initiatives to meet and exceed quality measures and enhance the exceptional care provided to patients.\n• Manages the quality of care by collaborating with a multidisciplinary team to coordinate, evaluate, customize, and deliver a holistic patient treatment plan that promotes and supports recovery.\n\nWhat qualifications you will need:\n• (RN) Registered Nurse\n• Associate Degree\n• 1 year in ICU required\n• Advanced Cardiac Life Spt must be obtained within 90 days of employment start date\n• Basic Cardiac Life Support must be obtained within 30 days of employment start date\n\nBenefits\n\nMedical City Denton, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive benefits for medical, prescription drug, dental, vision, behavioral health and telemedicine services\n• Wellbeing support, including free counseling and referral services\n• Time away from work programs for paid time off, paid family leave, long- and short-term disability coverage and leaves of absence\n• Savings and retirement resources, including a 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service), Employee Stock Purchase Plan, flexible spending accounts, preferred banking partnerships, retirement readiness tools, rollover support and financial wellbeing counseling\n• Education support through tuition assistance, student loan assistance, certification support, dependent scholarships and a partnership with Galen College of Nursing\n• Additional benefits for fertility and family building, adoption assistance, life insurance, supplemental health protection plans, auto and home insurance, legal counseling, identity theft protection and consumer discounts\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\n\"Nurses play a pivotal role and are the backbone of healthcare delivery. At HCA Healthcare, we are dedicated to ensuring nurses have necessary tools and resources to provide world-class patient care, advocating for the profession and helping to shape the future of nursing.\"\n\nSammie Mosier, DHA, MA, BSN, NE-BC\n\nSenior Vice President and Chief Nursing Executive, HCA Healthcare\n\nHCA Healthcare has been named one of the World’s Most Ethical Companies by Ethisphere Institute for ten consecutive years (2010-2019). In 2019, HCA Healthcare spent an estimated 3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\nIf this opportunity is your next step in your career path, we encourage you to apply for our RN Staff ICU opening. We review all applications. Qualified candidates will be contacted by a member of our team. We are interviewing, apply today!\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
-    "job_is_remote": false,
-    "job_posted_at": "2 days ago",
-    "job_posted_at_timestamp": 1771200000,
-    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
-    "job_location": "Denton, TX",
-    "job_city": "Denton",
-    "job_state": "Texas",
-    "job_country": "US",
-    "job_latitude": 33.2165858,
-    "job_longitude": -97.13241049999999,
-    "job_benefits": [
-      "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOaFjBWdXrPVU5N0RAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "(RN) Registered Nurse",
-        "Associate Degree",
-        "1 year in ICU required",
-        "Advanced Cardiac Life Spt must be obtained within 90 days of employment start date",
-        "Basic Cardiac Life Support must be obtained within 30 days of employment start date"
-      ],
-      "Benefits": [
-        "Medical City Denton, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
-        "The available plans and programs include:",
-        "Comprehensive benefits for medical, prescription drug, dental, vision, behavioral health and telemedicine services",
-        "Wellbeing support, including free counseling and referral services",
-        "Time away from work programs for paid time off, paid family leave, long- and short-term disability coverage and leaves of absence",
-        "Savings and retirement resources, including a 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service), Employee Stock Purchase Plan, flexible spending accounts, preferred banking partnerships, retirement readiness tools, rollover support and financial wellbeing counseling",
-        "Education support through tuition assistance, student loan assistance, certification support, dependent scholarships and a partnership with Galen College of Nursing",
-        "Additional benefits for fertility and family building, adoption assistance, life insurance, supplemental health protection plans, auto and home insurance, legal counseling, identity theft protection and consumer discounts",
-        "Learn more about Employee Benefits"
-      ],
-      "Responsibilities": [
-        "As a RN Staff ICU , your voice to influence patient care is valued and empowered at every turn –whether through open, collaborative relationships with your direct manager or more formal opportunities through hospital councils and national nursing initiatives",
-        "Youll help shape decisions that elevate both patient outcomes and the future of nursing",
-        "The Registered Nurse coordinates and delivers high quality, patient-centered care in accordance with the nature and specific requirements of the department, and consistent with the scope and standards of practice for the relevant state and specialty",
-        "In collaboration with medical providers and other members of the care team, the RN provides individualized, comprehensive, and compassionate care using established nursing models such as “Assess, Perform, Teach, and Manage.” The RN serves as an advocate for patients/families/caregivers and models a commitment to the organization’s vision/mission/values to support an unparalleled patient experience and clinical outcomes that contribute to overall departmental performance",
-        "Performs procedures, monitoring, or other functions as ordered by the medical provider(s)",
-        "Documents the administration of care in the patient medical record in a timely and thorough manner",
-        "Teaches patients/families/caregivers about patient medical condition, patient status, treatment plan, medications and possible side effects, and follow-up measures",
-        "Translates complex medical terminology to ensure complete understanding",
-        "Teaches patients/families/caregivers about any non-medicinal follow-up measures, such as healthy diet and exercise, disease prevention, and/or other lifestyle changes",
-        "Prepares patients and families/caregivers for future self-management",
-        "Manages evidence-based practices and continuous process improvement initiatives to meet and exceed quality measures and enhance the exceptional care provided to patients",
-        "Manages the quality of care by collaborating with a multidisciplinary team to coordinate, evaluate, customize, and deliver a holistic patient treatment plan that promotes and supports recovery"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "careers-hcahealthcare-com-jobs-17351378-rn-staff-icu",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "sjAYBV7WTW7W0XbtAAAAAA==",
-    "job_title": "Registered Nurse (RN) - ICU",
-    "employer_name": "Fauquier Health",
-    "employer_logo": null,
-    "employer_website": "https://www.fauquierhealth.org",
-    "job_publisher": "GetHiredToday - Women For Hire",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://jobs.womenforhire.com/job/usa/midland-va/registered-nurse-rn-icu-007155/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "GetHiredToday - Women For Hire",
-        "apply_link": "https://jobs.womenforhire.com/job/usa/midland-va/registered-nurse-rn-icu-007155/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Registered Nurse (RN) - ICU\n\nEarn Up To $20,000 Sign On Bonus\n\nSchedule: Full Time Rotating Shifts. 3-12 hour shifts per week.\n\nYour experience matters\n\nFauquier Health is part of Lifepoint Health, a diversified healthcare delivery network with facilities coast to coast. We are driven by a profound commitment to prioritize your well-being so you can provide exceptional care to others. As a Registered Nurse on the Intensive Care team, you're embracing a vital mission dedicated to making communities healthier. Join us on this meaningful journey where your skills, compassion and dedication will make a remarkable difference in the lives of those we serve.\n\nMore about our team\n\nFauquier Health's ICU is home to Critical Care trained physicians, making us a unique community hospital that provides 24/7 critical care intensivist coverage. Our ICU provides the services our community needs close to home.\n\nHow you'll contribute\n\nA Registered Nurse who excels in this role:\n• Accurately performs patient assessments and identifies patient needs\n• Identifies and initiates appropriate nursing interventions\n• Provides care appropriate to condition and age of the patient\n• Performs timely and appropriate documentation relating to medical necessity in the medical record\n• Responsible for completion and revision of the Interdisciplinary Care Plan for each patient\n\nWhy join us\n\nWe believe that investing in our employees is the first step to providing excellent patient care. In addition to your base compensation, this position also offers:\n• Comprehensive Benefits: Multiple levels of medical, dental and vision coverage for full-time and part-time employees.\n• Financial Protection & PTO: Life, accident, critical illness, hospital indemnity insurance, short- and long-term disability, and paid time off.\n• Financial & Career Growth: Higher education and certification tuition assistance, loan assistance and 401(k) retirement package and company match.\n• Employee Well-being: Mental, physical, and financial wellness programs (free gym memberships, virtual care appointments, mental health services and discount programs).\n• Professional Development: Ongoing learning and career advancement opportunities.\n• Self Scheduling: Flexibility to self schedule to support work-life balance while ensuring alignment with operational needs.\n\nWhat we're looking for\nApplicants should have a current Virginia state or compact state RN license.\n• Basic Life Support (BLS) is required within 7 days of hire\n• ACLS, NIHSS required within 30 days of hire\n• Bachelor's degree in nursing (BSN) preferred\n• Minimum of 1 year of nursing experience required\n\nMore about Fauquier Health\n\nFauquier Health is a 97-bed acute care hospital offering surgical services (including robotics), a 24-hour Emergency Department, extensive medical imaging capabilities, an Intensive Care Unit and much, much more. The Fauquier Health system offers patient care for a variety of specialty services including Orthopedics and Spine, a Cardiac Catheterization Lab, and robotic-assisted surgery. The fourth floor of the hospital is devoted to our Family Birthing Center and Intermediate Care Nursery.\n\nFauquier Health is proud to be nationally recognized as a Top General Hospital by the Leapfrog group with a dedication to quality, patient-centered care. We are also accredited by the Joint Commission, a certified Primary Stroke Center, Center for Excellence in Joint Replacement, and an accredited Chest Pain Center.\n\nEEOC Statement\n\nFauquier Health is an Equal Opportunity Employer. Fauquier Health is committed to Equal Employment Opportunity for all applicants and employees and complies with all applicable laws prohibiting discrimination and harassment in employment.\n\nLifepoint Health is a leader in community-based care and driven by a mission of Making Communities Healthier. Our diversified healthcare delivery network spans 29 states and includes 63 community hospital campuses, 32 rehabilitation and behavioral health hospitals, and more than 170 additional sites of care across the healthcare continuum, such as acute rehabilitation units, outpatient centers and post-acute care facilities. We believe that success is achieved through talented people. We want to create places where employees want to work, with opportunities to pursue meaningful and satisfying careers that truly make a difference in communities across the country.",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Midland, VA",
-    "job_city": "Midland",
-    "job_state": "Virginia",
-    "job_country": "US",
-    "job_latitude": 38.597117499999996,
-    "job_longitude": -77.7264823,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsjAYBV7WTW7W0XbtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "Applicants should have a current Virginia state or compact state RN license",
-        "Basic Life Support (BLS) is required within 7 days of hire",
-        "ACLS, NIHSS required within 30 days of hire",
-        "Minimum of 1 year of nursing experience required"
-      ],
-      "Benefits": [
-        "Earn Up To $20,000 Sign On Bonus",
-        "Schedule: Full Time Rotating Shifts",
-        "3-12 hour shifts per week",
-        "Comprehensive Benefits: Multiple levels of medical, dental and vision coverage for full-time and part-time employees",
-        "Financial Protection & PTO: Life, accident, critical illness, hospital indemnity insurance, short- and long-term disability, and paid time off",
-        "Financial & Career Growth: Higher education and certification tuition assistance, loan assistance and 401(k) retirement package and company match",
-        "Employee Well-being: Mental, physical, and financial wellness programs (free gym memberships, virtual care appointments, mental health services and discount programs)",
-        "Professional Development: Ongoing learning and career advancement opportunities",
-        "Self Scheduling: Flexibility to self schedule to support work-life balance while ensuring alignment with operational needs"
-      ],
-      "Responsibilities": [
-        "Accurately performs patient assessments and identifies patient needs",
-        "Identifies and initiates appropriate nursing interventions",
-        "Provides care appropriate to condition and age of the patient",
-        "Performs timely and appropriate documentation relating to medical necessity in the medical record",
-        "Responsible for completion and revision of the Interdisciplinary Care Plan for each patient"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "jobs-womenforhire-com-job-usa-midland-va-registered-nurse-rn-icu-007155",
     "_source": "new_jobs"
   },
   {
@@ -500,6 +313,376 @@
     "_source": "new_jobs"
   },
   {
+    "job_id": "OaFjBWdXrPVU5N0RAAAAAA==",
+    "job_title": "RN Staff ICU",
+    "employer_name": "Medical City Denton",
+    "employer_logo": null,
+    "employer_website": "https://www.medicalcityhealthcare.com",
+    "job_publisher": "HCA Healthcare",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://careers.hcahealthcare.com/jobs/17351378-rn-staff-icu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "HCA Healthcare",
+        "apply_link": "https://careers.hcahealthcare.com/jobs/17351378-rn-staff-icu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=ea8f7c045b2336e5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/Medical-City-Denton/Job/RN-Staff-ICU/-in-Denton,TX?jid=99a9b40e1734aaa2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "LinkedIn",
+        "apply_link": "https://www.linkedin.com/jobs/view/rn-staff-icu-at-medical-city-healthcare-4373993091?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "IntelyCare",
+        "apply_link": "https://www.intelycare.com/jobs/169303624-rn-staff-icu?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/TP2Zy0un6C3imJ9N0XhlDt9rLHC8SzN-m0xq7yBLER2-T3Dvm5IZ2w?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "EarnBetter",
+        "apply_link": "https://earnbetter.com/app/job/01KHQ6W6WP7TFQSY9MW17DTFTV/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Breakroom",
+        "apply_link": "https://www.breakroom.cc/en-us/jobs/listing/28570246-hca-healthcare-rn-staff-icu-denton-texas-76201-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "As a RN Staff ICU , your voice to influence patient care is valued and empowered at every turn –whether through open, collaborative relationships with your direct manager or more formal opportunities through hospital councils and national nursing initiatives. Youll help shape decisions that elevate both patient outcomes and the future of nursing.\nJob Summary and Qualifications\n\nThe Registered Nurse coordinates and delivers high quality, patient-centered care in accordance with the nature and specific requirements of the department, and consistent with the scope and standards of practice for the relevant state and specialty. In collaboration with medical providers and other members of the care team, the RN provides individualized, comprehensive, and compassionate care using established nursing models such as “Assess, Perform, Teach, and Manage.” The RN serves as an advocate for patients/families/caregivers and models a commitment to the organization’s vision/mission/values to support an unparalleled patient experience and clinical outcomes that contribute to overall departmental performance.\n• Performs procedures, monitoring, or other functions as ordered by the medical provider(s). Documents the administration of care in the patient medical record in a timely and thorough manner.\n• Teaches patients/families/caregivers about patient medical condition, patient status, treatment plan, medications and possible side effects, and follow-up measures. Translates complex medical terminology to ensure complete understanding.\n• Teaches patients/families/caregivers about any non-medicinal follow-up measures, such as healthy diet and exercise, disease prevention, and/or other lifestyle changes. Prepares patients and families/caregivers for future self-management.\n• Manages evidence-based practices and continuous process improvement initiatives to meet and exceed quality measures and enhance the exceptional care provided to patients.\n• Manages the quality of care by collaborating with a multidisciplinary team to coordinate, evaluate, customize, and deliver a holistic patient treatment plan that promotes and supports recovery.\n\nWhat qualifications you will need:\n• (RN) Registered Nurse\n• Associate Degree\n• 1 year in ICU required\n• Advanced Cardiac Life Spt must be obtained within 90 days of employment start date\n• Basic Cardiac Life Support must be obtained within 30 days of employment start date\n\nBenefits\n\nMedical City Denton, offers a total rewards package that supports the health, life, career and retirement of our colleagues. The available plans and programs include:\n• Comprehensive benefits for medical, prescription drug, dental, vision, behavioral health and telemedicine services\n• Wellbeing support, including free counseling and referral services\n• Time away from work programs for paid time off, paid family leave, long- and short-term disability coverage and leaves of absence\n• Savings and retirement resources, including a 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service), Employee Stock Purchase Plan, flexible spending accounts, preferred banking partnerships, retirement readiness tools, rollover support and financial wellbeing counseling\n• Education support through tuition assistance, student loan assistance, certification support, dependent scholarships and a partnership with Galen College of Nursing\n• Additional benefits for fertility and family building, adoption assistance, life insurance, supplemental health protection plans, auto and home insurance, legal counseling, identity theft protection and consumer discounts\n\nLearn more about Employee Benefits\n\nNote: Eligibility for benefits may vary by location.\n\n\"Nurses play a pivotal role and are the backbone of healthcare delivery. At HCA Healthcare, we are dedicated to ensuring nurses have necessary tools and resources to provide world-class patient care, advocating for the profession and helping to shape the future of nursing.\"\n\nSammie Mosier, DHA, MA, BSN, NE-BC\n\nSenior Vice President and Chief Nursing Executive, HCA Healthcare\n\nHCA Healthcare has been named one of the World’s Most Ethical Companies by Ethisphere Institute for ten consecutive years (2010-2019). In 2019, HCA Healthcare spent an estimated 3.7 billion in cost for the delivery of charitable care, uninsured discounts, and other uncompensated expenses.\n\nIf this opportunity is your next step in your career path, we encourage you to apply for our RN Staff ICU opening. We review all applications. Qualified candidates will be contacted by a member of our team. We are interviewing, apply today!\n\nWe are an equal opportunity employer. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.",
+    "job_is_remote": false,
+    "job_posted_at": "2 days ago",
+    "job_posted_at_timestamp": 1771200000,
+    "job_posted_at_datetime_utc": "2026-02-16T00:00:00.000Z",
+    "job_location": "Denton, TX",
+    "job_city": "Denton",
+    "job_state": "Texas",
+    "job_country": "US",
+    "job_latitude": 33.2165858,
+    "job_longitude": -97.13241049999999,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DOaFjBWdXrPVU5N0RAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "(RN) Registered Nurse",
+        "Associate Degree",
+        "1 year in ICU required",
+        "Advanced Cardiac Life Spt must be obtained within 90 days of employment start date",
+        "Basic Cardiac Life Support must be obtained within 30 days of employment start date"
+      ],
+      "Benefits": [
+        "Medical City Denton, offers a total rewards package that supports the health, life, career and retirement of our colleagues",
+        "The available plans and programs include:",
+        "Comprehensive benefits for medical, prescription drug, dental, vision, behavioral health and telemedicine services",
+        "Wellbeing support, including free counseling and referral services",
+        "Time away from work programs for paid time off, paid family leave, long- and short-term disability coverage and leaves of absence",
+        "Savings and retirement resources, including a 401(k) Plan with a 100% match on 3% to 9% of pay (based on years of service), Employee Stock Purchase Plan, flexible spending accounts, preferred banking partnerships, retirement readiness tools, rollover support and financial wellbeing counseling",
+        "Education support through tuition assistance, student loan assistance, certification support, dependent scholarships and a partnership with Galen College of Nursing",
+        "Additional benefits for fertility and family building, adoption assistance, life insurance, supplemental health protection plans, auto and home insurance, legal counseling, identity theft protection and consumer discounts",
+        "Learn more about Employee Benefits"
+      ],
+      "Responsibilities": [
+        "As a RN Staff ICU , your voice to influence patient care is valued and empowered at every turn –whether through open, collaborative relationships with your direct manager or more formal opportunities through hospital councils and national nursing initiatives",
+        "Youll help shape decisions that elevate both patient outcomes and the future of nursing",
+        "The Registered Nurse coordinates and delivers high quality, patient-centered care in accordance with the nature and specific requirements of the department, and consistent with the scope and standards of practice for the relevant state and specialty",
+        "In collaboration with medical providers and other members of the care team, the RN provides individualized, comprehensive, and compassionate care using established nursing models such as “Assess, Perform, Teach, and Manage.” The RN serves as an advocate for patients/families/caregivers and models a commitment to the organization’s vision/mission/values to support an unparalleled patient experience and clinical outcomes that contribute to overall departmental performance",
+        "Performs procedures, monitoring, or other functions as ordered by the medical provider(s)",
+        "Documents the administration of care in the patient medical record in a timely and thorough manner",
+        "Teaches patients/families/caregivers about patient medical condition, patient status, treatment plan, medications and possible side effects, and follow-up measures",
+        "Translates complex medical terminology to ensure complete understanding",
+        "Teaches patients/families/caregivers about any non-medicinal follow-up measures, such as healthy diet and exercise, disease prevention, and/or other lifestyle changes",
+        "Prepares patients and families/caregivers for future self-management",
+        "Manages evidence-based practices and continuous process improvement initiatives to meet and exceed quality measures and enhance the exceptional care provided to patients",
+        "Manages the quality of care by collaborating with a multidisciplinary team to coordinate, evaluate, customize, and deliver a holistic patient treatment plan that promotes and supports recovery"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "careers-hcahealthcare-com-jobs-17351378-rn-staff-icu",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "sjAYBV7WTW7W0XbtAAAAAA==",
+    "job_title": "Registered Nurse (RN) - ICU",
+    "employer_name": "Fauquier Health",
+    "employer_logo": null,
+    "employer_website": "https://www.fauquierhealth.org",
+    "job_publisher": "GetHiredToday - Women For Hire",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://jobs.womenforhire.com/job/usa/midland-va/registered-nurse-rn-icu-007155/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "GetHiredToday - Women For Hire",
+        "apply_link": "https://jobs.womenforhire.com/job/usa/midland-va/registered-nurse-rn-icu-007155/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Registered Nurse (RN) - ICU\n\nEarn Up To $20,000 Sign On Bonus\n\nSchedule: Full Time Rotating Shifts. 3-12 hour shifts per week.\n\nYour experience matters\n\nFauquier Health is part of Lifepoint Health, a diversified healthcare delivery network with facilities coast to coast. We are driven by a profound commitment to prioritize your well-being so you can provide exceptional care to others. As a Registered Nurse on the Intensive Care team, you're embracing a vital mission dedicated to making communities healthier. Join us on this meaningful journey where your skills, compassion and dedication will make a remarkable difference in the lives of those we serve.\n\nMore about our team\n\nFauquier Health's ICU is home to Critical Care trained physicians, making us a unique community hospital that provides 24/7 critical care intensivist coverage. Our ICU provides the services our community needs close to home.\n\nHow you'll contribute\n\nA Registered Nurse who excels in this role:\n• Accurately performs patient assessments and identifies patient needs\n• Identifies and initiates appropriate nursing interventions\n• Provides care appropriate to condition and age of the patient\n• Performs timely and appropriate documentation relating to medical necessity in the medical record\n• Responsible for completion and revision of the Interdisciplinary Care Plan for each patient\n\nWhy join us\n\nWe believe that investing in our employees is the first step to providing excellent patient care. In addition to your base compensation, this position also offers:\n• Comprehensive Benefits: Multiple levels of medical, dental and vision coverage for full-time and part-time employees.\n• Financial Protection & PTO: Life, accident, critical illness, hospital indemnity insurance, short- and long-term disability, and paid time off.\n• Financial & Career Growth: Higher education and certification tuition assistance, loan assistance and 401(k) retirement package and company match.\n• Employee Well-being: Mental, physical, and financial wellness programs (free gym memberships, virtual care appointments, mental health services and discount programs).\n• Professional Development: Ongoing learning and career advancement opportunities.\n• Self Scheduling: Flexibility to self schedule to support work-life balance while ensuring alignment with operational needs.\n\nWhat we're looking for\nApplicants should have a current Virginia state or compact state RN license.\n• Basic Life Support (BLS) is required within 7 days of hire\n• ACLS, NIHSS required within 30 days of hire\n• Bachelor's degree in nursing (BSN) preferred\n• Minimum of 1 year of nursing experience required\n\nMore about Fauquier Health\n\nFauquier Health is a 97-bed acute care hospital offering surgical services (including robotics), a 24-hour Emergency Department, extensive medical imaging capabilities, an Intensive Care Unit and much, much more. The Fauquier Health system offers patient care for a variety of specialty services including Orthopedics and Spine, a Cardiac Catheterization Lab, and robotic-assisted surgery. The fourth floor of the hospital is devoted to our Family Birthing Center and Intermediate Care Nursery.\n\nFauquier Health is proud to be nationally recognized as a Top General Hospital by the Leapfrog group with a dedication to quality, patient-centered care. We are also accredited by the Joint Commission, a certified Primary Stroke Center, Center for Excellence in Joint Replacement, and an accredited Chest Pain Center.\n\nEEOC Statement\n\nFauquier Health is an Equal Opportunity Employer. Fauquier Health is committed to Equal Employment Opportunity for all applicants and employees and complies with all applicable laws prohibiting discrimination and harassment in employment.\n\nLifepoint Health is a leader in community-based care and driven by a mission of Making Communities Healthier. Our diversified healthcare delivery network spans 29 states and includes 63 community hospital campuses, 32 rehabilitation and behavioral health hospitals, and more than 170 additional sites of care across the healthcare continuum, such as acute rehabilitation units, outpatient centers and post-acute care facilities. We believe that success is achieved through talented people. We want to create places where employees want to work, with opportunities to pursue meaningful and satisfying careers that truly make a difference in communities across the country.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Midland, VA",
+    "job_city": "Midland",
+    "job_state": "Virginia",
+    "job_country": "US",
+    "job_latitude": 38.597117499999996,
+    "job_longitude": -77.7264823,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DsjAYBV7WTW7W0XbtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Applicants should have a current Virginia state or compact state RN license",
+        "Basic Life Support (BLS) is required within 7 days of hire",
+        "ACLS, NIHSS required within 30 days of hire",
+        "Minimum of 1 year of nursing experience required"
+      ],
+      "Benefits": [
+        "Earn Up To $20,000 Sign On Bonus",
+        "Schedule: Full Time Rotating Shifts",
+        "3-12 hour shifts per week",
+        "Comprehensive Benefits: Multiple levels of medical, dental and vision coverage for full-time and part-time employees",
+        "Financial Protection & PTO: Life, accident, critical illness, hospital indemnity insurance, short- and long-term disability, and paid time off",
+        "Financial & Career Growth: Higher education and certification tuition assistance, loan assistance and 401(k) retirement package and company match",
+        "Employee Well-being: Mental, physical, and financial wellness programs (free gym memberships, virtual care appointments, mental health services and discount programs)",
+        "Professional Development: Ongoing learning and career advancement opportunities",
+        "Self Scheduling: Flexibility to self schedule to support work-life balance while ensuring alignment with operational needs"
+      ],
+      "Responsibilities": [
+        "Accurately performs patient assessments and identifies patient needs",
+        "Identifies and initiates appropriate nursing interventions",
+        "Provides care appropriate to condition and age of the patient",
+        "Performs timely and appropriate documentation relating to medical necessity in the medical record",
+        "Responsible for completion and revision of the Interdisciplinary Care Plan for each patient"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "jobs-womenforhire-com-job-usa-midland-va-registered-nurse-rn-icu-007155",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "iAf20g0vnzkw1oA9AAAAAA==",
+    "job_title": "Registered Nurse - ICU - Part-time -.9 FTE",
+    "employer_name": "Veterans Affairs, Veterans Health Administration",
+    "employer_logo": null,
+    "employer_website": null,
+    "job_publisher": "National Association Of Nurse Practitioners In Women's Health (NPWH), NPWH CareerCenter",
+    "job_employment_type": "Part-time",
+    "job_employment_types": [
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://careers.npwh.org/jobs/22046861/?utm_source=716941&utm_medium=featuredJobs&utm_campaign=mainLanding&utm_term=?utm_source%3D716941&utm_medium=recentJobs&utm_campaign=mainLanding&utm_term&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "National Association Of Nurse Practitioners In Women's Health (NPWH), NPWH CareerCenter",
+        "apply_link": "https://careers.npwh.org/jobs/22046861/?utm_source=716941&utm_medium=featuredJobs&utm_campaign=mainLanding&utm_term=?utm_source%3D716941&utm_medium=recentJobs&utm_campaign=mainLanding&utm_term&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "APHA Careers",
+        "apply_link": "https://careers.apha.org/jobs/22046861/?utm_source=32646&utm_medium=featuredJobs&utm_campaign=mainLanding&utm_term=?utm_source%3D32646&utm_medium=recentJobs&utm_campaign=mainLanding&utm_term&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "JMIR Publications (JMIR), JMIR Career Center",
+        "apply_link": "https://careers.jmir.org/jobs/22046861/registered-nurse-icu-part-time-9-fte?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "ZipRecruiter",
+        "apply_link": "https://www.ziprecruiter.com/c/SD-Department-of-Veterans-Affairs/Job/Registered-Nurse-ICU-Part-time-.9-FTE/-in-Lexington,KY?jid=3978f325b60baac2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "SimplyHired",
+        "apply_link": "https://www.simplyhired.com/job/6W9WYpQN6V1YuyFOBnQXsI7gNklGU-mfbFY95FITyDoZ6Nojgh31Aw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Career.io",
+        "apply_link": "https://career.io/job/registered-nurse-icu-part-time-lexington-department-of-veterans-affairs-20b46d16d8b86282c299e1330130245a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      },
+      {
+        "publisher": "Health Career Center",
+        "apply_link": "https://jobs.healthcareercenter.com/jobs/22046861/registered-nurse-icu-part-time-9-fte?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "National Rural Health Association (NRHA), NRHA Career Center",
+        "apply_link": "https://careers.ruralhealth.us/jobs/22046861/?utm_source=265434&utm_medium=featuredJobs&utm_campaign=mainLanding&utm_term=?utm_source%3D265434&utm_medium=recentJobs&utm_campaign=mainLanding&utm_term&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Summary\n\nThis position is eligible for the Education Debt Reduction Program - a student loan payment reimbursement program. You must meet specific eligibility requirements per VHA policy and submit your EDRP application within four months of appointment. Program Approval - award amount (up to $200 -000) & eligibility period (one to five years) are determined by the VHA Education Loan Repayment Services program office after review of the EDRP application. Former EDRP participants ineligible to apply.\n\nQualifications Basic Requirements:\n• English Language Proficiency\n• In accordance with 38 U.S.C. 7403(f) - no person shall serve in direct patient care positions unless they are proficient in basic written and spoken English\n• Graduate of a school of professional nursing approved by the appropriate accrediting agency and accredited by one of the following accrediting bodies at the time the program was completed by the applicant: The Accreditation Commission for Education in Nursing (ACEN) or The Commission on Collegiate Nursing Education (CCNE)\n• OR Individuals attending a master's level bridge program in nursing who have completed coursework equivalent to a bachelor's level degree in Nursing may have opportunity to become registered as a nurse with a state licensing board prior to completion of the bridge program\n• Upon achievement of a State license - the individual may be appointed on temporary basis and later converted to a permanent appointment upon successful completion and graduation from the bridge program\n• (Reference VA Handbook 5005 - Appendix G6)\n• OR In cases of graduates of foreign schools of professional nursing - possession of a current - full - active - and unrestricted registration will meet the requirement for graduation from an approved school of professional nursing to warrant an appointment as a Nurse who has completed an associated degree/entry level Nursing education program\n• Credit for foreign nursing education higher that associate degree/entry level requires a formal degree equivalency validation from a recognized equivalency evaluation accepted by VA such as International Consultants of Delaware (ICD)\n• Current - full - active - and unrestricted registration as a graduate professional nurse in a State - Territory or Commonwealth (i.e. - Puerto Rico) of the United States - or the District of Columbia\n• Graduate Nurse Technician (GNT) Exception: Candidates who otherwise meet the basic education requirements - but do not possess the required licensure - may be appointed at the entry step of the grade and level applicable to the completed nursing education as a GNT on a 120-day temporary appointment while actively pursuing licensure (may be extended up to two years on a case-by-case-basis.) NOTE: Grandfathering Provision - All persons currently employed in VHA in 0610 series and performing the duties as described in the qualification standard on the effective date of the standard (1/29/2024) are considered to have met all qualification requirements for the grade held including positive education and licensure/certification\n• Grade Determinations: The following Scope - Education and Dimension criteria must be met in determining the grade assignment of candidates - and if appropriate - the level within a grade\n• The Dimension requirements (Practice - Veteran/Patient Driven Care - Leadership - Professional Development and Evidence-Based Practice/Research) are detailed for each grade and level within the online assessment: https://apply.usastaffing.gov/ViewQuestionnaire/12889163\n• Grade/Level Scope Education Nurse I - Level I Delivers fundamental - knowledge-based care to assigned clients while developing technical competencies\n• An Associate Degree (ADN) or Diploma in Nursing - with no additional professional nursing required\n• Nurse I - Level II Demonstrates integration of biopsychosocial concepts - cognitive skills and technically competent practice in providing care to clients with basic or complex\n• An ADN or Diploma in Nursing AND 1 year of specialized nursing experience equivalent to Nurse I - Level 1 ;OR a Bachelor of Science in Nursing (BSN) with no additional professional nursing experience required\n• Nurse I - Level III Demonstrates proficiency in practice based on conscious and deliberate planning\n• Self-directed in goal setting for managing complex client situations\n• An ADN or Diploma in Nursing AND 2 years of professional nursing experience in which one year is equivalent to Nurse I - Level 2\n• OR a BSN and 1 year of professional nursing experience equivalent to the Nurse I - Level 2\n• OR a Master's degree in nursing (MSN) and no additional professional nursing experience\n• OR a Master's degree in a *related field with a BSN and no additional professional nursing experience\n• Nurse II Demonstrates leadership in delivering and improving holistic care through collaborative strategies with others\n• A BSN with 2 years of professional nursing equivalent to Nurse I - Level 3\n• OR an MSN with one year of specialized nursing experience equivalent to Nurse I - Level 3\n• OR a Master's degree in a *related field with a BSN and one year of specialized nursing experience equivalent to Nurse I - Level 3\n• OR a Doctoral degree in Nursing with no professional nursing experience\n• OR a Doctoral degree in a *related field with a BSN with no additional professional nursing experience\n• Nurse III Executes position responsibilities that demonstrate leadership - experience and creative approaches to management of complex client care beyond the immediate practice setting\n• MSN and 2 years of specialized nursing experience - one of which is equivalent to Nurse II and meets all dimension requirements for Nurse III\n• OR a Master's degree in *related field with BSN and two years of specialized nursing experience - one of which is equivalent to Nurse II and meets all dimension requirements for Nurse III\n• OR a Doctoral degree in Nursing with and one year of specialized nursing experience equivalent to Nurse II and meets all dimension requirements for Nurse III\n• OR a Doctoral degree in a *related field with a BSN and one year of specialized nursing experience equivalent to Nurse II and meets all dimension requirements for Nurse III\n• *Note: Foreign education programs/degrees are not creditable as related degrees\n• Preferred Experience: -A minimum of 1 year med/surg experience is preferred -Previous Critical care experience highly preferred -BSN preferred Reference: For more information on this qualification standard - please visit https://www.va.gov/ohrm/QualificationStandards/\n• Physical Requirements: This position requires visual acuity - keen hearing - clear distinctive speech - and manual dexterity\n• This position requires potentially long periods of continued walking - standing - stooping - sitting - bending - pulling - and pushing\n• Transferring patients and objects may be required\n• The incumbent may be exposed to infected patients and contaminated materials and may be required to don protective clothing in isolation situations or operative/invasive procedures\n• The incumbent may occasionally be exposed to patients who are combative secondary to delirium - dementia - or psychiatric disorders\n• The incumbent must be a mature - flexible - sensible individual capable of working effectively in stressful situations - able to shift priorities based on patient needs.\n\nDuties\n• This part-time (0.9 FTEE) Registered Nurse (staff nurse) is directly responsible to the Nurse Manager in the ICU\n• the RN - provides an environment for the delivery of care to clinically complicated and severely ill patients with acute and potentially life threatening - general medical - surgical and disease carrying multi-system failure in the adult population\n• They are responsible for assuring continuity of care for Critical Care patients implementing applicable disease management protocols as appropriate\n• The RN possesses basic knowledge and skills to apply all aspects of the nursing process within a collaborative - interdisciplinary practice setting which will then enable effective implementation of health promotion and prevention practices - management of acute and chronic illnesses - and attainment of optimal levels of functioning and/or support of the dying patient and significant others\n• Interdisciplinary plans of care are developed - implemented - reviewed - and revised as necessary\n• Nursing responsibilities include - but are not limited to: - Assess - plan - implement and evaluate patient nursing care\n• - Initiate treatments - administer critical medications and monitors effects and patient progress\n• - Assists the critical care physician with procedures\n• - Identify sudden or subtle changes in a patient's medical condition\n• - Collaborate with ICU team and other health care professionals\n• - Respond to Rapid Response and Code Blue calls\n• - Deliver regular updates to doctors - patients - and their family members\n• - Operate technological equipment utilized on the unit\n• - Maintain complete and accurate computerized patient records\n• - Act as patient advocate\n• - Performs other related duties as assigned\n• - Cross-train and cover in the PCU\n• Role responsibilities and accountabilities also include demonstration of knowledge and skills necessary to provide care appropriate to the age-related needs of patients served in the assigned area of practice\n• This knowledge includes understanding changes associated with aging and principles of growth and development relevant to the adult and geriatric population\n• Pay Scale: NP96 VA offers a comprehensive total rewards package: VA Nurse Total Rewards Pay: Competitive salary - regular salary increases - potential for performance awards Paid Time Off: 50 days of paid time off per year (26 days of annual leave - 13 days of sick leave - 11 paid Federal holidays per year) Retirement: Traditional federal pension (5 years vesting) and federal 401K with up to 5% in contributions by VA Insurance: Federal health/vision/dental/term life/long-term care (many federal insurance programs can be carried into retirement) Licensure: 1 full and unrestricted license from any US State or territory Work Schedule: 12hr Rotating Tour of Duty Telework: Not available Virtual: This is not a virtual position\n• Relocation/Recruitment Incentives: Not authorized EDRP Authorized: Former EDRP participants ineligible to apply for incentive\n• Contact EDRP VISN9HREDRP@va.gov - the EDRP Coordinator for questions/assistance\n• Learn more Permanent Change of Station (PCS): Not authorized",
+    "job_is_remote": false,
+    "job_posted_at": "5 days ago",
+    "job_posted_at_timestamp": 1770940800,
+    "job_posted_at_datetime_utc": "2026-02-13T00:00:00.000Z",
+    "job_location": "Lexington, KY",
+    "job_city": "Lexington",
+    "job_state": "Kentucky",
+    "job_country": "US",
+    "job_latitude": 38.0389091,
+    "job_longitude": -84.5152662,
+    "job_benefits": [
+      "health_insurance",
+      "dental_coverage",
+      "paid_time_off"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiAf20g0vnzkw1oA9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {},
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "careers-npwh-org-jobs-22046861",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "FAxOSpmowqX5S1odAAAAAA==",
+    "job_title": "Registered Nurse- Intensive Care Unit",
+    "employer_name": "IU Health",
+    "employer_logo": null,
+    "employer_website": "https://iuhealth.org",
+    "job_publisher": "IU Health Careers - Indiana University Health",
+    "job_employment_type": "Part-time",
+    "job_employment_types": [
+      "PARTTIME"
+    ],
+    "job_apply_link": "https://careers.iuhealth.org/jobs/17350812-registered-nurse-intensive-care-unit?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "IU Health Careers - Indiana University Health",
+        "apply_link": "https://careers.iuhealth.org/jobs/17350812-registered-nurse-intensive-care-unit?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/0a93099791aa0395daedea49ff1362c4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "IntelyCare",
+        "apply_link": "https://www.intelycare.com/jobs/169303574-registered-nurse-intensive-care-unit?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "EarnBetter",
+        "apply_link": "https://earnbetter.com/app/job/01KHQ6TEEG8PK6K5JB3BQ58A4E/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "J-O-B-Z",
+        "apply_link": "https://j-o-b-z.com/seo/job/136659631/in/muncie/registered-nurse--intensive-care-unit?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Job Abstracts",
+        "apply_link": "https://jobabstracts.com/Job/Single/?id1=136659631&hash=100162118019089206028242253085132086033220243081160031220127030182075095255215120193008171053110157244159006131036069253017002170088081196065200&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Overview\n\nSWO: PRN\n\nThis position is not eligible for sign on bonus.\n\nIndiana University Health is looking for passionate, experienced nurses to join our team and collaborate with top medical professionals.\n\nAt IU Health, you will learn and develop your career in significant ways, advancing healthcare and delivering the highest level of patient care. Being an IU Health nurse means building a professional nursing career designed by a culture that accepts your outstanding strengths and supports your personal and professional goals. If you are seeking an organization where you can develop clinical expertise, explore diverse career opportunities, embrace learning, cultivate new relationships, and fuel your spirit of inquiry, apply today.\n\nAre you an upcoming nurse graduate or recent nurse graduate? Please apply through our pipeline requisition here: www.iuhealth.org/ApplyRN. This pipeline requisition allows the IU Health Talent Acquisition team to pair upcoming & recent nurse graduates with the best opportunities available to them based on their unique skillset and interests. Thanks for your interest in joining the team!\n\nBall Memorial’s adult intensive care unit is an 18-bed unit specializes in Comprehensive care putting the patient and their family first, addressing all elements of care medical, emotional, and spiritual. Driven by evidence-based practice to provide up to date care and pushing the field of nursing forward. we use a multidisciplinary team approach consisting of nurses, physicians, patient care assistants, case managers, and secretarial support staff. Our care team specializes in the care of acutely ill medical/surgical patients, with a primary focus on patients effected by trauma, general surgery, stroke, cardiac arrest respiratory failure/prone, neurosurgery, and unstable critical patients. We pride ourselves on our strong partnership and high-quality care we deliver to our patients.\n\nNursing skills gained on this unit:\n• Service Specialties: Ventriculostomy/Neurosurgery, CRRT/CVVHD, IABP, NIHSS Stroke Certification, Target Temperature Management, TBI Management, Assistance with bedside procedures (bronchoscopy, central line placement, intubation, cardioversion, etc.)\n\nUnit Successes/Designations:\n• Structured support and mentors for new nurses to transition through their first 2 years from novice to expert.\n• 12-14 Week Nursing Orientation\n• Supporting our local community to provide quick stroke treatment\n• Comprehensive post-arrest care\n• Comprehensive trauma care\n• Multiple staff members who have presented at national conferences.\n• Professional Development (CCRN driven)\n• Several Daisy Award Winning Nurses with an abundance of nurses receiving nominations\n\nUnit Culture:\n• ICU Vision Statement- Our team’s purpose and passion is to stabilize and treat critically ill patients within the East Central Region, who are our families, friends, and neighbors.\n• We strive to provide excellent, evidence-based care and genuine compassion for our patients and their families.\n\nQualifications:\n• Requires an Associates of Nursing (ASN); Bachelor of Nursing (BSN) preferred.\n• Education: The Registered Nurse (RN) must have graduated from a nationally accredited nursing program.\n• Exceptions: Candidates who have not graduated from a nationally accredited program may be considered if they possess more than two years of acute care experience. Such exceptions are subject to review and approval by the Chief Nursing Officer (CNO).\n• Requires an active Registered Nurse (RN) license in the state of Indiana or an active Nurse Licensure Compact (NLC) RN license.\n• Requires Basic Life Support certification through the AHA.\n• Other advanced Life Support certifications may be required per unit/department specialty according to patient care policies.\n\nWhy Join IU Health?\n\nAs Indiana’s largest and most comprehensive healthcare system, and the number 1 ranked healthcare system in Indiana, we offer:\n• Increased pay scale for bedside nurses\n• A supportive and collaborative work environment that is patient centered.\n• Competitive benefits.\n• 401(K) retirement savings with employer match.\n• Employer paid medical leave.\n• Tuition reimbursement.\n• Student loan forgiveness – IU Health qualifies under the public service loan forgiveness program.",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Muncie, IN",
+    "job_city": "Muncie",
+    "job_state": "Indiana",
+    "job_country": "US",
+    "job_latitude": 40.1936877,
+    "job_longitude": -85.3876714,
+    "job_benefits": [
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DFAxOSpmowqX5S1odAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "Service Specialties: Ventriculostomy/Neurosurgery, CRRT/CVVHD, IABP, NIHSS Stroke Certification, Target Temperature Management, TBI Management, Assistance with bedside procedures (bronchoscopy, central line placement, intubation, cardioversion, etc.)",
+        "Education: The Registered Nurse (RN) must have graduated from a nationally accredited nursing program",
+        "Exceptions: Candidates who have not graduated from a nationally accredited program may be considered if they possess more than two years of acute care experience",
+        "Such exceptions are subject to review and approval by the Chief Nursing Officer (CNO)",
+        "Requires an active Registered Nurse (RN) license in the state of Indiana or an active Nurse Licensure Compact (NLC) RN license",
+        "Requires Basic Life Support certification through the AHA",
+        "Other advanced Life Support certifications may be required per unit/department specialty according to patient care policies"
+      ],
+      "Benefits": [
+        "Several Daisy Award Winning Nurses with an abundance of nurses receiving nominations",
+        "Increased pay scale for bedside nurses",
+        "A supportive and collaborative work environment that is patient centered",
+        "Competitive benefits",
+        "401(K) retirement savings with employer match",
+        "Employer paid medical leave",
+        "Tuition reimbursement",
+        "Student loan forgiveness – IU Health qualifies under the public service loan forgiveness program"
+      ],
+      "Responsibilities": [
+        "Driven by evidence-based practice to provide up to date care and pushing the field of nursing forward",
+        "we use a multidisciplinary team approach consisting of nurses, physicians, patient care assistants, case managers, and secretarial support staff",
+        "Structured support and mentors for new nurses to transition through their first 2 years from novice to expert",
+        "12-14 Week Nursing Orientation",
+        "Supporting our local community to provide quick stroke treatment",
+        "Comprehensive post-arrest care",
+        "Comprehensive trauma care",
+        "Multiple staff members who have presented at national conferences",
+        "We strive to provide excellent, evidence-based care and genuine compassion for our patients and their families"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "careers-iuhealth-org-jobs-17350812-registered-nurse-intensive-care-unit",
+    "_source": "new_jobs"
+  },
+  {
     "job_id": "WtJtGYS9FR0XmVE4AAAAAA==",
     "job_title": "Day Shift ICU Nurse - St. Peter's Health Partners (Hiring Immediately)",
     "employer_name": "St. Peter's Health Partners",
@@ -563,129 +746,6 @@
     "_source": "new_jobs"
   },
   {
-    "job_id": "hz8ixHZLNyVA7bpdAAAAAA==",
-    "job_title": "Travel Nurse RN - Intensive Care Unit (ICU) / Critical Care - $2,038 to $2,164 per week in Greenville, NC",
-    "employer_name": "TravelNurseSource",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6QFXOQFsTdTnv71BkJeIqQKrlSQM0yWQkXViw&s=0",
-    "employer_website": "https://www.travelnursesource.com",
-    "job_publisher": "Indeed",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://www.indeed.com/viewjob?jk=b51b51ca77860ce5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Indeed",
-        "apply_link": "https://www.indeed.com/viewjob?jk=b51b51ca77860ce5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "CareerBuilder",
-        "apply_link": "https://www.careerbuilder.com/job/J3V5L2647WL6590HFRL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Talent.com",
-        "apply_link": "https://www.talent.com/view?id=8d21d4495c39&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Adzuna",
-        "apply_link": "https://www.adzuna.com/details/5623940868?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "BeBee",
-        "apply_link": "https://us.bebee.com/job/b5049e072060709dd84f827534608739?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobilize",
-        "apply_link": "https://www.jobilize.com/job/us-nc-greenville-travel-nurse-rn-intensive-care-unit-icu-critical?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "LifeworQ",
-        "apply_link": "https://lifeworq.com/job/3a1d76ed-1a3b-4ab3-9a7b-64dd51923b22?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      }
-    ],
-    "job_description": "Registered Nurse (RN) | Intensive Care Unit (ICU) / Critical Care\nLocation: Greenville, NC\nAgency: AMN Healthcare\nPay: $2,038 to $2,164 per week\nShift Information: Nights - 3 days x 12 hours\nContract Duration: 13 Weeks\nStart Date: 3/23/2026\n\nAbout the Position\n\nTravelNurseSource is working with AMN Healthcare to find a qualified ICU/Critical Care RN in GREENVILLE, North Carolina, 27834!\n\nJob Description & Requirements\nRegistered Nurse – Intensive Care - ICU - Travel - (ICU RN)\nStartDate: 3/23/2026 Available Shifts: 12 N Pay Rate: $2038.00 - $2164.00\n\nThe NSICU RN must demonstrate expertise in advanced hemodynamic monitoring, ICP monitoring, and ventilator management. Nursing staff analyze all hemodynamics and respiratory care practitioners assist with mechanical ventilator management. BLS is required upon hire, ACLS is required within 6 months of hire and NIHSS (National Institutes of Health Stroke Scale) certification completion is required prior to end of orientation. These certifications must remain active. Eight hours of continuing stroke education are required annually. The NSICU RN manages ventriculostomies, lumbar drains, arterial lines and central lines. Essential skills are advanced hemodynamic monitoring via the Hemosphere device as well as pulmonary artery catheters. Various intravenous drips are utilized in the NSICU and include medications for pain and sedation and well as vasopressors and vasodilators. NSICU uses targeted temperature management and continuous renal replacement therapy.Registered nurses provide care in conjunction with the nursing assistant and our team of neurointensivists and advanced practice providers. Assignments are based on the patient’s needs, the geographical location of the patients, and the resources available. The charge nurse does not have a patient assignment. NSICU was the recipient of the Patient Choice Award for inpatient units at ECU Health in 2022 and 2023 for our patient satisfaction scores.\n\nRequired Qualifications\nRegistered Nurse, ICU\nExperience: 1 year\nLicenses: RN(Compact Accepted)\nCertifications: ACLS-AHA; BLS-AHA\n\nNIHSS Stroke Certification\nExperience in a Tertiary care facility\n80 MILE RADIUS RULE\n\nPreferred Qualifications\nEPIC\nPrevious Travel\n\nAbout the Facility\nAs the flagship hospital of eastern North Carolina’s premier healthcare system, this facility offers a full spectrum of inpatient and outpatient care and houses the region's only Level I trauma center. Serving as the teaching hospital for a major university’s school of medicine, this 861-bed hospital has received accreditation from The Joint Commission and the Commission on Accreditation of Rehabilitation Facilities (CARF) and certification as a Primary Stroke Center, as well as the Get With The Guidelines®-Stroke Gold Plus award from the American Stroke Association and the U.S. Department of Health and Human Services Medal of Honor for Organ Donation.\n\nFacility Location\nCalled the \"health, entertainment, and educational hub\" of North Carolina's Tidewater and Coastal Plain, Greenville, a city of approximately 90,000, has also been named one of America’s \"100 Best Communities for Young People,\" has ranked in the U.S. top ten \"Best Small Places For Business And Careers\" by Forbes, and has been designated North Carolina’s \"Sportstown USA\" by Sports Illustrated.\n\nJob Benefits\nAt AMN Healthcare we take care of our travelers! We offer:\n• Competitive pay rates\n• Free, quality, private housing\n• Medical, Dental, Vision\n• 401(k) and Flex Spending\n• Life Insurance\n• Accident and Short-term Disability Coverage\n• Free Continuing Education\n• Refer a friend and earn extra cash!\n\nAbout the Company\nAt AMN Healthcare, we strive to be recognized as the most trusted, innovative, and influential force in helping healthcare organizations provide quality patient care that continually evolves to make healthcare more human, more effective, and more achievable.\n\nCritical care nurse, CCU RN, intensive care nurse, ICU nurse, ICU nursing, ICU, intensive care, critical care, registered nurse, RN, R.N., nurse, nursing, healthcare, health care, patient care\n\nAbout AMN Healthcare\n\nAMN Healthcare is a leader in Nurse staffing. Our relationships with numerous healthcare facilities - including hospitals, home health agencies, and long-term care facilities - enable us to offer the most current travel nurse, local staffing, rapid response and crisis nurse jobs nationwide. We''re committed to finding you the best nursing job to fit your career goals. AMN Healthcare is an EEO/AA/Disability/Protected Veteran Employer. We encourage minority and female applicants to apply.\n\nRequirements\n\nRegistered Nurse, ICUExperience: 1 yearLicenses: RN(Compact Accepted)Certifications: ACLS-AHA; BLS-AHANIHSS Stroke CertificationExperience in a Tertiary care facility80 MILE RADIUS RULE\n\nBenefits\n\nAt AMN Healthcare we take care of our travelers! We offer:\n• Competitive pay rates\n• Free, quality, private housing\n• Medical, Dental, Vision\n• 401(k) and Flex Spending\n• Life Insurance\n• Accident and Short-term Disability Coverage\n• Free Continuing Education\n• Refer a friend and earn extra cash!\n\n29365761EXPPLAT",
-    "job_is_remote": false,
-    "job_posted_at": "24 hours ago",
-    "job_posted_at_timestamp": 1771286400,
-    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
-    "job_location": "Greenville, NC",
-    "job_city": "Greenville",
-    "job_state": "North Carolina",
-    "job_country": "US",
-    "job_latitude": 35.6115318,
-    "job_longitude": -77.3752068,
-    "job_benefits": [
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dhz8ixHZLNyVA7bpdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_min_salary": 2038,
-    "job_max_salary": 2164,
-    "job_salary_period": "WEEK",
-    "job_highlights": {
-      "Qualifications": [
-        "BLS is required upon hire, ACLS is required within 6 months of hire and NIHSS (National Institutes of Health Stroke Scale) certification completion is required prior to end of orientation",
-        "These certifications must remain active",
-        "Eight hours of continuing stroke education are required annually",
-        "Registered Nurse, ICU",
-        "Experience: 1 year",
-        "Licenses: RN(Compact Accepted)",
-        "Certifications: ACLS-AHA; BLS-AHA",
-        "NIHSS Stroke Certification",
-        "Experience in a Tertiary care facility",
-        "80 MILE RADIUS RULE",
-        "Registered Nurse, ICUExperience: 1 year",
-        "Licenses: RN(Compact Accepted)Certifications: ACLS-AHA; BLS-AHANIHSS Stroke CertificationExperience in a Tertiary care facility80 MILE RADIUS RULE"
-      ],
-      "Benefits": [
-        "Pay: $2,038 to $2,164 per week",
-        "StartDate: 3/23/2026 Available Shifts: 12 N Pay Rate: $2038.00 - $2164.00",
-        "Competitive pay rates",
-        "Free, quality, private housing",
-        "Medical, Dental, Vision",
-        "401(k) and Flex Spending",
-        "Life Insurance",
-        "Accident and Short-term Disability Coverage",
-        "Free Continuing Education",
-        "Refer a friend and earn extra cash!",
-        "Competitive pay rates",
-        "Free, quality, private housing",
-        "Medical, Dental, Vision",
-        "401(k) and Flex Spending",
-        "Life Insurance",
-        "Accident and Short-term Disability Coverage",
-        "Free Continuing Education",
-        "Refer a friend and earn extra cash!"
-      ],
-      "Responsibilities": [
-        "Shift Information: Nights - 3 days x 12 hours",
-        "Registered Nurse – Intensive Care - ICU - Travel - (ICU RN)",
-        "The NSICU RN must demonstrate expertise in advanced hemodynamic monitoring, ICP monitoring, and ventilator management",
-        "Nursing staff analyze all hemodynamics and respiratory care practitioners assist with mechanical ventilator management",
-        "The NSICU RN manages ventriculostomies, lumbar drains, arterial lines and central lines",
-        "Essential skills are advanced hemodynamic monitoring via the Hemosphere device as well as pulmonary artery catheters",
-        "Various intravenous drips are utilized in the NSICU and include medications for pain and sedation and well as vasopressors and vasodilators",
-        "NSICU uses targeted temperature management and continuous renal replacement therapy",
-        "Registered nurses provide care in conjunction with the nursing assistant and our team of neurointensivists and advanced practice providers",
-        "Assignments are based on the patient’s needs, the geographical location of the patients, and the resources available",
-        "The charge nurse does not have a patient assignment"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "www-indeed-com-viewjob",
-    "_source": "new_jobs"
-  },
-  {
     "job_id": "bNSQ8bPxFNJ3gnr_AAAAAA==",
     "job_title": "RN Intensive Care Unit ICU Registered Nurse",
     "employer_name": "Parkland Medical Center",
@@ -738,9 +798,9 @@
     "job_latitude": 42.981369799999996,
     "job_longitude": -70.9461778,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DbNSQ8bPxFNJ3gnr_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -854,9 +914,9 @@
     "job_latitude": 37.2279279,
     "job_longitude": -77.40192669999999,
     "job_benefits": [
-      "paid_time_off",
+      "health_insurance",
       "dental_coverage",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DiFZgTl7uEyVGcYj1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1108,9 +1168,9 @@
     "job_latitude": 40.054753,
     "job_longitude": -88.2517165,
     "job_benefits": [
+      "health_insurance",
       "dental_coverage",
-      "paid_time_off",
-      "health_insurance"
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DQVWEKHYtqPpM9gVtAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_min_salary": 34,
@@ -1150,6 +1210,129 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "www-hshs-org-gfj-registered-nurse-rn-icu-savoy-il-692ee7d9edd40a7ebcbdb439",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "hz8ixHZLNyVA7bpdAAAAAA==",
+    "job_title": "Travel Nurse RN - Intensive Care Unit (ICU) / Critical Care - $2,038 to $2,164 per week in Greenville, NC",
+    "employer_name": "TravelNurseSource",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6QFXOQFsTdTnv71BkJeIqQKrlSQM0yWQkXViw&s=0",
+    "employer_website": "https://www.travelnursesource.com",
+    "job_publisher": "Indeed",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://www.indeed.com/viewjob?jk=b51b51ca77860ce5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Indeed",
+        "apply_link": "https://www.indeed.com/viewjob?jk=b51b51ca77860ce5&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "CareerBuilder",
+        "apply_link": "https://www.careerbuilder.com/job/J3V5L2647WL6590HFRL?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Talent.com",
+        "apply_link": "https://www.talent.com/view?id=8d21d4495c39&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Adzuna",
+        "apply_link": "https://www.adzuna.com/details/5623940868?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "BeBee",
+        "apply_link": "https://us.bebee.com/job/b5049e072060709dd84f827534608739?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobilize",
+        "apply_link": "https://www.jobilize.com/job/us-nc-greenville-travel-nurse-rn-intensive-care-unit-icu-critical?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "LifeworQ",
+        "apply_link": "https://lifeworq.com/job/3a1d76ed-1a3b-4ab3-9a7b-64dd51923b22?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      }
+    ],
+    "job_description": "Registered Nurse (RN) | Intensive Care Unit (ICU) / Critical Care\nLocation: Greenville, NC\nAgency: AMN Healthcare\nPay: $2,038 to $2,164 per week\nShift Information: Nights - 3 days x 12 hours\nContract Duration: 13 Weeks\nStart Date: 3/23/2026\n\nAbout the Position\n\nTravelNurseSource is working with AMN Healthcare to find a qualified ICU/Critical Care RN in GREENVILLE, North Carolina, 27834!\n\nJob Description & Requirements\nRegistered Nurse – Intensive Care - ICU - Travel - (ICU RN)\nStartDate: 3/23/2026 Available Shifts: 12 N Pay Rate: $2038.00 - $2164.00\n\nThe NSICU RN must demonstrate expertise in advanced hemodynamic monitoring, ICP monitoring, and ventilator management. Nursing staff analyze all hemodynamics and respiratory care practitioners assist with mechanical ventilator management. BLS is required upon hire, ACLS is required within 6 months of hire and NIHSS (National Institutes of Health Stroke Scale) certification completion is required prior to end of orientation. These certifications must remain active. Eight hours of continuing stroke education are required annually. The NSICU RN manages ventriculostomies, lumbar drains, arterial lines and central lines. Essential skills are advanced hemodynamic monitoring via the Hemosphere device as well as pulmonary artery catheters. Various intravenous drips are utilized in the NSICU and include medications for pain and sedation and well as vasopressors and vasodilators. NSICU uses targeted temperature management and continuous renal replacement therapy.Registered nurses provide care in conjunction with the nursing assistant and our team of neurointensivists and advanced practice providers. Assignments are based on the patient’s needs, the geographical location of the patients, and the resources available. The charge nurse does not have a patient assignment. NSICU was the recipient of the Patient Choice Award for inpatient units at ECU Health in 2022 and 2023 for our patient satisfaction scores.\n\nRequired Qualifications\nRegistered Nurse, ICU\nExperience: 1 year\nLicenses: RN(Compact Accepted)\nCertifications: ACLS-AHA; BLS-AHA\n\nNIHSS Stroke Certification\nExperience in a Tertiary care facility\n80 MILE RADIUS RULE\n\nPreferred Qualifications\nEPIC\nPrevious Travel\n\nAbout the Facility\nAs the flagship hospital of eastern North Carolina’s premier healthcare system, this facility offers a full spectrum of inpatient and outpatient care and houses the region's only Level I trauma center. Serving as the teaching hospital for a major university’s school of medicine, this 861-bed hospital has received accreditation from The Joint Commission and the Commission on Accreditation of Rehabilitation Facilities (CARF) and certification as a Primary Stroke Center, as well as the Get With The Guidelines®-Stroke Gold Plus award from the American Stroke Association and the U.S. Department of Health and Human Services Medal of Honor for Organ Donation.\n\nFacility Location\nCalled the \"health, entertainment, and educational hub\" of North Carolina's Tidewater and Coastal Plain, Greenville, a city of approximately 90,000, has also been named one of America’s \"100 Best Communities for Young People,\" has ranked in the U.S. top ten \"Best Small Places For Business And Careers\" by Forbes, and has been designated North Carolina’s \"Sportstown USA\" by Sports Illustrated.\n\nJob Benefits\nAt AMN Healthcare we take care of our travelers! We offer:\n• Competitive pay rates\n• Free, quality, private housing\n• Medical, Dental, Vision\n• 401(k) and Flex Spending\n• Life Insurance\n• Accident and Short-term Disability Coverage\n• Free Continuing Education\n• Refer a friend and earn extra cash!\n\nAbout the Company\nAt AMN Healthcare, we strive to be recognized as the most trusted, innovative, and influential force in helping healthcare organizations provide quality patient care that continually evolves to make healthcare more human, more effective, and more achievable.\n\nCritical care nurse, CCU RN, intensive care nurse, ICU nurse, ICU nursing, ICU, intensive care, critical care, registered nurse, RN, R.N., nurse, nursing, healthcare, health care, patient care\n\nAbout AMN Healthcare\n\nAMN Healthcare is a leader in Nurse staffing. Our relationships with numerous healthcare facilities - including hospitals, home health agencies, and long-term care facilities - enable us to offer the most current travel nurse, local staffing, rapid response and crisis nurse jobs nationwide. We''re committed to finding you the best nursing job to fit your career goals. AMN Healthcare is an EEO/AA/Disability/Protected Veteran Employer. We encourage minority and female applicants to apply.\n\nRequirements\n\nRegistered Nurse, ICUExperience: 1 yearLicenses: RN(Compact Accepted)Certifications: ACLS-AHA; BLS-AHANIHSS Stroke CertificationExperience in a Tertiary care facility80 MILE RADIUS RULE\n\nBenefits\n\nAt AMN Healthcare we take care of our travelers! We offer:\n• Competitive pay rates\n• Free, quality, private housing\n• Medical, Dental, Vision\n• 401(k) and Flex Spending\n• Life Insurance\n• Accident and Short-term Disability Coverage\n• Free Continuing Education\n• Refer a friend and earn extra cash!\n\n29365761EXPPLAT",
+    "job_is_remote": false,
+    "job_posted_at": "1 day ago",
+    "job_posted_at_timestamp": 1771286400,
+    "job_posted_at_datetime_utc": "2026-02-17T00:00:00.000Z",
+    "job_location": "Greenville, NC",
+    "job_city": "Greenville",
+    "job_state": "North Carolina",
+    "job_country": "US",
+    "job_latitude": 35.6115318,
+    "job_longitude": -77.3752068,
+    "job_benefits": [
+      "dental_coverage",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3Dhz8ixHZLNyVA7bpdAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_min_salary": 2038,
+    "job_max_salary": 2164,
+    "job_salary_period": "WEEK",
+    "job_highlights": {
+      "Qualifications": [
+        "BLS is required upon hire, ACLS is required within 6 months of hire and NIHSS (National Institutes of Health Stroke Scale) certification completion is required prior to end of orientation",
+        "These certifications must remain active",
+        "Eight hours of continuing stroke education are required annually",
+        "Registered Nurse, ICU",
+        "Experience: 1 year",
+        "Licenses: RN(Compact Accepted)",
+        "Certifications: ACLS-AHA; BLS-AHA",
+        "NIHSS Stroke Certification",
+        "Experience in a Tertiary care facility",
+        "80 MILE RADIUS RULE",
+        "Registered Nurse, ICUExperience: 1 year",
+        "Licenses: RN(Compact Accepted)Certifications: ACLS-AHA; BLS-AHANIHSS Stroke CertificationExperience in a Tertiary care facility80 MILE RADIUS RULE"
+      ],
+      "Benefits": [
+        "Pay: $2,038 to $2,164 per week",
+        "StartDate: 3/23/2026 Available Shifts: 12 N Pay Rate: $2038.00 - $2164.00",
+        "Competitive pay rates",
+        "Free, quality, private housing",
+        "Medical, Dental, Vision",
+        "401(k) and Flex Spending",
+        "Life Insurance",
+        "Accident and Short-term Disability Coverage",
+        "Free Continuing Education",
+        "Refer a friend and earn extra cash!",
+        "Competitive pay rates",
+        "Free, quality, private housing",
+        "Medical, Dental, Vision",
+        "401(k) and Flex Spending",
+        "Life Insurance",
+        "Accident and Short-term Disability Coverage",
+        "Free Continuing Education",
+        "Refer a friend and earn extra cash!"
+      ],
+      "Responsibilities": [
+        "Shift Information: Nights - 3 days x 12 hours",
+        "Registered Nurse – Intensive Care - ICU - Travel - (ICU RN)",
+        "The NSICU RN must demonstrate expertise in advanced hemodynamic monitoring, ICP monitoring, and ventilator management",
+        "Nursing staff analyze all hemodynamics and respiratory care practitioners assist with mechanical ventilator management",
+        "The NSICU RN manages ventriculostomies, lumbar drains, arterial lines and central lines",
+        "Essential skills are advanced hemodynamic monitoring via the Hemosphere device as well as pulmonary artery catheters",
+        "Various intravenous drips are utilized in the NSICU and include medications for pain and sedation and well as vasopressors and vasodilators",
+        "NSICU uses targeted temperature management and continuous renal replacement therapy",
+        "Registered nurses provide care in conjunction with the nursing assistant and our team of neurointensivists and advanced practice providers",
+        "Assignments are based on the patient’s needs, the geographical location of the patients, and the resources available",
+        "The charge nurse does not have a patient assignment"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "www-indeed-com-viewjob",
     "_source": "new_jobs"
   },
   {
@@ -1219,9 +1402,9 @@
     "job_latitude": 30.3297566,
     "job_longitude": -81.6591529,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3D53sQOystOcHNgYNYAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1310,9 +1493,9 @@
     "job_latitude": 37.6348674,
     "job_longitude": -85.39839909999999,
     "job_benefits": [
-      "health_insurance",
+      "dental_coverage",
       "paid_time_off",
-      "dental_coverage"
+      "health_insurance"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DAsBEa-f-Ay12AbJ1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1353,6 +1536,104 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "jobs-womenforhire-com-job-usa-loretto-ky-registered-nurse-rn-icu-488202",
+    "_source": "new_jobs"
+  },
+  {
+    "job_id": "bIQSJ7BpI9FlCq-YAAAAAA==",
+    "job_title": "ICU - Clinical Nurse",
+    "employer_name": "BJC HealthCare",
+    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEiGwdfkSD6N7DJdbuk3eLuF4JqXpTUH0wyuc&s=0",
+    "employer_website": null,
+    "job_publisher": "Lensa",
+    "job_employment_type": "Full-time",
+    "job_employment_types": [
+      "FULLTIME"
+    ],
+    "job_apply_link": "https://lensa.com/job-v1/bjc-healthcare/dardenne-prairie-mo/icu-rn/7a6b250ca0b1c0d1311728229ad31ad4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+    "job_apply_is_direct": false,
+    "apply_options": [
+      {
+        "publisher": "Lensa",
+        "apply_link": "https://lensa.com/job-v1/bjc-healthcare/dardenne-prairie-mo/icu-rn/7a6b250ca0b1c0d1311728229ad31ad4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Jobrapido",
+        "apply_link": "https://us.jobrapido.com/jobpreview/8258363677242032128?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": false
+      },
+      {
+        "publisher": "Get.It",
+        "apply_link": "https://www.get.it/job/clinical-nurse-pediatric-icu-in-dardenne-prairie-mo-at-bjc-healthcare-606675406325875720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+        "is_direct": true
+      }
+    ],
+    "job_description": "Additional Information About the Role\n• * The BJC Registerd Nurse Career Ladder differentiates BJC as the place for nurses to work in the greater St. Louis area.\n• This is a tool to empower nurses to work at the top of their license and own their career progression.\n• The BJC RN Career Ladder promotes professional development, leadership, collaboration, education and service excellence and gives staff the opportunity to continue doing what they do best - caring for patients - while having the opportunity to advance to the next step in their career.\n• Moves to higher ladder levels will result in a percentage increase of current pay that aligns with the new job description.\n• Benefits include but not limited to Medical, Dental, Vision, 401K with Match, Tuition Assistance\n• Nights 7 pm to 7:30 am every other weekend rotation\n\nAdditional Preferred Requirements\n\nOverview\n\nChristian Hospital has been serving St. Louis and the surrounding metro areas since 1903. U.S. News & World Report ranks Christian Hospital No. 5 in St. Louis for overall clinical excellence and No. 9 in Missouri, which puts us in the top 6% of all hospitals in the state!\n\nThe U.S. News adult methodology ranks clinical specialties and rates common care procedures and conditions. Christian was nationally ranked as “high performing” in the clinical specialty of geriatrics and in the following seven of 21 common procedures and conditions: heart attack, heart failure, kidney failure, diabetes, COPD, pneumonia and stroke. High performing in a specialty means we were in the top 10% nationally of all evaluated hospitals for that specialty or procedure and condition.\n\nNorthwest HealthCare, six miles west of Christian, offers 24- hour emergency care, the Sleep Disorders Center and a variety of outpatient diagnostic and imaging services.\n\nThe ICU at Christian Northeast is a 26 bed intensive care unit. We practice primary nursing and have 24 hour critical care physician coverage. The ICU RNs are ACLS certified and have received specialized critical care training. Our services include but are not limited to Pre/Post-op Cardiothoracic Surgery, Cardiac, Neuro, Pulmonary, Renal, and Medical. The ICU nurses and critical care physicians are responsible for responding to emergency calls in all of the inpatient areas. Our vision is to exceed the expectations of our patients and their families by delivering compassionate care and clinical excellence.\nPreferred Qualifications\n\nRole Purpose\n\nProvides direct patient care activities including assessment, diagnosis, planning implementation, and evaluation within the guidelines of the standards of nursing care.\n\nResponsibilities\n• Promotes patient and family centered care in a healing environment. Educates patients and their families on how to manage their illness or injury, including post treatment home care needs and medication administration.\n• Participates in activities that promote patient safety, quality and regulatory compliance. Participates in professional development.\n• Develops, implements, and documents individual plans of care with defined goals in collaboration with other members of the interprofessional team and patient, family or caregiver in accordance with the established guidelines and standards of nursing care. Proactively plans and ensures communication of the plan of care across the continuum of care.\n• Uses critical nursing skills to assess and evaluate physical, psychosocial, and emotional needs according to standards of care. Assess patient preferences and barriers to involvement in care, including their values, emotional, spiritual, cultural, and population-specific needs.\n• BJC has determined this is a safety-sensitive position. The ability to work in a constant state of alertness and in a safe manner is an essential function of this job.\n\nMinimum Requirements\n\nEducation\n• Nursing Diploma/Associate's - Nursing\n\nExperience\n• No Experience\n\nSupervisor Experience\n• No Experience\n\nLicenses & Certifications\n• RN\n\nPreferred Requirements\n\nEducation\n• Bachelor's Degree - Nursing\n\nExperience\n• <2 years\nBenefits and Legal Statement\n\nBJC Total Rewards\n\nAt BJC we’re committed to providing you and your family with benefits and resources to help you manage your physical, emotional, social and financial well-being.\n• Comprehensive medical, dental, vison, life insurance, and legal services available first day of the month after hire date\n• Disability insurance* paid for by BJC\n• Annual 4% BJC Automatic Retirement Contribution\n• 401(k) plan with BJC match\n• Tuition Assistance available on first day\n• BJC Institute for Learning and Development\n• Health Care and Dependent Care Flexible Spending Accounts\n• Paid Time Off benefit combines vacation, sick days, holidays and personal time\n• Adoption assistance\n\nTo learn more, go to our Benefits Summary\n• Not all benefits apply to all jobs\n\nThe above information on this description has been designed to indicate the general nature and level of work performed by employees in this position. It is not designed to contain or be interpreted as an exhaustive list of all responsibilities, duties and qualifications required of employees assigned to this job. Equal Opportunity Employer\n\nBy applying, you consent to your information being transmitted to the Employer by SonicJobs.\nSee BJC Healthcare Privacy Policy at https://www.bjc.org/Our-Policies and SonicJobs Privacy Policy at https://www.sonicjobs.com/us/privacy-policy and Terms of Use at https://www.sonicjobs.com/us/terms-conditions",
+    "job_is_remote": false,
+    "job_posted_at": "3 days ago",
+    "job_posted_at_timestamp": 1771113600,
+    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
+    "job_location": "Dardenne Prairie, MO",
+    "job_city": "Dardenne Prairie",
+    "job_state": "Missouri",
+    "job_country": "US",
+    "job_latitude": 38.7703087,
+    "job_longitude": -90.72930079999999,
+    "job_benefits": [
+      "dental_coverage",
+      "paid_time_off",
+      "health_insurance"
+    ],
+    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DbIQSJ7BpI9FlCq-YAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+    "job_salary": null,
+    "job_min_salary": null,
+    "job_max_salary": null,
+    "job_salary_period": null,
+    "job_highlights": {
+      "Qualifications": [
+        "BJC has determined this is a safety-sensitive position",
+        "The ability to work in a constant state of alertness and in a safe manner is an essential function of this job",
+        "Nursing Diploma/Associate's - Nursing",
+        "No Experience",
+        "Supervisor Experience",
+        "No Experience",
+        "RN",
+        "Bachelor's Degree - Nursing",
+        "<2 years"
+      ],
+      "Benefits": [
+        "Benefits include but not limited to Medical, Dental, Vision, 401K with Match, Tuition Assistance",
+        "BJC Total Rewards",
+        "At BJC we’re committed to providing you and your family with benefits and resources to help you manage your physical, emotional, social and financial well-being",
+        "Comprehensive medical, dental, vison, life insurance, and legal services available first day of the month after hire date",
+        "Disability insurance* paid for by BJC",
+        "Annual 4% BJC Automatic Retirement Contribution",
+        "401(k) plan with BJC match",
+        "Tuition Assistance available on first day",
+        "BJC Institute for Learning and Development",
+        "Health Care and Dependent Care Flexible Spending Accounts",
+        "Paid Time Off benefit combines vacation, sick days, holidays and personal time",
+        "Adoption assistance",
+        "Not all benefits apply to all jobs"
+      ],
+      "Responsibilities": [
+        "Nights 7 pm to 7:30 am every other weekend rotation",
+        "The ICU nurses and critical care physicians are responsible for responding to emergency calls in all of the inpatient areas",
+        "Our vision is to exceed the expectations of our patients and their families by delivering compassionate care and clinical excellence",
+        "Provides direct patient care activities including assessment, diagnosis, planning implementation, and evaluation within the guidelines of the standards of nursing care",
+        "Promotes patient and family centered care in a healing environment",
+        "Educates patients and their families on how to manage their illness or injury, including post treatment home care needs and medication administration",
+        "Participates in activities that promote patient safety, quality and regulatory compliance",
+        "Participates in professional development",
+        "Develops, implements, and documents individual plans of care with defined goals in collaboration with other members of the interprofessional team and patient, family or caregiver in accordance with the established guidelines and standards of nursing care",
+        "Proactively plans and ensures communication of the plan of care across the continuum of care",
+        "Uses critical nursing skills to assess and evaluate physical, psychosocial, and emotional needs according to standards of care",
+        "Assess patient preferences and barriers to involvement in care, including their values, emotional, spiritual, cultural, and population-specific needs"
+      ]
+    },
+    "job_onet_soc": "29114100",
+    "job_onet_job_zone": "3",
+    "id": "lensa-com-job-v1-bjc-healthcare-dardenne-prairie-mo-icu-rn-7a6b250ca0b1c0d1311728229ad31ad4",
     "_source": "new_jobs"
   },
   {
@@ -1412,9 +1693,9 @@
     ],
     "job_description": "Facility: Baylor Scott & White Medical Center - Lakeway, TX\n\nStatus: Full Time, 36 hrs. per week\n\nShift: Night Shift, (7pm-7am- self-scheduling with rotating weekends)\n\n18 beds\n\nPatient Ratio: 2:1 ICU; 3:1 IMC\n\nLakeway ICU is a unique gem that has a great mix of experience, personalities and patient populations. The Lakeway area and BSWH itself are all growing and the opportunities to advance, or usher in new technologies or clinical expertise remains high.\n\nSpecializes in neurosurgery, often utilizing the most advanced clinical technologies to treat chronic neurological deficits\n\nMixed ICU and IMC level of care. Stemi, Balloon pumps, CRRT, and Artic Sun. Neurosurgical services, EVDs, Primary Stroke, DKA, Septic Shock\n\nWe have a highly experienced staff with great teaching skills to help grow new nurses into the field.\n\nWe enjoy a great relationship with our intensivists who work closely with nurses, pharmacy, case management and hospitalists to ensure our patients have the best outcome.\n\nLakeway has very low turnover rate, and the team works well together. Many of the ICU nurses have greater than 10 yrs. of varying ICU experience.\n\nBSWH is growing in the Austin region and opportunities for advancement are plentiful. The ICU focuses on clinical advancement and positive patient outcomes by utilizing the expertise of the beside nurses to act as champions in an area of their choosing. This helps to raise engaged nurses who have a positive impact on our patients\nAbout Us\n\nHere at Baylor Scott & White Health we promote the well-being of all individuals, families, and communities. Baylor Scott and White is the largest not-for-profit healthcare system in Texas that empowers you to live well.\n\nOur Core Values are:\n• We serve faithfully by doing what's right with a joyful heart.\n• We never settle by constantly striving for better.\n• We are in it together by supporting one another and those we serve.\n• We make an impact by taking initiative and delivering exceptional experience.\nBenefits\n\nOur benefits are designed to help you live well no matter where you are on your journey. For full details on coverage and eligibility, visit the Baylor Scott & White Benefits Hub to explore our offerings, which may include:\n• Immediate eligibility for health and welfare benefits\n• 401(k) savings plan with dollar-for-dollar match up to 5%\n• Tuition Reimbursement\n• PTO accrual beginning Day 1\n\nNote: Benefits may vary based upon position type and/or level.\nJob Summary\n\nAs a Registered Nurse, oversee patient care using a professional practice model. Responsibilities include patient assessment, recognizing health issues, creating care plans, and assessing patient responses. Secure patient travel. Know about patient needs in healthcare. Help patients and prevent issues. Follow the Texas Nursing Practice Act and delegate tasks based on condition and team competencies.\nEssential Functions of the Role\n• As an RN, conduct detailed clinical assessments and prioritize patient and family needs. Create, implement, and evaluate care plans. Adjust plans to reach desired outcomes.\n• Building relationships, managing discomfort, staying professional are vital in therapeutic connections with patients and families.\n• Creating care plans reflecting values aids in resolving issues.\n• You will help educate patients, families, nurses, and community members. Empower them with knowledge for better healthcare choices. Assess and document learning needs regularly.\n• Work with colleagues and community to create a care plan. Delegate tasks carefully and follow up promptly.\n• You'll use different strategies for problem-solving with patients, families, and staff. Recognize limitations and prioritize safety, effectiveness, and efficiency in patient care planning and delivery.\n• Achieve goals through teamwork, recognize contributions, commit to growth. Contribute to peers' development, show community service commitment.\nKey Success Factors\n• A deep understanding of nursing and patient care standards, as well as procedures.\n• Know nursing laws, rules, standards, and guidelines in your area. Understand hospital procedures and rules.\n• Proficiency in medical terms, focusing on health, disease prevention, management, common meds, and their side effects.\n• Respect for medical and professional nursing ethics and patient privacy rights.\n• Exceptional communication skills, allowing for clear expression of thoughts both verbally and in writing.\n• Positive social skills to facilitate interactions with a diverse range of parties.\n• Excellent problem-solving capabilities, driving effective critical thinking.\n• Basic computer skills, encompassing areas such as Microsoft Office, information security, scheduling and payroll systems, electronic medical documentation, and email.\nBelonging Statement\n\nWe believe that all people should feel welcomed, valued and supported.\n\nQualifications\n• Grad of an Accredited Program\n• Specialized field of study should be nursing.\n• RN license.\n• Must have BLS certification or get it within 30 days of starting in this role.",
     "job_is_remote": false,
-    "job_posted_at": "15 hours ago",
-    "job_posted_at_timestamp": 1771372800,
-    "job_posted_at_datetime_utc": "2026-02-18T00:00:00.000Z",
+    "job_posted_at": "16 hours ago",
+    "job_posted_at_timestamp": 1771369200,
+    "job_posted_at_datetime_utc": "2026-02-17T23:00:00.000Z",
     "job_location": "Lakeway, TX",
     "job_city": "Lakeway",
     "job_state": "Texas",
@@ -1422,8 +1703,8 @@
     "job_latitude": 30.3679788,
     "job_longitude": -97.99167899999999,
     "job_benefits": [
-      "paid_time_off",
-      "health_insurance"
+      "health_insurance",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3De57AjGMbneBZ49LrAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
@@ -1483,104 +1764,6 @@
     "job_onet_soc": "29114100",
     "job_onet_job_zone": "3",
     "id": "jobs-bswhealth-com-us-en-job-bswhus26002956externalenus-rn-icu-intensive-care-night",
-    "_source": "new_jobs"
-  },
-  {
-    "job_id": "bIQSJ7BpI9FlCq-YAAAAAA==",
-    "job_title": "ICU - Clinical Nurse",
-    "employer_name": "BJC HealthCare",
-    "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXEiGwdfkSD6N7DJdbuk3eLuF4JqXpTUH0wyuc&s=0",
-    "employer_website": null,
-    "job_publisher": "Lensa",
-    "job_employment_type": "Full-time",
-    "job_employment_types": [
-      "FULLTIME"
-    ],
-    "job_apply_link": "https://lensa.com/job-v1/bjc-healthcare/dardenne-prairie-mo/icu-rn/7a6b250ca0b1c0d1311728229ad31ad4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-    "job_apply_is_direct": false,
-    "apply_options": [
-      {
-        "publisher": "Lensa",
-        "apply_link": "https://lensa.com/job-v1/bjc-healthcare/dardenne-prairie-mo/icu-rn/7a6b250ca0b1c0d1311728229ad31ad4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Jobrapido",
-        "apply_link": "https://us.jobrapido.com/jobpreview/8258363677242032128?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": false
-      },
-      {
-        "publisher": "Get.It",
-        "apply_link": "https://www.get.it/job/clinical-nurse-pediatric-icu-in-dardenne-prairie-mo-at-bjc-healthcare-606675406325875720?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
-        "is_direct": true
-      }
-    ],
-    "job_description": "Additional Information About the Role\n• * The BJC Registerd Nurse Career Ladder differentiates BJC as the place for nurses to work in the greater St. Louis area.\n• This is a tool to empower nurses to work at the top of their license and own their career progression.\n• The BJC RN Career Ladder promotes professional development, leadership, collaboration, education and service excellence and gives staff the opportunity to continue doing what they do best - caring for patients - while having the opportunity to advance to the next step in their career.\n• Moves to higher ladder levels will result in a percentage increase of current pay that aligns with the new job description.\n• Benefits include but not limited to Medical, Dental, Vision, 401K with Match, Tuition Assistance\n• Nights 7 pm to 7:30 am every other weekend rotation\n\nAdditional Preferred Requirements\n\nOverview\n\nChristian Hospital has been serving St. Louis and the surrounding metro areas since 1903. U.S. News & World Report ranks Christian Hospital No. 5 in St. Louis for overall clinical excellence and No. 9 in Missouri, which puts us in the top 6% of all hospitals in the state!\n\nThe U.S. News adult methodology ranks clinical specialties and rates common care procedures and conditions. Christian was nationally ranked as “high performing” in the clinical specialty of geriatrics and in the following seven of 21 common procedures and conditions: heart attack, heart failure, kidney failure, diabetes, COPD, pneumonia and stroke. High performing in a specialty means we were in the top 10% nationally of all evaluated hospitals for that specialty or procedure and condition.\n\nNorthwest HealthCare, six miles west of Christian, offers 24- hour emergency care, the Sleep Disorders Center and a variety of outpatient diagnostic and imaging services.\n\nThe ICU at Christian Northeast is a 26 bed intensive care unit. We practice primary nursing and have 24 hour critical care physician coverage. The ICU RNs are ACLS certified and have received specialized critical care training. Our services include but are not limited to Pre/Post-op Cardiothoracic Surgery, Cardiac, Neuro, Pulmonary, Renal, and Medical. The ICU nurses and critical care physicians are responsible for responding to emergency calls in all of the inpatient areas. Our vision is to exceed the expectations of our patients and their families by delivering compassionate care and clinical excellence.\nPreferred Qualifications\n\nRole Purpose\n\nProvides direct patient care activities including assessment, diagnosis, planning implementation, and evaluation within the guidelines of the standards of nursing care.\n\nResponsibilities\n• Promotes patient and family centered care in a healing environment. Educates patients and their families on how to manage their illness or injury, including post treatment home care needs and medication administration.\n• Participates in activities that promote patient safety, quality and regulatory compliance. Participates in professional development.\n• Develops, implements, and documents individual plans of care with defined goals in collaboration with other members of the interprofessional team and patient, family or caregiver in accordance with the established guidelines and standards of nursing care. Proactively plans and ensures communication of the plan of care across the continuum of care.\n• Uses critical nursing skills to assess and evaluate physical, psychosocial, and emotional needs according to standards of care. Assess patient preferences and barriers to involvement in care, including their values, emotional, spiritual, cultural, and population-specific needs.\n• BJC has determined this is a safety-sensitive position. The ability to work in a constant state of alertness and in a safe manner is an essential function of this job.\n\nMinimum Requirements\n\nEducation\n• Nursing Diploma/Associate's - Nursing\n\nExperience\n• No Experience\n\nSupervisor Experience\n• No Experience\n\nLicenses & Certifications\n• RN\n\nPreferred Requirements\n\nEducation\n• Bachelor's Degree - Nursing\n\nExperience\n• <2 years\nBenefits and Legal Statement\n\nBJC Total Rewards\n\nAt BJC we’re committed to providing you and your family with benefits and resources to help you manage your physical, emotional, social and financial well-being.\n• Comprehensive medical, dental, vison, life insurance, and legal services available first day of the month after hire date\n• Disability insurance* paid for by BJC\n• Annual 4% BJC Automatic Retirement Contribution\n• 401(k) plan with BJC match\n• Tuition Assistance available on first day\n• BJC Institute for Learning and Development\n• Health Care and Dependent Care Flexible Spending Accounts\n• Paid Time Off benefit combines vacation, sick days, holidays and personal time\n• Adoption assistance\n\nTo learn more, go to our Benefits Summary\n• Not all benefits apply to all jobs\n\nThe above information on this description has been designed to indicate the general nature and level of work performed by employees in this position. It is not designed to contain or be interpreted as an exhaustive list of all responsibilities, duties and qualifications required of employees assigned to this job. Equal Opportunity Employer\n\nBy applying, you consent to your information being transmitted to the Employer by SonicJobs.\nSee BJC Healthcare Privacy Policy at https://www.bjc.org/Our-Policies and SonicJobs Privacy Policy at https://www.sonicjobs.com/us/privacy-policy and Terms of Use at https://www.sonicjobs.com/us/terms-conditions",
-    "job_is_remote": false,
-    "job_posted_at": "3 days ago",
-    "job_posted_at_timestamp": 1771113600,
-    "job_posted_at_datetime_utc": "2026-02-15T00:00:00.000Z",
-    "job_location": "Dardenne Prairie, MO",
-    "job_city": "Dardenne Prairie",
-    "job_state": "Missouri",
-    "job_country": "US",
-    "job_latitude": 38.7703087,
-    "job_longitude": -90.72930079999999,
-    "job_benefits": [
-      "paid_time_off",
-      "dental_coverage",
-      "health_insurance"
-    ],
-    "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DbIQSJ7BpI9FlCq-YAAAAAA%3D%3D&vssid=jobs-detail-viewer",
-    "job_salary": null,
-    "job_min_salary": null,
-    "job_max_salary": null,
-    "job_salary_period": null,
-    "job_highlights": {
-      "Qualifications": [
-        "BJC has determined this is a safety-sensitive position",
-        "The ability to work in a constant state of alertness and in a safe manner is an essential function of this job",
-        "Nursing Diploma/Associate's - Nursing",
-        "No Experience",
-        "Supervisor Experience",
-        "No Experience",
-        "RN",
-        "Bachelor's Degree - Nursing",
-        "<2 years"
-      ],
-      "Benefits": [
-        "Benefits include but not limited to Medical, Dental, Vision, 401K with Match, Tuition Assistance",
-        "BJC Total Rewards",
-        "At BJC we’re committed to providing you and your family with benefits and resources to help you manage your physical, emotional, social and financial well-being",
-        "Comprehensive medical, dental, vison, life insurance, and legal services available first day of the month after hire date",
-        "Disability insurance* paid for by BJC",
-        "Annual 4% BJC Automatic Retirement Contribution",
-        "401(k) plan with BJC match",
-        "Tuition Assistance available on first day",
-        "BJC Institute for Learning and Development",
-        "Health Care and Dependent Care Flexible Spending Accounts",
-        "Paid Time Off benefit combines vacation, sick days, holidays and personal time",
-        "Adoption assistance",
-        "Not all benefits apply to all jobs"
-      ],
-      "Responsibilities": [
-        "Nights 7 pm to 7:30 am every other weekend rotation",
-        "The ICU nurses and critical care physicians are responsible for responding to emergency calls in all of the inpatient areas",
-        "Our vision is to exceed the expectations of our patients and their families by delivering compassionate care and clinical excellence",
-        "Provides direct patient care activities including assessment, diagnosis, planning implementation, and evaluation within the guidelines of the standards of nursing care",
-        "Promotes patient and family centered care in a healing environment",
-        "Educates patients and their families on how to manage their illness or injury, including post treatment home care needs and medication administration",
-        "Participates in activities that promote patient safety, quality and regulatory compliance",
-        "Participates in professional development",
-        "Develops, implements, and documents individual plans of care with defined goals in collaboration with other members of the interprofessional team and patient, family or caregiver in accordance with the established guidelines and standards of nursing care",
-        "Proactively plans and ensures communication of the plan of care across the continuum of care",
-        "Uses critical nursing skills to assess and evaluate physical, psychosocial, and emotional needs according to standards of care",
-        "Assess patient preferences and barriers to involvement in care, including their values, emotional, spiritual, cultural, and population-specific needs"
-      ]
-    },
-    "job_onet_soc": "29114100",
-    "job_onet_job_zone": "3",
-    "id": "lensa-com-job-v1-bjc-healthcare-dardenne-prairie-mo-icu-rn-7a6b250ca0b1c0d1311728229ad31ad4",
     "_source": "new_jobs"
   },
   {
@@ -1847,8 +2030,8 @@
     "job_longitude": -96.5952703,
     "job_benefits": [
       "health_insurance",
-      "paid_time_off",
-      "dental_coverage"
+      "dental_coverage",
+      "paid_time_off"
     ],
     "job_google_link": "https://www.google.com/search?q=jobs&gl=us&hl=en&udm=8#vhid=vt%3D20/docid%3DwKzetiVrqAym7RoVAAAAAA%3D%3D&vssid=jobs-detail-viewer",
     "job_salary": null,
