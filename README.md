@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-9-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-7-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-9-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-6-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-4-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-6-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 7+ top companies and healthcare facilities. Updated every 15 minutes with 9+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 4+ top companies and healthcare facilities. Updated every 15 minutes with 6+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,19 +69,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (9 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (6 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
 | 🏢 **Hospital Sisters Health System** | Registered Nurse (RN)-Critical C... | Cudahy, Wisconsin | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/registered-nurse-rn-critical-care-icu-cudahy-wi-699467968e886503d6a0e7b3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Cone Health** | Registered Nurse Oncology | High Point, North Carolina | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://gfj.conehealth.com/jobdetails/high-point-nc-registered-nurse-oncology-698e4de009cfdb0c30f1892a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Hospital Sisters Health System** | Inpatient Registered Nurse (RN) ... | Clinton, Illinois | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/inpatient-registered-nurse-rn-medical-units-1-2-night-shifts-clinton-il-68fb60d5fdb6d903fda86eca?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Bon Secours** | Registered Nurse (RN) - Rapid Re... | Petersburg, Virginia | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.bonsecours.com/us/en/job/R257621/Registered-Nurse-RN-Rapid-Response-Team-Southside-Medical-Center?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Commonwealth of VA Careers** | Registered Nurse (Night Shift): ... | Powhatan, Virginia | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobs.virginia.gov/jobs/registered-nurse-night-shift-beaumont-correctional-center-powhatan-virginia-united-states-a97ae079-30ee-4a78-b29e-439cac5a12f3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Bon Secours Mercy Health** | Registered Nurse (RN) - Richmond... | Emporia, Virginia | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Bon-Secours-Mercy-Health/Job/Registered-Nurse-(RN)-Richmond-Emergency-Room-(ER)-Float-Pool/-in-Emporia,VA?jid=39b78fcdd6032311&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **HealthPartners** | Registered Nurse- Med/Surg | Stillwater, Minnesota | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://fa-etnv-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/healthpartners/job/117353?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Hospital Sisters Health System** | RN Residency and Nurse Extern II... | Salem, Illinois | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/rn-residency-and-nurse-extern-ii-summer-2026-grads-salem-il-6984b778eb4c4903d4a76942?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Veterans Health Administration** | Registered Nurse - Multi Special... | Flint, Michigan | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=b6da982989b9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -142,21 +139,20 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 3 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 3 positions
-- **🏢 Companies**: 7 companies
+- **📁 Total Jobs**: 2 positions
+- **🏢 Companies**: 4 companies
 - **🏷️ Top Category**: Registered Nurse
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (3 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (2 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Select Medical** | Registered Nurse (RN) - Full-tim... | Palm Springs, Florida | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169290293-registered-nurse-rn-full-time-days?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **VA Eastern Oklahoma Health Care System** | Registered Nurse | Muskogee, Oklahoma | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/855411500?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **CEDARS-SINAI** | Registered Nurse - Surgical Step... | California | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.cshs.org/job/beverly-hills/registered-nurse-surgical-stepdown-transplant-6nw-12-hour-nights-5-000-hiring-incentive/252/90968891344?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **MUSC** | Registered Nurse Charge Nurse Me... | Camden, South Carolina | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://musc.career-pages.com/jobs/registered-nurse-charge-nurse-medsurg-camden-south-carolina-united-states?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Select Medical Rehabilitation.** | Nursing Supervisor (RN) - Charge... | Madison, Wisconsin | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.selectmedical.com/jobs/2026/02/02/17/03/356889/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -170,7 +166,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 9 current opportunities from 7 companies**
+**🎯 6 current opportunities from 4 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
