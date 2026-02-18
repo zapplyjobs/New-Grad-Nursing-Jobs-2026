@@ -1,7 +1,7 @@
 {
   "date": "Wed Feb 18 2026",
-  "requests": 13,
-  "remaining": 17,
+  "requests": 14,
+  "remaining": 16,
   "queries_executed": [
     "registered nurse",
     "registered nurse",
@@ -15,6 +15,7 @@
     "np nurse",
     "clinical nurse specialist",
     "clinical nurse specialist",
+    "nurse anesthetist",
     "nurse anesthetist"
   ]
 }
