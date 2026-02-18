@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-7-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-5-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-7-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-10-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-8-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-10-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 5+ top companies and healthcare facilities. Updated every 15 minutes with 7+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 8+ top companies and healthcare facilities. Updated every 15 minutes with 10+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,17 +69,20 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (7 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (10 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **CareTeam Solutions** | Travel Behavioral Health Float R... | North Providence, Rhode Island | 15h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/travel-behavioral-health-float-rn-%242-024-per-week-at-careteam-solutions-4374186250?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Vibra Travels** | Travel Nurse RN - Med Surg / Tel... | Sanford, North Carolina | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/travel-nurse-rn-med-surg-telemetry-%242-055-per-week-at-vibra-travels-4373862618?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Rochester Regional Health** | Registered Nurse (R.N.) - Med / ... | Seneca Falls, New York | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=610e526a8313&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **CareTeam Solutions** | Travel Behavioral Health Float R... | North Providence, Rhode Island | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/travel-behavioral-health-float-rn-%242-024-per-week-at-careteam-solutions-4374186250?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Hospital Sisters Health System** | Registered Nurse (RN)-Critical C... | Cudahy, Wisconsin | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/registered-nurse-rn-critical-care-icu-cudahy-wi-699467968e886503d6a0e7b3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Hospital Sisters Health System** | Registered Nurse (RN)-Critical C... | Brookfield, Wisconsin | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.hshs.org/gfj/registered-nurse-rn-critical-care-icu-brookfield-wi-699466479a4cf20491cf735a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Cone Health** | RN ICU Nights Annie Penn Hospital | Jamestown, North Carolina | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://gfj.conehealth.com/jobdetails/jamestown-nc-rn-icu-nights-annie-penn-hospital-67e657b993797d0797e715a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **TravelNurseSource** | Travel Nurse RN - Labor & Delive... | Utica, New York | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1148361491?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Vibra Travels** | Travel RN Med Surg Hazelton PA N... | Hazleton, Pennsylvania | 6d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Vibra-Travels/Job/Travel-RN-Med-Surg-Hazelton-PA-Nights/-in-Hazleton,PA?jid=bf9acdbac6e1daea&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **MedStar Health** | Experienced Registered Nurse RN ... | Hanover, Maryland | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1229276051?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Vibra Travels** | Travel Nurse RN - Long Term Acut... | Mt Vernon, Virginia | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/travel-nurse-rn-long-term-acute-care-%242-202-per-week-at-vibra-travels-4370575552?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Travel Nurse Across America** | Labor and Delivery - LD RN - Tra... | Edmonds, Washington | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1218398809?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏥 **Cleveland Clinic** | RN - ICU | Garfield Heights, Ohio | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.clevelandclinic.org/job/22177006/0/0/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -140,20 +143,19 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 ---
 
 <details>
-<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 2 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
+<summary><h2>🗂️ <strong>ARCHIVED SWE JOBS</strong> - 1 Older Positions (7+ days old) - Click to Expand 👆</h2></summary>
 
 ### 📊 **Archived Job Stats**
-- **📁 Total Jobs**: 2 positions
-- **🏢 Companies**: 5 companies
+- **📁 Total Jobs**: 1 positions
+- **🏢 Companies**: 8 companies
 - **🏷️ Top Category**: Registered Nurse
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (2 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (1 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| 🏢 **Canadian Travel Nurses** | Registered Nurse (RN) – Med Surg | California | 2w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.glassdoor.com/job-listing/registered-nurse-rn-%E2%80%93-med-surg-canadian-travel-nurses-JV_IC1163728_KO0,30_KE31,53.htm?jl=1009928741644&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Trinity Health FirstChoice** | Travel Emergency Department Regi... | Iowa | 3w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://tallo.com/jobs/healthcare/registered-nurse/ia/black-hawk/travel-emergency-department-registered-nurse-e3885e19421f/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Texas Health Rockwall** | Registered Nurse / RN Float – Cr... | Rockwall, Texas | 4w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=76fbacc167de&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 
 </details>
 
@@ -167,7 +169,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 7 current opportunities from 5 companies**
+**🎯 10 current opportunities from 8 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
