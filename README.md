@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-182-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-180-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-13-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-182-red?style=flat&logo=star)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-180-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 13+ top companies and healthcare facilities. Updated every 15 minutes with 182+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 13+ top companies and healthcare facilities. Updated every 15 minutes with 180+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.</p>
 
@@ -69,13 +69,13 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (182 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (180 positions)</h3></summary>
 
 #### 🏢 **cloudflare** (44 positions)
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
-| Network Engineer | Hybrid | 14h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7563486?gh_jid=7563486) |
+| Network Engineer | Hybrid | 15h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7563486?gh_jid=7563486) |
 | Distributed Systems Engineer, An... | Hybrid | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801) |
 | Systems Engineer | Hybrid | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7607696?gh_jid=7607696) |
 | Account Executive, SLED (Great L... | Hybrid | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://boards.greenhouse.io/cloudflare/jobs/7406425?gh_jid=7406425) |
@@ -126,7 +126,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |------|----------|--------|-------|-------|
 | Credit Risk Operations Associate... | Mexico | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=6942920) |
 | Data Migrations Specialist | Dublin | 20h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7573503) |
-| Operations Associate, Sanctions ... | Bengaluru | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7540835) |
+| Operations Associate, Sanctions ... | Bengaluru | 22h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7540835) |
 | [TEMPLATE] Operations Associate,... | Bangalore | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7614945) |
 | Fraud Operations Associate SDC | Bengaluru | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=5523990) |
 | AML Compliance Analyst, Luxembourg | Luxembourg | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=7587357) |
@@ -166,7 +166,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Operations Associate, Managed Su... | Mexico City | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=6630229) |
 | Operations Specialist, Product S... | MX - Mexico City | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://stripe.com/jobs/search?gh_jid=5114866) |
 
-#### 🏢 **datadog** (33 positions)
+#### 🏢 **datadog** (31 positions)
 
 | Role | Location | Posted | Level | Apply |
 |------|----------|--------|-------|-------|
@@ -201,8 +201,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Customer Success Associate (Comm... | Singapore | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7609454/?gh_jid=7609454) |
 | Travel & Events Coordinator - NYC | New York | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7588500/?gh_jid=7588500) |
 | Sales Sourcer II, Business Recru... | Singapore | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/7437215/?gh_jid=7437215) |
-| Customer Success Associate | Tokyo | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/6009779/?gh_jid=6009779) |
-| Customer Success Associate | Tokyo | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.datadoghq.com/detail/5486716/?gh_jid=5486716) |
 
 #### 🏢 **samsara** (17 positions)
 
@@ -251,7 +249,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|-------|-------|
 | 🏢 **coinbase** | Strategic Sourcing Intern 🏠 | Hybrid - New York | 10h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7315887?gh_jid=7315887) |
 | 🏢 **coinbase** | Security Engineer, CorpSec 🏠 | Remote - USA | 13h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7611268?gh_jid=7611268) |
-| 🏢 **coinbase** | Exchange Operations Specialist, ... 🏠 | Remote - Singapore | 21h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7571812?gh_jid=7571812) |
+| 🏢 **coinbase** | Exchange Operations Specialist, ... 🏠 | Remote - Singapore | 22h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7571812?gh_jid=7571812) |
 | 🏢 **coinbase** | Customer Success Specialist 🏠 | Charlotte | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7551492?gh_jid=7551492) |
 | 🏢 **coinbase** | Employee & Workplace Experience ... 🏠 | Hybrid - New York | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7307242?gh_jid=7307242) |
 | 🏢 **coinbase** | Expense Analyst 🏠 | Remote - India | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.coinbase.com/careers/positions/7571801?gh_jid=7571801) |
@@ -340,7 +338,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 182 current opportunities from 13 companies**
+**🎯 180 current opportunities from 13 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
