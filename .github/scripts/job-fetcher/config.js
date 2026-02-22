@@ -23,7 +23,7 @@ module.exports = {
 
   // Description paragraphs (with template variables)
   descriptionLine1: '🚀 Real-time nursing, healthcare, and medical jobs from {totalCompanies}+ top companies and healthcare facilities. Updated every 15 minutes with {currentJobs}+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.',
-  descriptionLine2: '🎯 Includes roles across tech giants, fast-growing startups, and engineering-first companies like Chewy, CACI, and TD Bank.',
+  descriptionLine2: '🎯 Includes roles across top healthcare systems, hospital networks, and medical staffing agencies.',
 
   // Note box
   noteType: 'TIP',
