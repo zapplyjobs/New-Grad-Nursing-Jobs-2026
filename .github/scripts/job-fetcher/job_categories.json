@@ -1,0 +1,86 @@
+{
+  "registered_nurse": {
+    "title": "Registered Nurse",
+    "emoji": "🏥",
+    "keywords": [
+      "registered nurse",
+      "rn",
+      "staff nurse",
+      "bedside nurse",
+      "med surg",
+      "telemetry nurse",
+      "icu nurse",
+      "er nurse",
+      "emergency room nurse",
+      "medical surgical nurse",
+      "acute care nurse",
+      "stepdown nurse"
+    ]
+  },
+  "nurse_practitioner": {
+    "title": "Nurse Practitioner",
+    "emoji": "⚕️",
+    "keywords": [
+      "nurse practitioner",
+      "np",
+      "family nurse practitioner",
+      "acute care np",
+      "pediatric np",
+      "primary care np",
+      "adult gerontology np",
+      "women's health np",
+      "neonatal np",
+      "psychiatric np",
+      "acute care nurse practitioner"
+    ]
+  },
+  "licensed_practical_nurse": {
+    "title": "Licensed Practical Nurse",
+    "emoji": "💉",
+    "keywords": [
+      "licensed practical nurse",
+      "lpn",
+      "licensed vocational nurse",
+      "lvn",
+      "practical nurse",
+      "vocational nurse"
+    ]
+  },
+  "specialized_care": {
+    "title": "Specialized Care",
+    "emoji": "🩺",
+    "keywords": [
+      "certified nursing assistant",
+      "cna",
+      "surgical nurse",
+      "labor and delivery",
+      "nicu",
+      "perioperative",
+      "oncology nurse",
+      "pediatric nurse",
+      "cardiovascular nurse",
+      "orthopedic nurse",
+      "neuroscience nurse",
+      "rehabilitation nurse",
+      "dialysis nurse",
+      "home health nurse"
+    ]
+  },
+  "medical_support": {
+    "title": "Medical Support",
+    "emoji": "👨‍⚕️",
+    "keywords": [
+      "nurse intern",
+      "nursing intern",
+      "graduate nurse",
+      "student nurse",
+      "nurse extern",
+      "patient care technician",
+      "nurse residency",
+      "new grad nurse",
+      "recent graduate nurse",
+      "nurse mentorship",
+      "transition to practice"
+    ]
+  }
+}
