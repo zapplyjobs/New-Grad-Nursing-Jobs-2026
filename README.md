@@ -9,9 +9,9 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building)
-![Software Engine](https://img.shields.io/badge/Software_Engineering-0-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -68,9 +68,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
+<details>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (3 positions)</h3></summary>
+
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **Akari Healthcare** | Rn/Lvn- Will Train New Grads | Richmond | 16h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/e281f7e4ea6dbeb5fc4e945c1bd4a550) |
+| 🏢 **Oneida Center** | Registered Nurse (RN) Team Member | Charlotte | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.collegerecruiter.com/job/2318010950-registered-nurse-rn-team-member) |
+| 🏢 **U.S. Navy** | Nursing - Navy | Colville | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=607374022409459153) |
+
+</details>
+
+
 
 
 
@@ -125,7 +134,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 0 current opportunities from 0 companies**
+**🎯 3 current opportunities from 3 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
