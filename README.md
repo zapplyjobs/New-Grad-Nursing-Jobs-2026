@@ -9,9 +9,9 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-0-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-0-blue?style=flat&logo=building)
-![Software Engine](https://img.shields.io/badge/Software_Engineering-0-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-3-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-3-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-3-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -68,9 +68,18 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
+<details>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (3 positions)</h3></summary>
+
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
-| *No current openings* | *Check back tomorrow* | *-* | *-* | *-* | *-* |
+| 🏢 **Oneida Center** | Registered Nurse (RN) Team Member | Charlotte | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.collegerecruiter.com/job/2318010950-registered-nurse-rn-team-member?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Fesenius Medical Care** | New Graduate Registered Nurse - RN | Tulsa | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Fresenius-Medical-Care/Job/Registered-Nurse-RN/-in-Tulsa,OK?jid=813f50054c32b952&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **U.S. Navy** | Nursing - Navy | Colville | 1w | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=607374022409459153&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+
+</details>
+
+
 
 
 
@@ -125,7 +134,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 0 current opportunities from 0 companies**
+**🎯 3 current opportunities from 3 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
