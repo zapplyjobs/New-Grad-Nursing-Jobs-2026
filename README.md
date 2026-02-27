@@ -9,9 +9,9 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-189-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-90-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-185-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-192-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-92-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-188-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (185 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (188 positions)</h3></summary>
 
 | Company | Role | Location | Posted | Level | Apply |
 |---------|------|----------|--------|-------|-------|
@@ -84,8 +84,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Aveanna Healthcare** | Registered Nurse (RN) | Norton | 22h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Aveanna-Healthcare/Job/Registered-Nurse-(RN)/-in-Norton,MA?jid=0f6923e9c2f63456&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **MedStar Health** | Graduate Nurse (RN) - New to Practice - Multiple Units - Relocation Offered! | Mechanicsville | 23h | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/mechanicsville-md/graduate-nurse-rn-new-to-practice-multiple-units-relocation-offered-347992/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Atrium Health** | Registered Nurse | Concord | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/e742cec94dc7b8721fb97899a999242f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Akari Healthcare** | Rn/Lvn- Will Train New Grads | Richmond | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/e281f7e4ea6dbeb5fc4e945c1bd4a550?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Mercy** | New Graduate Registered Nurse (m/w/d) - Rehabilitation Hospital | Bridgeton | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://lensa.com/job-v1/mercy/bridgeton-mo/graduate-registered-nurse/b76a6382e841d2679b825c7cf07262a6) |
+| 🏢 **Akari Healthcare** | Rn/Lvn- Will Train New Grads | Richmond | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/e281f7e4ea6dbeb5fc4e945c1bd4a550?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Sanford Health** | New Graduate RN - Registered Nurse - Bismarck | Bismarck | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://sanfordcareers.com/bismarck-nd/new-graduate-rn-registered-nurse-bismarck/8A9CD7DB19214726837271B4ABE00EEB/job/) |
 | 🏢 **Baylor Scott & White Health** | RN PACU/Recovery Weekend | Waxahachie | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.bswhealth.com/us/en/job/BSWHUS26003021EXTERNALENUS/RN-PACU-Recovery-Weekend) |
 | 🏢 **Sunbelt Staffing** | Medical-Surgical RN in Saint Johns, FL | St Johns | 1d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.sunbeltstaffing.com/jobs/nursing-rn-ms-saint-johns-fl/hc/9432166-32259/j/) |
@@ -132,6 +132,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Flint** | Registered Nurse (RN) - Green Card Sponsorship Available | Marion | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://salutemyjob.com/jobs/registered-nurse-rn-green-card-sponsorship-available-marion-south-dakota/2634330974-2/) |
 | 🏢 **Mission Hospital** | New Grad RN/Registered Nurse - Float Pool | Hickory | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-nc-hickory-new-grad-rn-registered-nurse-float-pool-mission-hospital) |
 | 🏢 **RCM Health Care Services** | Registered Nurse/RN | New York | 2d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.rcmhealthcare.com/job/298729-registered-nurse-rn-eureka-california/) |
+| 🏢 **Health Source Group** | Registered Nurse ( New Graduates Can apply) | Levittown | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Health-Source-Group/Job/Registered-Nurse/-in-Levittown,NY?jid=e6b162a2b72370b4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Virginia Heart** | Registered Nurse (RN)-$10,000 Sign-On Bonus | Falls Church | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/registered-nurse-rn-%2410-000-sign-on-bonus-at-virginia-heart-4377555058) |
 | 🏢 **Cone Health** | 2026 RN New Grad Residency | Yanceyville | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://gfj.conehealth.com/jobdetails/yanceyville-nc-2026-rn-new-grad-residency-68bf527d0d118b0c01f6d884) |
 | 🏢 **Mercy** | RN - Cardiovascular Operating Room (No Experience Required) | Wildwood | 3d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.healthecareers.com/job/rn-cardiovascular-operating-room-no-experience-required/13335680) |
@@ -198,6 +199,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Medical City Plano** | Med Surg Oncology Registered Nurse PRN | Plano | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.hcahealthcare.com/jobs/16420439-medical-oncology-registered-nurse-prn?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Aveanna Healthcare** | Registered Nurse (RN) | Glen Allen | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Aveanna-Healthcare/Job/Registered-Nurse-(RN)/-in-Glen-Allen,VA?jid=335f153e2d71c352) |
 | 🏢 **Sanford Health** | RN Float - Registered Nurse Children's Resource Team | Fargo | 4d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://sanfordcareers.com/fargo-nd/rn-float-registered-nurse-childrens-resource-team/51379A9064B94D34A049BD74BBF1A81B/job/) |
+| 🏢 **Oneida Center** | Registered Nurse (RN) Team Member | Miami | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.collegerecruiter.com/job/2362212332-registered-nurse-rn-team-member?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Mercy** | Registered Nurse (RN) – Medical Surgical – Day Shift – Full Time | St Ann | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://www.collegerecruiter.com/job/2360887367-registered-nurse-rn--medical-surgical--day-shift--full-time?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Prisma Health** | Registered Nurse (RN)-Nurse Resident, May 2026, Neuroscience Multispecialty | Greenville | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.prismahealth.org/us/en/job/R1130088/Registered-Nurse-RN-Nurse-Resident-May-2026-Neuroscience-Multispecialty?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **CHRISTUS Health** | RN - Nurse Residency - July 13, 2026 - Offering $10K Sign-on Bonus + Relo | Karnes City | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://hispanic-jobs.com/jobs/rn-nurse-residency-july-13-2026-offering-10k-sign-on-bonus-relo-karnes-city-texas/2629386884-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Sanford Health** | New Grad Registered Nurse | Sioux Rapids | 5d | ![Entry](https://img.shields.io/badge/-Entry-brightgreen "Entry-Level") | [<img src="images/apply.png" width="75" alt="Apply">](https://medicalhirings.talentrushhq.com/joblistingpage/4qsreg4afs3n-5de2c990044f5d6c-360d6e70dc31a2ba) |
@@ -328,7 +331,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 189 current opportunities from 90 companies**
+**🎯 192 current opportunities from 92 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
