@@ -73,9 +73,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Northside Hospital Inc.** | Spring 2026 Extended Recovery Unit/Orthopedics RN Residency Program | Unknown | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://us.sercanto.com/detail/a/spring-2026-extended-recovery-unit-orthopedics-rn-residency-program_canton_3209135470?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **SSM Health** | RN - Surgery - Days | Midwest City | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R189721/RN-Surgery-Days) |
-| 🏢 **Lancesoft INC** | RN MS/TELE | Easton | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/LanceSoft/Job/RN-MS-TELE/-in-Easton,MD?jid=8a0a83798c121a7e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Northside Hospital Inc.** | Spring 2026 Extended Recovery Unit/Orthopedics RN Residency Program | Unknown | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://us.sercanto.com/detail/a/spring-2026-extended-recovery-unit-orthopedics-rn-residency-program_canton_3209135470?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **SSM Health** | RN - Surgery - Days | Midwest City | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R189721/RN-Surgery-Days) |
+| 🏢 **Lancesoft INC** | RN MS/TELE | Easton | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/LanceSoft/Job/RN-MS-TELE/-in-Easton,MD?jid=8a0a83798c121a7e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **LanceSoft, Inc.** | Travel Nurse RN - OR Circulate - $2,136 per week | Bethesda | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/travel-nurse-rn-or-circulate-%242-136-per-week-at-lancesoft-inc-4379050935?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **North Country Healthcare** | Registered Nurse- New Graduate (WMC- Med/Surg) - Sign-On Bonus Available | Lancaster | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.northcountryhealth.org/registered-nurse-new-graduate-wmc-med-surg-sign-on-bonus-available/job/9422CE55E424DFCAADC9A35C26D68377?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Johnston-Willis Hospital** | Registered Nurse RN Ortho Spine Surgery Part Time | Mechanicsville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Johnston-Willis-Hospital/Job/Registered-Nurse-RN-Ortho-Spine-Surgery-Part-Time/-in-Mechanicsville,VA?jid=86985ce4555b2f45&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -422,9 +422,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **SSM Health** | Graduate Nurse | Centralia | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R177452/Graduate-Nurse) |
-| 🏢 **HCA Healthcare Trident Hospital** | New Graduate Nurse Residency Program | Cross | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608475886341598907) |
-| 🏢 **SSM Health** | Graduate Nurse | Centralia | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R177452/Graduate-Nurse) |
+| 🏢 **SSM Health** | Graduate Nurse | Centralia | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R177452/Graduate-Nurse) |
+| 🏢 **HCA Healthcare Trident Hospital** | New Graduate Nurse Residency Program | Cross | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608475886341598907) |
+| 🏢 **SSM Health** | Graduate Nurse | Centralia | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R177452/Graduate-Nurse) |
 | 🏢 **SSM Health** | Graduate Nurse - Full-time | Janesville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1133184489?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **HCA Healthcare Summerville Hospital** | Graduate Nurse - No Experience Required | Summerville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/-7481958364111621165) |
 | 🏢 **Saint Francis Hospital - Memphis** | Graduate Nurse Residency Program Memphis | Memphis | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.tenethealth.com/job/memphis/graduate-nurse-residency-program-memphis/1127/91673999040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
