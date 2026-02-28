@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-336-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-144-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-325-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-338-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-145-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-327-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 144+ top companies and healthcare facilities. Updated every 15 minutes with 336+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 145+ top companies and healthcare facilities. Updated every 15 minutes with 338+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across top healthcare systems, hospital networks, and medical staffing agencies.</p>
 
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (325 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (327 positions)</h3></summary>
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
@@ -110,6 +110,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **UNC Health Careers** | RN Clinical Nurse IV - Operating Room | Smithfield | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.unchealthcare.org/jobs/17408522-rn-clinical-nurse-iv-operating-room?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Ascension** | Registered Nurse (RN) - Cardiac PCU | Nashville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ascension.org/us/en/job/AHEAHUUS436009EXTERNALENUS/Registered-Nurse-RN-Cardiac-PCU?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Fresenius Medical Care** | Registered Nurse - RN | Seguin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.freseniusmedicalcare.com/registered-nurse-rn/job/AFF3BB1630465D1EE8F0549E150BDC96) |
+| 🏢 **U.S. Navy** | Registered Nurse | DeBordieu Colony | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608380617158242233) |
 | 🏢 **Independence Health System** | Graduate Nurse RN Residency — Spring 2026 | Latrobe | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.sercanto.com/detail/a/certified-nursing-assistant_modesto_2828228432?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Johns Hopkins Medicine** | New Grad RN - Oncology | Washington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.hopkinsmedicine.org/job/95871/new-grad-rn-oncology-nursing-new-grad-rn-us-dc-washington-sibley-memorial-hospital/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **U.S. Navy** | Registered Nurse | Cattaraugus | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608380602878668729&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -141,6 +142,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Mercy** | Registered Nurse (RN) - Med/Surg Career Pathway (Mercy Hospital South) | Edwardsville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.kget.com/jobs/registered-nurse-rn-med-surg-career-pathway-mercy-hospital-south-edwardsville-illinois/2637519446-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Mercy** | New Grad Nursing | Jennings | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/9fbca71d6ada881e48d64c8952aa7cfc?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **PruittHealth** | RN Home Health | Myrtle Beach | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.pruitthealth.com/us/en/job/PTRHUS2602107EXTERNALENUS/RN-Home-Health?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Norton Healthcare** | RN, Neuro/Surgical ICU, 7p-7a | Louisville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/rn-neuro-surgical-icu-7p-7a-at-norton-healthcare-4376901316) |
 | 🏢 **HCA Healthcare Trident Hospital** | RN ER (New Grad) - No Experience Required | Bluffton | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/-6022448661688362048?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **SSM Health** | RN Opportunities at St. Mary's Hospital - Centralia | Centralia | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R190845/RN-Opportunities-at-St-Mary-s-Hospital-Centralia?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **James H Quillen VA Medical Center** | Registered Nurse (HUD-VASH) Outpatient Mental Health | Johnson City | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/859029800?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -191,7 +193,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **University Medical Center, Inc.** | RN, Jewish Hospital, CVOR, 6a-4:30p | Unknown | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://uoflhealth.wd1.myworkdayjobs.com/UofLHealthCareers/job/Louisville-Kentucky/RN--Jewish-Hospital--CVOR--6a-4-30p_JR2026-107788) |
 | 🏢 **Thompson Health** | RN Office Nurse - Pediatrics - Farmington & Canandaigua Locations | Canandaigua | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169316803-rn-office-nurse-pediatrics-farmington-canandaigua-locations) |
 | 🏢 **Flint** | Registered Nurse (RN) - Green Card Sponsorship Available | Isle Au Haut | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://salutemyjob.com/jobs/registered-nurse-rn-green-card-sponsorship-available-isle-au-haut-maine/2634960522-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Baptist** | New Graduate Registered Nurse (RN) Medsurg 3S | Jackson | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608048294275524947&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **Baptist** | New Graduate Registered Nurse (RN) Medsurg 3S | Jackson | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608048294275524947) |
 | 🏢 **Christus Health** | Registered Nurse (RN) - ICU (Full Time) - ICU - Intensive Care Unit | Texarkana | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.gothamenterprisesltd.com/find-jobs/registered-nurse-jobs/cmlyk8olz04j7b6jsi9hwt0uv/registered-nurse-rn-icu-full-time-icu-intensive-care-unit-in-texarkana-tx?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **BJC HealthCare** | Registered Nurse (RN) - Oncology - $30-47 per hour - No Experience Required | Columbia | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/columbia-il/registered-nurse-rn-oncology-30-47-per-hour-683224/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Cone Health** | Open to New Graduates  Acute Care Nurse Practitioner or Physician Assistant   Cone Health Pediatric Specialists   Inpatient | Jamestown | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://gfj.conehealth.com/jobdetails/jamestown-nc-open-to-new-graduates-acute-care-nurse-practitioner-or-physician-assistant-cone-health-pediatric-specialists-inpatient-68f16b58480a470bfc4b2c09?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -256,7 +258,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Medical City Dallas** | RN Operating Room | Euless | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Medical-City-Dallas/Job/RN-Operating-Room/-in-Euless,TX?jid=12493382b570fcc9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Piedmont Healthcare** | Registered Nurse (RN) Emergency Department - No Experience Required | Stockbridge | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/5590171243374267674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **HCA Healthcare Trident Hospital** | RN ER (New Grad) - No Experience Required | Moncks Corner | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/-5510818671790769689?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **Loma Linda University Health** | Graduate Nurse - Adult RN Residency Program | Murrieta | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Loma-Linda-University-Health/Job/Graduate-Nurse-Adult-RN-Residency-Program.-MURRIETA/-in-Murrieta,CA?jid=5c5e68ede450078f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Hartford Hospital** | Registered Nurse (RN) Emergency Department - No Experience Required | Bristol | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/-5807938098193893630?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Sanford Health** | Registered Nurse - New Graduate | Flandreau | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://medicalhirings.talentrushhq.com/joblistingpage/5iaud0e3ehl0-5b2-f205bea98c1ba2515dbfc7cc59391?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Sanford Health** | New Grad Registered Nurse | Correctionville | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://medicalhirings.talentrushhq.com/joblistingpage/nkza0feeq6pa-c3ef6cfc14bf72a-0c70679f3ff16eff5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -293,6 +294,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **West Boca Medical Center** | Seasonal Registered Nurse (RN) - Med Surg | Boca Raton | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.tenethealth.com/job/boca-raton/seasonal-registered-nurse-rn-med-surg/1127/92072423088?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Confidential** | New Graduate Registered Nurse | Independence | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Centerpoint-Medical-Center/Job/Registered-Nurse/-in-Independence,MO?jid=f385795d794bfb6e) |
 | 🏢 **Piedmont Healthcare** | RN Residency Spring 2026 - Piedmont Mountainside | Talking Rock | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/talking-rock-ga/rn-residency-spring-2026-piedmont-mountainside-708154/) |
+| 🏢 **Loma Linda University Health** | Graduate Nurse - Adult RN Residency Program | Murrieta | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Loma-Linda-University-Health/Job/Graduate-Nurse-Adult-RN-Residency-Program.-MURRIETA/-in-Murrieta,CA?jid=5c5e68ede450078f) |
 | 🏢 **Loma Linda University Health** | Graduate Nurse - Adult RN Residency Program | Loma Linda | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Loma-Linda-University-Health/Job/Graduate-Nurse-Adult-RN-Residency-Program/-in-Loma-Linda,CA?jid=f043a086f76e1066&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Duke Careers** | New Grad RN - Cardiothoracic Stepdown (Rotating Days/Nights) | Durham | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duke.edu/job/Durham-New-Grad-RN-Cardiothoracic-Stepdown-%28Rotating-DaysNights%29-NC-27710/1367141300/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Hartford Hospital** | Registered Nurse (RN) Emergency Department - No Experience Required | Waterbury | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/8879881959534500451?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -417,7 +419,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|----------|
 | 🏢 **SSM Health** | Graduate Nurse | Centralia | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R177452/Graduate-Nurse?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **SSM Health** | Graduate Nurse - Full-time | Janesville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1133184489?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
-| 🏢 **HCA Healthcare Summerville Hospital** | Graduate Nurse - No Experience Required | Summerville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/-7481958364111621165?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
+| 🏢 **HCA Healthcare Summerville Hospital** | Graduate Nurse - No Experience Required | Summerville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/-7481958364111621165) |
 | 🏢 **Saint Francis Hospital - Memphis** | Graduate Nurse Residency Program Memphis | Memphis | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.tenethealth.com/job/memphis/graduate-nurse-residency-program-memphis/1127/91673999040?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **HCA Healthcare** | New Graduate Nurse Residency | Sanibel | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://hcahealthcare.pronursesnearby.com/joblistingpage/e6cv85xssauy-256df5dd5cb47cce-16f754f8a-085641a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **SSM Health** | Graduate Nurse- FT Nights PCU - Full-time | Jefferson City | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1222469411?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
@@ -486,7 +488,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 336 current opportunities from 144 companies**
+**🎯 338 current opportunities from 145 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
