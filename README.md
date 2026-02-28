@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-334-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-336-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-144-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-324-red?style=flat&logo=star)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-325-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 144+ top companies and healthcare facilities. Updated every 15 minutes with 334+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 144+ top companies and healthcare facilities. Updated every 15 minutes with 336+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across top healthcare systems, hospital networks, and medical staffing agencies.</p>
 
@@ -69,7 +69,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 <img src="images/nsj-listings.png" alt="Fresh 2026 job listings (under 1 week).">
 
 <details>
-<summary><h3>🏥 <strong>Registered Nurse</strong> (324 positions)</h3></summary>
+<summary><h3>🏥 <strong>Registered Nurse</strong> (325 positions)</h3></summary>
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
@@ -81,7 +81,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Mercy** | Registered Nurse (RN) - Medical Surgical - Day Shift - Full Time | University City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.gothamenterprisesltd.com/find-jobs/registered-nurse-jobs/cmlyruadh0z78b6jszu15wp8q/registered-nurse-rn-medical-surgical-day-shift-full-time-in-university-city-mo) |
 | 🏢 **Supplemental Health Care** | Travel Nurse RN - SICU - Surgical Intensive Care - $2,512 per week | New York | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/travel-nurse-rn-sicu-surgical-intensive-care-%242-512-per-week-at-supplemental-health-care-4378709550) |
 | 🏢 **The Aviary Recovery Center** | Registered Nurse - All Shifts | Missouri City | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.linkedin.com/jobs/view/registered-nurse-all-shifts-at-the-aviary-recovery-center-4378679472) |
-| 🏢 **Independence Health System** | Graduate Nurse RN Residency — Spring 2026 | Latrobe | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.sercanto.com/detail/a/certified-nursing-assistant_modesto_2828228432) |
 | 🏢 **Flint** | Registered Nurse; RN - Green Card Sponsorship | Pomfret | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.learn4good.com/jobs/maryland/nursing/4896813943/e/) |
 | 🏢 **Mayo Clinic** | Registered Nurse - Hematology/Oncology and Medical (Nights-q 3rd w/e) - RN | Jacksonville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.mayoclinic.org/job/jacksonville/registered-nurse-hematology-oncology-and-medical-nights-q-3rd-w-e-rn/33647/92204627968) |
 | 🏢 **Mercy** | Med/Surg Nursing - RN or LPN - Days or Nights - Mercy Hospital St Louis | East St Louis | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.kget.com/jobs/med-surg-nursing-rn-or-lpn-days-or-nights-mercy-hospital-st-louis-east-saint-louis-illinois/2637046348-2/) |
@@ -111,9 +110,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **UNC Health Careers** | RN Clinical Nurse IV - Operating Room | Smithfield | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.unchealthcare.org/jobs/17408522-rn-clinical-nurse-iv-operating-room) |
 | 🏢 **Ascension** | Registered Nurse (RN) - Cardiac PCU | Nashville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ascension.org/us/en/job/AHEAHUUS436009EXTERNALENUS/Registered-Nurse-RN-Cardiac-PCU) |
 | 🏢 **Fresenius Medical Care** | Registered Nurse - RN | Seguin | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.freseniusmedicalcare.com/registered-nurse-rn/job/AFF3BB1630465D1EE8F0549E150BDC96) |
+| 🏢 **Independence Health System** | Graduate Nurse RN Residency — Spring 2026 | Latrobe | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.sercanto.com/detail/a/certified-nursing-assistant_modesto_2828228432) |
+| 🏢 **Johns Hopkins Medicine** | New Grad RN - Oncology | Washington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.hopkinsmedicine.org/job/95871/new-grad-rn-oncology-nursing-new-grad-rn-us-dc-washington-sibley-memorial-hospital/) |
 | 🏢 **U.S. Navy** | Registered Nurse | Cattaraugus | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608380602878668729) |
 | 🏢 **She Recruits LLC** | Registered Nurse - New Grad | Smyrna | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/jdp/-7436239229835789663) |
-| 🏢 **Johns Hopkins Medicine** | New Grad RN - Oncology | Washington | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.hopkinsmedicine.org/job/95871/new-grad-rn-oncology-nursing-new-grad-rn-us-dc-washington-sibley-memorial-hospital/) |
 | 🏢 **Akari Healthcare** | Rn/Lvn- Will Train New Grads | Richmond | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/e281f7e4ea6dbeb5fc4e945c1bd4a550) |
 | 🏢 **MedStar Health** | Graduate Nurse (RN) - New to Practice - Multiple Units - Relocation Offered! | Mechanicsville | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/mechanicsville-md/graduate-nurse-rn-new-to-practice-multiple-units-relocation-offered-347992/) |
 | 🏢 **Blue Ridge Regional Hospital** | New Grad RN Residency | Spruce Pine | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.hcahealthcare.com/jobs/17403199-new-grad-rn-residency) |
@@ -142,6 +142,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Mercy** | New Grad Nursing | Jennings | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/9fbca71d6ada881e48d64c8952aa7cfc) |
 | 🏢 **PruittHealth** | RN Home Health | Myrtle Beach | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.pruitthealth.com/us/en/job/PTRHUS2602107EXTERNALENUS/RN-Home-Health) |
 | 🏢 **HCA Healthcare Trident Hospital** | RN ER (New Grad) - No Experience Required | Bluffton | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/-6022448661688362048) |
+| 🏢 **SSM Health** | RN Opportunities at St. Mary's Hospital - Centralia | Centralia | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R190845/RN-Opportunities-at-St-Mary-s-Hospital-Centralia) |
 | 🏢 **James H Quillen VA Medical Center** | Registered Nurse (HUD-VASH) Outpatient Mental Health | Johnson City | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.usajobs.gov/job/859029800) |
 | 🏢 **Duke Health** | Registered Nurse (RN) General Medicine Stepdown, Weekend Days | Durham | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dukehealth.org/us/en/job/DUHDUHUS263766EXTERNALENUS/Registered-Nurse-RN-General-Medicine-Stepdown-Weekend-Days) |
 | 🏢 **US Navy** | Registered Nurse | Fenwick Island | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.talent.com/view?id=608048275022947477) |
@@ -293,9 +294,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Confidential** | New Graduate Registered Nurse | Independence | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Centerpoint-Medical-Center/Job/Registered-Nurse/-in-Independence,MO?jid=f385795d794bfb6e) |
 | 🏢 **Piedmont Healthcare** | RN Residency Spring 2026 - Piedmont Mountainside | Talking Rock | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/talking-rock-ga/rn-residency-spring-2026-piedmont-mountainside-708154/) |
 | 🏢 **Loma Linda University Health** | Graduate Nurse - Adult RN Residency Program | Loma Linda | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.ziprecruiter.com/c/Loma-Linda-University-Health/Job/Graduate-Nurse-Adult-RN-Residency-Program/-in-Loma-Linda,CA?jid=f043a086f76e1066) |
+| 🏢 **Duke Careers** | New Grad RN - Cardiothoracic Stepdown (Rotating Days/Nights) | Durham | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duke.edu/job/Durham-New-Grad-RN-Cardiothoracic-Stepdown-%28Rotating-DaysNights%29-NC-27710/1367141300/) |
 | 🏢 **Hartford Hospital** | Registered Nurse (RN) Emergency Department - No Experience Required | Waterbury | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/8879881959534500451) |
 | 🏢 **Sanford Health** | RN - Sheldon Medical Center - Full Time | Okabena | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/jdp/5175476735445991243) |
-| 🏢 **Duke Careers** | New Grad RN - Cardiothoracic Stepdown (Rotating Days/Nights) | Durham | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.duke.edu/job/Durham-New-Grad-RN-Cardiothoracic-Stepdown-%28Rotating-DaysNights%29-NC-27710/1367141300/) |
 | 🏢 **WellSpan Health** | Registered Nurse - Critical Care - Days | Waynesboro | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.joinwellspan.org/jobs/Registered_Nurse_-_Critical_Care_-_Days/100/408464/) |
 | 🏢 **Select Medical** | Registered Nurse RN - New Graduate | Avon | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobilize.com/job/us-oh-avon-registered-nurse-rn-new-graduate-select-medical-hiring) |
 | 🏢 **Sanford Health** | RN - Registered Nurse - Orthopedics & Neurology - Nights/Weekends - Full-time | Sioux Falls | 6d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1141724187) |
@@ -410,10 +411,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 </details>
 
 <details>
-<summary><h3>👨‍⚕️ <strong>Medical Support</strong> (9 positions)</h3></summary>
+<summary><h3>👨‍⚕️ <strong>Medical Support</strong> (10 positions)</h3></summary>
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **SSM Health** | Graduate Nurse | Centralia | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.ssmhealth.com/us/en/job/R177452/Graduate-Nurse) |
 | 🏢 **SSM Health** | Graduate Nurse - Full-time | Janesville | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.snagajob.com/jobs/1133184489) |
 | 🏢 **HCA Healthcare Summerville Hospital** | Graduate Nurse - No Experience Required | Summerville | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jooble.org/rjdp/-7481958364111621165) |
 | 🏢 **Saint Francis Hospital - Memphis** | Graduate Nurse Residency Program Memphis | Memphis | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.tenethealth.com/job/memphis/graduate-nurse-residency-program-memphis/1127/91673999040) |
@@ -438,6 +440,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 Check out our other repos for jobs and free resources:
 
+<p align="center">
+  <a href="https://github.com/zapplyjobs/New-Grad-Jobs-2026"><img src="images/repo-ngj.png" alt="New Grad Jobs 2026" height="40"></a>
+</p>
 <p align="center">
   <a href="https://github.com/zapplyjobs/New-Grad-Software-Engineering-Jobs-2026"><img src="images/repo-sej.png" alt="Software Engineering Jobs" height="40"></a>
   &nbsp;&nbsp;
@@ -481,7 +486,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 334 current opportunities from 144 companies**
+**🎯 336 current opportunities from 144 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
