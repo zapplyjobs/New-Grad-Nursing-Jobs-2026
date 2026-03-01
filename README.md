@@ -9,18 +9,18 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-1868-brightgreen?style=flat&logo=briefcase)
-![Companies](https://img.shields.io/badge/Companies-167-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-1553-red?style=flat&logo=star)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-1785-brightgreen?style=flat&logo=briefcase)
+![Companies](https://img.shields.io/badge/Companies-166-blue?style=flat&logo=building)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-1477-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 1:45 PM CST
+> ⏱ Last updated: Mar 1, 1:59 PM CST
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 167+ top companies and healthcare facilities. Updated every 15 minutes with 1868+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 166+ top companies and healthcare facilities. Updated every 15 minutes with 1785+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across top healthcare systems, hospital networks, and medical staffing agencies.</p>
 
@@ -246,7 +246,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP/PA)- Gastroenterology Outpatient Provider I | Twinsburg Family ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Twinsburg-Family-Health-Center/Advanced-Practice-Provider--NP-PA---Gastroenterology-Outpatient-Provider-I_326471) |
 | 🏢 **Cleveland Clinic** | Pharmacy Technician - Inpatient - Neuro Expansion, Part Time | Cleveland Clinic ... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Cleveland-Clinic-Main-Campus/Pharmacy-Technician---Inpatient---Neuro-Expansion--Part-Time_331218) |
 | 🏢 **Cleveland Clinic** | Nurse Practitioner, Physician Assistant - Cardiology | 2 Locations | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Tradition-Hospital/Nurse-Practitioner-or-Physician-Assistant-I---Cardiology_313637) |
-| 🏢 **Saint Luke's Health System** | Inpatient Pharmacy Technician Certified | Saint Luke's Hosp... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Saint-Lukes-Hospital------4401-Wornall-Rd------Kansas-City------MO/Inpatient-Pharmacy-Technician-Certified_JobReq0056087) |
 | 🏢 **Ochsner Health** | LPN-Hospital/Inpatient - OLGMC Endoscopy/GI Lab - Full Time, Days | Acadiana Region -... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Lafayette---Acadiana-Region---Louisiana/LPN-Hospital-Inpatient---OLGMC-Endoscopy-GI-Lab---Full-Time--Days_REQ_00244567) |
 | 🏢 **Geisinger Health** | Nursing Assistant- 7 Inpatient Behavioral Health Unit | Lewistown, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/job/Lewistown-PA/Nursing-Assistant--7-Inpatient-Behavioral-Health-Unit_R-92026-1) |
 | 🏢 **Mass General Brigham** | Inpatient Physical Therapist | MA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Newton-MA/Inpatient-Physical-Therapist_RQ4048796) |
@@ -312,7 +311,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Vanderbilt University Medical Center** | Licensed Practical Nurse Float | Nashville, TN | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Licensed-Practical-Nurse-Float_R-49092-1) |
 | 🏢 **Vanderbilt University Medical Center** | Ambulatory Clinics - Licensed Practical Nurse | Nashville, TN | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Ambulatory-Clinics_R-51029-1) |
 | 🏢 **Sharp Healthcare** | LVN - SNF West - Chula Vista Medical Center - Days - PT | Chula Vista, CA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/job/Chula-Vista-CA/LVN---SNF-West---Chula-Vista-Medical-Center---Days---PT_JR204271-1) |
-| 🏢 **Saint Luke's Health System** | Telehealth Assistant LPN | System Offices   ... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/System-Offices------901-E-104-St------Kansas-City------MO/Telehealth-Assistant-LPN_JobReq0055560) |
 | 🏢 **Ochsner Health** | LPN - Med/Surg - Ochsner Baptist - Nights | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/New-Orleans---New-Orleans-Region---Louisiana/LPN---Med-Surg---Ochsner-Baptist_REQ_00256506) |
 | 🏢 **Ochsner Health** | LPN - Med/Surg Post Op - Ochsner Baptist - Days | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/New-Orleans---New-Orleans-Region---Louisiana/LPN---Med-Surg-Post-Op---Ochsner-Baptist---Days_REQ_00256512) |
 | 🏢 **Ochsner Health** | LPN-OBGYN CLINIC | Northshore Region... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Slidell---Northshore-Region---Louisiana/LPN-OBGYN-CLINIC_REQ_00250832) |
@@ -374,8 +372,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Ochsner Health** | License Practical Nurse (LPN)  - Med/Surg 5 - Nights | Baton Rouge Regio... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/License-Practical-Nurse--LPN-----Med-Surg-5---Nights_REQ_00255335) |
 | 🏢 **Ochsner Health** | LPN-Gastroenterology Clinic | Northshore Region... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Slidell---Northshore-Region---Louisiana/LPN-Gastroenterology-Clinic_REQ_00248796) |
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Vascular Surgery | Barre, PA, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/job/Wilkes-Barre-PA/LPN---Licensed-Practical-Nurse---Vascular-Surgery_R-87411) |
-| 🏢 **Saint Luke's Health System** | Licensed Practical Nurse - Skilled Nursing Facility | Bishop Spencer Pl... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Bishop-Spencer-Place------4301-Madison-Ave------Kansas-City------MO/Licensed-Practical-Nurse---Skilled-Nursing-Facility_JobReq0055745-1) |
-| 🏢 **Saint Luke's Health System** | Licensed Practical Nurse  - SNF | Bishop Spencer Pl... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Bishop-Spencer-Place------4301-Madison-Ave------Kansas-City------MO/Licensed-Practical-Nurse----SNF_JobReq0055746) |
 | 🏢 **Ochsner Health** | LPN Clinic - Primary Care, Jeff Hwy - Full Time | New Orleans Regio... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/New-Orleans---New-Orleans-Region---Louisiana/LPN-Clinic---Primary-Care--Jeff-Hwy---Full-Time_REQ_00255876) |
 | 🏢 **Ochsner Health** | LPN Care Coordinator - Lung Cancer Screening Navigator | New Orleans Regio... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/New-Orleans---New-Orleans-Region---Louisiana/LPN-Care-Coordinator---Pulmonary-Clinic_REQ_00251831) |
 | 🏢 **Ochsner Health** | LPN - Primary Care Clinic- Jefferson Place | Baton Rouge Regio... | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/LPN---Primary-Care-Clinic--Jefferson-Place_REQ_00255221) |
@@ -390,6 +386,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Pediatrics | Scranton, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/job/Scranton-PA/LPN---Licensed-Practical-Nurse---Pediatrics_R-83253) |
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Gastroenterology | Scranton, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/job/Scranton-PA/LPN---Licensed-Practical-Nurse---Gastroenterology_R-90539) |
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Gastroenterology | Barre, PA, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/job/Wilkes-Barre-PA/LPN---Licensed-Practical-Nurse---Gastroenterology_R-90043-1) |
+| 🏢 **Geisinger Health** | LPN - Professional Development Licensed Practical Nurse Ambulatory Nursing | Pittston, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/job/Pittston-PA/LPN---Professional-Development-Licensed-Practical-Nurse-Ambulatory-Nursing_R-89682) |
+| 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Gastroenterology | Danville, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/job/Danville-PA/LPN---Licensed-Practical-Nurse---Gastroenterology_R-88118) |
+| 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Urology | Pittston, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/job/Pittston-PA/LPN---Licensed-Practical-Nurse---Urology_R-84827) |
 
 <p align="center"><a href="https://softwarejobs.dev/"><img src="https://img.shields.io/badge/See_More_Jobs-softwarejobs.dev-4A90E2?style=for-the-badge&logo=briefcase&logoColor=white" alt="See more jobs on softwarejobs.dev"></a></p>
 
@@ -401,7 +400,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
 | 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Med/Surg & Post-Op Surgery | Fairview Hospital | 0h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg---Post-Op-Surgery_328883) |
-| 🏢 **Saint Luke's Health System** | Certified Nursing Assistant | Bishop Spencer Pl... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Bishop-Spencer-Place------4301-Madison-Ave------Kansas-City------MO/Certified-Nursing-Assistant_JobReq0055846-1) |
 | 🏢 **Ochsner Health** | Certified Nursing Assistant - Med/Tele - Nights | Northshore Region... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Slidell---Northshore-Region---Louisiana/Certified-Nursing-Assistant---Med-Tele---Nights_REQ_00245731) |
 | 🏢 **Ochsner Health** | CNA- IMTA-Med/Surg - Jeff Hwy -  Full Time Days | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/New-Orleans---New-Orleans-Region---Louisiana/CNA--IMTA-Med-Surg---Jeff-Hwy----Full-Time-Days_REQ_00256268) |
 | 🏢 **Ochsner Health** | CNA Medical ICU - Jefferson Hwy - Full Time - NIGHTS | New Orleans Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/New-Orleans---New-Orleans-Region---Louisiana/Certified-Nursing-Assistant--CNA----Medical-ICU---Jefferson-Hwy---Full-Time---NIGHTS---Sign-On-Bonus_REQ_00249801) |
@@ -447,8 +445,6 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Mass General Brigham** | Certified Nursing Assistant | MA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/job/Brighton-MA/Certified-Nursing-Assistant_RQ4045870) |
 | 🏢 **Intermountain Health** | Patient Care Tech CNA Critical Care | Intermountain Hea... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/job/Intermountain-Health-Lutheran-Hospital/Patient-Care-Tech-CNA-Critical-Care_R163876) |
 | 🏢 **Intermountain Health** | Critical Care Tech (CNA) - Coronary ICU | Intermountain Hea... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/job/Intermountain-Health-Intermountain-Medical-Center/Critical-Care-Tech--CNA----Coronary-ICU_R163030-1) |
-| 🏢 **Saint Luke's Health System** | Certified Nursing Assistant | Anderson County H... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Anderson-County-Hospital------421-S-Maple-St------Garnett------KS/Certified-Nursing-Assistant_JobReq0056026) |
-| 🏢 **Saint Luke's Health System** | Nurse Aide - Home Health CNA | KS | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/job/Home-Visits-KS/Nurse-Aide---Home-Health-CNA_JobReq0055445) |
 | 🏢 **Ochsner Health** | CNA - OUHC MedSurg - Part Time (Nights) | Acadiana Region -... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Lafayette---Acadiana-Region---Louisiana/CNA---OUHC-MedSurg---Part-Time_REQ_00254475) |
 | 🏢 **Ochsner Health** | CNA - OLGMC 6C Med Tele - Part Time (Days) | Acadiana Region -... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Lafayette---Acadiana-Region---Louisiana/Certified-Nursing-Assistant---OLGMC-6C-Med-Tele---Part-Time--Days---7A-7P--_REQ_00249241-1) |
 | 🏢 **Ochsner Health** | CNA - OLGMC 9W Med Tele - Part Time (Nights) | Acadiana Region -... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/job/Lafayette---Acadiana-Region---Louisiana/CNA---OLGMC-9W-Med-Tele---Part-Time-Nights-7P-7A_REQ_00238871-1) |
@@ -586,7 +582,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 1868 current opportunities from 167 companies**
+**🎯 1785 current opportunities from 166 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
