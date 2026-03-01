@@ -14,7 +14,7 @@
 ![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-1477-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 1:59 PM CST
+> ⏱ Last updated: Mar 1, 2:00 PM CST
 
 
 
