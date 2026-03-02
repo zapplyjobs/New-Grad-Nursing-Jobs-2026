@@ -174,7 +174,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Mass General Brigham** | Medical Assistant I | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Brookline-MA/Medical-Assistant-I_RQ4051655) |
 | 🏢 **Mass General Brigham** | RN, Home Hospital Virtual Care- On-Site | MA | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Somerville-MA/RN--Home-Hospital-Virtual-Care--On-Site_RQ4053654) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -244,7 +244,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Geisinger Health** | Physician Assistant Nurse Practitioner Orthopaedic Urgent Care | Port Matilda, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Port-Matilda-PA/Physician-Assistant-Nurse-Practitioner-Orthopaedic-Urgent-Care_R-91668) |
 | 🏢 **Geisinger Health** | Nurse Practitioner or Physician Assistant ConvenientCare Per Diem | 2 Locations | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Orwigsburg-PA/Nurse-Practitioner-or-Physician-Assistant-ConvenientCare-Per-Diem_R-91795) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -329,7 +329,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Dermatology | Barre, PA, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/LPN---Licensed-Practical-Nurse---Dermatology_R-92168) |
 | 🏢 **Geisinger Health** | LPN - Licensed Practical Nurse - Primary Care | Dallas, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Dallas-PA/LPN---Licensed-Practical-Nurse---Primary-Care_R-91827) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -429,7 +429,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Geisinger Health** | Patient Care Technician (Emergency Department) - No CNA Cert Required - Night Shift | Coal Township, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Coal-Township-PA/Patient-Care-Technician--Emergency-Department----No-CNA-Cert-Required---Night-Shift_R-92377) |
 | 🏢 **Geisinger Health** | Nursing Assistant (PACU, Pediatric PACU, or Same Day Surgery) - No CNA Cert Required - Day/Eve Shift | Danville, PA | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/Nursing-Assistant--Same-Day-Surgery----No-CNA-Cert-Required---Day-Eve-Shift_R-80227) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
@@ -456,7 +456,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **BJC HealthCare** | New Graduate Nurse | Arnold | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://medicalhirings.talentrushhq.com/joblistingpage/2ebuc402nfee-c3d6652ff80-6e60eace8221ede6287d8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) |
 | 🏢 **Mercy** | Graduate Nurse Resident | Springfield | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://us.bebee.com/job/ad94e17e203371c0465fe2315b54fc2f) |
 
-<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="https://raw.githubusercontent.com/zapplyjobs/New-Grad-Jobs-2026/main/images/zapply-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
+<p align="center">Apply for more jobs at <a href="https://softwarejobs.dev/"><img src="images/softwarejobs-button.png" height="40" alt="See more jobs on softwarejobs.dev"></a></p>
 
 </details>
 
