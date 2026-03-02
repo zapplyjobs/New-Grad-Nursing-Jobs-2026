@@ -14,7 +14,7 @@
 ![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-1476-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 8:15 PM CST
+> ⏱ Last updated: Mar 1, 8:30 PM CST
 
 
 
@@ -75,14 +75,14 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cleveland Clinic** | Clinical Pharmacist - Hospital Care at Home | Indian River Hosp... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Indian-River-Hospital/Clinical-Pharmacist---Hospital-Care-at-Home_316659) |
-| 🏢 **Cleveland Clinic** | RN HOPS - Cardiac Cath Lab | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-HOPS---Cardiac-Cath-Lab_332778-1) |
-| 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP/PA) – SANE Program - PRN | Akron General Med... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/Advanced-Practice-Provider--NP-PA----SANE-Program---PRN_330596) |
-| 🏢 **Cleveland Clinic** | Phlebotomist Technician | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Phlebotomist-Technician_320257) |
-| 🏢 **Cleveland Clinic** | RN Hospital Pre/Post  - Neuro Expansion | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Pre-Post----Neuro-Expansion_326007) |
-| 🏢 **Cleveland Clinic** | RN Hospital Pre/Post - Neuro Expansion | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Pre-Post---Neuro-Expansion_325975) |
-| 🏢 **Cleveland Clinic** | RN Hospital Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Weekender-Flex---Neuro-Expansion_326001) |
-| 🏢 **Cleveland Clinic** | RN Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Weekender-Flex---Neuro-Expansion_326000) |
+| 🏢 **Cleveland Clinic** | Clinical Pharmacist - Hospital Care at Home | Indian River Hosp... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Indian-River-Hospital/Clinical-Pharmacist---Hospital-Care-at-Home_316659) |
+| 🏢 **Cleveland Clinic** | RN HOPS - Cardiac Cath Lab | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-HOPS---Cardiac-Cath-Lab_332778-1) |
+| 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP/PA) – SANE Program - PRN | Akron General Med... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/Advanced-Practice-Provider--NP-PA----SANE-Program---PRN_330596) |
+| 🏢 **Cleveland Clinic** | Phlebotomist Technician | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Phlebotomist-Technician_320257) |
+| 🏢 **Cleveland Clinic** | RN Hospital Pre/Post  - Neuro Expansion | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Pre-Post----Neuro-Expansion_326007) |
+| 🏢 **Cleveland Clinic** | RN Hospital Pre/Post - Neuro Expansion | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Pre-Post---Neuro-Expansion_325975) |
+| 🏢 **Cleveland Clinic** | RN Hospital Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Weekender-Flex---Neuro-Expansion_326001) |
+| 🏢 **Cleveland Clinic** | RN Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Weekender-Flex---Neuro-Expansion_326000) |
 | 🏢 **The George Washington University Hospital** | New Grad RN Residency Program All Specialties (July 2026 Cohort) | Suitland-Silver Hill | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/suitland-md/new-grad-rn-residency-program-all-specialties-july-2026-cohort-044625/) |
 | 🏢 **SSM Health** | RN-Resident (Post Licensure) | Eldorado | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobserve.com/us/en/extjob/RN-RESIDENT-in-Eldorado-Wisconsin-USA-49DA40EC5FD68342DA/) |
 | 🏢 **SSM Health** | Registered Nurse - Emergency - Nights - No Experience Required | St Ann | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/saint-ann-mo/registered-nurse-emergency-nights-063878/) |
