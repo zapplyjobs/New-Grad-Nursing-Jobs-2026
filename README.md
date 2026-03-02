@@ -14,8 +14,6 @@
 ![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-1476-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
-> ⏱ Last updated: Mar 1, 8:45 PM CST
-
 
 
 </div>
@@ -83,15 +81,15 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Cleveland Clinic** | RN Hospital Pre/Post - Neuro Expansion | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Pre-Post---Neuro-Expansion_325975) |
 | 🏢 **Cleveland Clinic** | RN Hospital Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Hospital-Weekender-Flex---Neuro-Expansion_326001) |
 | 🏢 **Cleveland Clinic** | RN Weekender Flex - Neuro Expansion | Cleveland Clinic ... | 2h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/RN-Weekender-Flex---Neuro-Expansion_326000) |
-| 🏢 **The George Washington University Hospital** | New Grad RN Residency Program All Specialties (July 2026 Cohort) | Suitland-Silver Hill | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/suitland-md/new-grad-rn-residency-program-all-specialties-july-2026-cohort-044625/) |
-| 🏢 **SSM Health** | RN-Resident (Post Licensure) | Eldorado | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobserve.com/us/en/extjob/RN-RESIDENT-in-Eldorado-Wisconsin-USA-49DA40EC5FD68342DA/) |
-| 🏢 **SSM Health** | Registered Nurse - Emergency - Nights - No Experience Required | St Ann | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/saint-ann-mo/registered-nurse-emergency-nights-063878/) |
-| 🏢 **SSM Health** | RN-Emergency Department - No Experience Required | Maple Bluff | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/maple-bluff-wi/rn-emergency-department-131033/) |
-| 🏢 **SSM Health** | RN-Emergency Department - No Experience Required | Dupo | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/dupo-il/rn-emergency-department-691283/) |
-| 🏢 **SSM Health** | RN-Resident (Post Licensure) - No Experience Required | Avalon | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/avalon-wi/rn-resident-post-licensure-078098/) |
-| 🏢 **Piedmont Healthcare** | RN - Nurse Residency Unit, Weekend Option - No Experience Required | North High Shoals | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/high-shoals-ga/rn-nurse-residency-unit-weekend-option-061936/) |
-| 🏢 **SSM Health** | RN-Resident (Post Licensure) - No Experience Required | Richmond | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/richmond-wi/rn-resident-post-licensure-931275/) |
-| 🏢 **Aveanna Healthcare** | Pediatric Registered Nurse (RN) - No Experience Required | Skyline View | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/skyline-view-pa/pediatric-registered-nurse-rn-542700/) |
+| 🏢 **The George Washington University Hospital** | New Grad RN Residency Program All Specialties (July 2026 Cohort) | Suitland-Silver Hill | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/suitland-md/new-grad-rn-residency-program-all-specialties-july-2026-cohort-044625/) |
+| 🏢 **SSM Health** | RN-Resident (Post Licensure) | Eldorado | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.jobserve.com/us/en/extjob/RN-RESIDENT-in-Eldorado-Wisconsin-USA-49DA40EC5FD68342DA/) |
+| 🏢 **SSM Health** | Registered Nurse - Emergency - Nights - No Experience Required | St Ann | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/saint-ann-mo/registered-nurse-emergency-nights-063878/) |
+| 🏢 **SSM Health** | RN-Emergency Department - No Experience Required | Maple Bluff | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/maple-bluff-wi/rn-emergency-department-131033/) |
+| 🏢 **SSM Health** | RN-Emergency Department - No Experience Required | Dupo | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/dupo-il/rn-emergency-department-691283/) |
+| 🏢 **SSM Health** | RN-Resident (Post Licensure) - No Experience Required | Avalon | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/avalon-wi/rn-resident-post-licensure-078098/) |
+| 🏢 **Piedmont Healthcare** | RN - Nurse Residency Unit, Weekend Option - No Experience Required | North High Shoals | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/high-shoals-ga/rn-nurse-residency-unit-weekend-option-061936/) |
+| 🏢 **SSM Health** | RN-Resident (Post Licensure) - No Experience Required | Richmond | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/richmond-wi/rn-resident-post-licensure-931275/) |
+| 🏢 **Aveanna Healthcare** | Pediatric Registered Nurse (RN) - No Experience Required | Skyline View | 21h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/skyline-view-pa/pediatric-registered-nurse-rn-542700/) |
 | 🏢 **Vanderbilt University Medical Center** | Registered Nurse, ICU, Nights, Tullahoma | Tullahoma, TN | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Tullahoma-TN/RN-ICU--NIGHTS---20k-sign-on-bonus--Tullahoma-Harton-Hospital_R-27819) |
 | 🏢 **Vanderbilt University Medical Center** | Registered Nurse Discharge Planner, Peds Case Management, PRN | Nashville, TN | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Registered-Nurse-Discharge-Planner--Peds-Case-Management--PRN_R-52082-1) |
 | 🏢 **Vanderbilt University Medical Center** | Registered Nurse Transitional Care Unit FT Night Shift | Nashville, TN | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://vumc.wd1.myworkdayjobs.com/job/Nashville-TN/Registered-Nurse-Transitional-Care-Unit-FT-Night-Shift_R-51759-1) |
