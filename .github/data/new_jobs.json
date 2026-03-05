@@ -66117,32 +66117,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-19T23:38:41.461Z"
-  },
-  {
-    "job_id": "workday-ochsner-health-REQ_00255881",
-    "job_title": "Phlebotomist Specimen Processor - PRN (Alternating Weekends)",
-    "employer_name": "Ochsner Health",
-    "job_city": "Baton Rouge Region - Louisiana",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/Phlebotomist-Specimen-Processor---PRN--Alternating-Weekends-_REQ_00255881",
-    "job_posted_at_datetime_utc": "2026-02-19T23:07:55.237Z",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "9091beebe3d2e0c59a269e1c58abac8d6342820bbda419c9e4f2cf932bc7b476",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-19T23:07:55.237Z"
   }
 ]
