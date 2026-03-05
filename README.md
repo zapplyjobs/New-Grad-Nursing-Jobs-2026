@@ -73,9 +73,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Intermountain Health** | Phlebotomist | Intermountain Hea... | 3h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Cedar-City-Hospital/Phlebotomist_R159003) |
+| 🏢 **Intermountain Health** | Phlebotomist | Intermountain Hea... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Cedar-City-Hospital/Phlebotomist_R159003) |
 | 🏢 **Mass General Brigham** | Research Nurse Lymphoma - MGH | 32 Fruit Street B... | 14h | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/32-Fruit-Street-Boston-Yawkey-Center/Research-Nurse-Lymphoma---MGH_RQ4054325-1) |
-| 🏢 **Piedmont Healthcare** | RN - Operating Room, Days - No Experience Required | Unknown | 19h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/kennesaw-ga/rn-operating-room-days-553597/) |
+| 🏢 **Piedmont Healthcare** | RN - Operating Room, Days - No Experience Required | Unknown | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/kennesaw-ga/rn-operating-room-days-553597/) |
 | 🏢 **WVU Medicine** | RN  7a - 7p CCU | Princeton Communi... | 20h | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/RN-II--7p---7a-CCU_JR25-24806) |
 | 🏢 **Cleveland Clinic** | Patient Care Nursing Assistant - Pediatrics | Cleveland Clinic ... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nursing-Assistant---Pediatrics_319016) |
 | 🏢 **SSM Health** | Graduate Nurse Med Surg | Unknown | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.tealhq.com/job/graduate-nurse-med-surg_7ea1a33ad030fa1f20ba8af74745c533bb194) |
