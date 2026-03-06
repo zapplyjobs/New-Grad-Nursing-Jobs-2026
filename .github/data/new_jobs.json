@@ -68957,32 +68957,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-20T18:10:27.450Z"
-  },
-  {
-    "job_id": "workday-ochsner-health-REQ_00255976",
-    "job_title": "RN- BHU/ MedPsych",
-    "employer_name": "Ochsner Health",
-    "job_city": "New Orleans Region - Louisiana",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Luling---New-Orleans-Region---Louisiana/RN--BHU--MedPsych_REQ_00255976",
-    "job_posted_at_datetime_utc": "2026-02-20T17:36:20.984Z",
-    "job_employment_type": "FULLTIME",
-    "fingerprint": "1476f01e36811c4735cb235a37da7a3adbd667ba8608f19b4c94b0864500a293",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-20T17:36:20.984Z"
   }
 ]
