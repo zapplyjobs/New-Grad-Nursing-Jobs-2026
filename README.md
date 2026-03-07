@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2608-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2633-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-164-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-2183-red?style=flat&logo=star)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-2203-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 164+ top companies and healthcare facilities. Updated every 15 minutes with 2608+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 164+ top companies and healthcare facilities. Updated every 15 minutes with 2633+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across top healthcare systems, hospital networks, and medical staffing agencies.</p>
 
@@ -101,9 +101,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Piedmont Healthcare** | RN- Labor & Delivery, Nights - No Experience Required | Stockbridge | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/stockbridge-ga/rn-labor-delivery-nights-628679/) |
 | 🏢 **Intermountain Health** | Registered Nurse Same Day Post Anesthesia Float Pool | Intermountain Hea... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Intermountain-Medical-Center/Registered-Nurse-Same-Day-Post-Anesthesia-Float-Pool_R164529) |
 | 🏢 **WVU Medicine** | RN  -  Women's Center - Night shift | Princeton Communi... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/RN-----Women-s-Center---Night-shift_JR26-29833) |
-| 🏢 **Banner Health** | Acute CT Technologist | BUMC South Tucson | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-South-Tucson-2800-E-Ajo-Way/Acute-CT-Technologist_R4431179) |
-| 🏢 **Banner Health** | Registered Nurse RN New Grad Neuro Progressive Care PCU | BUMC Tucson | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Registered-Nurse-RN-New-Grad-Neuro-Progressive-Care-PCU_R4435534-1) |
-| 🏢 **Banner Health** | Registered Nurse RN New Grad Surgical Progressive Care PCU | BUMC Tucson | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Registered-Nurse-RN-New-Grad-Surgical-Progressive-Care-PCU_R4435609-1) |
+| 🏢 **Banner Health** | Registered Nurse RN Certified Wound Care Specialist PRN | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-Staffing-Svcs-Mesa-525-W-Brown-Rd/Registered-Nurse-RN-Certified-Wound-Care-Specialist-PRN_R4435754) |
+| 🏢 **Banner Health** | RN Registered Nurse Emergency Department | BUMC South Tucson | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-South-Tucson-2800-E-Ajo-Way/RN-Registered-Nurse-Emergency-Department_R4435759-1) |
+| 🏢 **Banner Health** | Acute Care Clinical Pharmacist Specialist Pediatric Oncology | BUMC Tucson | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Acute-Care-Clinical-Pharmacist-Specialist-Pediatric-Oncology_R4426896) |
 | 🏢 **Montefiore Medical Center** | NURSE FAMILY PARTNERSHIP HOME VISITOR | 1 Fordham Plaza | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://montefiore.wd12.myworkdayjobs.com/MMC/job/1-Fordham-Plaza/NURSE-FAMILY-PARTNERSHIP-HOME-VISITOR_JR228028-1) |
 | 🏢 **WVU Medicine** | Phlebotomist | 2 Locations | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/Phlebotomist_JR25-16275) |
 | 🏢 **SSM Health** | Graduate Nurse Med Surg | Richmond Heights | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.tealhq.com/job/graduate-nurse-med-surg_7ea1a33ad030fa1f20ba8af74745c533bb194) |
@@ -337,9 +337,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **WVU Medicine** | LPN-Sleep Lab nights | Princeton Communi... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/LPN-Sleep-Lab-nights_JR26-26309) |
 | 🏢 **Sharp Healthcare** | SRS – LVN – Pediatric – Part Time -Day Shift | La Mesa, CA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/SRS---LVN---Pediatric---Part-Time--Day-Shift_JR204867-1) |
 | 🏢 **Mass General Brigham** | LPN, Home Care | MA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Somerville-MA/LPN--Home-Care_RQ4054111) |
-| 🏢 **Mass General Brigham** | Dermatology LPN BWH | MA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Dermatology-LPN-BWH_RQ4044422) |
 | 🏢 **Banner Health** | Licensed Practical Nurse LPN MedSurg Medical Oncology Telemetry | Banner North Colo... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/Licensed-Practical-Nurse-LPN-MedSurg-Medical-Oncology-Telemetry_R4431644) |
 | 🏢 **Banner Health** | Licensed Practical Nurse LPN MedSurg Surgical Ortho Neuro | Banner North Colo... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Banner-North-Colorado-Medical-Center-1801-16th-St/Licensed-Practical-Nurse-LPN-MedSurg-Surgical-Ortho-Neuro_R4431709) |
+| 🏢 **Mass General Brigham** | Dermatology LPN BWH | MA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Boston-MA/Dermatology-LPN-BWH_RQ4044422) |
 | 🏢 **Intermountain Health** | Licensed Practical Nurse Residential Living | Holy Rosary Hospital | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Holy-Rosary-Hospital/Licensed-Practical-Nurse-Residential-Living_R163274) |
 | 🏢 **Saint Luke's Health System** | Telehealth Assistant LPN | Kansas City, MO | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/System-Offices------901-E-104-St------Kansas-City------MO/Telehealth-Assistant-LPN_JobReq0055560) |
 | 🏢 **Duke Health** | LPN - Blood Cancer Clinic Durham, NC | Durham | 1w | [<img src="images/apply.png" width="75" alt="Apply">](https://careers.dukehealth.org/us/en/job/DUHDUHUS264807EXTERNALENUS/LPN-Blood-Cancer-Clinic-Durham-NC) |
@@ -477,7 +477,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2608 current opportunities from 164 companies**
+**🎯 2633 current opportunities from 164 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
