@@ -80625,33 +80625,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-23T17:57:30.720Z"
-  },
-  {
-    "job_id": "workday-nationwide-children's-R-22043",
-    "job_title": "Ambulatory RN- Orthopedic Clinic",
-    "employer_name": "Nationwide Children's",
-    "job_city": "Main Campus",
-    "job_state": "OH",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://nationwidechildrens.wd5.myworkdayjobs.com/NCHCareers/job/Main-Campus-Columbus-OH/Ambulatory-RN--Orthopedic-Clinic_R-22043-1",
-    "job_posted_at_datetime_utc": "2026-02-23T17:21:58.997Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "34392d0e085249b2b3016b8eb3f557d33cb5bc1a9a3f0c4acfb6fd708e71b1c2",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-23T17:21:58.997Z"
   }
 ]
