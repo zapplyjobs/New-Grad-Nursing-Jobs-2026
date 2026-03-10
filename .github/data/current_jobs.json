@@ -74692,33 +74692,5 @@
     "_source": "aggregator",
     "_original_source": "workday",
     "job_posted_at": "2026-02-24T18:40:42.951Z"
-  },
-  {
-    "job_id": "workday-ochsner-health-REQ_00252508",
-    "job_title": "Phlebotomist/ Medical Assistant- Primary Care Clinic- Lake Charles",
-    "employer_name": "Ochsner Health",
-    "job_city": "Southwest Louisiana Region - Louisiana",
-    "job_state": "",
-    "job_country": "United States",
-    "job_is_remote": false,
-    "job_apply_link": "https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Lake-Charles---Southwest-Louisiana-Region---Louisiana/Certified-Medical-Assistant--Primary-Care-Clinic_REQ_00252508",
-    "job_posted_at_datetime_utc": "2026-02-24T18:16:51.555Z",
-    "job_employment_type": "FULLTIME",
-    "salary": null,
-    "fingerprint": "62d8e15147e9dd66cb639ef94c7b44b339a537d5640472c5e6bbf4e3e5a76080",
-    "tags": {
-      "employment": "entry_level",
-      "domains": [
-        "nursing"
-      ],
-      "locations": [
-        "us"
-      ],
-      "experience": "unknown",
-      "special": []
-    },
-    "_source": "aggregator",
-    "_original_source": "workday",
-    "job_posted_at": "2026-02-24T18:16:51.555Z"
   }
 ]
