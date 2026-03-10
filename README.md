@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2535-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2529-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-124-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-2129-red?style=flat&logo=star)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-2124-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 124+ top companies and healthcare facilities. Updated every 15 minutes with 2535+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 124+ top companies and healthcare facilities. Updated every 15 minutes with 2529+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across top healthcare systems, hospital networks, and medical staffing agencies.</p>
 
@@ -73,16 +73,16 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
+| 🏢 **Ochsner Health** | RN-Emergency Medicine - OMC Baton Rouge ED - Full Time, Days (7A-7P) | Baton Rouge Regio... | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/RN-Emergency-Medicine---OMC-Baton-Rouge-ED---Full-Time--Days--7A-7P-_REQ_00255276) |
+| 🏢 **Ochsner Health** | Pharmacy Technician Specialist-Chemotherapy - Chemo Infusion - Ochsner Baton Rouge - Full Time | Baton Rouge Regio... | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/Pharmacy-Technician-Specialist-Chemotherapy---Chemo-Infusion---Ochsner-Baton-Rouge---Full-Time_REQ_00257189) |
+| 🏢 **Ochsner Health** | Infusion Pharmacist - Ochsner Baton Rouge - Full Time | Baton Rouge Regio... | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/Infusion-Pharmacist---Ochsner-Baton-Rouge---Full-Time_REQ_00257186) |
 | 🏢 **Geisinger Health** | RN - Registered Nurse Ambulatory Surgery - Operating Room | Danville, PA | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Danville-PA/RN---Registered-Nurse-Ambulatory-Surgery---Operating-Room_R-93363) |
 | 🏢 **Sharp Healthcare** | Clinical Nurse RN Sharp Memorial Hospital 7W Medical-Surgical PCU FT .9 Night 12hour shift | San Diego, CA | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/San-Diego-CA/Clinical-Nurse-RN-Sharp-Memorial-Hospital-7W-Medical-Surgical-PCU-FT-9-Night-12hour-shift_JR204880) |
 | 🏢 **Sharp Healthcare** | RN - 3E GI/GU PCU - Sharp Grossmont Hospital - Nights - Full Time - May be eligible for Relocation Incentive | La Mesa, CA | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/RN---3E-GI-GU-PCU---Sharp-Grossmont-Hospital---Nights---Full-Time---May-be-eligible-for-Relocation-Incentive_JR204477) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant Sitter | Cleveland Clinic ... | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant-Sitter_319038) |
-| 🏢 **Cleveland Clinic** | Nursing Department Assistant - Adult Psych | Lutheran Hospital | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Lutheran-Hospital/Nursing-Department-Assistant---Adult-Psych_333355) |
-| 🏢 **Cleveland Clinic** | Nursing Department Assistant - Medical Surgical/Tele | Lutheran Hospital | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Lutheran-Hospital/Nursing-Department-Assistant---Medical-Surgical-Tele_333017) |
-| 🏢 **Ochsner Health** | RN-Emergency Medicine - OMC Baton Rouge ED - Full Time, Days (7A-7P) | Baton Rouge Regio... | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/RN-Emergency-Medicine---OMC-Baton-Rouge-ED---Full-Time--Days--7A-7P-_REQ_00255276) |
-| 🏢 **Ochsner Health** | Pharmacy Technician Specialist-Chemotherapy - Chemo Infusion - Ochsner Baton Rouge - Full Time | Baton Rouge Regio... | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/Pharmacy-Technician-Specialist-Chemotherapy---Chemo-Infusion---Ochsner-Baton-Rouge---Full-Time_REQ_00257189) |
-| 🏢 **Ochsner Health** | Infusion Pharmacist - Ochsner Baton Rouge - Full Time | Baton Rouge Regio... | 24m | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/Infusion-Pharmacist---Ochsner-Baton-Rouge---Full-Time_REQ_00257186) |
-| 🏢 **Sharp Healthcare** | Advanced Clinician RN - Rapid Response Team (RRT) ICU/ED - Sharp Grossmont Hospital - Night Shift - Full-time -  May be eligible for Relocation Incentive | La Mesa, CA | 7h | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/Advanced-Clinician-RN---Rapid-Response-Team--RRT--ICU-ED---Night-Shift---Full-time----May-be-eligible-for-Relocation-Incentive_JR204863-1) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant - Cardiology Stepdown | Cleveland Clinic ... | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant---Cardiology-Stepdown_323435) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant Sitter | Cleveland Clinic ... | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Patient-Care-Nurse-Assistant-Sitter_319038) |
+| 🏢 **Cleveland Clinic** | Nursing Department Assistant - Adult Psych | Lutheran Hospital | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Lutheran-Hospital/Nursing-Department-Assistant---Adult-Psych_333355) |
+| 🏢 **Sharp Healthcare** | Advanced Clinician RN - Rapid Response Team (RRT) ICU/ED - Sharp Grossmont Hospital - Night Shift - Full-time -  May be eligible for Relocation Incentive | La Mesa, CA | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/Advanced-Clinician-RN---Rapid-Response-Team--RRT--ICU-ED---Night-Shift---Full-time----May-be-eligible-for-Relocation-Incentive_JR204863-1) |
 | 🏢 **UNC Health** | RN New Graduate Nurse - Medical Surgical / Outpatient / Cardiac Recovery | Smithfield | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169233108-rn-new-graduate-nurse-medical-surgical-outpatient-cardiac-recovery) |
 | 🏢 **UNC Health** | RN New Graduate Nurse- Surgical/Trauma Critical Care Unit | Chapel Hill | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169162287-rn-new-graduate-nurse-surgical-trauma-critical-care-unit) |
 | 🏢 **UNC Health** | RN New Graduate Nurse UNC Hillsborough Hospital Emergency Department | Hillsborough | 11h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169174901-rn-new-graduate-nurse-unc-hillsborough-hospital-emergency-department) |
@@ -257,11 +257,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | 🏢 **Geisinger Health** | Nurse Practitioner or Physician Assistant Family Medicine increased compensation | Orwigsburg, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Orwigsburg-PA/Nurse-Practitioner-or-Physician-Assistant-Family-Medicine-increased-compensation_R-91037) |
 | 🏢 **Geisinger Health** | Nurse Practitioner or Physician Assistant Family Medicine increased compensation | Pottsville, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Pottsville-PA/Nurse-Practitioner-or-Physician-Assistant-Family-Medicine-newly-increased-compensation_R-71683) |
 | 🏢 **Geisinger Health** | Nurse Practitioner Physician Assistant  Urgent Care Float up to $20,400 incentives | McElhattan, PA | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/McElhattan-PA/Nurse-Practitioner-or-Physician-Assistant-Urgent-Care--5-hr-Float-Premium_R-62312) |
-| 🏢 **Intermountain Health** | Inpatient Behavioral Health Occupational Therapist | Intermountain Hea... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/Inpatient-Behavioral-Health-Occupational-Therapist_R162765) |
 | 🏢 **Intermountain Health** | Nurse Practitioner-Medical APP | Intermountain Hea... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/Nurse-Practitioner-Medical-APP-Psychiatric_R139344) |
+| 🏢 **Intermountain Health** | Inpatient Behavioral Health Occupational Therapist | Intermountain Hea... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/Intermountain-Health-Alta-View-Hospital/Inpatient-Behavioral-Health-Occupational-Therapist_R162765) |
 | 🏢 **Cleveland Clinic** | Pharmacy Technician - Inpatient | Akron General Med... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/Pharmacy-Technician---Inpatient_329879-1) |
-| 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP/PA/CNS)-Outpatient Pulmonary Medicine/Sleep Medicine I (South Region) | Akron General Med... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Akron-General-Medical-Center/Advanced-Practice-Provider--NP-PA-CNS--Outpatient-Pulmonary-Medicine-Sleep-Medicine-I_312785) |
 | 🏢 **Cleveland Clinic** | Nurse Practitioner (Acute Care), Physician Assistant- Critical Care | Martin Health North | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Martin-Health-North/Nurse-Practitioner--Acute-Care---Physician-Assistant--Critical-Care_316890) |
+| 🏢 **Cleveland Clinic** | Advanced Practice Provider (NP/PA): Imaging Cardiology I, Main Campus | Cleveland Clinic ... | 4d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Cleveland-Clinic-Main-Campus/Advanced-Practice-Provider--NP-PA---Imaging-Cardiology-I--Main-Campus_329027) |
 | 🏢 **Ochsner Health** | LPN-Hospital/Inpatient - IMTA Medsurg - OMC Jeff Hwy - Full Time Days | New Orleans Regio... | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/LPN-Hospital-Inpatient---IMTA-Medsurg---OMC-Jeff-Hwy---Full-Time-Days_REQ_00253828) |
 | 🏢 **Saint Luke's Health System** | Inpatient Pharmacy Tech | Kansas City, MO | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://saintlukes.wd1.myworkdayjobs.com/saintlukeshealthcareers/job/Saint-Lukes-Hospital------4401-Wornall-Rd------Kansas-City------MO/Inpatient-Pharmacy-Tech_JobReq0056106) |
 | 🏢 **Mass General Brigham** | NP/ PA - Neonatal ICU - WDH | NH | 5d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Dover-NH/NP---Neonatal-ICU---WDH_RQ4033394-1) |
@@ -324,7 +324,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Cardiac ICU | Fairview Hospital | 9m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Cardiac-ICU_330382) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Cardiac ICU | Fairview Hospital | 10m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Cardiac-ICU_330382) |
 | 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) – Med/Surg | Marymount Hospital | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg_325147) |
 | 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Med/Surg | Florida Weston Ho... | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Florida-Weston-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg_333522) |
 | 🏢 **Mass General Brigham** | Certified Nursing Assistant Float Pool  40 D/E PCA | MA | 3d | [<img src="images/apply.png" width="75" alt="Apply">](https://massgeneralbrigham.wd1.myworkdayjobs.com/MGBExternal/job/Jamaica-Plain-MA/Certified-Nursing-Assistant-Float-Pool--40-D-E-PCA_RQ4049316-1) |
@@ -444,7 +444,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2535 current opportunities from 124 companies**
+**🎯 2529 current opportunities from 124 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
