@@ -9,16 +9,16 @@
 
 # Nursing Jobs 2026
 
-![Total Jobs](https://img.shields.io/badge/Total_Jobs-2488-brightgreen?style=flat&logo=briefcase)
+![Total Jobs](https://img.shields.io/badge/Total_Jobs-2475-brightgreen?style=flat&logo=briefcase)
 ![Companies](https://img.shields.io/badge/Companies-98-blue?style=flat&logo=building)
-![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-2107-red?style=flat&logo=star)
+![Registered Nurs](https://img.shields.io/badge/Registered_Nurse-2095-red?style=flat&logo=star)
 ![Updated](https://img.shields.io/badge/Updated-Every_15_Minutes-orange?style=flat&logo=calendar)
 
 
 
 </div>
 
-<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 98+ top companies and healthcare facilities. Updated every 15 minutes with 2488+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
+<p align="center">🚀 Real-time nursing, healthcare, and medical jobs from 98+ top companies and healthcare facilities. Updated every 15 minutes with 2475+ fresh opportunities for new nursing graduates, nursing students, and entry-level nurses.</p>
 
 <p align="center">🎯 Includes roles across top healthcare systems, hospital networks, and medical staffing agencies.</p>
 
@@ -73,17 +73,17 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Geisinger Health** | Medical Laboratory Scientist - Days | Barre, PA, PA | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/Medical-Laboratory-Scientist---Days_R-92778) |
-| 🏢 **Cleveland Clinic** | RN BU - Cardiac Cath Lab | Indian River Hosp... | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Indian-River-Hospital/RN-BU---Cardiac-Cath-Lab_332639-1) |
+| 🏢 **Geisinger Health** | Medical Laboratory Scientist - Days | Barre, PA, PA | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://geisinger.wd5.myworkdayjobs.com/GeisingerExternal/job/Wilkes-Barre-PA/Medical-Laboratory-Scientist---Days_R-92778) |
+| 🏢 **Cleveland Clinic** | RN BU - Cardiac Cath Lab | Indian River Hosp... | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Indian-River-Hospital/RN-BU---Cardiac-Cath-Lab_332639-1) |
 | 🏢 **UNC Health** | RN New Graduate Nurse - Medical Surgical / Outpatient / Cardiac Recovery | Smithfield | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169233108-rn-new-graduate-nurse-medical-surgical-outpatient-cardiac-recovery) |
 | 🏢 **UNC Health** | RN New Graduate Nurse- Surgical/Trauma Critical Care Unit | Chapel Hill | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169162287-rn-new-graduate-nurse-surgical-trauma-critical-care-unit) |
 | 🏢 **UNC Health** | RN New Graduate Nurse UNC Hillsborough Hospital Emergency Department | Hillsborough | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169174901-rn-new-graduate-nurse-unc-hillsborough-hospital-emergency-department) |
-| 🏢 **Banner Health** | Registered Nurse RNOutpatient Infusion | BUMC Tucson Unive... | 8h | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-University-of-Arizona-1891-W-Orange-Grove-Rd/Registered-Nurse-RNOutpatient-Infusion_R4432759) |
+| 🏢 **Banner Health** | Registered Nurse RNOutpatient Infusion | BUMC Tucson Unive... | 9h | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-University-of-Arizona-1891-W-Orange-Grove-Rd/Registered-Nurse-RNOutpatient-Infusion_R4432759) |
 | 🏢 **Ochsner Health** | Surgical Technician-Certified | Central Mississip... | 12h | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Meridian---Central-Mississippi-Region---Mississippi/Surgical-Technician-Certified_REQ_00257942) |
-| 🏢 **Intermountain Health** | Registered Nurse Clinical Decision Unit | St. Marys Regiona... | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-Marys-Regional-Hospital/Registered-Nurse-Clinical-Decision-Unit_R165095) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant | Marymount Hospital | 15h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Care-Nurse-Assistant_331474) |
-| 🏢 **Norton King's Daughters' Health** | RN, Pediatric Med/Surg, 7p-7a | Madison | 17h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169334508-rn-pediatric-med-surg-7p-7a) |
-| 🏢 **HCA Healthcare** | New Grad RN PCU - No Experience Required | Greenbrier | 22h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/greenbrier-tn/new-grad-rn-pcu-182841/) |
+| 🏢 **Intermountain Health** | Registered Nurse Clinical Decision Unit | St. Marys Regiona... | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://imh.wd108.myworkdayjobs.com/IntermountainCareers/job/St-Marys-Regional-Hospital/Registered-Nurse-Clinical-Decision-Unit_R165095) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant | Marymount Hospital | 16h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Marymount-Hospital/Patient-Care-Nurse-Assistant_331474) |
+| 🏢 **Norton King's Daughters' Health** | RN, Pediatric Med/Surg, 7p-7a | Madison | 18h | [<img src="images/apply.png" width="75" alt="Apply">](https://www.intelycare.com/jobs/169334508-rn-pediatric-med-surg-7p-7a) |
+| 🏢 **HCA Healthcare** | New Grad RN PCU - No Experience Required | Greenbrier | 23h | [<img src="images/apply.png" width="75" alt="Apply">](https://jobs.womenforhire.com/job/usa/greenbrier-tn/new-grad-rn-pcu-182841/) |
 | 🏢 **Sharp Healthcare** | Advanced Clinician RN - Rapid Response Team (RRT) ICU/ED - Sharp Grossmont Hospital - Night Shift - Full-time -  May be eligible for Relocation Incentive | La Mesa, CA | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://sharp.wd1.myworkdayjobs.com/External/job/La-Mesa-CA/Advanced-Clinician-RN---Rapid-Response-Team--RRT--ICU-ED---Night-Shift---Full-time----May-be-eligible-for-Relocation-Incentive_JR204863-1) |
 | 🏢 **American Addiction Centers** | RN New Grad Nights 7NT | Winston-Salem | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://www.tealhq.com/job/rn-new-grad-nights_7ea1a54268b58b221e3fc9fecee491de231c5) |
 | 🏢 **Ochsner Health** | College Student Worker Position: Patient Access Rep/Medical Assistant - Pediatric Cardiology | New Orleans Regio... | 1d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/New-Orleans---New-Orleans-Region---Louisiana/College-Student-Worker-Position--Patient-Access-Rep-Medical-Assistant---Pediatric-Cardiology_REQ_00257183) |
@@ -293,8 +293,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Float Pool | Avon Hospital | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Avon-Hospital/Patient-Care-Nurse-Assistant--PCNA----Float-Pool_324639) |
-| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Med/Surg & Telemetry | Fairview Hospital | 18m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg---Telemetry_331056) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Float Pool | Avon Hospital | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Avon-Hospital/Patient-Care-Nurse-Assistant--PCNA----Float-Pool_324639) |
+| 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Med/Surg & Telemetry | Fairview Hospital | 33m | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Fairview-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg---Telemetry_331056) |
 | 🏢 **Cleveland Clinic** | Patient Care Nurse Assistant (PCNA) - Med/Surg | Florida Weston Ho... | 13h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Florida-Weston-Hospital/Patient-Care-Nurse-Assistant--PCNA----Med-Surg_333522) |
 | 🏢 **Banner Health** | Certified Patient Care Assistant LNA CNA PICU | BUMC Tucson | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Tucson-1625-N-Campbell-Ave/Certified-Patient-Care-Assistant-LNA-CNA-PICU_R4435489) |
 | 🏢 **Ochsner Health** | CNA - MedSurg (MT 5) - Nights | Baton Rouge Regio... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://ochsner.wd1.myworkdayjobs.com/Ochsner/job/Baton-Rouge---Baton-Rouge-Region---Louisiana/CNA---MedSurg---Nights_REQ_00255783) |
@@ -409,7 +409,7 @@ Questions? Create a miscellaneous issue, and we'll assist! 🙏
 
 <div align="center">
 
-**🎯 2488 current opportunities from 98 companies**
+**🎯 2475 current opportunities from 98 companies**
 
 **Found this helpful? Give it a ⭐ to support Zapply!**
 
