@@ -222,7 +222,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | **Apply** |
 |---------|------|----------|--------|----------|
-| 🏢 **WVU Medicine** | Endoscopy Technician | Princeton Communi... | 49m | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/Endoscopy-Technician_JR26-26622-1) |
+| 🏢 **WVU Medicine** | Endoscopy Technician | Princeton Communi... | 1h | [<img src="images/apply.png" width="75" alt="Apply">](https://wvumedicine.wd1.myworkdayjobs.com/WVUH/job/Princeton-Community-Hospital-PCH/Endoscopy-Technician_JR26-26622-1) |
 | 🏢 **Cleveland Clinic** | Patient Service Specialist - Concierge Team | Florida Weston Ho... | 4h | [<img src="images/apply.png" width="75" alt="Apply">](https://ccf.wd1.myworkdayjobs.com/ClevelandClinicCareers/job/Florida-Weston-Hospital/Patient-Service-Specialist---Concierge-Team_332733) |
 | 🏢 **Banner Health** | Registered  Dietitian | BUMC Phoenix | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/BUMC-Phoenix-1111-E-McDowell-Rd/Registered--Dietitian_R4433766) |
 | 🏢 **Banner Health** | Acute Pharmacy Technician | Wyoming Medical C... | 2d | [<img src="images/apply.png" width="75" alt="Apply">](https://bannerhealth.wd108.myworkdayjobs.com/Careers/job/Wyoming-Medical-Center-Central-1233-E-Second-St/Acute-Pharmacy-Technician_R4435612) |
